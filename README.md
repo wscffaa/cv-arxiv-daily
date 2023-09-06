@@ -53,7 +53,7 @@
 |**2023-08-30**|**A Dual-Zone Diffusion Model for High Energy Emissions of the Cygnus Cocoon**|Shihong Zhan et.al.|[2308.15831v1](http://arxiv.org/abs/2308.15831v1)|null|
 |**2023-08-30**|**Intriguing Properties of Diffusion Models: A Large-Scale Dataset for Evaluating Natural Attack Capability in Text-to-Image Generative Models**|Takami Sato et.al.|[2308.15692v1](http://arxiv.org/abs/2308.15692v1)|null|
 |**2023-08-30**|**Asymptotics for Short Maturity Asian Options in a Jump-Diffusion model with Local Volatility**|Dan Pirjol et.al.|[2308.15672v1](http://arxiv.org/abs/2308.15672v1)|null|
-|**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
+|**2023-09-04**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v2](http://arxiv.org/abs/2308.15459v2)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-30**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321v2](http://arxiv.org/abs/2308.15321v2)|null|
 |**2023-08-29**|**DiffusionVMR: Diffusion Model for Video Moment Retrieval**|Henghao Zhao et.al.|[2308.15109v1](http://arxiv.org/abs/2308.15109v1)|null|
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070v1](http://arxiv.org/abs/2308.15070v1)|**[link](https://github.com/xpixelgroup/diffbir)**|
@@ -2160,7 +2160,7 @@
 |**2023-01-17**|**An Energy-Efficient Reconfigurable Autoencoder Implementation on FPGA**|Murat Isik et.al.|[2301.07050v1](http://arxiv.org/abs/2301.07050v1)|null|
 |**2022-12-27**|**Semi-supervised Fashion Compatibility Prediction by Color Distortion Prediction**|Ling Xiao et.al.|[2212.14680v1](http://arxiv.org/abs/2212.14680v1)|null|
 |**2022-12-29**|**OrthoGAN:High-Precision Image Generation for Teeth Orthodontic Visualization**|Feihong Shen et.al.|[2212.14162v1](http://arxiv.org/abs/2212.14162v1)|null|
-|**2023-08-15**|**DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v4](http://arxiv.org/abs/2212.11613v4)|**[link](https://github.com/piddnad/ddcolor)**|
+|**2023-09-05**|**DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v5](http://arxiv.org/abs/2212.11613v5)|**[link](https://github.com/piddnad/ddcolor)**|
 |**2023-01-23**|**Generative Colorization of Structured Mobile Web Pages**|Kotaro Kikuchi et.al.|[2212.11541v2](http://arxiv.org/abs/2212.11541v2)|**[link](https://github.com/cyberagentailab/webcolor)**|
 |**2022-12-15**|**Interpretable ML for Imbalanced Data**|Damien A. Dablain et.al.|[2212.07743v1](http://arxiv.org/abs/2212.07743v1)|**[link](https://github.com/dd1github/xai_for_imbalanced_learning)**|
 |**2022-11-28**|**What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems**|Gilad Kutiel et.al.|[2211.15211v1](http://arxiv.org/abs/2211.15211v1)|null|
@@ -2255,7 +2255,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070v1](http://arxiv.org/abs/2308.15070v1)|**[link](https://github.com/xpixelgroup/diffbir)**|
-|**2023-08-28**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334v1](http://arxiv.org/abs/2308.14334v1)|null|
+|**2023-09-05**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334v2](http://arxiv.org/abs/2308.14334v2)|null|
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
 |**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712v1](http://arxiv.org/abs/2308.13712v1)|**[link](https://github.com/nachifur/rddm)**|
 |**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494v1](http://arxiv.org/abs/2308.12494v1)|**[link](https://github.com/xiangyu8/mofa)**|
@@ -2929,7 +2929,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
-|**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
+|**2023-09-03**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v2](http://arxiv.org/abs/2308.10436v2)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-08-09**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v1](http://arxiv.org/abs/2308.05045v1)|null|
@@ -3046,7 +3046,7 @@
 |**2023-08-31**|**Unsupervised Text Style Transfer with Deep Generative Models**|Zhongtao Jiang et.al.|[2308.16584v1](http://arxiv.org/abs/2308.16584v1)|null|
 |**2023-08-30**|**Semantic Image Synthesis via Class-Adaptive Cross-Attention**|Tomaso Fontanini et.al.|[2308.16071v1](http://arxiv.org/abs/2308.16071v1)|null|
 |**2023-08-29**|**Adversarial Style Transfer for Robust Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2308.15550v1](http://arxiv.org/abs/2308.15550v1)|null|
-|**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v1](http://arxiv.org/abs/2308.15459v1)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
+|**2023-09-04**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459v2](http://arxiv.org/abs/2308.15459v2)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**WSAM: Visual Explanations from Style Augmentation as Adversarial Attacker and Their Influence in Image Classification**|Felipe Moreno-Vera et.al.|[2308.14995v1](http://arxiv.org/abs/2308.14995v1)|**[link](https://github.com/fmorenovr/WSAM_Style)**|
 |**2023-08-25**|**Text Style Transfer Evaluation Using Large Language Models**|Phil Ostheimer et.al.|[2308.13577v1](http://arxiv.org/abs/2308.13577v1)|null|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178v1](http://arxiv.org/abs/2308.13178v1)|null|
