@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198v1](http://arxiv.org/abs/2309.03198v1)|null|
+|**2023-09-06**|**Optical pulse induced ultrafast antiferrodistortive transition in SrTiO3**|Saqeeb Adnan et.al.|[2309.03172v1](http://arxiv.org/abs/2309.03172v1)|null|
+|**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031v1](http://arxiv.org/abs/2309.03031v1)|null|
+|**2023-09-06**|**Predicting the emergence of localised dihedral patterns in models for dryland vegetation**|Dan J. Hill et.al.|[2309.02956v1](http://arxiv.org/abs/2309.02956v1)|null|
+|**2023-09-06**|**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter**|Jinglong Wang et.al.|[2309.02773v1](http://arxiv.org/abs/2309.02773v1)|null|
+|**2023-09-05**|**Generative AI-aided Joint Training-free Secure Semantic Communications via Multi-modal Prompts**|Hongyang Du et.al.|[2309.02616v1](http://arxiv.org/abs/2309.02616v1)|null|
+|**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530v1](http://arxiv.org/abs/2309.02530v1)|null|
+|**2023-09-03**|**RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model**|Ahmad Sebaq et.al.|[2309.02455v1](http://arxiv.org/abs/2309.02455v1)|null|
 |**2023-09-05**|**Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models**|Haixu Song et.al.|[2309.02218v1](http://arxiv.org/abs/2309.02218v1)|**[link](https://github.com/OpenRL-Lab/DeepFakeFace)**|
 |**2023-09-05**|**Hierarchical Masked 3D Diffusion Model for Video Outpainting**|Fanda Fan et.al.|[2309.02119v1](http://arxiv.org/abs/2309.02119v1)|null|
 |**2023-09-05**|**Diffusion-based 3D Object Detection with Random Boxes**|Xin Zhou et.al.|[2309.02049v1](http://arxiv.org/abs/2309.02049v1)|null|
@@ -1459,6 +1467,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**NUV-DoA: NUV Prior-based Bayesian Sparse Reconstruction with Spatial Filtering for Super-Resolution DoA Estimation**|Mengyuan Zhao et.al.|[2309.03114v1](http://arxiv.org/abs/2309.03114v1)|null|
+|**2023-09-06**|**SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution**|Wenlong Zhang et.al.|[2309.03020v1](http://arxiv.org/abs/2309.03020v1)|null|
+|**2023-09-03**|**RSDiff: Remote Sensing Image Generation from Text Using Diffusion Model**|Ahmad Sebaq et.al.|[2309.02455v1](http://arxiv.org/abs/2309.02455v1)|null|
 |**2023-09-04**|**Direction-of-arrival estimation with conventional co-prime arrays using deep learning-based probablistic Bayesian neural networks**|Wael Elshennawy et.al.|[2309.01690v1](http://arxiv.org/abs/2309.01690v1)|null|
 |**2023-09-04**|**Building Footprint Extraction in Dense Areas using Super Resolution and Frame Field Learning**|Vuong Nguyen et.al.|[2309.01656v1](http://arxiv.org/abs/2309.01656v1)|null|
 |**2023-09-04**|**Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction**|Minsu Kim et.al.|[2309.01409v1](http://arxiv.org/abs/2309.01409v1)|null|
@@ -2290,6 +2301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063v1](http://arxiv.org/abs/2309.03063v1)|null|
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270v1](http://arxiv.org/abs/2309.02270v1)|null|
 |**2023-09-05**|**Advanced Underwater Image Restoration in Complex Illumination Conditions**|Yifan Song et.al.|[2309.02217v1](http://arxiv.org/abs/2309.02217v1)|null|
 |**2023-09-04**|**Memory augment is All You Need for image restoration**|Xiao Feng Zhang et.al.|[2309.01377v1](http://arxiv.org/abs/2309.01377v1)|null|
@@ -2481,6 +2493,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**A flexible and accurate total variation and cascaded denoisers-based image reconstruction algorithm for hyperspectrally compressed ultrafast photography**|Zihan Guo et.al.|[2309.02835v1](http://arxiv.org/abs/2309.02835v1)|null|
 |**2023-09-05**|**RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image**|Yunhao Zou et.al.|[2309.02020v1](http://arxiv.org/abs/2309.02020v1)|null|
 |**2023-09-05**|**PyTomography: A Python Library for Quantitative Medical Image Reconstruction**|Lucas Polson et.al.|[2309.01977v1](http://arxiv.org/abs/2309.01977v1)|null|
 |**2023-09-03**|**Orientation-Independent Chinese Text Recognition in Scene Images**|Haiyang Yu et.al.|[2309.01081v1](http://arxiv.org/abs/2309.01081v1)|null|
