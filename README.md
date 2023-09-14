@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051v1](http://arxiv.org/abs/2309.07051v1)|null|
+|**2023-09-13**|**VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance**|Carlos Hernandez-Olivan et.al.|[2309.06934v1](http://arxiv.org/abs/2309.06934v1)|null|
+|**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933v1](http://arxiv.org/abs/2309.06933v1)|null|
+|**2023-09-13**|**DCTTS: Discrete Diffusion Model with Contrastive Learning for Text-to-speech Generation**|Zhichao Wu et.al.|[2309.06787v1](http://arxiv.org/abs/2309.06787v1)|null|
+|**2023-09-12**|**Adapt and Diffuse: Sample-adaptive Reconstruction via Latent Diffusion Models**|Zalan Fabian et.al.|[2309.06642v1](http://arxiv.org/abs/2309.06642v1)|null|
 |**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380v1](http://arxiv.org/abs/2309.06380v1)|**[link](https://github.com/gnobitab/instaflow)**|
 |**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284v1](http://arxiv.org/abs/2309.06284v1)|null|
 |**2023-09-12**|**Spreading speeds of a nonlocal diffusion model with free boundaries in the time almost periodic media**|Chengcheng Cheng et.al.|[2309.06190v1](http://arxiv.org/abs/2309.06190v1)|null|
@@ -1506,6 +1511,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe**|Hah Min Lew et.al.|[2309.06770v1](http://arxiv.org/abs/2309.06770v1)|null|
+|**2023-09-13**|**Deep Nonparametric Convexified Filtering for Computational Photography, Image Synthesis and Adversarial Defense**|Jianqiao Wangni et.al.|[2309.06724v1](http://arxiv.org/abs/2309.06724v1)|null|
 |**2023-09-12**|**Padding-free Convolution based on Preservation of Differential Characteristics of Kernels**|Kuangdai Leng et.al.|[2309.06370v1](http://arxiv.org/abs/2309.06370v1)|null|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023v1](http://arxiv.org/abs/2309.06023v1)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
 |**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
@@ -2231,6 +2238,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Hardening RGB-D Object Recognition Systems against Adversarial Patch Attacks**|Yang Zheng et.al.|[2309.07106v1](http://arxiv.org/abs/2309.07106v1)|null|
 |**2023-09-11**|**Diving into Darkness: A Dual-Modulated Framework for High-Fidelity Super-Resolution in Ultra-Dark Environments**|Jiaxin Gao et.al.|[2309.05267v1](http://arxiv.org/abs/2309.05267v1)|null|
 |**2023-09-01**|**DARC: Distribution-Aware Re-Coloring Model for Generalizable Nucleus Segmentation**|Shengcong Chen et.al.|[2309.00188v1](http://arxiv.org/abs/2309.00188v1)|null|
 |**2023-09-10**|**Self-Reference Deep Adaptive Curve Estimation for Low-Light Image Enhancement**|Jianyu Wen et.al.|[2308.08197v4](http://arxiv.org/abs/2308.08197v4)|**[link](https://github.com/john-venti/self-dace)**|
@@ -2356,6 +2364,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068v1](http://arxiv.org/abs/2309.07068v1)|null|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023v1](http://arxiv.org/abs/2309.06023v1)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
 |**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063v1](http://arxiv.org/abs/2309.03063v1)|null|
@@ -2550,6 +2559,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068v1](http://arxiv.org/abs/2309.07068v1)|null|
+|**2023-09-13**|**A plug-and-play synthetic data deep learning for undersampled magnetic resonance image reconstruction**|Min Xiao et.al.|[2309.06681v1](http://arxiv.org/abs/2309.06681v1)|null|
+|**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652v1](http://arxiv.org/abs/2309.06652v1)|null|
+|**2023-09-12**|**Electron Energy Regression in the CMS High-Granularity Calorimeter Prototype**|Roger Rusack et.al.|[2309.06582v1](http://arxiv.org/abs/2309.06582v1)|null|
 |**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794v1](http://arxiv.org/abs/2309.05794v1)|null|
 |**2023-09-11**|**Reconstruction multiclasse pour l'imagerie TEP 3-photons**|Mehdi Latif et.al.|[2309.05324v1](http://arxiv.org/abs/2309.05324v1)|null|
 |**2023-09-09**|**AmbientFlow: Invertible generative models from incomplete, noisy measurements**|Varun A. Kelkar et.al.|[2309.04856v1](http://arxiv.org/abs/2309.04856v1)|null|
@@ -2876,6 +2889,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**CCSPNet-Joint: Efficient Joint Training Method for Traffic Sihn Detection Under Extreme Conditions**|Haoqin Hong et.al.|[2309.06902v1](http://arxiv.org/abs/2309.06902v1)|**[link](https://github.com/haoqinhong/ccspnet-joint)**|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
 |**2023-09-10**|**Multi-view Self-supervised Disentanglement for General Image Denoising**|Hao Chen et.al.|[2309.05049v1](http://arxiv.org/abs/2309.05049v1)|**[link](https://github.com/chqwer2/multi-view-self-supervised-disentanglement-denoising)**|
 |**2023-09-04**|**Image denoising in photon-counting CT using PFGM++ with hijacked regularized sampling**|Dennis Hein et.al.|[2309.01553v1](http://arxiv.org/abs/2309.01553v1)|null|
@@ -3168,6 +3182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933v1](http://arxiv.org/abs/2309.06933v1)|null|
 |**2023-09-12**|**AGMDT: Virtual Staining of Renal Histology Images with Adjacency-Guided Multi-Domain Transfer**|Tao Ma et.al.|[2309.06421v1](http://arxiv.org/abs/2309.06421v1)|null|
 |**2023-09-12**|**TSSAT: Two-Stage Statistics-Aware Transformation for Artistic Style Transfer**|Haibo Chen et.al.|[2309.06004v1](http://arxiv.org/abs/2309.06004v1)|null|
 |**2023-09-11**|**Divergences in Color Perception between Deep Neural Networks and Humans**|Ethan O. Nadler et.al.|[2309.05809v1](http://arxiv.org/abs/2309.05809v1)|null|
