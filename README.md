@@ -26,6 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587v1](http://arxiv.org/abs/2309.08587v1)|null|
+|**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568v1](http://arxiv.org/abs/2309.08568v1)|null|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511v1](http://arxiv.org/abs/2309.08511v1)|null|
+|**2023-09-15**|**Biological invasions and epidemics with nonlocal diffusion along a line**|Henri Berestycki et.al.|[2309.08298v1](http://arxiv.org/abs/2309.08298v1)|null|
+|**2023-09-15**|**Large Intestine 3D Shape Refinement Using Point Diffusion Models for Digital Phantom Generation**|Kaouther Mouheb et.al.|[2309.08289v1](http://arxiv.org/abs/2309.08289v1)|null|
+|**2023-09-15**|**Unsupervised Disentangling of Facial Representations with 3D-aware Latent Diffusion Models**|Ruian He et.al.|[2309.08273v1](http://arxiv.org/abs/2309.08273v1)|null|
+|**2023-09-15**|**Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models**|Feihong He et.al.|[2309.08251v1](http://arxiv.org/abs/2309.08251v1)|null|
+|**2023-09-15**|**Detail Reinforcement Diffusion Model: Augmentation Fine-Grained Visual Categorization in Few-Shot Conditions**|Tianxu Wu et.al.|[2309.08097v1](http://arxiv.org/abs/2309.08097v1)|null|
+|**2023-09-14**|**AV2Wav: Diffusion-Based Re-synthesis from Continuous Self-supervised Features for Audio-Visual Speech Enhancement**|Ju-Chieh Chou et.al.|[2309.08030v1](http://arxiv.org/abs/2309.08030v1)|null|
+|**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986v1](http://arxiv.org/abs/2309.07986v1)|null|
+|**2023-09-14**|**M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations**|Giada Zingarini et.al.|[2309.07973v1](http://arxiv.org/abs/2309.07973v1)|null|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920v2](http://arxiv.org/abs/2309.07920v2)|null|
 |**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867v1](http://arxiv.org/abs/2309.07867v1)|null|
 |**2023-09-14**|**EMOCONV-DIFF: Diffusion-based Speech Emotion Conversion for Non-parallel and In-the-wild Data**|Navin Raj Prabhu et.al.|[2309.07828v1](http://arxiv.org/abs/2309.07828v1)|null|
@@ -1522,6 +1534,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|null|
+|**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|null|
 |**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572v1](http://arxiv.org/abs/2309.07572v1)|null|
 |**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495v1](http://arxiv.org/abs/2309.07495v1)|**[link](https://github.com/yylgoodlucky/hdtr)**|
 |**2023-09-13**|**AudioSR: Versatile Audio Super-resolution at Scale**|Haohe Liu et.al.|[2309.07314v1](http://arxiv.org/abs/2309.07314v1)|null|
@@ -1988,6 +2002,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|null|
+|**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|null|
 |**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
 |**2023-09-09**|**Towards Real-World Burst Image Super-Resolution: Benchmark and Method**|Pengxu Wei et.al.|[2309.04803v1](http://arxiv.org/abs/2309.04803v1)|**[link](https://github.com/yjsunnn/fbanet)**|
@@ -2906,6 +2922,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Hyperspectral Image Denoising via Self-Modulating Convolutional Neural Networks**|Orhan Torun et.al.|[2309.08197v1](http://arxiv.org/abs/2309.08197v1)|**[link](https://github.com/orhan-t/sm-cnn)**|
 |**2023-09-14**|**CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions**|Haoqin Hong et.al.|[2309.06902v2](http://arxiv.org/abs/2309.06902v2)|**[link](https://github.com/haoqinhong/ccspnet-joint)**|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
 |**2023-09-10**|**Multi-view Self-supervised Disentanglement for General Image Denoising**|Hao Chen et.al.|[2309.05049v1](http://arxiv.org/abs/2309.05049v1)|**[link](https://github.com/chqwer2/multi-view-self-supervised-disentanglement-denoising)**|
@@ -3200,6 +3217,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer**|Arkadiy Saakyan et.al.|[2309.08583v1](http://arxiv.org/abs/2309.08583v1)|**[link](https://github.com/asaakyan/explain-st)**|
 |**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang et.al.|[2309.07566v1](http://arxiv.org/abs/2309.07566v1)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933v1](http://arxiv.org/abs/2309.06933v1)|null|
 |**2023-09-12**|**AGMDT: Virtual Staining of Renal Histology Images with Adjacency-Guided Multi-Domain Transfer**|Tao Ma et.al.|[2309.06421v1](http://arxiv.org/abs/2309.06421v1)|null|
