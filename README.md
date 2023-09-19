@@ -26,6 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944v1](http://arxiv.org/abs/2309.09944v1)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
+|**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777v1](http://arxiv.org/abs/2309.09777v1)|null|
+|**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764v1](http://arxiv.org/abs/2309.09764v1)|null|
+|**2023-09-18**|**Single and Few-step Diffusion for Generative Speech Enhancement**|Bunlong Lay et.al.|[2309.09677v1](http://arxiv.org/abs/2309.09677v1)|null|
+|**2023-09-18**|**Speeding Up Speech Synthesis In Diffusion Models By Reducing Data Distribution Recovery Steps Via Content Transfer**|Peter Ochieng et.al.|[2309.09652v1](http://arxiv.org/abs/2309.09652v1)|null|
+|**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
+|**2023-09-18**|**Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis**|Tianyi Song et.al.|[2309.09553v1](http://arxiv.org/abs/2309.09553v1)|null|
+|**2023-09-18**|**Progressive Text-to-Image Diffusion with Soft Latent Direction**|YuTeng Ye et.al.|[2309.09466v1](http://arxiv.org/abs/2309.09466v1)|**[link](https://github.com/babahui/progressive-text-to-image)**|
+|**2023-09-17**|**Enhancing Knee Osteoarthritis severity level classification using diffusion augmented images**|Paleti Nikhil Chowdary et.al.|[2309.09328v1](http://arxiv.org/abs/2309.09328v1)|null|
+|**2023-09-17**|**PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts**|Jixun Yao et.al.|[2309.09262v1](http://arxiv.org/abs/2309.09262v1)|null|
+|**2023-09-16**|**CDDM: Channel Denoising Diffusion Models for Wireless Semantic Communications**|Tong Wu et.al.|[2309.08895v1](http://arxiv.org/abs/2309.08895v1)|null|
+|**2023-09-15**|**Probabilistic Constellation Shaping With Denoising Diffusion Probabilistic Models: A Novel Approach**|Mehdi Letafati et.al.|[2309.08688v1](http://arxiv.org/abs/2309.08688v1)|null|
 |**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587v1](http://arxiv.org/abs/2309.08587v1)|null|
 |**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568v1](http://arxiv.org/abs/2309.08568v1)|null|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
@@ -1534,6 +1546,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|null|
+|**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
+|**2023-09-16**|**Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool**|Josiah W. Smith et.al.|[2309.08844v1](http://arxiv.org/abs/2309.08844v1)|null|
 |**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
 |**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|**[link](https://github.com/yinzhicun/metaf2n)**|
 |**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572v1](http://arxiv.org/abs/2309.07572v1)|null|
@@ -2002,6 +2017,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|null|
+|**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
+|**2023-09-16**|**Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool**|Josiah W. Smith et.al.|[2309.08844v1](http://arxiv.org/abs/2309.08844v1)|null|
 |**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
 |**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|**[link](https://github.com/yinzhicun/metaf2n)**|
 |**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
@@ -2394,6 +2412,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-16**|**AOSR-Net: All-in-One Sandstorm Removal Network**|Yazhong Si et.al.|[2309.08838v1](http://arxiv.org/abs/2309.08838v1)|null|
 |**2023-09-14**|**A Multi-scale Generalized Shrinkage Threshold Network for Image Blind Deblurring in Remote Sensing**|Yujie Feng et.al.|[2309.07524v1](http://arxiv.org/abs/2309.07524v1)|null|
 |**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068v1](http://arxiv.org/abs/2309.07068v1)|**[link](https://github.com/liutongkun/fair)**|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023v1](http://arxiv.org/abs/2309.06023v1)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
@@ -2922,6 +2941,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**All-optical image denoising using a diffractive visual processor**|Cagatay Isıl et.al.|[2309.09215v1](http://arxiv.org/abs/2309.09215v1)|null|
+|**2023-09-16**|**Wavelet-based Topological Loss for Low-Light Image Denoising**|Alexandra Malyugina et.al.|[2309.08975v1](http://arxiv.org/abs/2309.08975v1)|null|
 |**2023-09-15**|**Hyperspectral Image Denoising via Self-Modulating Convolutional Neural Networks**|Orhan Torun et.al.|[2309.08197v1](http://arxiv.org/abs/2309.08197v1)|**[link](https://github.com/orhan-t/sm-cnn)**|
 |**2023-09-14**|**CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions**|Haoqin Hong et.al.|[2309.06902v2](http://arxiv.org/abs/2309.06902v2)|**[link](https://github.com/haoqinhong/ccspnet-joint)**|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
@@ -3099,6 +3120,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
+|**2023-09-18**|**Reconstructing Existing Levels through Level Inpainting**|Johor Jara Gonzalez et.al.|[2309.09472v1](http://arxiv.org/abs/2309.09472v1)|null|
 |**2023-09-13**|**GAN-based Algorithm for Efficient Image Inpainting**|Zhengyang Han et.al.|[2309.07293v1](http://arxiv.org/abs/2309.07293v1)|null|
 |**2023-09-12**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153v2](http://arxiv.org/abs/2309.05153v2)|null|
 |**2023-09-07**|**Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition**|Minsu Kim et.al.|[2309.01406v2](http://arxiv.org/abs/2309.01406v2)|null|
@@ -3217,6 +3240,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-16**|**In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval**|Nina Shvetsova et.al.|[2309.08928v1](http://arxiv.org/abs/2309.08928v1)|null|
+|**2023-09-16**|**Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer**|Abhibha Gupta et.al.|[2309.08851v1](http://arxiv.org/abs/2309.08851v1)|**[link](https://github.com/abhibha1807/robustifying_visual_perception)**|
 |**2023-09-15**|**ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer**|Arkadiy Saakyan et.al.|[2309.08583v1](http://arxiv.org/abs/2309.08583v1)|**[link](https://github.com/asaakyan/explain-st)**|
 |**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang et.al.|[2309.07566v1](http://arxiv.org/abs/2309.07566v1)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933v1](http://arxiv.org/abs/2309.06933v1)|null|
