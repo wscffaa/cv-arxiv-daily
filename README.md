@@ -1534,7 +1534,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|null|
+|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
 |**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|**[link](https://github.com/yinzhicun/metaf2n)**|
 |**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572v1](http://arxiv.org/abs/2309.07572v1)|null|
 |**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495v1](http://arxiv.org/abs/2309.07495v1)|**[link](https://github.com/yylgoodlucky/hdtr)**|
@@ -2002,7 +2002,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|null|
+|**2023-09-15**|**Head-Related Transfer Function Interpolation with a Spherical CNN**|Xingyu Chen et.al.|[2309.08290v1](http://arxiv.org/abs/2309.08290v1)|**[link](https://github.com/xingyuaudio/HRTF-SCNN)**|
 |**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113v1](http://arxiv.org/abs/2309.08113v1)|**[link](https://github.com/yinzhicun/metaf2n)**|
 |**2023-09-12**|**RGB-Guided Resolution Enhancement of IR Images**|Marcel Trammer et.al.|[2309.05996v1](http://arxiv.org/abs/2309.05996v1)|null|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
