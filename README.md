@@ -26,6 +26,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
+|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v1](http://arxiv.org/abs/2309.11601v1)|null|
+|**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497v1](http://arxiv.org/abs/2309.11497v1)|null|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456v1](http://arxiv.org/abs/2309.11456v1)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420v1](http://arxiv.org/abs/2309.11420v1)|null|
@@ -1568,6 +1571,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Super-resolution and super-sensitivity of quantum LiDAR with multi-photonic state and binary outcome photon counting measurement**|Priyanka Sharma et.al.|[2309.12076v1](http://arxiv.org/abs/2309.12076v1)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646v1](http://arxiv.org/abs/2309.10646v1)|null|
 |**2023-09-18**|**Machine Learning for enhancing Wind Field Resolution in Complex Terrain**|Jacob Wulff Wold et.al.|[2309.10172v1](http://arxiv.org/abs/2309.10172v1)|**[link](https://github.com/jacobwulffwold/gan_sr_wind_field)**|
@@ -2439,6 +2443,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
 |**2023-09-19**|**Local Lipschitz continuity for energy integrals with slow growth and lower order terms**|Michela Eleuteri et.al.|[2309.10727v1](http://arxiv.org/abs/2309.10727v1)|null|
 |**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714v1](http://arxiv.org/abs/2309.10714v1)|null|
 |**2023-09-16**|**AOSR-Net: All-in-One Sandstorm Removal Network**|Yazhong Si et.al.|[2309.08838v1](http://arxiv.org/abs/2309.08838v1)|null|
@@ -3275,6 +3280,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**A Discourse-level Multi-scale Prosodic Model for Fine-grained Emotion Analysis**|Xianhao Wei et.al.|[2309.11849v1](http://arxiv.org/abs/2309.11849v1)|null|
+|**2023-09-21**|**Quasi-Monte Carlo for 3D Sliced Wasserstein**|Khai Nguyen et.al.|[2309.11713v1](http://arxiv.org/abs/2309.11713v1)|null|
+|**2023-09-20**|**Interactive Flexible Style Transfer for Vector Graphics**|Jeremy Warner et.al.|[2309.11628v1](http://arxiv.org/abs/2309.11628v1)|null|
 |**2023-09-19**|**Specializing Small Language Models towards Complex Style Transfer via Latent Attribute Pre-Training**|Ruiqi Xu et.al.|[2309.10929v1](http://arxiv.org/abs/2309.10929v1)|**[link](https://github.com/ruiqixu37/BTTS_ECAI2023)**|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
 |**2023-09-19**|**Retinex-guided Channel-grouping based Patch Swap for Arbitrary Style Transfer**|Chang Liu et.al.|[2309.10528v1](http://arxiv.org/abs/2309.10528v1)|null|
