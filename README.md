@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042v1](http://arxiv.org/abs/2309.13042v1)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858v1](http://arxiv.org/abs/2309.12858v1)|null|
+|**2023-09-22**|**Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography**|Rabin Adhikari et.al.|[2309.12829v1](http://arxiv.org/abs/2309.12829v1)|**[link](https://github.com/naamiinepal/synthetic-boost)**|
+|**2023-09-21**|**A Diffusion-Model of Joint Interactive Navigation**|Matthew Niedoba et.al.|[2309.12508v1](http://arxiv.org/abs/2309.12508v1)|null|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
+|**2023-09-21**|**Synthetic Image Detection: Highlights from the IEEE Video and Image Processing Cup 2022 Student Competition**|Davide Cozzolino et.al.|[2309.12428v1](http://arxiv.org/abs/2309.12428v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
 |**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v1](http://arxiv.org/abs/2309.11601v1)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
@@ -1571,6 +1577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Super-resolution and super-sensitivity of quantum LiDAR with multi-photonic state and binary outcome photon counting measurement**|Priyanka Sharma et.al.|[2309.12076v1](http://arxiv.org/abs/2309.12076v1)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646v1](http://arxiv.org/abs/2309.10646v1)|null|
@@ -2048,6 +2055,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|**[link](https://github.com/josiahwsmith10/spectral-super-resolution-swin)**|
 |**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
 |**2023-09-16**|**Emerging Approaches for THz Array Imaging: A Tutorial Review and Software Tool**|Josiah W. Smith et.al.|[2309.08844v1](http://arxiv.org/abs/2309.08844v1)|null|
@@ -2443,6 +2451,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
 |**2023-09-19**|**Local Lipschitz continuity for energy integrals with slow growth and lower order terms**|Michela Eleuteri et.al.|[2309.10727v1](http://arxiv.org/abs/2309.10727v1)|null|
 |**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714v1](http://arxiv.org/abs/2309.10714v1)|null|
