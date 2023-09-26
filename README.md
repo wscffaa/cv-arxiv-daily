@@ -33,13 +33,13 @@
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Synthetic Image Detection: Highlights from the IEEE Video and Image Processing Cup 2022 Student Competition**|Davide Cozzolino et.al.|[2309.12428v1](http://arxiv.org/abs/2309.12428v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v1](http://arxiv.org/abs/2309.11601v1)|null|
+|**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v2](http://arxiv.org/abs/2309.11601v2)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497v1](http://arxiv.org/abs/2309.11497v1)|null|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456v1](http://arxiv.org/abs/2309.11456v1)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420v1](http://arxiv.org/abs/2309.11420v1)|null|
 |**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321v1](http://arxiv.org/abs/2309.11321v1)|null|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
+|**2023-09-25**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v2](http://arxiv.org/abs/2309.11281v2)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-20**|**TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models**|Weidan Xiong et.al.|[2309.11258v1](http://arxiv.org/abs/2309.11258v1)|null|
 |**2023-09-20**|**Investigating Personalization Methods in Text to Music Generation**|Manos Plitsis et.al.|[2309.11140v1](http://arxiv.org/abs/2309.11140v1)|null|
 |**2023-09-20**|**PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement**|Chengyou Jia et.al.|[2309.11125v1](http://arxiv.org/abs/2309.11125v1)|null|
@@ -53,7 +53,7 @@
 |**2023-09-21**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505v2](http://arxiv.org/abs/2309.10505v2)|null|
 |**2023-09-19**|**Unsupervised speech enhancement with diffusion-based generative models**|Berné Nortier et.al.|[2309.10450v1](http://arxiv.org/abs/2309.10450v1)|**[link](https://github.com/sp-uhh/sgmse)**|
 |**2023-09-19**|**Posterior sampling algorithms for unsupervised speech enhancement with recurrent variational autoencoder**|Mostafa Sadeghi et.al.|[2309.10439v1](http://arxiv.org/abs/2309.10439v1)|null|
-|**2023-09-23**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438v2](http://arxiv.org/abs/2309.10438v2)|null|
+|**2023-09-23**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438v2](http://arxiv.org/abs/2309.10438v2)|**[link](https://github.com/lilijiangg/autodiffusion)**|
 |**2023-09-19**|** $Γ$ -convergence of Nonlocal Dirichlet Energies With Penalty Formulations of Dirichlet Boundary Data**|Weiye Gan et.al.|[2309.10352v1](http://arxiv.org/abs/2309.10352v1)|null|
 |**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348v1](http://arxiv.org/abs/2309.10348v1)|null|
 |**2023-09-19**|**Reinforcement Learning for optimal dividend problem under diffusion model**|Lihua Bai et.al.|[2309.10242v1](http://arxiv.org/abs/2309.10242v1)|null|
@@ -2992,7 +2992,7 @@
 |**2023-09-17**|**All-optical image denoising using a diffractive visual processor**|Cagatay Isıl et.al.|[2309.09215v1](http://arxiv.org/abs/2309.09215v1)|null|
 |**2023-09-20**|**Wavelet-based Topological Loss for Low-Light Image Denoising**|Alexandra Malyugina et.al.|[2309.08975v2](http://arxiv.org/abs/2309.08975v2)|null|
 |**2023-09-15**|**Hyperspectral Image Denoising via Self-Modulating Convolutional Neural Networks**|Orhan Torun et.al.|[2309.08197v1](http://arxiv.org/abs/2309.08197v1)|**[link](https://github.com/orhan-t/sm-cnn)**|
-|**2023-09-14**|**CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions**|Haoqin Hong et.al.|[2309.06902v2](http://arxiv.org/abs/2309.06902v2)|**[link](https://github.com/haoqinhong/ccspnet-joint)**|
+|**2023-09-25**|**CCSPNet-Joint: Efficient Joint Training Method for Traffic Sign Detection Under Extreme Conditions**|Haoqin Hong et.al.|[2309.06902v3](http://arxiv.org/abs/2309.06902v3)|**[link](https://github.com/haoqinhong/ccspnet-joint)**|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
 |**2023-09-10**|**Multi-view Self-supervised Disentanglement for General Image Denoising**|Hao Chen et.al.|[2309.05049v1](http://arxiv.org/abs/2309.05049v1)|**[link](https://github.com/chqwer2/multi-view-self-supervised-disentanglement-denoising)**|
 |**2023-09-04**|**Image denoising in photon-counting CT using PFGM++ with hijacked regularized sampling**|Dennis Hein et.al.|[2309.01553v1](http://arxiv.org/abs/2309.01553v1)|**[link](https://github.com/dennishein/pfgmpp_PCCT_denoising)**|
