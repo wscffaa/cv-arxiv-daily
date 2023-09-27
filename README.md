@@ -1588,7 +1588,7 @@
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
 |**2023-09-25**|**A Lightweight Recurrent Grouping Attention Network for Video Super-Resolution**|Yonggui Zhu et.al.|[2309.13940v1](http://arxiv.org/abs/2309.13940v1)|**[link](https://github.com/karlygzhu/rgan)**|
 |**2023-09-26**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
-|**2023-09-23**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v1](http://arxiv.org/abs/2309.13457v1)|null|
+|**2023-09-26**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v2](http://arxiv.org/abs/2309.13457v2)|null|
 |**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|null|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Super-resolution and super-sensitivity of quantum LiDAR with multi-photonic state and binary outcome photon counting measurement**|Priyanka Sharma et.al.|[2309.12076v1](http://arxiv.org/abs/2309.12076v1)|null|
