@@ -26,6 +26,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v1](http://arxiv.org/abs/2309.15103v1)|null|
+|**2023-09-26**|**The ATM implied skew in the ADO-Heston model**|Andrey Itkin et.al.|[2309.15044v1](http://arxiv.org/abs/2309.15044v1)|null|
+|**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934v1](http://arxiv.org/abs/2309.14934v1)|null|
+|**2023-09-26**|**ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models**|Shengqi Liu et.al.|[2309.14872v1](http://arxiv.org/abs/2309.14872v1)|null|
+|**2023-09-26**|**On a class of solvable stationary non equilibrium states for mass exchange models**|Monia Capanna et.al.|[2309.14836v1](http://arxiv.org/abs/2309.14836v1)|null|
+|**2023-09-26**|**Diffusion-based Holistic Texture Rectification and Synthesis**|Guoqing Hao et.al.|[2309.14759v1](http://arxiv.org/abs/2309.14759v1)|null|
+|**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756v1](http://arxiv.org/abs/2309.14756v1)|null|
+|**2023-09-26**|**Text-image guided Diffusion Model for generating Deepfake celebrity interactions**|Yunzhuo Chen et.al.|[2309.14751v1](http://arxiv.org/abs/2309.14751v1)|null|
+|**2023-09-26**|**Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement**|Jiancheng Huang et.al.|[2309.14709v1](http://arxiv.org/abs/2309.14709v1)|null|
+|**2023-09-26**|**Efficient Post-training Quantization with FP8 Formats**|Haihao Shen et.al.|[2309.14592v1](http://arxiv.org/abs/2309.14592v1)|**[link](https://github.com/intel/neural-compressor)**|
+|**2023-09-25**|**Generative Escher Meshes**|Noam Aigerman et.al.|[2309.14564v1](http://arxiv.org/abs/2309.14564v1)|null|
+|**2023-09-25**|**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**|Hanzhuo Huang et.al.|[2309.14494v1](http://arxiv.org/abs/2309.14494v1)|**[link](https://github.com/soolab/free-bloom)**|
+|**2023-09-25**|**Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation**|Tsiry Mayet et.al.|[2309.14394v1](http://arxiv.org/abs/2309.14394v1)|null|
+|**2023-09-23**|**Domain-Guided Conditional Diffusion Model for Unsupervised Domain Adaptation**|Yulong Zhang et.al.|[2309.14360v1](http://arxiv.org/abs/2309.14360v1)|null|
+|**2023-09-23**|**COCO-Counterfactuals: Automatically Constructed Counterfactual Examples for Image-Text Pairs**|Tiep Le et.al.|[2309.14356v1](http://arxiv.org/abs/2309.14356v1)|null|
 |**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302v1](http://arxiv.org/abs/2309.14302v1)|null|
 |**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068v1](http://arxiv.org/abs/2309.14068v1)|null|
 |**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664v1](http://arxiv.org/abs/2309.13664v1)|null|
@@ -1585,11 +1600,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v1](http://arxiv.org/abs/2309.15103v1)|null|
+|**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998v1](http://arxiv.org/abs/2309.14998v1)|null|
+|**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
 |**2023-09-25**|**A Lightweight Recurrent Grouping Attention Network for Video Super-Resolution**|Yonggui Zhu et.al.|[2309.13940v1](http://arxiv.org/abs/2309.13940v1)|**[link](https://github.com/karlygzhu/rgan)**|
 |**2023-09-26**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-26**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v2](http://arxiv.org/abs/2309.13457v2)|null|
-|**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|null|
+|**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|**[link](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Super-resolution and super-sensitivity of quantum LiDAR with multi-photonic state and binary outcome photon counting measurement**|Priyanka Sharma et.al.|[2309.12076v1](http://arxiv.org/abs/2309.12076v1)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v2](http://arxiv.org/abs/2309.10808v2)|null|
@@ -2070,7 +2088,7 @@
 |---|---|---|---|---|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
 |**2023-09-26**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
-|**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|null|
+|**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|**[link](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|**[link](https://github.com/josiahwsmith10/spectral-super-resolution-swin)**|
 |**2023-09-16**|**Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution**|Wenyu Zhang et.al.|[2309.08919v1](http://arxiv.org/abs/2309.08919v1)|**[link](https://github.com/wenyu1009/rtsrn)**|
@@ -2267,6 +2285,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v1](http://arxiv.org/abs/2309.15103v1)|null|
 |**2023-09-25**|**A Lightweight Recurrent Grouping Attention Network for Video Super-Resolution**|Yonggui Zhu et.al.|[2309.13940v1](http://arxiv.org/abs/2309.13940v1)|**[link](https://github.com/karlygzhu/rgan)**|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|null|
 |**2023-09-21**|**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**|Yi-Hsin Chen et.al.|[2307.07988v2](http://arxiv.org/abs/2307.07988v2)|**[link](https://github.com/sichun233746/motif)**|
@@ -2342,6 +2361,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Incorporating Ensemble and Transfer Learning For An End-To-End Auto-Colorized Image Detection Model**|Ahmed Samir Ragab et.al.|[2309.14478v1](http://arxiv.org/abs/2309.14478v1)|null|
 |**2023-09-13**|**Hardening RGB-D Object Recognition Systems against Adversarial Patch Attacks**|Yang Zheng et.al.|[2309.07106v1](http://arxiv.org/abs/2309.07106v1)|null|
 |**2023-09-11**|**Diving into Darkness: A Dual-Modulated Framework for High-Fidelity Super-Resolution in Ultra-Dark Environments**|Jiaxin Gao et.al.|[2309.05267v1](http://arxiv.org/abs/2309.05267v1)|null|
 |**2023-09-01**|**DARC: Distribution-Aware Re-Coloring Model for Generalizable Nucleus Segmentation**|Shengcong Chen et.al.|[2309.00188v1](http://arxiv.org/abs/2309.00188v1)|null|
@@ -2669,6 +2689,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Convergence Analysis of Nonlinear Kaczmarz Method for Systems of Nonlinear Equations with Component-wise Convex Mapping**|Yu Gao et.al.|[2309.15003v1](http://arxiv.org/abs/2309.15003v1)|null|
+|**2023-09-25**|**Spatial wavefront shaping with a multipolar-resonant metasurface for structured illumination microscopy**|Tamal Roy et.al.|[2309.14456v1](http://arxiv.org/abs/2309.14456v1)|null|
+|**2023-09-25**|**Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction**|Yuning Du et.al.|[2309.14392v1](http://arxiv.org/abs/2309.14392v1)|null|
 |**2023-09-25**|**In-Domain GAN Inversion for Faithful Reconstruction and Editability**|Jiapeng Zhu et.al.|[2309.13956v1](http://arxiv.org/abs/2309.13956v1)|null|
 |**2023-09-19**|**CMRxRecon: An open cardiac MRI dataset for the competition of accelerated image reconstruction**|Chengyan Wang et.al.|[2309.10836v1](http://arxiv.org/abs/2309.10836v1)|**[link](https://github.com/CmrxRecon/CMRxRecon)**|
 |**2023-09-19**|**Unsupervised Landmark Discovery Using Consistency Guided Bottleneck**|Mamona Awan et.al.|[2309.10518v1](http://arxiv.org/abs/2309.10518v1)|**[link](https://github.com/mamonaawan/cgb_uld)**|
@@ -3004,6 +3027,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**Image Denoising via Style Disentanglement**|Jingwei Niu et.al.|[2309.14755v1](http://arxiv.org/abs/2309.14755v1)|null|
+|**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
 |**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714v1](http://arxiv.org/abs/2309.10714v1)|null|
 |**2023-09-19**|**Single-Image based unsupervised joint segmentation and denoising**|Nadja Gruber et.al.|[2309.10511v1](http://arxiv.org/abs/2309.10511v1)|null|
 |**2023-09-18**|**Mixed Graph Signal Analysis of Joint Image Denoising / Interpolation**|Niruhan Viswarupan et.al.|[2309.10114v1](http://arxiv.org/abs/2309.10114v1)|**[link](https://github.com/sybernix/icassp24-joint)**|
