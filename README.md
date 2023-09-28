@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842v1](http://arxiv.org/abs/2309.15842v1)|null|
+|**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818v1](http://arxiv.org/abs/2309.15818v1)|**[link](https://github.com/showlab/show-1)**|
+|**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807v1](http://arxiv.org/abs/2309.15807v1)|null|
+|**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726v1](http://arxiv.org/abs/2309.15726v1)|null|
+|**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664v1](http://arxiv.org/abs/2309.15664v1)|**[link](https://github.com/wangkai930418/DPL)**|
+|**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
+|**2023-09-27**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512v1](http://arxiv.org/abs/2309.15512v1)|null|
+|**2023-09-27**|**DreamCom: Finetuning Text-guided Inpainting Model for Image Composition**|Lingxiao Lu et.al.|[2309.15508v1](http://arxiv.org/abs/2309.15508v1)|null|
+|**2023-09-27**|**LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation**|Penghang Yu et.al.|[2309.15363v1](http://arxiv.org/abs/2309.15363v1)|null|
+|**2023-09-26**|**Learning Using Generated Privileged Information by Text-to-Image Diffusion Models**|Rafael-Edy Menadil et.al.|[2309.15238v1](http://arxiv.org/abs/2309.15238v1)|null|
+|**2023-09-24**|**Generative Residual Diffusion Modeling for Km-scale Atmospheric Downscaling**|Morteza Mardani et.al.|[2309.15214v1](http://arxiv.org/abs/2309.15214v1)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
 |**2023-09-26**|**The ATM implied skew in the ADO-Heston model**|Andrey Itkin et.al.|[2309.15044v1](http://arxiv.org/abs/2309.15044v1)|null|
 |**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934v1](http://arxiv.org/abs/2309.14934v1)|null|
@@ -1600,6 +1611,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563v1](http://arxiv.org/abs/2309.15563v1)|null|
+|**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
+|**2023-09-27**|**Style Transfer and Self-Supervised Learning Powered Myocardium Infarction Super-Resolution Segmentation**|Lichao Wang et.al.|[2309.15485v1](http://arxiv.org/abs/2309.15485v1)|null|
+|**2023-09-27**|**Neural Operators for Accelerating Scientific Simulations and Design**|Kamyar Azzizadenesheli et.al.|[2309.15325v1](http://arxiv.org/abs/2309.15325v1)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
 |**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998v1](http://arxiv.org/abs/2309.14998v1)|null|
 |**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
@@ -2488,6 +2503,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563v1](http://arxiv.org/abs/2309.15563v1)|null|
+|**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
+|**2023-09-27**|**Survey on Deep Face Restoration: From Non-blind to Blind and Beyond**|Wenjie Li et.al.|[2309.15490v1](http://arxiv.org/abs/2309.15490v1)|**[link](https://github.com/24wenjie-li/awesome-face-restoration)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
 |**2023-09-19**|**Local Lipschitz continuity for energy integrals with slow growth and lower order terms**|Michela Eleuteri et.al.|[2309.10727v1](http://arxiv.org/abs/2309.10727v1)|null|
@@ -2689,9 +2707,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Tracking Snake-like Robots in the Wild Using Only a Single Camera**|Jingpei Lu et.al.|[2309.15700v1](http://arxiv.org/abs/2309.15700v1)|null|
+|**2023-09-27**|**NoSENSE: Learned unrolled cardiac MRI reconstruction without explicit sensitivity maps**|Felix Frederik Zimmermann et.al.|[2309.15608v1](http://arxiv.org/abs/2309.15608v1)|null|
+|**2023-09-26**|**Characterization of a SiPM-based monolithic neutron scatter camera using dark counts**|J. Balajthy et.al.|[2309.15280v1](http://arxiv.org/abs/2309.15280v1)|null|
+|**2023-09-26**|**A New Spectral Conjugate Subgradient Method with Application in Computed Tomography Image Reconstruction**|Milagros Loreto et.al.|[2309.15266v1](http://arxiv.org/abs/2309.15266v1)|null|
 |**2023-09-26**|**Convergence Analysis of Nonlinear Kaczmarz Method for Systems of Nonlinear Equations with Component-wise Convex Mapping**|Yu Gao et.al.|[2309.15003v1](http://arxiv.org/abs/2309.15003v1)|null|
 |**2023-09-25**|**Spatial wavefront shaping with a multipolar-resonant metasurface for structured illumination microscopy**|Tamal Roy et.al.|[2309.14456v1](http://arxiv.org/abs/2309.14456v1)|null|
-|**2023-09-25**|**Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction**|Yuning Du et.al.|[2309.14392v1](http://arxiv.org/abs/2309.14392v1)|null|
+|**2023-09-25**|**Unveiling Fairness Biases in Deep Learning-Based Brain MRI Reconstruction**|Yuning Du et.al.|[2309.14392v1](http://arxiv.org/abs/2309.14392v1)|**[link](https://github.com/ydu0117/reconfairness)**|
 |**2023-09-25**|**In-Domain GAN Inversion for Faithful Reconstruction and Editability**|Jiapeng Zhu et.al.|[2309.13956v1](http://arxiv.org/abs/2309.13956v1)|null|
 |**2023-09-19**|**CMRxRecon: An open cardiac MRI dataset for the competition of accelerated image reconstruction**|Chengyan Wang et.al.|[2309.10836v1](http://arxiv.org/abs/2309.10836v1)|**[link](https://github.com/CmrxRecon/CMRxRecon)**|
 |**2023-09-19**|**Unsupervised Landmark Discovery Using Consistency Guided Bottleneck**|Mamona Awan et.al.|[2309.10518v1](http://arxiv.org/abs/2309.10518v1)|**[link](https://github.com/mamonaawan/cgb_uld)**|
@@ -3332,6 +3354,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Synthetic Latent Fingerprint Generation Using Style Transfer**|Amol S. Joshi et.al.|[2309.15734v1](http://arxiv.org/abs/2309.15734v1)|null|
+|**2023-09-27**|**Style Transfer and Self-Supervised Learning Powered Myocardium Infarction Super-Resolution Segmentation**|Lichao Wang et.al.|[2309.15485v1](http://arxiv.org/abs/2309.15485v1)|null|
 |**2023-09-25**|**Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation**|Yuxi Wang et.al.|[2309.14241v1](http://arxiv.org/abs/2309.14241v1)|null|
 |**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716v1](http://arxiv.org/abs/2309.13716v1)|null|
 |**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607v1](http://arxiv.org/abs/2309.13607v1)|null|
