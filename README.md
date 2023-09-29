@@ -55,7 +55,7 @@
 |**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302v1](http://arxiv.org/abs/2309.14302v1)|null|
 |**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068v1](http://arxiv.org/abs/2309.14068v1)|null|
 |**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664v1](http://arxiv.org/abs/2309.13664v1)|null|
-|**2023-09-26**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
+|**2023-09-28**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v3](http://arxiv.org/abs/2309.13655v3)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-23**|**Dream the Impossible: Outlier Imagination with Diffusion Models**|Xuefeng Du et.al.|[2309.13415v1](http://arxiv.org/abs/2309.13415v1)|null|
 |**2023-09-23**|**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER**|Mingzhen Sun et.al.|[2309.13274v1](http://arxiv.org/abs/2309.13274v1)|**[link](https://github.com/iva-mzsun/glober)**|
 |**2023-09-22**|**Invisible Watermarking for Audio Generation Diffusion Models**|Xirong Cao et.al.|[2309.13166v1](http://arxiv.org/abs/2309.13166v1)|**[link](https://github.com/mikiyaxi/watermark-audio-diffusion)**|
@@ -1620,7 +1620,7 @@
 |**2023-09-26**|**DONNAv2 -- Lightweight Neural Architecture Search for Vision tasks**|Sweta Priyadarshi et.al.|[2309.14670v1](http://arxiv.org/abs/2309.14670v1)|null|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
 |**2023-09-25**|**A Lightweight Recurrent Grouping Attention Network for Video Super-Resolution**|Yonggui Zhu et.al.|[2309.13940v1](http://arxiv.org/abs/2309.13940v1)|**[link](https://github.com/karlygzhu/rgan)**|
-|**2023-09-26**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
+|**2023-09-28**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v3](http://arxiv.org/abs/2309.13655v3)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-26**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v2](http://arxiv.org/abs/2309.13457v2)|null|
 |**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|**[link](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
@@ -2102,7 +2102,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
-|**2023-09-26**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
+|**2023-09-28**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v3](http://arxiv.org/abs/2309.13655v3)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|**[link](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-17**|**Frequency Estimation Using Complex-Valued Shifted Window Transformer**|Josiah W. Smith et.al.|[2309.09352v1](http://arxiv.org/abs/2309.09352v1)|**[link](https://github.com/josiahwsmith10/spectral-super-resolution-swin)**|
