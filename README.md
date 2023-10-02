@@ -26,6 +26,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v1](http://arxiv.org/abs/2309.17444v1)|null|
+|**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400v1](http://arxiv.org/abs/2309.17400v1)|null|
+|**2023-09-29**|**Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation**|Tuan Le et.al.|[2309.17296v1](http://arxiv.org/abs/2309.17296v1)|null|
+|**2023-09-29**|**In search of dispersed memories: Generative diffusion models are associative memory networks**|Luca Ambrogioni et.al.|[2309.17290v1](http://arxiv.org/abs/2309.17290v1)|null|
+|**2023-09-29**|**Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors**|Yukang Lin et.al.|[2309.17261v1](http://arxiv.org/abs/2309.17261v1)|null|
+|**2023-09-29**|**ResBit: Residual Bit Vector for Categorical Values**|Masane Fuchi et.al.|[2309.17196v1](http://arxiv.org/abs/2309.17196v1)|null|
+|**2023-09-29**|**Advances in Kidney Biopsy Structural Assessment through Dense Instance Segmentation**|Zhan Xiong et.al.|[2309.17166v1](http://arxiv.org/abs/2309.17166v1)|null|
+|**2023-09-29**|**Reconstruction of Patient-Specific Confounders in AI-based Radiologic Image Interpretation using Generative Pretraining**|Tianyu Han et.al.|[2309.17123v1](http://arxiv.org/abs/2309.17123v1)|null|
+|**2023-09-29**|**Diffusion Models as Stochastic Quantization in Lattice Field Theory**|Lingxiao Wang et.al.|[2309.17082v1](http://arxiv.org/abs/2309.17082v1)|null|
+|**2023-09-29**|**DeeDiff: Dynamic Uncertainty-Aware Early Exiting for Accelerating Diffusion Model Generation**|Shengkun Tang et.al.|[2309.17074v1](http://arxiv.org/abs/2309.17074v1)|null|
+|**2023-09-29**|**ReFlow-TTS: A Rectified Flow Model for High-fidelity Text-to-Speech**|Wenhao Guan et.al.|[2309.17056v1](http://arxiv.org/abs/2309.17056v1)|null|
+|**2023-09-29**|**Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning**|Zihan Ding et.al.|[2309.16984v1](http://arxiv.org/abs/2309.16984v1)|null|
+|**2023-09-29**|**Leveraging Optimization for Adaptive Attacks on Image Watermarks**|Nils Lukas et.al.|[2309.16952v1](http://arxiv.org/abs/2309.16952v1)|null|
+|**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|null|
+|**2023-09-28**|**SatDM: Synthesizing Realistic Satellite Image with Semantic Layout Conditioning using Diffusion Models**|Orkhan Baghirli et.al.|[2309.16812v1](http://arxiv.org/abs/2309.16812v1)|null|
+|**2023-09-28**|**Memory in Plain Sight: A Survey of the Uncanny Resemblances between Diffusion Models and Associative Memories**|Benjamin Hoover et.al.|[2309.16750v1](http://arxiv.org/abs/2309.16750v1)|null|
 |**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608v1](http://arxiv.org/abs/2309.16608v1)|null|
 |**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496v1](http://arxiv.org/abs/2309.16496v1)|null|
 |**2023-09-28**|**Distilling ODE Solvers of Diffusion Models into Smaller Steps**|Sanghwan Kim et.al.|[2309.16421v1](http://arxiv.org/abs/2309.16421v1)|null|
@@ -1619,6 +1635,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Multi-Depth Branches Network for Efficient Image Super-Resolution**|Huiyuan Tian et.al.|[2309.17334v1](http://arxiv.org/abs/2309.17334v1)|**[link](https://github.com/thy960112/mdbn)**|
+|**2023-09-29**|**Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN**|Weiwen Zhang et.al.|[2309.17269v1](http://arxiv.org/abs/2309.17269v1)|null|
+|**2023-09-29**|**Effect of structure-based training on 3D localization precision and quality**|Armin Abdehkakha et.al.|[2309.17265v1](http://arxiv.org/abs/2309.17265v1)|null|
+|**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143v1](http://arxiv.org/abs/2309.17143v1)|**[link](https://github.com/5k5000/cldetection2023)**|
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563v1](http://arxiv.org/abs/2309.15563v1)|null|
 |**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
 |**2023-09-27**|**Style Transfer and Self-Supervised Learning Powered Myocardium Infarction Super-Resolution Segmentation**|Lichao Wang et.al.|[2309.15485v1](http://arxiv.org/abs/2309.15485v1)|null|
@@ -2109,6 +2129,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Multi-Depth Branches Network for Efficient Image Super-Resolution**|Huiyuan Tian et.al.|[2309.17334v1](http://arxiv.org/abs/2309.17334v1)|**[link](https://github.com/thy960112/mdbn)**|
+|**2023-09-29**|**Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN**|Weiwen Zhang et.al.|[2309.17269v1](http://arxiv.org/abs/2309.17269v1)|null|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
 |**2023-09-28**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v3](http://arxiv.org/abs/2309.13655v3)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|**[link](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO)**|
@@ -3241,6 +3263,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**On the Contractivity of Plug-and-Play Operators**|Chirayu D. Athalye et.al.|[2309.16899v1](http://arxiv.org/abs/2309.16899v1)|**[link](https://github.com/bhartendu-kumar/pnp-conv)**|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
 |**2023-09-18**|**Reconstructing Existing Levels through Level Inpainting**|Johor Jara Gonzalez et.al.|[2309.09472v1](http://arxiv.org/abs/2309.09472v1)|null|
@@ -3362,6 +3385,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Style Transfer for Non-differentiable Audio Effects**|Kieran Grant et.al.|[2309.17125v1](http://arxiv.org/abs/2309.17125v1)|null|
 |**2023-09-27**|**Synthetic Latent Fingerprint Generation Using Style Transfer**|Amol S. Joshi et.al.|[2309.15734v1](http://arxiv.org/abs/2309.15734v1)|null|
 |**2023-09-27**|**Style Transfer and Self-Supervised Learning Powered Myocardium Infarction Super-Resolution Segmentation**|Lichao Wang et.al.|[2309.15485v1](http://arxiv.org/abs/2309.15485v1)|null|
 |**2023-09-25**|**Informative Data Mining for One-Shot Cross-Domain Semantic Segmentation**|Yuxi Wang et.al.|[2309.14241v1](http://arxiv.org/abs/2309.14241v1)|null|
