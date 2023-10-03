@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v1](http://arxiv.org/abs/2309.17444v1)|null|
+|**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444v2](http://arxiv.org/abs/2309.17444v2)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400v1](http://arxiv.org/abs/2309.17400v1)|null|
 |**2023-09-29**|**Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation**|Tuan Le et.al.|[2309.17296v1](http://arxiv.org/abs/2309.17296v1)|null|
 |**2023-09-29**|**In search of dispersed memories: Generative diffusion models are associative memory networks**|Luca Ambrogioni et.al.|[2309.17290v1](http://arxiv.org/abs/2309.17290v1)|null|
@@ -69,7 +69,7 @@
 |**2023-09-26**|**Diffusion-based Holistic Texture Rectification and Synthesis**|Guoqing Hao et.al.|[2309.14759v1](http://arxiv.org/abs/2309.14759v1)|null|
 |**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756v1](http://arxiv.org/abs/2309.14756v1)|null|
 |**2023-09-26**|**Text-image guided Diffusion Model for generating Deepfake celebrity interactions**|Yunzhuo Chen et.al.|[2309.14751v1](http://arxiv.org/abs/2309.14751v1)|null|
-|**2023-09-29**|**Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement**|Jiancheng Huang et.al.|[2309.14709v2](http://arxiv.org/abs/2309.14709v2)|null|
+|**2023-10-02**|**Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement**|Jiancheng Huang et.al.|[2309.14709v3](http://arxiv.org/abs/2309.14709v3)|null|
 |**2023-09-26**|**Efficient Post-training Quantization with FP8 Formats**|Haihao Shen et.al.|[2309.14592v1](http://arxiv.org/abs/2309.14592v1)|**[link](https://github.com/intel/neural-compressor)**|
 |**2023-09-28**|**Generative Escher Meshes**|Noam Aigerman et.al.|[2309.14564v2](http://arxiv.org/abs/2309.14564v2)|null|
 |**2023-09-25**|**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**|Hanzhuo Huang et.al.|[2309.14494v1](http://arxiv.org/abs/2309.14494v1)|**[link](https://github.com/soolab/free-bloom)**|
