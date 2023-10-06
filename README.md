@@ -26,15 +26,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
+|**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664v1](http://arxiv.org/abs/2310.03664v1)|null|
+|**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
+|**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500v1](http://arxiv.org/abs/2310.03500v1)|null|
+|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
+|**2023-10-05**|**ACT-Net: Anchor-context Action Detection in Surgery Videos**|Luoying Hao et.al.|[2310.03377v1](http://arxiv.org/abs/2310.03377v1)|null|
+|**2023-10-05**|**Realistic Speech-to-Face Generation with Speech-Conditioned Latent Diffusion Model with Face Prior**|Jinting Wang et.al.|[2310.03363v1](http://arxiv.org/abs/2310.03363v1)|null|
+|**2023-10-05**|**Denoising Diffusion Step-aware Models**|Shuai Yang et.al.|[2310.03337v1](http://arxiv.org/abs/2310.03337v1)|null|
+|**2023-10-05**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270v1](http://arxiv.org/abs/2310.03270v1)|null|
+|**2023-10-04**|**Low-Energy Radiative Backgrounds in CCD-Based Dark-Matter Detectors**|Peizhi Du et.al.|[2310.03068v1](http://arxiv.org/abs/2310.03068v1)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
 |**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988v1](http://arxiv.org/abs/2310.02988v1)|null|
 |**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
 |**2023-10-04**|**Fast, Expressive SE $(n)$  Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970v1](http://arxiv.org/abs/2310.02970v1)|**[link](https://github.com/ebekkers/ponita)**|
 |**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906v1](http://arxiv.org/abs/2310.02906v1)|null|
-|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
+|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|**[link](https://github.com/exisas/Magicremover)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
-|**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664v1](http://arxiv.org/abs/2310.02664v1)|null|
+|**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664v1](http://arxiv.org/abs/2310.02664v1)|**[link](https://github.com/sail-sg/DiffMemorize)**|
 |**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
 |**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596v1](http://arxiv.org/abs/2310.02596v1)|null|
 |**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557v1](http://arxiv.org/abs/2310.02557v1)|null|
@@ -1690,6 +1700,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
 |**2023-10-03**|**Relaxed Octahedral Group Convolution for Learning Symmetry Breaking in 3D Physical Systems**|Rui Wang et.al.|[2310.02299v1](http://arxiv.org/abs/2310.02299v1)|null|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
 |**2023-10-04**|**CoNO: Complex Neural Operator for Continuous Dynamical Systems**|Karn Tiwari et.al.|[2310.02094v2](http://arxiv.org/abs/2310.02094v2)|null|
@@ -2817,6 +2828,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Gaia data processing. SEAPipe: The source environment analysis pipeline**|D. L. Harrison et.al.|[2310.03562v1](http://arxiv.org/abs/2310.03562v1)|null|
+|**2023-10-05**|**PET-Enabled Dual-Energy CT Using a Kernel Method with Neural Optimization Transfer**|Siqi Li et.al.|[2310.03287v1](http://arxiv.org/abs/2310.03287v1)|null|
 |**2023-10-04**|**Reversing Deep Face Embeddings with Probable Privacy Protection**|Daile Osorio-Roig et.al.|[2310.03005v1](http://arxiv.org/abs/2310.03005v1)|null|
 |**2023-10-04**|**Soft Convex Quantization: Revisiting Vector Quantization with Convex Optimization**|Tanmay Gautam et.al.|[2310.03004v1](http://arxiv.org/abs/2310.03004v1)|null|
 |**2023-10-03**|**Spectro-spatial hyperspectral image reconstruction from interferometric acquisitions**|Daniele Picone et.al.|[2310.01898v1](http://arxiv.org/abs/2310.01898v1)|null|
@@ -3166,6 +3179,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546v1](http://arxiv.org/abs/2310.03546v1)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
+|**2023-10-02**|**Batch-less stochastic gradient descent for compressive learning of deep regularization for image denoising**|Hui Shi et.al.|[2310.03085v1](http://arxiv.org/abs/2310.03085v1)|null|
 |**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391v1](http://arxiv.org/abs/2310.01391v1)|null|
 |**2023-10-02**|**JPEG Information Regularized Deep Image Prior for Denoising**|Tsukasa Takagi et.al.|[2310.00894v1](http://arxiv.org/abs/2310.00894v1)|null|
 |**2023-09-29**|**Prior Mismatch and Adaptation in PnP-ADMM with a Nonconvex Convergence Analysis**|Shirin Shoushtari et.al.|[2310.00133v1](http://arxiv.org/abs/2310.00133v1)|null|
@@ -3353,7 +3368,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
+|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|**[link](https://github.com/exisas/Magicremover)**|
 |**2023-09-28**|**On the Contractivity of Plug-and-Play Operators**|Chirayu D. Athalye et.al.|[2309.16899v1](http://arxiv.org/abs/2309.16899v1)|**[link](https://github.com/bhartendu-kumar/pnp-conv)**|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
@@ -3476,6 +3491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Multimarginal generative modeling with stochastic interpolants**|Michael S. Albergo et.al.|[2310.03695v1](http://arxiv.org/abs/2310.03695v1)|null|
 |**2023-10-03**|**Learnable Data Augmentation for One-Shot Unsupervised Domain Adaptation**|Julio Ivan Davila Carrazco et.al.|[2310.02201v1](http://arxiv.org/abs/2310.02201v1)|null|
 |**2023-10-03**|**Improving style transfer in dynamic contrast enhanced MRI using a spatio-temporal approach**|Adam G. Tattersall et.al.|[2310.01908v1](http://arxiv.org/abs/2310.01908v1)|null|
 |**2023-10-03**|**Benchmarking and Improving Generator-Validator Consistency of Language Models**|Xiang Lisa Li et.al.|[2310.01846v1](http://arxiv.org/abs/2310.01846v1)|null|
