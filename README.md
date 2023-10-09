@@ -26,11 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v1](http://arxiv.org/abs/2310.04417v1)|null|
+|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v1](http://arxiv.org/abs/2310.04414v1)|null|
+|**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378v1](http://arxiv.org/abs/2310.04378v1)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
+|**2023-10-06**|**VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification**|Han Huang et.al.|[2310.04122v1](http://arxiv.org/abs/2310.04122v1)|null|
+|**2023-10-06**|**Observation-Guided Diffusion Probabilistic Models**|Junoh Kang et.al.|[2310.04041v1](http://arxiv.org/abs/2310.04041v1)|null|
+|**2023-10-05**|**Diffusion Models as Masked Audio-Video Learners**|Elvis Nunez et.al.|[2310.03937v1](http://arxiv.org/abs/2310.03937v1)|null|
+|**2023-10-05**|**Characterizing the Features of Mitotic Figures Using a Conditional Diffusion Probabilistic Model**|Cagla Deniz Bahadir et.al.|[2310.03893v1](http://arxiv.org/abs/2310.03893v1)|**[link](https://github.com/cagladbahadir/dpm-for-mitotic-figures)**|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664v1](http://arxiv.org/abs/2310.03664v1)|null|
 |**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
 |**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500v1](http://arxiv.org/abs/2310.03500v1)|null|
-|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
+|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 |**2023-10-05**|**ACT-Net: Anchor-context Action Detection in Surgery Videos**|Luoying Hao et.al.|[2310.03377v1](http://arxiv.org/abs/2310.03377v1)|null|
 |**2023-10-05**|**Realistic Speech-to-Face Generation with Speech-Conditioned Latent Diffusion Model with Face Prior**|Jinting Wang et.al.|[2310.03363v1](http://arxiv.org/abs/2310.03363v1)|null|
 |**2023-10-05**|**Denoising Diffusion Step-aware Models**|Shuai Yang et.al.|[2310.03337v1](http://arxiv.org/abs/2310.03337v1)|null|
@@ -46,7 +53,7 @@
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
 |**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664v1](http://arxiv.org/abs/2310.02664v1)|**[link](https://github.com/sail-sg/DiffMemorize)**|
 |**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
-|**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596v1](http://arxiv.org/abs/2310.02596v1)|null|
+|**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596v1](http://arxiv.org/abs/2310.02596v1)|**[link](https://github.com/wyysf-98/SweetDreamer)**|
 |**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557v1](http://arxiv.org/abs/2310.02557v1)|null|
 |**2023-10-04**|**Prepare Ansatz for VQE with Diffusion Model**|Yilin Shen et.al.|[2310.02511v1](http://arxiv.org/abs/2310.02511v1)|null|
 |**2023-10-04**|**Learning to Reach Goals via Diffusion**|Vineet Jain et.al.|[2310.02505v1](http://arxiv.org/abs/2310.02505v1)|null|
@@ -1700,6 +1707,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
+|**2023-10-05**|**FNOSeg3D: Resolution-Robust 3D Image Segmentation with Fourier Neural Operator**|Ken C. L. Wong et.al.|[2310.03872v1](http://arxiv.org/abs/2310.03872v1)|**[link](https://github.com/ibm/multimodal-3d-image-segmentation)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
 |**2023-10-03**|**Relaxed Octahedral Group Convolution for Learning Symmetry Breaking in 3D Physical Systems**|Rui Wang et.al.|[2310.02299v1](http://arxiv.org/abs/2310.02299v1)|null|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
@@ -2211,6 +2220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
 |**2023-10-02**|**EXTRACTER: Efficient Texture Matching with Attention and Gradient Enhancing for Large Scale Image Super Resolution**|Esteban Reyes-Saldana et.al.|[2310.01379v1](http://arxiv.org/abs/2310.01379v1)|**[link](https://github.com/esteban-rs/extracter)**|
 |**2023-09-30**|**Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis**|Nithin Gopalakrishnan Nair et.al.|[2310.00224v1](http://arxiv.org/abs/2310.00224v1)|null|
@@ -2619,6 +2629,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641v1](http://arxiv.org/abs/2310.02641v1)|null|
 |**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097v1](http://arxiv.org/abs/2310.02097v1)|**[link](https://github.com/ctom2/cider)**|
 |**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391v1](http://arxiv.org/abs/2310.01391v1)|null|
@@ -2828,6 +2839,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Convergent ADMM Plug and Play PET Image Reconstruction**|Florent Sureau et.al.|[2310.04299v1](http://arxiv.org/abs/2310.04299v1)|null|
 |**2023-10-05**|**Gaia data processing. SEAPipe: The source environment analysis pipeline**|D. L. Harrison et.al.|[2310.03562v1](http://arxiv.org/abs/2310.03562v1)|null|
 |**2023-10-05**|**PET-Enabled Dual-Energy CT Using a Kernel Method with Neural Optimization Transfer**|Siqi Li et.al.|[2310.03287v1](http://arxiv.org/abs/2310.03287v1)|null|
 |**2023-10-04**|**Reversing Deep Face Embeddings with Probable Privacy Protection**|Daile Osorio-Roig et.al.|[2310.03005v1](http://arxiv.org/abs/2310.03005v1)|null|
@@ -2865,7 +2877,7 @@
 |**2023-09-02**|**Diffusion Modeling with Domain-conditioned Prior Guidance for Accelerated MRI and qMRI Reconstruction**|Wanyu Bian et.al.|[2309.00783v1](http://arxiv.org/abs/2309.00783v1)|null|
 |**2023-09-01**|**Learning the Imaging Model of Speed-of-Sound Reconstruction via a Convolutional Formulation**|Can Deniz Bezek et.al.|[2309.00453v1](http://arxiv.org/abs/2309.00453v1)|null|
 |**2023-08-30**|**Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography**|Luke Lozenski et.al.|[2308.16290v1](http://arxiv.org/abs/2308.16290v1)|null|
-|**2023-10-04**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v2](http://arxiv.org/abs/2308.16150v2)|null|
+|**2023-10-04**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v2](http://arxiv.org/abs/2308.16150v2)|**[link](https://github.com/ziyunliang/mmccd)**|
 |**2023-08-28**|**Reinforcement Learning for Sampling on Temporal Medical Imaging Sequences**|Zhishen Huang et.al.|[2308.14946v1](http://arxiv.org/abs/2308.14946v1)|**[link](https://github.com/zhishenhuang/rlsamp)**|
 |**2023-08-27**|**Score-Based Generative Models for PET Image Reconstruction**|Imraj RD Singh et.al.|[2308.14190v1](http://arxiv.org/abs/2308.14190v1)|**[link](https://github.com/imraj-singh/score-based-generative-models-for-pet-image-reconstruction)**|
 |**2023-08-27**|**Generalizable Learning Reconstruction for Accelerating MR Imaging via Federated Neural Architecture Search**|Ruoyou Wu et.al.|[2308.13995v1](http://arxiv.org/abs/2308.13995v1)|null|
@@ -3491,6 +3503,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**CineTransfer: Controlling a Robot to Imitate Cinematographic Style from a Single Example**|Pablo Pueyo et.al.|[2310.03953v1](http://arxiv.org/abs/2310.03953v1)|null|
+|**2023-10-05**|**Automatic and Human-AI Interactive Text Generation**|Yao Dou et.al.|[2310.03878v1](http://arxiv.org/abs/2310.03878v1)|null|
 |**2023-10-05**|**Multimarginal generative modeling with stochastic interpolants**|Michael S. Albergo et.al.|[2310.03695v1](http://arxiv.org/abs/2310.03695v1)|null|
 |**2023-10-03**|**Learnable Data Augmentation for One-Shot Unsupervised Domain Adaptation**|Julio Ivan Davila Carrazco et.al.|[2310.02201v1](http://arxiv.org/abs/2310.02201v1)|null|
 |**2023-10-03**|**Improving style transfer in dynamic contrast enhanced MRI using a spatio-temporal approach**|Adam G. Tattersall et.al.|[2310.01908v1](http://arxiv.org/abs/2310.01908v1)|null|
