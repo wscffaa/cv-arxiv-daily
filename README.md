@@ -26,8 +26,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v1](http://arxiv.org/abs/2310.04417v1)|null|
-|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v1](http://arxiv.org/abs/2310.04414v1)|null|
+|**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922v1](http://arxiv.org/abs/2310.05922v1)|null|
+|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v1](http://arxiv.org/abs/2310.05873v1)|null|
+|**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833v1](http://arxiv.org/abs/2310.05833v1)|null|
+|**2023-10-09**|**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**|Shansan Gong et.al.|[2310.05793v1](http://arxiv.org/abs/2310.05793v1)|null|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737v1](http://arxiv.org/abs/2310.05737v1)|null|
+|**2023-10-09**|**DiffCPS: Diffusion Model based Constrained Policy Search for Offline Reinforcement Learning**|Longxiang He et.al.|[2310.05333v1](http://arxiv.org/abs/2310.05333v1)|**[link](https://github.com/felix-thu/DiffCPS)**|
+|**2023-10-08**|**Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography**|InChan Hwang et.al.|[2310.05299v1](http://arxiv.org/abs/2310.05299v1)|null|
+|**2023-10-08**|**Fast protein backbone generation with SE(3) flow matching**|Jason Yim et.al.|[2310.05297v1](http://arxiv.org/abs/2310.05297v1)|null|
+|**2023-10-08**|**The Emergence of Reproducibility and Consistency in Diffusion Models**|Huijie Zhang et.al.|[2310.05264v1](http://arxiv.org/abs/2310.05264v1)|null|
+|**2023-10-08**|**Latent Diffusion Model for Medical Image Standardization and Enhancement**|Md Selim et.al.|[2310.05237v1](http://arxiv.org/abs/2310.05237v1)|null|
+|**2023-10-07**|**Prompt-to-OS (P2OS): Revolutionizing Operating Systems and Human-Computer Interaction with Integrated AI Generative Models**|Gabriele Tolomei et.al.|[2310.04875v1](http://arxiv.org/abs/2310.04875v1)|null|
+|**2023-10-07**|**Conditional Diffusion Model for Target Speaker Extraction**|Theodor Nguyen et.al.|[2310.04791v1](http://arxiv.org/abs/2310.04791v1)|null|
+|**2023-10-07**|**DiffNAS: Bootstrapping Diffusion Models by Prompting for Better Architectures**|Wenhao Li et.al.|[2310.04750v1](http://arxiv.org/abs/2310.04750v1)|null|
+|**2023-10-07**|**SeeDS: Semantic Separable Diffusion Synthesizer for Zero-shot Food Detection**|Pengfei Zhou et.al.|[2310.04689v1](http://arxiv.org/abs/2310.04689v1)|null|
+|**2023-10-07**|**Understanding and Improving Adversarial Attacks on Latent Diffusion Model**|Boyang Zheng et.al.|[2310.04687v1](http://arxiv.org/abs/2310.04687v1)|null|
+|**2023-10-07**|**VoiceExtender: Short-utterance Text-independent Speaker Verification with Guided Diffusion Model**|Yayun He et.al.|[2310.04681v1](http://arxiv.org/abs/2310.04681v1)|null|
+|**2023-10-07**|**EasyPhoto: Your Smart AI Photo Generator**|Ziheng Wu et.al.|[2310.04672v1](http://arxiv.org/abs/2310.04672v1)|**[link](https://github.com/aigc-apps/sd-webui-EasyPhoto)**|
+|**2023-10-07**|**Score-based Diffusion Models With Self-supervised Learning For Accelerated 3D Multi-contrast Cardiac Magnetic Resonance Imaging**|Yuanyuan Liu et.al.|[2310.04669v1](http://arxiv.org/abs/2310.04669v1)|null|
+|**2023-10-06**|**DragD3D: Vertex-based Editing for Realistic Mesh Deformations using 2D Diffusion Priors**|Tianhao Xie et.al.|[2310.04561v1](http://arxiv.org/abs/2310.04561v1)|null|
+|**2023-10-06**|**Generative Diffusion From An Action Principle**|Akhil Premkumar et.al.|[2310.04490v1](http://arxiv.org/abs/2310.04490v1)|null|
+|**2023-10-05**|**Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties**|Siyuan Guo et.al.|[2310.04463v1](http://arxiv.org/abs/2310.04463v1)|null|
+|**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417v2](http://arxiv.org/abs/2310.04417v2)|null|
+|**2023-10-09**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414v2](http://arxiv.org/abs/2310.04414v2)|null|
 |**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378v1](http://arxiv.org/abs/2310.04378v1)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-10-06**|**VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification**|Han Huang et.al.|[2310.04122v1](http://arxiv.org/abs/2310.04122v1)|null|
 |**2023-10-06**|**Observation-Guided Diffusion Probabilistic Models**|Junoh Kang et.al.|[2310.04041v1](http://arxiv.org/abs/2310.04041v1)|null|
@@ -35,7 +56,7 @@
 |**2023-10-05**|**Characterizing the Features of Mitotic Figures Using a Conditional Diffusion Probabilistic Model**|Cagla Deniz Bahadir et.al.|[2310.03893v1](http://arxiv.org/abs/2310.03893v1)|**[link](https://github.com/cagladbahadir/dpm-for-mitotic-figures)**|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739v1](http://arxiv.org/abs/2310.03739v1)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Certification of Deep Learning Models for Medical Image Segmentation**|Othmane Laousy et.al.|[2310.03664v1](http://arxiv.org/abs/2310.03664v1)|null|
-|**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
+|**2023-10-09**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v2](http://arxiv.org/abs/2310.03602v2)|null|
 |**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500v1](http://arxiv.org/abs/2310.03500v1)|null|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 |**2023-10-05**|**ACT-Net: Anchor-context Action Detection in Surgery Videos**|Luoying Hao et.al.|[2310.03377v1](http://arxiv.org/abs/2310.03377v1)|null|
@@ -1707,6 +1728,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810v1](http://arxiv.org/abs/2310.05810v1)|null|
+|**2023-10-09**|**Super Denoise Net: Speech Super Resolution with Noise Cancellation in Low Sampling Rate Noisy Environments**|Junkang Yang et.al.|[2310.05629v1](http://arxiv.org/abs/2310.05629v1)|null|
+|**2023-10-09**|**Super-resolution diamond magnetic microscopy of superparamagnetic nanoparticles**|Nazanin Mosavian et.al.|[2310.05436v1](http://arxiv.org/abs/2310.05436v1)|null|
+|**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
+|**2023-10-05**|**HartleyMHA: Self-Attention in Frequency Domain for Resolution-Robust and Parameter-Efficient 3D Image Segmentation**|Ken C. L. Wong et.al.|[2310.04466v1](http://arxiv.org/abs/2310.04466v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-05**|**FNOSeg3D: Resolution-Robust 3D Image Segmentation with Fourier Neural Operator**|Ken C. L. Wong et.al.|[2310.03872v1](http://arxiv.org/abs/2310.03872v1)|**[link](https://github.com/ibm/multimodal-3d-image-segmentation)**|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725v1](http://arxiv.org/abs/2310.03725v1)|null|
@@ -2220,6 +2246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
 |**2023-10-02**|**EXTRACTER: Efficient Texture Matching with Attention and Gradient Enhancing for Large Scale Image Super Resolution**|Esteban Reyes-Saldana et.al.|[2310.01379v1](http://arxiv.org/abs/2310.01379v1)|**[link](https://github.com/esteban-rs/extracter)**|
@@ -2637,7 +2664,7 @@
 |**2023-10-02**|**JPEG Information Regularized Deep Image Prior for Denoising**|Tsukasa Takagi et.al.|[2310.00894v1](http://arxiv.org/abs/2310.00894v1)|null|
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563v1](http://arxiv.org/abs/2309.15563v1)|null|
 |**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
-|**2023-09-27**|**Survey on Deep Face Restoration: From Non-blind to Blind and Beyond**|Wenjie Li et.al.|[2309.15490v1](http://arxiv.org/abs/2309.15490v1)|**[link](https://github.com/24wenjie-li/awesome-face-restoration)**|
+|**2023-10-09**|**Survey on Deep Face Restoration: From Non-blind to Blind and Beyond**|Wenjie Li et.al.|[2309.15490v2](http://arxiv.org/abs/2309.15490v2)|**[link](https://github.com/24wenjie-li/awesome-face-restoration)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
 |**2023-09-19**|**Local Lipschitz continuity for energy integrals with slow growth and lower order terms**|Michela Eleuteri et.al.|[2309.10727v1](http://arxiv.org/abs/2309.10727v1)|null|
@@ -2647,7 +2674,7 @@
 |**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068v1](http://arxiv.org/abs/2309.07068v1)|**[link](https://github.com/liutongkun/fair)**|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023v1](http://arxiv.org/abs/2309.06023v1)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
 |**2023-09-11**|**HAT: Hybrid Attention Transformer for Image Restoration**|Xiangyu Chen et.al.|[2309.05239v1](http://arxiv.org/abs/2309.05239v1)|**[link](https://github.com/xpixelgroup/hat)**|
-|**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063v1](http://arxiv.org/abs/2309.03063v1)|null|
+|**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063v1](http://arxiv.org/abs/2309.03063v1)|**[link](https://github.com/Tombs98/CAPTNet)**|
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270v1](http://arxiv.org/abs/2309.02270v1)|null|
 |**2023-09-05**|**Advanced Underwater Image Restoration in Complex Illumination Conditions**|Yifan Song et.al.|[2309.02217v1](http://arxiv.org/abs/2309.02217v1)|null|
 |**2023-09-04**|**Memory augment is All You Need for image restoration**|Xiao Feng Zhang et.al.|[2309.01377v1](http://arxiv.org/abs/2309.01377v1)|**[link](https://github.com/zhangbaijin/memorynet)**|
@@ -2839,6 +2866,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers**|Shiyue Cao et.al.|[2310.05400v1](http://arxiv.org/abs/2310.05400v1)|null|
 |**2023-10-06**|**Convergent ADMM Plug and Play PET Image Reconstruction**|Florent Sureau et.al.|[2310.04299v1](http://arxiv.org/abs/2310.04299v1)|null|
 |**2023-10-05**|**Gaia data processing. SEAPipe: The source environment analysis pipeline**|D. L. Harrison et.al.|[2310.03562v1](http://arxiv.org/abs/2310.03562v1)|null|
 |**2023-10-05**|**PET-Enabled Dual-Energy CT Using a Kernel Method with Neural Optimization Transfer**|Siqi Li et.al.|[2310.03287v1](http://arxiv.org/abs/2310.03287v1)|null|
@@ -3191,6 +3219,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664v1](http://arxiv.org/abs/2310.05664v1)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546v1](http://arxiv.org/abs/2310.03546v1)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 |**2023-10-02**|**Batch-less stochastic gradient descent for compressive learning of deep regularization for image denoising**|Hui Shi et.al.|[2310.03085v1](http://arxiv.org/abs/2310.03085v1)|null|
 |**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391v1](http://arxiv.org/abs/2310.01391v1)|null|
@@ -3209,6 +3238,7 @@
 |**2023-09-10**|**Multi-view Self-supervised Disentanglement for General Image Denoising**|Hao Chen et.al.|[2309.05049v1](http://arxiv.org/abs/2309.05049v1)|**[link](https://github.com/chqwer2/multi-view-self-supervised-disentanglement-denoising)**|
 |**2023-09-04**|**Image denoising in photon-counting CT using PFGM++ with hijacked regularized sampling**|Dennis Hein et.al.|[2309.01553v1](http://arxiv.org/abs/2309.01553v1)|**[link](https://github.com/dennishein/pfgmpp_PCCT_denoising)**|
 |**2023-08-26**|**Sparse Models for Machine Learning**|Jianyi Lin et.al.|[2308.13960v1](http://arxiv.org/abs/2308.13960v1)|null|
+|**2023-10-08**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730v4](http://arxiv.org/abs/2308.08730v4)|**[link](https://github.com/wlydlut/c2f-dft)**|
 |**2023-08-16**|**AATCT-IDS: A Benchmark Abdominal Adipose Tissue CT Image Dataset for Image Denoising, Semantic Segmentation, and Radiomics Evaluation**|Zhiyu Ma et.al.|[2308.08172v1](http://arxiv.org/abs/2308.08172v1)|null|
 |**2023-08-13**|**Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches**|Xin Lin et.al.|[2308.06776v1](http://arxiv.org/abs/2308.06776v1)|**[link](https://github.com/linxin0/scpgabnet)**|
 |**2023-08-13**|**Self-supervised Noise2noise Method Utilizing Corrupted Images with a Modular Network for LDCT Denoising**|Yuting Zhu et.al.|[2308.06746v1](http://arxiv.org/abs/2308.06746v1)|**[link](https://github.com/xyuan01/self-supervised-noise2noise-for-ldct)**|
@@ -3503,6 +3533,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-07**|**WAIT: Feature Warping for Animation to Illustration video Translation using GANs**|Samet Hicsonmez et.al.|[2310.04901v1](http://arxiv.org/abs/2310.04901v1)|null|
+|**2023-10-07**|**Towards Dynamic and Small Objects Refinement for Unsupervised Domain Adaptative Nighttime Semantic Segmentation**|Jingyi Pan et.al.|[2310.04747v1](http://arxiv.org/abs/2310.04747v1)|null|
 |**2023-10-06**|**CineTransfer: Controlling a Robot to Imitate Cinematographic Style from a Single Example**|Pablo Pueyo et.al.|[2310.03953v1](http://arxiv.org/abs/2310.03953v1)|null|
 |**2023-10-05**|**Automatic and Human-AI Interactive Text Generation**|Yao Dou et.al.|[2310.03878v1](http://arxiv.org/abs/2310.03878v1)|null|
 |**2023-10-05**|**Multimarginal generative modeling with stochastic interpolants**|Michael S. Albergo et.al.|[2310.03695v1](http://arxiv.org/abs/2310.03695v1)|null|
