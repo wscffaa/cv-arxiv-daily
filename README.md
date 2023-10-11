@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744v1](http://arxiv.org/abs/2310.06744v1)|null|
+|**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721v1](http://arxiv.org/abs/2310.06721v1)|null|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668v1](http://arxiv.org/abs/2310.06668v1)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661v1](http://arxiv.org/abs/2310.06661v1)|null|
+|**2023-10-10**|**Stochastic representation of processes with resetting**|Marcin Magdziarz et.al.|[2310.06416v1](http://arxiv.org/abs/2310.06416v1)|null|
+|**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389v1](http://arxiv.org/abs/2310.06389v1)|null|
+|**2023-10-10**|**Leveraging Diffusion-Based Image Variations for Robust Training on Poisoned Data**|Lukas Struppek et.al.|[2310.06372v1](http://arxiv.org/abs/2310.06372v1)|**[link](https://github.com/lukasstruppek/robust_training_on_poisoned_samples)**|
+|**2023-10-10**|**JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling**|Jingyang Zhang et.al.|[2310.06347v1](http://arxiv.org/abs/2310.06347v1)|null|
+|**2023-10-10**|**Boosting Continuous Control with Consistency Policy**|Yuhui Chen et.al.|[2310.06343v1](http://arxiv.org/abs/2310.06343v1)|null|
+|**2023-10-10**|**Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models**|Fei Shen et.al.|[2310.06313v1](http://arxiv.org/abs/2310.06313v1)|**[link](https://github.com/muzishen/pcdms)**|
+|**2023-10-10**|**Improving Compositional Text-to-image Generation with Large Vision-Language Models**|Song Wen et.al.|[2310.06311v1](http://arxiv.org/abs/2310.06311v1)|null|
+|**2023-10-09**|**Latent Diffusion Model for DNA Sequence Generation**|Zehui Li et.al.|[2310.06150v1](http://arxiv.org/abs/2310.06150v1)|null|
+|**2023-10-09**|**Layout Sequence Prediction From Noisy Mobile Modality**|Haichao Zhang et.al.|[2310.06138v1](http://arxiv.org/abs/2310.06138v1)|null|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922v1](http://arxiv.org/abs/2310.05922v1)|null|
 |**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v2](http://arxiv.org/abs/2310.05873v2)|null|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833v1](http://arxiv.org/abs/2310.05833v1)|null|
@@ -2656,6 +2669,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721v1](http://arxiv.org/abs/2310.06721v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641v1](http://arxiv.org/abs/2310.02641v1)|null|
 |**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097v1](http://arxiv.org/abs/2310.02097v1)|**[link](https://github.com/ctom2/cider)**|
@@ -3219,6 +3233,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Multiscale hierarchical decomposition methods for images corrupted by multiplicative noise**|Joel Barnett et.al.|[2310.06195v1](http://arxiv.org/abs/2310.06195v1)|null|
 |**2023-10-09**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664v1](http://arxiv.org/abs/2310.05664v1)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546v1](http://arxiv.org/abs/2310.03546v1)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 |**2023-10-02**|**Batch-less stochastic gradient descent for compressive learning of deep regularization for image denoising**|Hui Shi et.al.|[2310.03085v1](http://arxiv.org/abs/2310.03085v1)|null|
@@ -3410,6 +3425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318v1](http://arxiv.org/abs/2310.06318v1)|null|
 |**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
 |**2023-09-28**|**On the Contractivity of Plug-and-Play Operators**|Chirayu D. Athalye et.al.|[2309.16899v1](http://arxiv.org/abs/2309.16899v1)|**[link](https://github.com/bhartendu-kumar/pnp-conv)**|
 |**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
