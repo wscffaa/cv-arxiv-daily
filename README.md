@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579v1](http://arxiv.org/abs/2310.08579v1)|null|
+|**2023-10-12**|**NetDiffusion: Network Data Augmentation Through Protocol-Constrained Traffic Generation**|Xi Jiang et.al.|[2310.08543v1](http://arxiv.org/abs/2310.08543v1)|null|
+|**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529v1](http://arxiv.org/abs/2310.08529v1)|null|
+|**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465v1](http://arxiv.org/abs/2310.08465v1)|null|
+|**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442v1](http://arxiv.org/abs/2310.08442v1)|null|
+|**2023-10-12**|**A new local and explicit kinetic method for linear and non-linear convection-diffusion problems with finite kinetic speeds: I. One-dimensional case**|Gauthier Wissocq et.al.|[2310.08356v1](http://arxiv.org/abs/2310.08356v1)|null|
+|**2023-10-12**|**Neural Diffusion Models**|Grigory Bartosh et.al.|[2310.08337v1](http://arxiv.org/abs/2310.08337v1)|null|
+|**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
+|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972v1](http://arxiv.org/abs/2310.07972v1)|null|
+|**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896v1](http://arxiv.org/abs/2310.07896v1)|null|
+|**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894v1](http://arxiv.org/abs/2310.07894v1)|null|
+|**2023-10-11**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805v1](http://arxiv.org/abs/2310.07805v1)|null|
+|**2023-10-11**|**Quantum sequential scattering model for quantum state learning**|Mingrui Jing et.al.|[2310.07797v1](http://arxiv.org/abs/2310.07797v1)|null|
+|**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771v1](http://arxiv.org/abs/2310.07771v1)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702v1](http://arxiv.org/abs/2310.07702v1)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653v1](http://arxiv.org/abs/2310.07653v1)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492v1](http://arxiv.org/abs/2310.07492v1)|null|
@@ -1758,6 +1772,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**XLuminA: An Auto-differentiating Discovery Framework for Super-Resolution Microscopy**|Carla Rodríguez et.al.|[2310.08408v1](http://arxiv.org/abs/2310.08408v1)|null|
 |**2023-10-11**|**ADASR: An Adversarial Auto-Augmentation Framework for Hyperspectral and Multispectral Data Fusion**|Jinghui Qin et.al.|[2310.07255v1](http://arxiv.org/abs/2310.07255v1)|**[link](https://github.com/fangfang11-plog/adasr)**|
 |**2023-10-10**|**Stochastic Super-resolution of Cosmological Simulations with Denoising Diffusion Models**|Andreas Schanz et.al.|[2310.06929v1](http://arxiv.org/abs/2310.06929v1)|null|
 |**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810v1](http://arxiv.org/abs/2310.05810v1)|null|
@@ -2688,6 +2703,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068v1](http://arxiv.org/abs/2310.08068v1)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721v1](http://arxiv.org/abs/2310.06721v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641v1](http://arxiv.org/abs/2310.02641v1)|null|
@@ -3255,6 +3271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Unsupervised Structured Noise Removal with Variational Lossy Autoencoder**|Benjamin Salmon et.al.|[2310.07887v1](http://arxiv.org/abs/2310.07887v1)|null|
 |**2023-10-11**|**Crowd Counting in Harsh Weather using Image Denoising with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2310.07245v1](http://arxiv.org/abs/2310.07245v1)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222v1](http://arxiv.org/abs/2310.07222v1)|**[link](https://github.com/ysy31415/unipaint)**|
 |**2023-10-09**|**Multiscale hierarchical decomposition methods for images corrupted by multiplicative noise**|Joel Barnett et.al.|[2310.06195v1](http://arxiv.org/abs/2310.06195v1)|null|
