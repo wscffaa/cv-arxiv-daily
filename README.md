@@ -36,7 +36,7 @@
 |**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
 |**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972v1](http://arxiv.org/abs/2310.07972v1)|null|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896v1](http://arxiv.org/abs/2310.07896v1)|null|
-|**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894v1](http://arxiv.org/abs/2310.07894v1)|null|
+|**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894v1](http://arxiv.org/abs/2310.07894v1)|**[link](https://github.com/mandt-lab/PSLD)**|
 |**2023-10-11**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805v1](http://arxiv.org/abs/2310.07805v1)|null|
 |**2023-10-11**|**Quantum sequential scattering model for quantum state learning**|Mingrui Jing et.al.|[2310.07797v1](http://arxiv.org/abs/2310.07797v1)|null|
 |**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771v1](http://arxiv.org/abs/2310.07771v1)|null|
@@ -3271,7 +3271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-11**|**Unsupervised Structured Noise Removal with Variational Lossy Autoencoder**|Benjamin Salmon et.al.|[2310.07887v1](http://arxiv.org/abs/2310.07887v1)|null|
+|**2023-10-11**|**Unsupervised Structured Noise Removal with Variational Lossy Autoencoder**|Benjamin Salmon et.al.|[2310.07887v1](http://arxiv.org/abs/2310.07887v1)|**[link](https://github.com/krulllab/DVLAE)**|
 |**2023-10-11**|**Crowd Counting in Harsh Weather using Image Denoising with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2310.07245v1](http://arxiv.org/abs/2310.07245v1)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222v1](http://arxiv.org/abs/2310.07222v1)|**[link](https://github.com/ysy31415/unipaint)**|
 |**2023-10-09**|**Multiscale hierarchical decomposition methods for images corrupted by multiplicative noise**|Joel Barnett et.al.|[2310.06195v1](http://arxiv.org/abs/2310.06195v1)|null|
@@ -3592,7 +3592,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-11**|**Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape**|Ziqi Wen et.al.|[2310.07555v1](http://arxiv.org/abs/2310.07555v1)|null|
-|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246v2](http://arxiv.org/abs/2310.07246v2)|null|
+|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246v2](http://arxiv.org/abs/2310.07246v2)|**[link](https://github.com/bakerbunker/vectok)**|
 |**2023-10-07**|**WAIT: Feature Warping for Animation to Illustration video Translation using GANs**|Samet Hicsonmez et.al.|[2310.04901v1](http://arxiv.org/abs/2310.04901v1)|**[link](https://github.com/giddyyupp/wait)**|
 |**2023-10-07**|**Towards Dynamic and Small Objects Refinement for Unsupervised Domain Adaptative Nighttime Semantic Segmentation**|Jingyi Pan et.al.|[2310.04747v1](http://arxiv.org/abs/2310.04747v1)|null|
 |**2023-10-06**|**CineTransfer: Controlling a Robot to Imitate Cinematographic Style from a Single Example**|Pablo Pueyo et.al.|[2310.03953v1](http://arxiv.org/abs/2310.03953v1)|null|
