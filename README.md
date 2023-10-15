@@ -34,7 +34,7 @@
 |**2023-10-12**|**A new local and explicit kinetic method for linear and non-linear convection-diffusion problems with finite kinetic speeds: I. One-dimensional case**|Gauthier Wissocq et.al.|[2310.08356v1](http://arxiv.org/abs/2310.08356v1)|null|
 |**2023-10-12**|**Neural Diffusion Models**|Grigory Bartosh et.al.|[2310.08337v1](http://arxiv.org/abs/2310.08337v1)|null|
 |**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
-|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972v1](http://arxiv.org/abs/2310.07972v1)|null|
+|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972v1](http://arxiv.org/abs/2310.07972v1)|**[link](https://github.com/kxh001/info-decomp)**|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896v1](http://arxiv.org/abs/2310.07896v1)|null|
 |**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894v1](http://arxiv.org/abs/2310.07894v1)|**[link](https://github.com/mandt-lab/PSLD)**|
 |**2023-10-11**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805v1](http://arxiv.org/abs/2310.07805v1)|null|
