@@ -26,21 +26,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|null|
-|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640v1](http://arxiv.org/abs/2310.10640v1)|null|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647v1](http://arxiv.org/abs/2310.10647v1)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640v1](http://arxiv.org/abs/2310.10640v1)|**[link](https://github.com/hananshafi/llmblueprint)**|
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639v1](http://arxiv.org/abs/2310.10639v1)|null|
 |**2023-10-16**|**ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model**|Bo Ni et.al.|[2310.10605v1](http://arxiv.org/abs/2310.10605v1)|null|
 |**2023-10-16**|**Generation or Replication: Auscultating Audio Latent Diffusion Models**|Dimitrios Bralios et.al.|[2310.10604v1](http://arxiv.org/abs/2310.10604v1)|null|
 |**2023-10-16**|**Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461v1](http://arxiv.org/abs/2310.10461v1)|null|
 |**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343v1](http://arxiv.org/abs/2310.10343v1)|null|
-|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338v1](http://arxiv.org/abs/2310.10338v1)|null|
+|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338v1](http://arxiv.org/abs/2310.10338v1)|**[link](https://github.com/frankfundel/sgcond)**|
 |**2023-10-16**|**Towards image compression with perfect realism at ultra-low bitrates**|Marlène Careil et.al.|[2310.10325v1](http://arxiv.org/abs/2310.10325v1)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209v1](http://arxiv.org/abs/2310.10209v1)|null|
 |**2023-10-16**|**Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?**|Yu-Lin Tsai et.al.|[2310.10012v1](http://arxiv.org/abs/2310.10012v1)|null|
 |**2023-10-15**|**Unsupervised Discovery of Interpretable Directions in h-space of Pre-trained Diffusion Models**|Zijian Zhang et.al.|[2310.09912v1](http://arxiv.org/abs/2310.09912v1)|null|
 |**2023-10-15**|**Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2310.09760v1](http://arxiv.org/abs/2310.09760v1)|null|
-|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711v1](http://arxiv.org/abs/2310.09711v1)|null|
-|**2023-10-14**|**Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space**|Hengrui Zhang et.al.|[2310.09656v1](http://arxiv.org/abs/2310.09656v1)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711v1](http://arxiv.org/abs/2310.09711v1)|**[link](https://github.com/zhijie-group/lovecon)**|
+|**2023-10-14**|**Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space**|Hengrui Zhang et.al.|[2310.09656v1](http://arxiv.org/abs/2310.09656v1)|**[link](https://github.com/amazon-science/tabsyn)**|
 |**2023-10-14**|**Adaptive Online Replanning with Diffusion Models**|Siyuan Zhou et.al.|[2310.09629v1](http://arxiv.org/abs/2310.09629v1)|null|
 |**2023-10-14**|**JSMoCo: Joint Coil Sensitivity and Motion Correction in Parallel MRI with a Self-Calibrating Score-Based Diffusion Model**|Lixuan Chen et.al.|[2310.09625v1](http://arxiv.org/abs/2310.09625v1)|null|
 |**2023-10-14**|**Neural Network for valuing Bitcoin options under jump-diffusion and market sentiment model**|Edson Pindza et.al.|[2310.09622v1](http://arxiv.org/abs/2310.09622v1)|null|
@@ -51,7 +51,7 @@
 |**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213v1](http://arxiv.org/abs/2310.09213v1)|null|
 |**2023-10-13**|**MINDE: Mutual Information Neural Diffusion Estimation**|Giulio Franzese et.al.|[2310.09031v1](http://arxiv.org/abs/2310.09031v1)|null|
 |**2023-10-13**|**Making Multimodal Generation Easier: When Diffusion Models Meet LLMs**|Xiangyu Zhao et.al.|[2310.08949v1](http://arxiv.org/abs/2310.08949v1)|**[link](https://github.com/zxy556677/easygen)**|
-|**2023-10-13**|**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation**|Jiayu Xiao et.al.|[2310.08872v1](http://arxiv.org/abs/2310.08872v1)|null|
+|**2023-10-17**|**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation**|Jiayu Xiao et.al.|[2310.08872v2](http://arxiv.org/abs/2310.08872v2)|null|
 |**2023-10-13**|**DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection**|Chaocheng Yang et.al.|[2310.08800v1](http://arxiv.org/abs/2310.08800v1)|null|
 |**2023-10-12**|**DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing**|Yueming Lyu et.al.|[2310.08785v1](http://arxiv.org/abs/2310.08785v1)|**[link](https://github.com/yueming6568/deltaedit)**|
 |**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579v1](http://arxiv.org/abs/2310.08579v1)|null|
@@ -1801,7 +1801,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
-|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|null|
+|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|**[link](https://github.com/hellloxiaotian/dsrnet)**|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209v1](http://arxiv.org/abs/2310.10209v1)|null|
 |**2023-10-16**|**An Empirical Study of Super-resolution on Low-resolution Micro-expression Recognition**|Ling Zhou et.al.|[2310.10022v1](http://arxiv.org/abs/2310.10022v1)|null|
 |**2023-10-15**|**FuseSR: Super Resolution for Real-time Rendering through Efficient Multi-resolution Fusion**|Zhihua Zhong et.al.|[2310.09726v1](http://arxiv.org/abs/2310.09726v1)|null|
@@ -2326,7 +2326,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|null|
+|**2023-10-16**|**Image super-resolution via dynamic network**|Chunwei Tian et.al.|[2310.10413v1](http://arxiv.org/abs/2310.10413v1)|**[link](https://github.com/hellloxiaotian/dsrnet)**|
 |**2023-10-08**|**Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling**|Wanjie Sun et.al.|[2310.04964v1](http://arxiv.org/abs/2310.04964v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-03**|**Deep learning-based image super-resolution of a novel end-expandable optical fiber probe for application in esophageal cancer diagnostics**|Xiaohui Zhang et.al.|[2310.02171v1](http://arxiv.org/abs/2310.02171v1)|null|
@@ -2738,7 +2738,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513v1](http://arxiv.org/abs/2310.10513v1)|null|
-|**2023-10-16**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123v1](http://arxiv.org/abs/2310.10123v1)|null|
+|**2023-10-17**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123v2](http://arxiv.org/abs/2310.10123v2)|null|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068v1](http://arxiv.org/abs/2310.08068v1)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721v1](http://arxiv.org/abs/2310.06721v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
@@ -3309,8 +3309,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-16**|**A cross Transformer for image denoising**|Chunwei Tian et.al.|[2310.10408v1](http://arxiv.org/abs/2310.10408v1)|null|
-|**2023-10-16**|**PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising**|Hyemi Jang et.al.|[2310.10088v1](http://arxiv.org/abs/2310.10088v1)|null|
+|**2023-10-16**|**A cross Transformer for image denoising**|Chunwei Tian et.al.|[2310.10408v1](http://arxiv.org/abs/2310.10408v1)|**[link](https://github.com/hellloxiaotian/ctnet)**|
+|**2023-10-16**|**PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising**|Hyemi Jang et.al.|[2310.10088v1](http://arxiv.org/abs/2310.10088v1)|**[link](https://github.com/HyemiEsme/PUCA)**|
 |**2023-10-13**|**Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising**|Hansen Feng et.al.|[2310.09126v1](http://arxiv.org/abs/2310.09126v1)|null|
 |**2023-10-11**|**Unsupervised Structured Noise Removal with Variational Lossy Autoencoder**|Benjamin Salmon et.al.|[2310.07887v1](http://arxiv.org/abs/2310.07887v1)|**[link](https://github.com/krulllab/DVLAE)**|
 |**2023-10-11**|**Crowd Counting in Harsh Weather using Image Denoising with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2310.07245v1](http://arxiv.org/abs/2310.07245v1)|null|
@@ -3635,8 +3635,8 @@
 |---|---|---|---|---|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
 |**2023-10-16**|**Style transfer between Microscopy and Magnetic Resonance Imaging via Generative Adversarial Network in small sample size settings**|Monika Pytlarz et.al.|[2310.10414v1](http://arxiv.org/abs/2310.10414v1)|null|
-|**2023-10-15**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978v1](http://arxiv.org/abs/2310.09978v1)|null|
-|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711v1](http://arxiv.org/abs/2310.09711v1)|null|
+|**2023-10-15**|**Chinese Painting Style Transfer Using Deep Generative Models**|Weijian Ma et.al.|[2310.09978v1](http://arxiv.org/abs/2310.09978v1)|**[link](https://github.com/yanyangbaobeiisemma/chinsepaintingstyletransfer)**|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711v1](http://arxiv.org/abs/2310.09711v1)|**[link](https://github.com/zhijie-group/lovecon)**|
 |**2023-10-11**|**Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape**|Ziqi Wen et.al.|[2310.07555v1](http://arxiv.org/abs/2310.07555v1)|null|
 |**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246v2](http://arxiv.org/abs/2310.07246v2)|**[link](https://github.com/bakerbunker/vectok)**|
 |**2023-10-07**|**WAIT: Feature Warping for Animation to Illustration video Translation using GANs**|Samet Hicsonmez et.al.|[2310.04901v1](http://arxiv.org/abs/2310.04901v1)|**[link](https://github.com/giddyyupp/wait)**|
