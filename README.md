@@ -3005,7 +3005,7 @@
 |**2023-10-03**|**SADIR: Shape-Aware Diffusion Models for 3D Image Reconstruction**|Nivetha Jayakumar et.al.|[2309.03335v2](http://arxiv.org/abs/2309.03335v2)|null|
 |**2023-09-06**|**A flexible and accurate total variation and cascaded denoisers-based image reconstruction algorithm for hyperspectrally compressed ultrafast photography**|Zihan Guo et.al.|[2309.02835v1](http://arxiv.org/abs/2309.02835v1)|null|
 |**2023-09-05**|**RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image**|Yunhao Zou et.al.|[2309.02020v1](http://arxiv.org/abs/2309.02020v1)|**[link](https://github.com/jackzou233/rawhdr)**|
-|**2023-09-05**|**PyTomography: A Python Library for Quantitative Medical Image Reconstruction**|Lucas Polson et.al.|[2309.01977v1](http://arxiv.org/abs/2309.01977v1)|null|
+|**2023-10-18**|**PyTomography: A Python Library for Quantitative Medical Image Reconstruction**|Lucas Polson et.al.|[2309.01977v2](http://arxiv.org/abs/2309.01977v2)|null|
 |**2023-09-03**|**Orientation-Independent Chinese Text Recognition in Scene Images**|Haiyang Yu et.al.|[2309.01081v1](http://arxiv.org/abs/2309.01081v1)|null|
 |**2023-09-02**|**Diffusion Modeling with Domain-conditioned Prior Guidance for Accelerated MRI and qMRI Reconstruction**|Wanyu Bian et.al.|[2309.00783v1](http://arxiv.org/abs/2309.00783v1)|null|
 |**2023-09-01**|**Learning the Imaging Model of Speed-of-Sound Reconstruction via a Convolutional Formulation**|Can Deniz Bezek et.al.|[2309.00453v1](http://arxiv.org/abs/2309.00453v1)|null|
