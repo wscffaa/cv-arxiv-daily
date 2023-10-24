@@ -26,6 +26,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110v1](http://arxiv.org/abs/2310.15110v1)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v1](http://arxiv.org/abs/2310.15008v1)|null|
+|**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907v1](http://arxiv.org/abs/2310.14907v1)|null|
+|**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842v1](http://arxiv.org/abs/2310.14842v1)|null|
+|**2023-10-23**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729v1](http://arxiv.org/abs/2310.14729v1)|null|
+|**2023-10-23**|** $Λ$ -Split: A Privacy-Preserving Split Computing Framework for Cloud-Powered Generative AI**|Shoki Ohta et.al.|[2310.14651v1](http://arxiv.org/abs/2310.14651v1)|**[link](https://github.com/nishio-laboratory/lambda_split)**|
+|**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570v1](http://arxiv.org/abs/2310.14570v1)|null|
+|**2023-10-22**|**Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation**|Yanfang Liu et.al.|[2310.14458v1](http://arxiv.org/abs/2310.14458v1)|null|
+|**2023-10-22**|**Diffusion-based Data Augmentation for Nuclei Image Segmentation**|Xinyi Yu et.al.|[2310.14197v1](http://arxiv.org/abs/2310.14197v1)|**[link](https://github.com/lhaof/nudiff)**|
+|**2023-10-22**|**Improved Techniques for Training Consistency Models**|Yang Song et.al.|[2310.14189v1](http://arxiv.org/abs/2310.14189v1)|null|
+|**2023-10-21**|**Composer Style-specific Symbolic Music Generation Using Vector Quantized Discrete Diffusion Models**|Jincheng Zhang et.al.|[2310.14044v1](http://arxiv.org/abs/2310.14044v1)|null|
+|**2023-10-21**|**Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions**|Jincheng Zhang et.al.|[2310.14040v1](http://arxiv.org/abs/2310.14040v1)|null|
+|**2023-10-21**|**Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States**|Zidan Wang et.al.|[2310.13914v1](http://arxiv.org/abs/2310.13914v1)|null|
+|**2023-10-20**|**GraphMaker: Can Diffusion Models Generate Large Attributed Graphs?**|Mufei Li et.al.|[2310.13833v1](http://arxiv.org/abs/2310.13833v1)|**[link](https://github.com/graph-com/graphmaker)**|
+|**2023-10-20**|**TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models**|Tianshi Cao et.al.|[2310.13772v1](http://arxiv.org/abs/2310.13772v1)|null|
+|**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730v1](http://arxiv.org/abs/2310.13730v1)|null|
+|**2023-10-16**|**Generation of scale-free assortative networks via Newman rewiring for simulation of diffusion phenomena**|L. Di Lucchio et.al.|[2310.13716v1](http://arxiv.org/abs/2310.13716v1)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545v1](http://arxiv.org/abs/2310.13545v1)|**[link](https://github.com/sail-sg/scalelong)**|
 |**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165v1](http://arxiv.org/abs/2310.13165v1)|**[link](https://github.com/sled-group/cyclenet)**|
 |**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157v1](http://arxiv.org/abs/2310.13157v1)|null|
@@ -1832,6 +1851,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**Parallel compressive super-resolution imaging with wide field-of-view based on physics enhanced network**|Xiao-Peng Jin et.al.|[2310.14965v1](http://arxiv.org/abs/2310.14965v1)|null|
+|**2023-10-22**|**A Coordinate Descent Approach to Atomic Norm Minimization**|Ruifu Li et.al.|[2310.14182v1](http://arxiv.org/abs/2310.14182v1)|null|
 |**2023-10-20**|**Auxiliary Features-Guided Super Resolution for Monte Carlo Rendering**|Qiqi Hou et.al.|[2310.13235v1](http://arxiv.org/abs/2310.13235v1)|null|
 |**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
 |**2023-10-19**|**Multi-granularity Backprojection Transformer for Remote Sensing Image Super-Resolution**|Jinglei Hao et.al.|[2310.12507v1](http://arxiv.org/abs/2310.12507v1)|null|
@@ -3000,6 +3021,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978v1](http://arxiv.org/abs/2310.14978v1)|null|
+|**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184v1](http://arxiv.org/abs/2310.14184v1)|null|
+|**2023-10-21**|**Breaking the Resolution limit in Photoacoustic Imaging using Positivity and Sparsity**|Peter Burgholzer et.al.|[2310.13952v1](http://arxiv.org/abs/2310.13952v1)|null|
+|**2023-10-21**|**Heat diffusion blurs photothermal images with increasing depth**|Peter Burgholzer et.al.|[2310.13943v1](http://arxiv.org/abs/2310.13943v1)|null|
 |**2023-10-20**|**A mathematical study of joint image reconstruction and motion estimation using optimal control**|Zhentong Wei et.al.|[2310.13635v1](http://arxiv.org/abs/2310.13635v1)|null|
 |**2023-10-19**|**Multi-granularity Backprojection Transformer for Remote Sensing Image Super-Resolution**|Jinglei Hao et.al.|[2310.12507v1](http://arxiv.org/abs/2310.12507v1)|null|
 |**2023-10-18**|**Quantum Radio Astronomy: Data Encodings and Quantum Image Processing**|Thomas Brunet et.al.|[2310.12084v1](http://arxiv.org/abs/2310.12084v1)|null|
@@ -3566,6 +3591,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Online Detection of AI-Generated Images**|David C. Epstein et.al.|[2310.15150v1](http://arxiv.org/abs/2310.15150v1)|null|
 |**2023-10-13**|**SAIR: Learning Semantic-aware Implicit Representation**|Canyu Zhang et.al.|[2310.09285v1](http://arxiv.org/abs/2310.09285v1)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222v1](http://arxiv.org/abs/2310.07222v1)|**[link](https://github.com/ysy31415/unipaint)**|
 |**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318v1](http://arxiv.org/abs/2310.06318v1)|null|
@@ -3692,6 +3718,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Prefix-Tuning Based Unsupervised Text Style Transfer**|Huiyu Mai et.al.|[2310.14599v1](http://arxiv.org/abs/2310.14599v1)|null|
+|**2023-10-23**|**Diversify Question Generation with Retrieval-Augmented Style Transfer**|Qi Gou et.al.|[2310.14503v1](http://arxiv.org/abs/2310.14503v1)|**[link](https://github.com/gouqi666/rast)**|
+|**2023-10-23**|**Text Fact Transfer**|Nishant Balepur et.al.|[2310.14486v1](http://arxiv.org/abs/2310.14486v1)|**[link](https://github.com/nbalepur/text-fact-transfer)**|
 |**2023-10-23**|**Boosting Generalization with Adaptive Style Techniques for Fingerprint Liveness Detection**|Kexin Zhu et.al.|[2310.13573v2](http://arxiv.org/abs/2310.13573v2)|null|
 |**2023-10-19**|**Audio Editing with Non-Rigid Text Prompts**|Francesco Paissan et.al.|[2310.12858v1](http://arxiv.org/abs/2310.12858v1)|null|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
