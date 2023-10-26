@@ -26,6 +26,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834v1](http://arxiv.org/abs/2310.16834v1)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
+|**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
+|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v1](http://arxiv.org/abs/2310.16818v1)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|null|
+|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v1](http://arxiv.org/abs/2310.16779v1)|null|
+|**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
+|**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656v1](http://arxiv.org/abs/2310.16656v1)|null|
+|**2023-10-25**|**Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo**|Kun Fang et.al.|[2310.16594v1](http://arxiv.org/abs/2310.16594v1)|null|
+|**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573v1](http://arxiv.org/abs/2310.16573v1)|null|
+|**2023-10-25**|**Open Knowledge Base Canonicalization with Multi-task Unlearning**|Bingchen Liu et.al.|[2310.16419v1](http://arxiv.org/abs/2310.16419v1)|null|
+|**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400v1](http://arxiv.org/abs/2310.16400v1)|null|
+|**2023-10-25**|**DiffRef3D: A Diffusion-based Proposal Refinement Framework for 3D Object Detection**|Se-Ho Kim et.al.|[2310.16349v1](http://arxiv.org/abs/2310.16349v1)|null|
+|**2023-10-25**|**Diffusion model approach to simulating electron-proton scattering events**|Peter Devlin et.al.|[2310.16308v1](http://arxiv.org/abs/2310.16308v1)|null|
+|**2023-10-25**|**Dolfin: Diffusion Layout Transformers without Autoencoder**|Yilin Wang et.al.|[2310.16305v1](http://arxiv.org/abs/2310.16305v1)|null|
+|**2023-10-25**|**Removing Dust from CMB Observations with Diffusion Models**|David Heurtel-Depeiges et.al.|[2310.16285v1](http://arxiv.org/abs/2310.16285v1)|null|
+|**2023-10-24**|**iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis**|Yash Kant et.al.|[2310.16167v1](http://arxiv.org/abs/2310.16167v1)|null|
+|**2023-10-24**|**RePoseDM: Recurrent Pose Alignment and Gradient Guidance for Pose Guided Image Synthesis**|Anant Khandelwal et.al.|[2310.16074v1](http://arxiv.org/abs/2310.16074v1)|null|
 |**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v2](http://arxiv.org/abs/2310.15952v2)|null|
 |**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831v1](http://arxiv.org/abs/2310.15831v1)|null|
@@ -1864,6 +1882,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
+|**2023-10-25**|**Super-resolution imaging reveals resistance to mass transfer in functionalized stationary phases**|Ricardo Monge Neria et.al.|[2310.16266v1](http://arxiv.org/abs/2310.16266v1)|null|
 |**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
 |**2023-10-24**|**Spectral-based detection of chromatin loops in multiplexed super-resolution FISH data**|Michaël Liefsoens et.al.|[2310.15701v1](http://arxiv.org/abs/2310.15701v1)|null|
 |**2023-10-20**|**Parallel compressive super-resolution imaging with wide field-of-view based on physics enhanced network**|Xiao-Peng Jin et.al.|[2310.14965v1](http://arxiv.org/abs/2310.14965v1)|null|
@@ -2402,6 +2422,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v1](http://arxiv.org/abs/2310.15767v1)|null|
 |**2023-10-20**|**PTSR: Patch Translator for Image Super-Resolution**|Neeraj Baghel et.al.|[2310.13216v1](http://arxiv.org/abs/2310.13216v1)|null|
 |**2023-10-19**|**Multi-granularity Backprojection Transformer for Remote Sensing Image Super-Resolution**|Jinglei Hao et.al.|[2310.12507v1](http://arxiv.org/abs/2310.12507v1)|null|
@@ -3039,6 +3060,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Learning Robust Deep Visual Representations from EEG Brain Recordings**|Prajwal Singh et.al.|[2310.16532v1](http://arxiv.org/abs/2310.16532v1)|**[link](https://github.com/prajwalsingh/eegstylegan-ada)**|
+|**2023-10-24**|**Pixel-Level Clustering Network for Unsupervised Image Segmentation**|Cuong Manh Hoang et.al.|[2310.16234v1](http://arxiv.org/abs/2310.16234v1)|null|
 |**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831v1](http://arxiv.org/abs/2310.15831v1)|null|
 |**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978v1](http://arxiv.org/abs/2310.14978v1)|null|
 |**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184v1](http://arxiv.org/abs/2310.14184v1)|null|
@@ -3737,6 +3760,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**AccoMontage-3: Full-Band Accompaniment Arrangement via Sequential Style Transfer and Multi-Track Function Prior**|Jingwei Zhao et.al.|[2310.16334v1](http://arxiv.org/abs/2310.16334v1)|**[link](https://github.com/zhaojw1998/accomontage-3)**|
 |**2023-10-24**|**Region-controlled Style Transfer**|Junjie Kang et.al.|[2310.15658v1](http://arxiv.org/abs/2310.15658v1)|null|
 |**2023-10-24**|**Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework**|Weixi Weng et.al.|[2310.15646v1](http://arxiv.org/abs/2310.15646v1)|null|
 |**2023-10-23**|**Prefix-Tuning Based Unsupervised Text Style Transfer**|Huiyu Mai et.al.|[2310.14599v1](http://arxiv.org/abs/2310.14599v1)|null|
