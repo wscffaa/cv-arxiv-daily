@@ -26,6 +26,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|null|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
+|**2023-10-26**|**CodeFusion: A Pre-trained Diffusion Model for Code Generation**|Mukul Singh et.al.|[2310.17680v1](http://arxiv.org/abs/2310.17680v1)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
 |**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638v1](http://arxiv.org/abs/2310.17638v1)|null|
 |**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590v1](http://arxiv.org/abs/2310.17590v1)|null|
@@ -1900,6 +1903,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Deep Learning Enables Large Depth-of-Field Images for Sub-Diffraction-Limit Scanning Superlens Microscopy**|Hui Sun et.al.|[2310.17997v1](http://arxiv.org/abs/2310.17997v1)|null|
+|**2023-10-27**|**SCAN-MUSIC: An Efficient Super-resolution Algorithm for Single Snapshot Wide-band Line Spectral Estimation**|Zetao Fei et.al.|[2310.17988v1](http://arxiv.org/abs/2310.17988v1)|null|
+|**2023-10-26**|**BERT-PIN: A BERT-based Framework for Recovering Missing Data Segments in Time-series Load Profiles**|Yi Hu et.al.|[2310.17742v1](http://arxiv.org/abs/2310.17742v1)|null|
 |**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
 |**2023-10-25**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v1](http://arxiv.org/abs/2310.16869v1)|null|
@@ -2867,6 +2873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293v1](http://arxiv.org/abs/2310.18293v1)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848v1](http://arxiv.org/abs/2310.12848v1)|null|
 |**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881v1](http://arxiv.org/abs/2310.11881v1)|null|
@@ -3084,6 +3091,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**On Choosing Initial Values of Iteratively Reweighted  $\ell_1$  Algorithms for the Piece-wise Exponential Penalty**|Rongrong Lin et.al.|[2310.17849v1](http://arxiv.org/abs/2310.17849v1)|null|
 |**2023-10-26**|**Optimizing the Temporal and Spatial Resolutions and Light Throughput of Fresnel Incoherent Correlation Holography in the Framework of Coded Aperture Imaging**|Francis Gracy Arockiaraj et.al.|[2310.17103v1](http://arxiv.org/abs/2310.17103v1)|null|
 |**2023-10-13**|**Proceedings of the 17th Virtual International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine**|Chuan Huang et.al.|[2310.16846v1](http://arxiv.org/abs/2310.16846v1)|null|
 |**2023-10-25**|**Learning Robust Deep Visual Representations from EEG Brain Recordings**|Prajwal Singh et.al.|[2310.16532v1](http://arxiv.org/abs/2310.16532v1)|**[link](https://github.com/prajwalsingh/eegstylegan-ada)**|
@@ -3786,6 +3794,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Generative AI Model for Artistic Style Transfer Using Convolutional Neural Networks**|Jonayet Miah et.al.|[2310.18237v1](http://arxiv.org/abs/2310.18237v1)|null|
 |**2023-10-26**|**Content-based Controls For Music Large Language Modeling**|Liwei Lin et.al.|[2310.17162v1](http://arxiv.org/abs/2310.17162v1)|null|
 |**2023-10-26**|**Neural style transfer of weak lensing mass maps**|Masato Shirasaki et.al.|[2310.17141v1](http://arxiv.org/abs/2310.17141v1)|null|
 |**2023-10-25**|**AccoMontage-3: Full-Band Accompaniment Arrangement via Sequential Style Transfer and Multi-Track Function Prior**|Jingwei Zhao et.al.|[2310.16334v1](http://arxiv.org/abs/2310.16334v1)|**[link](https://github.com/zhaojw1998/accomontage-3)**|
