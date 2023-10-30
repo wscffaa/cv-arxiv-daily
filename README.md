@@ -49,7 +49,7 @@
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|**[link](https://github.com/dsaragih/diffuse-gen)**|
-|**2023-10-26**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v2](http://arxiv.org/abs/2310.16779v2)|**[link](https://github.com/jh-jeong/smoothing-multiscale)**|
+|**2023-10-27**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v3](http://arxiv.org/abs/2310.16779v3)|**[link](https://github.com/jh-jeong/smoothing-multiscale)**|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656v1](http://arxiv.org/abs/2310.16656v1)|null|
 |**2023-10-25**|**Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo**|Kun Fang et.al.|[2310.16594v1](http://arxiv.org/abs/2310.16594v1)|null|
@@ -75,7 +75,7 @@
 |**2023-10-24**|**AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing**|Namjoon Suh et.al.|[2310.15479v1](http://arxiv.org/abs/2310.15479v1)|null|
 |**2023-10-23**|**Fast and Reliable Generation of EHR Time Series via Diffusion Models**|Muhang Tian et.al.|[2310.15290v1](http://arxiv.org/abs/2310.15290v1)|null|
 |**2023-10-23**|**SyncFusion: Multimodal Onset-synchronized Video-to-Audio Foley Synthesis**|Marco Comunità et.al.|[2310.15247v1](http://arxiv.org/abs/2310.15247v1)|null|
-|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|**[link](https://github.com/arthur-qiu/longercrafter)**|
+|**2023-10-27**|**FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v2](http://arxiv.org/abs/2310.15169v2)|**[link](https://github.com/arthur-qiu/longercrafter)**|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110v1](http://arxiv.org/abs/2310.15110v1)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
 |**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v2](http://arxiv.org/abs/2310.15008v2)|null|
