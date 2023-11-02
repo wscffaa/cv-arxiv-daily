@@ -55,7 +55,7 @@
 |**2023-10-27**|**From Generative AI to Generative Internet of Things: Fundamentals, Framework, and Outlooks**|Jinbo Wen et.al.|[2310.18382v1](http://arxiv.org/abs/2310.18382v1)|null|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308v1](http://arxiv.org/abs/2310.18308v1)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
-|**2023-10-30**|**CodeFusion: A Pre-trained Diffusion Model for Code Generation**|Mukul Singh et.al.|[2310.17680v2](http://arxiv.org/abs/2310.17680v2)|null|
+|**2023-11-01**|**CodeFusion: A Pre-trained Diffusion Model for Code Generation**|Mukul Singh et.al.|[2310.17680v3](http://arxiv.org/abs/2310.17680v3)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
 |**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638v1](http://arxiv.org/abs/2310.17638v1)|null|
 |**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590v1](http://arxiv.org/abs/2310.17590v1)|null|
