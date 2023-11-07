@@ -26,10 +26,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303v1](http://arxiv.org/abs/2311.03303v1)|null|
+|**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226v1](http://arxiv.org/abs/2311.03226v1)|null|
+|**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118v1](http://arxiv.org/abs/2311.03118v1)|null|
+|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054v1](http://arxiv.org/abs/2311.03054v1)|null|
+|**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
+|**2023-11-06**|**Diffusion-based Radiotherapy Dose Prediction Guided by Inter-slice Aware Structure Encoding**|Zhenghao Feng et.al.|[2311.02991v1](http://arxiv.org/abs/2311.02991v1)|null|
+|**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848v1](http://arxiv.org/abs/2311.02848v1)|null|
+|**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373v1](http://arxiv.org/abs/2311.02373v1)|null|
+|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
+|**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343v1](http://arxiv.org/abs/2311.02343v1)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
+|**2023-11-03**|**Patch-based Selection and Refinement for Early Object Detection**|Tianyi Zhang et.al.|[2311.02274v1](http://arxiv.org/abs/2311.02274v1)|null|
+|**2023-11-03**|**Sparse Training of Discrete Diffusion Models for Graph Generation**|Yiming Qin et.al.|[2311.02142v1](http://arxiv.org/abs/2311.02142v1)|null|
 |**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041v1](http://arxiv.org/abs/2311.02041v1)|**[link](https://github.com/florianfuerrutter/genqc)**|
 |**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968v1](http://arxiv.org/abs/2311.01968v1)|null|
 |**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797v1](http://arxiv.org/abs/2311.01797v1)|**[link](https://github.com/lphleo/diffusion_generalization)**|
-|**2023-11-03**|**CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model**|Jui-Yi Tsai et.al.|[2311.01729v1](http://arxiv.org/abs/2311.01729v1)|null|
+|**2023-11-06**|**CDGraph: Dual Conditional Social Graph Synthesizing via Diffusion Model**|Jui-Yi Tsai et.al.|[2311.01729v2](http://arxiv.org/abs/2311.01729v2)|null|
 |**2023-11-02**|**Improving Fairness using Vision-Language Driven Image Augmentation**|Moreno D'Incà et.al.|[2311.01573v1](http://arxiv.org/abs/2311.01573v1)|**[link](https://github.com/moreno98/vision-language-bias-control)**|
 |**2023-11-02**|**Exploring the Hyperparameter Space of Image Diffusion Models for Echocardiogram Generation**|Hadrien Reynaud et.al.|[2311.01567v1](http://arxiv.org/abs/2311.01567v1)|null|
 |**2023-11-02**|**Investigating the Behavior of Diffusion Models for Accelerating Electronic Structure Calculations**|Daniel Rothchild et.al.|[2311.01491v1](http://arxiv.org/abs/2311.01491v1)|null|
@@ -60,7 +72,7 @@
 |**2023-11-01**|**Space Narrative: Generating Images and 3D Scenes of Chinese Garden from Text using Deep Learning**|Jiaxi Shi1 et.al.|[2311.00339v1](http://arxiv.org/abs/2311.00339v1)|null|
 |**2023-11-01**|**Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study**|Jonghun Kim et.al.|[2311.00265v1](http://arxiv.org/abs/2311.00265v1)|**[link](https://github.com/jongdory/aldm)**|
 |**2023-10-31**|**Score Normalization for a Faster Diffusion Exponential Integrator Sampler**|Guoxuan Xia et.al.|[2311.00157v1](http://arxiv.org/abs/2311.00157v1)|**[link](https://github.com/mtkresearch/diffusion-deis-sn)**|
-|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v1](http://arxiv.org/abs/2310.20700v1)|null|
+|**2023-11-06**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700v2](http://arxiv.org/abs/2310.20700v2)|null|
 |**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618v1](http://arxiv.org/abs/2310.20618v1)|null|
 |**2023-10-31**|**Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion**|Zhengyi Yang et.al.|[2310.20453v1](http://arxiv.org/abs/2310.20453v1)|**[link](https://github.com/yangzhengyi98/dreamrec)**|
 |**2023-10-31**|**In Search of Lost Online Test-time Adaptation: A Survey**|Zixin Wang et.al.|[2310.20199v1](http://arxiv.org/abs/2310.20199v1)|null|
@@ -1964,6 +1976,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Analysis of the sparse super resolution limit using the Cramér-Rao lower bound**|Mathias Hockmann et.al.|[2311.03178v1](http://arxiv.org/abs/2311.03178v1)|null|
+|**2023-11-05**|**Super-resolved snapshot hyperspectral imaging of solid-state quantum emitters for high-throughput integrated quantum technologies**|Shunfa Liu et.al.|[2311.02626v1](http://arxiv.org/abs/2311.02626v1)|null|
+|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
+|**2023-11-04**|**An Operator Learning Framework for Spatiotemporal Super-resolution of Scientific Simulations**|Valentin Duruisseaux et.al.|[2311.02328v1](http://arxiv.org/abs/2311.02328v1)|**[link](https://github.com/vduruiss/sropnet)**|
+|**2023-11-03**|**Learning-Based and Quality Preserving Super-Resolution of Noisy Images**|Simone Cammarasana et.al.|[2311.02254v1](http://arxiv.org/abs/2311.02254v1)|null|
 |**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003v1](http://arxiv.org/abs/2311.02003v1)|null|
 |**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773v1](http://arxiv.org/abs/2311.01773v1)|null|
 |**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
@@ -2524,6 +2541,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
 |**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003v1](http://arxiv.org/abs/2311.02003v1)|null|
 |**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
 |**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v1](http://arxiv.org/abs/2311.00996v1)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
@@ -2955,6 +2973,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105v1](http://arxiv.org/abs/2311.03105v1)|null|
+|**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010v1](http://arxiv.org/abs/2311.03010v1)|null|
+|**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926v1](http://arxiv.org/abs/2311.02926v1)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924v1](http://arxiv.org/abs/2311.01924v1)|null|
 |**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216v1](http://arxiv.org/abs/2311.01216v1)|null|
 |**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186v1](http://arxiv.org/abs/2311.00186v1)|null|
@@ -3186,7 +3207,7 @@
 |**2023-10-28**|**Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches**|Derick Nganyu Tanyu et.al.|[2310.18636v1](http://arxiv.org/abs/2310.18636v1)|**[link](https://github.com/dericknganyu/eit_dataset_generation)**|
 |**2023-10-27**|**On Choosing Initial Values of Iteratively Reweighted  $\ell_1$  Algorithms for the Piece-wise Exponential Penalty**|Rongrong Lin et.al.|[2310.17849v1](http://arxiv.org/abs/2310.17849v1)|null|
 |**2023-10-26**|**Optimizing the Temporal and Spatial Resolutions and Light Throughput of Fresnel Incoherent Correlation Holography in the Framework of Coded Aperture Imaging**|Francis Gracy Arockiaraj et.al.|[2310.17103v1](http://arxiv.org/abs/2310.17103v1)|null|
-|**2023-10-13**|**Proceedings of the 17th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine**|Chuan Huang et.al.|[2310.16846v1](http://arxiv.org/abs/2310.16846v1)|null|
+|**2023-11-03**|**Proceedings of the 17th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine**|Chuan Huang et.al.|[2310.16846v2](http://arxiv.org/abs/2310.16846v2)|null|
 |**2023-10-25**|**Learning Robust Deep Visual Representations from EEG Brain Recordings**|Prajwal Singh et.al.|[2310.16532v1](http://arxiv.org/abs/2310.16532v1)|**[link](https://github.com/prajwalsingh/eegstylegan-ada)**|
 |**2023-10-24**|**Pixel-Level Clustering Network for Unsupervised Image Segmentation**|Cuong Manh Hoang et.al.|[2310.16234v1](http://arxiv.org/abs/2310.16234v1)|null|
 |**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831v1](http://arxiv.org/abs/2310.15831v1)|**[link](https://github.com/adahfbch/dgm-eit)**|
@@ -3561,6 +3582,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Zero-Shot Enhancement of Low-Light Image Based on Retinex Decomposition**|Wenchao Li et.al.|[2311.02995v1](http://arxiv.org/abs/2311.02995v1)|null|
+|**2023-11-04**|**Thermal Face Image Classification using Deep Learning Techniques**|Prosenjit Chatterjee et.al.|[2311.02314v1](http://arxiv.org/abs/2311.02314v1)|null|
 |**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653v1](http://arxiv.org/abs/2310.12653v1)|**[link](https://github.com/vlogroup/pogmdm)**|
 |**2023-10-16**|**A cross Transformer for image denoising**|Chunwei Tian et.al.|[2310.10408v1](http://arxiv.org/abs/2310.10408v1)|**[link](https://github.com/hellloxiaotian/ctnet)**|
 |**2023-10-16**|**PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising**|Hyemi Jang et.al.|[2310.10088v1](http://arxiv.org/abs/2310.10088v1)|**[link](https://github.com/HyemiEsme/PUCA)**|
@@ -3760,6 +3783,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
 |**2023-10-31**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383v1](http://arxiv.org/abs/2310.20383v1)|null|
 |**2023-10-23**|**Online Detection of AI-Generated Images**|David C. Epstein et.al.|[2310.15150v1](http://arxiv.org/abs/2310.15150v1)|null|
 |**2023-10-13**|**SAIR: Learning Semantic-aware Implicit Representation**|Canyu Zhang et.al.|[2310.09285v1](http://arxiv.org/abs/2310.09285v1)|null|
