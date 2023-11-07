@@ -37,7 +37,7 @@
 |**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
 |**2023-11-04**|**Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting**|Hao Ai et.al.|[2311.02343v1](http://arxiv.org/abs/2311.02343v1)|**[link](https://github.com/aihao2000/stable-diffusion-reference-only)**|
 |**2023-11-03**|**Patch-based Selection and Refinement for Early Object Detection**|Tianyi Zhang et.al.|[2311.02274v1](http://arxiv.org/abs/2311.02274v1)|null|
-|**2023-11-03**|**Sparse Training of Discrete Diffusion Models for Graph Generation**|Yiming Qin et.al.|[2311.02142v1](http://arxiv.org/abs/2311.02142v1)|null|
+|**2023-11-03**|**Sparse Training of Discrete Diffusion Models for Graph Generation**|Yiming Qin et.al.|[2311.02142v1](http://arxiv.org/abs/2311.02142v1)|**[link](https://github.com/qym7/sparsediff)**|
 |**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041v1](http://arxiv.org/abs/2311.02041v1)|**[link](https://github.com/florianfuerrutter/genqc)**|
 |**2023-11-03**|**Latent Diffusion Model for Conditional Reservoir Facies Generation**|Daesoo Lee et.al.|[2311.01968v1](http://arxiv.org/abs/2311.01968v1)|null|
 |**2023-11-03**|**On the Generalization Properties of Diffusion Models**|Puheng Li et.al.|[2311.01797v1](http://arxiv.org/abs/2311.01797v1)|**[link](https://github.com/lphleo/diffusion_generalization)**|
