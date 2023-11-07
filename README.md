@@ -49,7 +49,7 @@
 |**2023-11-02**|**Towards High-quality HDR Deghosting with Conditional Diffusion Models**|Qingsen Yan et.al.|[2311.00932v1](http://arxiv.org/abs/2311.00932v1)|null|
 |**2023-11-01**|**HIDM: Emulating Large Scale HI Maps using Score-based Diffusion Models**|Sultan Hassan et.al.|[2311.00833v1](http://arxiv.org/abs/2311.00833v1)|null|
 |**2023-11-01**|**Quantum Computational Algorithms for Derivative Pricing and Credit Risk in a Regime Switching Economy**|Eric Ghysels et.al.|[2311.00825v1](http://arxiv.org/abs/2311.00825v1)|null|
-|**2023-11-01**|**On Manipulating Scene Text in the Wild with Diffusion Models**|Joshua Santoso et.al.|[2311.00734v1](http://arxiv.org/abs/2311.00734v1)|null|
+|**2023-11-03**|**On Manipulating Scene Text in the Wild with Diffusion Models**|Joshua Santoso et.al.|[2311.00734v2](http://arxiv.org/abs/2311.00734v2)|null|
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618v1](http://arxiv.org/abs/2311.00618v1)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613v1](http://arxiv.org/abs/2311.00613v1)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500v1](http://arxiv.org/abs/2311.00500v1)|**[link](https://github.com/sail-sg/d-trak)**|
@@ -2973,7 +2973,7 @@
 |**2023-10-02**|**Controlling Vision-Language Models for Universal Image Restoration**|Ziwei Luo et.al.|[2310.01018v1](http://arxiv.org/abs/2310.01018v1)|**[link](https://github.com/algolzw/daclip-uir)**|
 |**2023-10-02**|**JPEG Information Regularized Deep Image Prior for Denoising**|Tsukasa Takagi et.al.|[2310.00894v1](http://arxiv.org/abs/2310.00894v1)|null|
 |**2023-10-22**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdira et.al.|[2309.15563v2](http://arxiv.org/abs/2309.15563v2)|null|
-|**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
+|**2023-11-04**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v2](http://arxiv.org/abs/2309.15533v2)|null|
 |**2023-10-09**|**Survey on Deep Face Restoration: From Non-blind to Blind and Beyond**|Wenjie Li et.al.|[2309.15490v2](http://arxiv.org/abs/2309.15490v2)|**[link](https://github.com/24wenjie-li/awesome-face-restoration)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
@@ -3795,7 +3795,7 @@
 |**2023-06-29**|**Guided Deep Generative Model-based Spatial Regularization for Multiband Imaging Inverse Problems**|Min Zhao et.al.|[2306.17197v1](http://arxiv.org/abs/2306.17197v1)|null|
 |**2023-06-28**|**The forward-backward-forward algorithm with extrapolation from the past and penalty scheme for solving monotone inclusion problems and applications**|Buris Tongnoi et.al.|[2306.16592v1](http://arxiv.org/abs/2306.16592v1)|null|
 |**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v2](http://arxiv.org/abs/2306.11528v2)|**[link](https://github.com/cameltr/transref)**|
-|**2023-06-26**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v2](http://arxiv.org/abs/2306.09869v2)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
+|**2023-11-04**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v3](http://arxiv.org/abs/2306.09869v3)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
 |**2023-07-08**|**Deep Generative Models for Decision-Making and Control**|Michael Janner et.al.|[2306.08810v2](http://arxiv.org/abs/2306.08810v2)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
