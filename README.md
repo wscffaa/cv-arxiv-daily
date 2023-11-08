@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145v1](http://arxiv.org/abs/2311.04145v1)|null|
+|**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052v1](http://arxiv.org/abs/2311.04052v1)|null|
+|**2023-11-07**|**Formulating Discrete Probability Flow Through Optimal Transport**|Pengze Zhang et.al.|[2311.03886v1](http://arxiv.org/abs/2311.03886v1)|**[link](https://github.com/pangzecheung/discrete-probability-flow)**|
+|**2023-11-07**|**Reducing Spatial Fitting Error in Distillation of Denoising Diffusion Models**|Shengzhe Zhou et.al.|[2311.03830v1](http://arxiv.org/abs/2311.03830v1)|null|
+|**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742v1](http://arxiv.org/abs/2311.03742v1)|null|
+|**2023-11-06**|**The steady state of the boundary-driven multiparticle asymmetric diffusion model**|Rouven Frassek et.al.|[2311.03603v1](http://arxiv.org/abs/2311.03603v1)|null|
+|**2023-11-06**|**Generative Diffusion Models for Lattice Field Theory**|Lingxiao Wang et.al.|[2311.03578v1](http://arxiv.org/abs/2311.03578v1)|null|
+|**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488v1](http://arxiv.org/abs/2311.03488v1)|null|
 |**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303v1](http://arxiv.org/abs/2311.03303v1)|null|
 |**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226v1](http://arxiv.org/abs/2311.03226v1)|null|
 |**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118v1](http://arxiv.org/abs/2311.03118v1)|null|
@@ -1976,6 +1984,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
+|**2023-11-07**|**Predictive Sampling for Efficient Pairwise Subjective Image Quality Assessment**|Shima Mohammadi et.al.|[2311.03850v1](http://arxiv.org/abs/2311.03850v1)|null|
 |**2023-11-06**|**Analysis of the sparse super resolution limit using the Cramér-Rao lower bound**|Mathias Hockmann et.al.|[2311.03178v1](http://arxiv.org/abs/2311.03178v1)|null|
 |**2023-11-05**|**Super-resolved snapshot hyperspectral imaging of solid-state quantum emitters for high-throughput integrated quantum technologies**|Shunfa Liu et.al.|[2311.02626v1](http://arxiv.org/abs/2311.02626v1)|null|
 |**2023-11-04**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v1](http://arxiv.org/abs/2311.02358v1)|null|
@@ -2973,6 +2983,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071v1](http://arxiv.org/abs/2311.04071v1)|null|
+|**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819v1](http://arxiv.org/abs/2311.03819v1)|null|
 |**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105v1](http://arxiv.org/abs/2311.03105v1)|null|
 |**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010v1](http://arxiv.org/abs/2311.03010v1)|null|
 |**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926v1](http://arxiv.org/abs/2311.02926v1)|**[link](https://github.com/meatery/semantic-segmentation)**|
@@ -3197,6 +3209,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|null|
 |**2023-11-02**|**Investigation of the Impact of Magnetic Fields on Scattering Muography Images**|Hamid Basiri et.al.|[2311.00972v1](http://arxiv.org/abs/2311.00972v1)|null|
 |**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917v1](http://arxiv.org/abs/2311.00917v1)|null|
 |**2023-10-31**|**Fast, multicolour optical sectioning over extended fields of view by combining interferometric SIM with machine learning**|Edward N. Ward et.al.|[2311.00089v1](http://arxiv.org/abs/2311.00089v1)|null|
@@ -3582,6 +3595,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819v1](http://arxiv.org/abs/2311.03819v1)|null|
 |**2023-11-06**|**Zero-Shot Enhancement of Low-Light Image Based on Retinex Decomposition**|Wenchao Li et.al.|[2311.02995v1](http://arxiv.org/abs/2311.02995v1)|null|
 |**2023-11-04**|**Thermal Face Image Classification using Deep Learning Techniques**|Prosenjit Chatterjee et.al.|[2311.02314v1](http://arxiv.org/abs/2311.02314v1)|null|
 |**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653v1](http://arxiv.org/abs/2310.12653v1)|**[link](https://github.com/vlogroup/pogmdm)**|
