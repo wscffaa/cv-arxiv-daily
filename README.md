@@ -2987,7 +2987,7 @@
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819v1](http://arxiv.org/abs/2311.03819v1)|null|
 |**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105v1](http://arxiv.org/abs/2311.03105v1)|null|
 |**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010v1](http://arxiv.org/abs/2311.03010v1)|null|
-|**2023-11-06**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926v1](http://arxiv.org/abs/2311.02926v1)|**[link](https://github.com/meatery/semantic-segmentation)**|
+|**2023-11-08**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926v2](http://arxiv.org/abs/2311.02926v2)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924v1](http://arxiv.org/abs/2311.01924v1)|null|
 |**2023-11-02**|**Convergent plug-and-play with proximal denoiser and unconstrained regularization parameter**|Samuel Hurault et.al.|[2311.01216v1](http://arxiv.org/abs/2311.01216v1)|null|
 |**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186v1](http://arxiv.org/abs/2311.00186v1)|null|
