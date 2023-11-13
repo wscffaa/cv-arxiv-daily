@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
+|**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|null|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v1](http://arxiv.org/abs/2311.06214v1)|null|
+|**2023-11-10**|**Enhancing Rock Image Segmentation in Digital Rock Physics: A Fusion of Generative AI and State-of-the-Art Neural Networks**|Zhaoyang Ma et.al.|[2311.06079v1](http://arxiv.org/abs/2311.06079v1)|null|
+|**2023-11-10**|**Semantic Map Guided Synthesis of Wireless Capsule Endoscopy Images using Diffusion Models**|Haejin Lee et.al.|[2311.05889v1](http://arxiv.org/abs/2311.05889v1)|null|
+|**2023-11-10**|**Diffusion Shape Prior for Wrinkle-Accurate Cloth Registration**|Jingfan Guo et.al.|[2311.05828v1](http://arxiv.org/abs/2311.05828v1)|null|
 |**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556v1](http://arxiv.org/abs/2311.05556v1)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-11-09**|**Onset of pattern formation for the stochastic Allen-Cahn equation**|Stella Brassesco et.al.|[2311.05526v1](http://arxiv.org/abs/2311.05526v1)|null|
 |**2023-11-09**|**3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models**|Haibo Yang et.al.|[2311.05464v1](http://arxiv.org/abs/2311.05464v1)|**[link](https://github.com/yanghb22-fdu/3dstyle-diffusion-official)**|
@@ -1999,6 +2005,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Evaluation of Sampling Algorithms for a Pairwise Subjective Assessment Methodology**|Shima Mohammadi et.al.|[2311.06093v1](http://arxiv.org/abs/2311.06093v1)|null|
+|**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|
+|**2023-11-10**|**Quantum light microscopy**|W. P. Bowen et.al.|[2311.05807v1](http://arxiv.org/abs/2311.05807v1)|null|
 |**2023-11-09**|**Super-Resolution Emulation of Large Cosmological Fields with a 3D Conditional Diffusion Model**|Adam Rouhiainen et.al.|[2311.05217v1](http://arxiv.org/abs/2311.05217v1)|null|
 |**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v1](http://arxiv.org/abs/2311.05146v1)|null|
 |**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685v1](http://arxiv.org/abs/2311.04685v1)|null|
@@ -3231,6 +3240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Full-length-body CBCT imaging in upright position with robotic-arm system: a simulation study**|Tong Lin et.al.|[2311.05816v1](http://arxiv.org/abs/2311.05816v1)|null|
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614v1](http://arxiv.org/abs/2311.04614v1)|null|
 |**2023-11-07**|**Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248v1](http://arxiv.org/abs/2311.04248v1)|null|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|**[link](https://github.com/gofigure-lanl/figure-segmentation)**|
