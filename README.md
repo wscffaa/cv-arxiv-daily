@@ -3956,7 +3956,7 @@
 |---|---|---|---|---|
 |**2023-11-09**|**ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors**|Jingwen Chen et.al.|[2311.05463v1](http://arxiv.org/abs/2311.05463v1)|null|
 |**2023-11-09**|**Dual Pipeline Style Transfer with Input Distribution Differentiation**|ShiQi Jiang et.al.|[2311.05432v1](http://arxiv.org/abs/2311.05432v1)|null|
-|**2023-11-09**|**Let's Get the FACS Straight -- Reconstructing Obstructed Facial Features**|Tim Büchner et.al.|[2311.05221v1](http://arxiv.org/abs/2311.05221v1)|null|
+|**2023-11-10**|**Let's Get the FACS Straight -- Reconstructing Obstructed Facial Features**|Tim Büchner et.al.|[2311.05221v2](http://arxiv.org/abs/2311.05221v2)|null|
 |**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693v1](http://arxiv.org/abs/2311.04693v1)|null|
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984v1](http://arxiv.org/abs/2311.01984v1)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065v1](http://arxiv.org/abs/2311.01065v1)|null|
