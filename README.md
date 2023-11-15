@@ -40,7 +40,7 @@
 |**2023-11-11**|**Adversarial Fine-tuning using Generated Respiratory Sound to Address Class Imbalance**|June-Woo Kim et.al.|[2311.06480v1](http://arxiv.org/abs/2311.06480v1)|null|
 |**2023-11-10**|**On degenerate reaction-diffusion epidemic models with mass action or standard incidence mechanism**|Rachidi Salako et.al.|[2311.06434v1](http://arxiv.org/abs/2311.06434v1)|null|
 |**2023-11-10**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322v1](http://arxiv.org/abs/2311.06322v1)|null|
-|**2023-11-09**|**ShipGen: A Diffusion Model for Parametric Ship Hull Generation with Multiple Objectives and Constraints**|Noah J. Bagazinski et.al.|[2311.06315v1](http://arxiv.org/abs/2311.06315v1)|null|
+|**2023-11-14**|**ShipGen: A Diffusion Model for Parametric Ship Hull Generation with Multiple Objectives and Constraints**|Noah J. Bagazinski et.al.|[2311.06315v2](http://arxiv.org/abs/2311.06315v2)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v1](http://arxiv.org/abs/2311.06214v1)|null|
@@ -2634,7 +2634,7 @@
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|**[link](https://github.com/lixinustc/awesome-diffusion-model-for-image-processing)**|
 |**2023-11-07**|**SR-GAN for SR-gamma: super resolution of photon calorimeter images at collider experiments**|Johannes Erdmann et.al.|[2308.09025v2](http://arxiv.org/abs/2308.09025v2)|null|
 |**2023-08-15**|**CMISR: Circular Medical Image Super-Resolution**|Honggui Li et.al.|[2308.08567v1](http://arxiv.org/abs/2308.08567v1)|null|
-|**2023-08-15**|**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution**|Brian B. Moser et.al.|[2308.07977v1](http://arxiv.org/abs/2308.07977v1)|null|
+|**2023-11-13**|**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution**|Brian B. Moser et.al.|[2308.07977v2](http://arxiv.org/abs/2308.07977v2)|null|
 |**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
 |**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570v1](http://arxiv.org/abs/2308.06570v1)|null|
 |**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|**[link](https://github.com/FarihaHossain/SwinFSR)**|
