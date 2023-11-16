@@ -27,7 +27,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355v1](http://arxiv.org/abs/2311.08355v1)|null|
-|**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330v1](http://arxiv.org/abs/2311.08330v1)|null|
+|**2023-11-15**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330v2](http://arxiv.org/abs/2311.08330v2)|null|
 |**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199v1](http://arxiv.org/abs/2311.08199v1)|null|
 |**2023-11-14**|**Influence of departures from LTE on determinations of the scandium abundances in A-B type stars**|L. Mashonkina et.al.|[2311.07982v1](http://arxiv.org/abs/2311.07982v1)|null|
 |**2023-11-14**|**Brain-Driven Representation Learning Based on Diffusion Model**|Soowon Kim et.al.|[2311.07925v1](http://arxiv.org/abs/2311.07925v1)|null|
@@ -3267,7 +3267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-18**|**Noise-robust latent vector reconstruction in ptychography using deep generative models**|Jacob Seifert et.al.|[2311.07580v1](http://arxiv.org/abs/2311.07580v1)|null|
+|**2023-11-15**|**Noise-robust latent vector reconstruction in ptychography using deep generative models**|Jacob Seifert et.al.|[2311.07580v2](http://arxiv.org/abs/2311.07580v2)|null|
 |**2023-11-12**|**How do Minimum-Norm Shallow Denoisers Look in Function Space?**|Chen Zeno et.al.|[2311.06748v1](http://arxiv.org/abs/2311.06748v1)|null|
 |**2023-11-10**|**Interferometric Image Reconstruction using Closure Invariants and Machine Learning**|Nithyanandan Thyagarajan et.al.|[2311.06349v1](http://arxiv.org/abs/2311.06349v1)|null|
 |**2023-11-10**|**Full-length-body CBCT imaging in upright position with robotic-arm system: a simulation study**|Tong Lin et.al.|[2311.05816v1](http://arxiv.org/abs/2311.05816v1)|null|
