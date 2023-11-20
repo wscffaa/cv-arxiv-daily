@@ -2060,7 +2060,7 @@
 |**2023-11-16**|**DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics**|Aniket Roy et.al.|[2311.09753v1](http://arxiv.org/abs/2311.09753v1)|null|
 |**2023-11-16**|**Redefining Super-Resolution: Fine-mesh PDE predictions without classical simulations**|Rajat Kumar Sarkar et.al.|[2311.09740v1](http://arxiv.org/abs/2311.09740v1)|null|
 |**2023-11-14**|**The Perception-Robustness Tradeoff in Deterministic Image Restoration**|Guy Ohayon et.al.|[2311.09253v1](http://arxiv.org/abs/2311.09253v1)|null|
-|**2023-11-15**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Dareen Hussein et.al.|[2311.09178v1](http://arxiv.org/abs/2311.09178v1)|null|
+|**2023-11-17**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Israa Fahmy et.al.|[2311.09178v2](http://arxiv.org/abs/2311.09178v2)|null|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
 |**2023-11-15**|**Ultrafast 3-D Super Resolution Ultrasound using Row-Column Array specific Coherence-based Beamforming and Rolling Acoustic Sub-aperture Processing: In Vitro, In Vivo and Clinical Study**|Joseph Hansen-Shearer et.al.|[2311.08823v1](http://arxiv.org/abs/2311.08823v1)|null|
 |**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huang et.al.|[2311.08816v1](http://arxiv.org/abs/2311.08816v1)|**[link](https://github.com/yongsongh/dasrgan)**|
@@ -2071,7 +2071,7 @@
 |**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|
 |**2023-11-10**|**Quantum light microscopy**|W. P. Bowen et.al.|[2311.05807v1](http://arxiv.org/abs/2311.05807v1)|null|
 |**2023-11-09**|**Super-Resolution Emulation of Large Cosmological Fields with a 3D Conditional Diffusion Model**|Adam Rouhiainen et.al.|[2311.05217v1](http://arxiv.org/abs/2311.05217v1)|null|
-|**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v1](http://arxiv.org/abs/2311.05146v1)|**[link](https://github.com/rishavbb/owslr)**|
+|**2023-11-16**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v2](http://arxiv.org/abs/2311.05146v2)|**[link](https://github.com/rishavbb/owslr)**|
 |**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685v1](http://arxiv.org/abs/2311.04685v1)|null|
 |**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
 |**2023-11-07**|**Predictive Sampling for Efficient Pairwise Subjective Image Quality Assessment**|Shima Mohammadi et.al.|[2311.03850v1](http://arxiv.org/abs/2311.03850v1)|**[link](https://github.com/shimamohammadi/ps-pc)**|
@@ -2099,7 +2099,7 @@
 |**2023-10-26**|**BERT-PIN: A BERT-based Framework for Recovering Missing Data Segments in Time-series Load Profiles**|Yi Hu et.al.|[2310.17742v1](http://arxiv.org/abs/2310.17742v1)|null|
 |**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
 |**2023-10-26**|**Blind Image Super-resolution with Rich Texture-Aware Codebooks**|Rui Qin et.al.|[2310.17188v1](http://arxiv.org/abs/2310.17188v1)|null|
-|**2023-10-25**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v1](http://arxiv.org/abs/2310.16869v1)|null|
+|**2023-11-17**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v2](http://arxiv.org/abs/2310.16869v2)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-10-25**|**Super-resolution imaging reveals resistance to mass transfer in functionalized stationary phases**|Ricardo Monge Neria et.al.|[2310.16266v1](http://arxiv.org/abs/2310.16266v1)|null|
 |**2023-11-09**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767v2](http://arxiv.org/abs/2310.15767v2)|null|
@@ -2645,7 +2645,7 @@
 |**2023-11-14**|**The Perception-Robustness Tradeoff in Deterministic Image Restoration**|Guy Ohayon et.al.|[2311.09253v1](http://arxiv.org/abs/2311.09253v1)|null|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
 |**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huang et.al.|[2311.08816v1](http://arxiv.org/abs/2311.08816v1)|**[link](https://github.com/yongsongh/dasrgan)**|
-|**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v1](http://arxiv.org/abs/2311.05146v1)|**[link](https://github.com/rishavbb/owslr)**|
+|**2023-11-16**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v2](http://arxiv.org/abs/2311.05146v2)|**[link](https://github.com/rishavbb/owslr)**|
 |**2023-11-13**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution  $-$  a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v2](http://arxiv.org/abs/2311.02358v2)|**[link](https://github.com/GreyCC/DTLS)**|
 |**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003v1](http://arxiv.org/abs/2311.02003v1)|null|
 |**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
@@ -2867,7 +2867,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-15**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Dareen Hussein et.al.|[2311.09178v1](http://arxiv.org/abs/2311.09178v1)|null|
+|**2023-11-17**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Israa Fahmy et.al.|[2311.09178v2](http://arxiv.org/abs/2311.09178v2)|null|
 |**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685v1](http://arxiv.org/abs/2311.04685v1)|null|
 |**2023-11-02**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v1](http://arxiv.org/abs/2311.00996v1)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
 |**2023-10-26**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294v1](http://arxiv.org/abs/2310.17294v1)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
@@ -2950,7 +2950,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984v1](http://arxiv.org/abs/2311.01984v1)|null|
-|**2023-10-25**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v1](http://arxiv.org/abs/2310.16869v1)|null|
+|**2023-11-17**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v2](http://arxiv.org/abs/2310.16869v2)|null|
 |**2023-10-24**|**Nighttime Thermal Infrared Image Colorization with Feedback-based Object Appearance Learning**|Fu-Ya Luo et.al.|[2310.15688v1](http://arxiv.org/abs/2310.15688v1)|**[link](https://github.com/fuyaluo/foalgan)**|
 |**2023-10-17**|**Gromov-Wassertein-like Distances in the Gaussian Mixture Models Space**|Antoine Salmona et.al.|[2310.11256v1](http://arxiv.org/abs/2310.11256v1)|null|
 |**2023-09-25**|**Incorporating Ensemble and Transfer Learning For An End-To-End Auto-Colorized Image Detection Model**|Ahmed Samir Ragab et.al.|[2309.14478v1](http://arxiv.org/abs/2309.14478v1)|null|
@@ -3929,7 +3929,7 @@
 |**2023-10-18**|**Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition**|Minsu Kim et.al.|[2309.01406v3](http://arxiv.org/abs/2309.01406v3)|**[link](https://github.com/minshu-kim/rewarp)**|
 |**2023-09-04**|**Restoration Guarantee of Image Inpainting via Low Rank Patch Matrix Completion**|Jian-Feng Cai et.al.|[2309.01328v1](http://arxiv.org/abs/2309.01328v1)|null|
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
-|**2023-09-03**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v2](http://arxiv.org/abs/2308.10436v2)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
+|**2023-11-17**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v3](http://arxiv.org/abs/2308.10436v3)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-08-09**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v1](http://arxiv.org/abs/2308.05045v1)|null|
@@ -4047,7 +4047,7 @@
 |**2023-11-14**|**PEMA: Plug-in External Memory Adaptation for Language Models**|HyunJin Kim et.al.|[2311.08590v1](http://arxiv.org/abs/2311.08590v1)|null|
 |**2023-11-14**|**TSST: A Benchmark and Evaluation Models for Text Speech-Style Transfer**|Huashan Sun et.al.|[2311.08389v1](http://arxiv.org/abs/2311.08389v1)|null|
 |**2023-11-13**|**STEER: Unified Style Transfer with Expert Reinforcement**|Skyler Hallinan et.al.|[2311.07167v1](http://arxiv.org/abs/2311.07167v1)|null|
-|**2023-11-11**|**In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering**|Sheng Liu et.al.|[2311.06668v1](http://arxiv.org/abs/2311.06668v1)|**[link](https://github.com/shengliu66/icv)**|
+|**2023-11-16**|**In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering**|Sheng Liu et.al.|[2311.06668v2](http://arxiv.org/abs/2311.06668v2)|**[link](https://github.com/shengliu66/icv)**|
 |**2023-11-09**|**ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors**|Jingwen Chen et.al.|[2311.05463v1](http://arxiv.org/abs/2311.05463v1)|null|
 |**2023-11-09**|**Dual Pipeline Style Transfer with Input Distribution Differentiation**|ShiQi Jiang et.al.|[2311.05432v1](http://arxiv.org/abs/2311.05432v1)|null|
 |**2023-11-10**|**Let's Get the FACS Straight -- Reconstructing Obstructed Facial Features**|Tim Büchner et.al.|[2311.05221v2](http://arxiv.org/abs/2311.05221v2)|null|
