@@ -48,7 +48,7 @@
 |**2023-11-15**|**Privacy Threats in Stable Diffusion Models**|Thomas Cilloni et.al.|[2311.09355v1](http://arxiv.org/abs/2311.09355v1)|null|
 |**2023-11-15**|**Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models**|Mehdi Letafati et.al.|[2311.09349v1](http://arxiv.org/abs/2311.09349v1)|null|
 |**2023-11-15**|**FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier**|Zhongjie Duan et.al.|[2311.09265v1](http://arxiv.org/abs/2311.09265v1)|**[link](https://github.com/artiprocher/sd-webui-fastblend)**|
-|**2023-11-14**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257v1](http://arxiv.org/abs/2311.09257v1)|null|
+|**2023-11-17**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257v2](http://arxiv.org/abs/2311.09257v2)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217v1](http://arxiv.org/abs/2311.09217v1)|null|
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084v1](http://arxiv.org/abs/2311.09084v1)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
@@ -56,7 +56,7 @@
 |**2023-11-16**|**One-Shot Federated Learning with Classifier-Guided Diffusion Models**|Mingzhao Yang et.al.|[2311.08870v2](http://arxiv.org/abs/2311.08870v2)|null|
 |**2023-11-15**|**A Diffusion Model Based Quality Enhancement Method for HEVC Compressed Video**|Zheng Liu et.al.|[2311.08746v1](http://arxiv.org/abs/2311.08746v1)|null|
 |**2023-11-15**|**Towards Graph-Aware Diffusion Modeling for Collaborative Filtering**|Yunqin Zhu et.al.|[2311.08744v1](http://arxiv.org/abs/2311.08744v1)|null|
-|**2023-11-15**|**EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis**|Ge Zhu et.al.|[2311.08667v1](http://arxiv.org/abs/2311.08667v1)|null|
+|**2023-11-18**|**EDMSound: Spectrogram Based Diffusion Models for Efficient and High-Quality Audio Synthesis**|Ge Zhu et.al.|[2311.08667v2](http://arxiv.org/abs/2311.08667v2)|null|
 |**2023-11-14**|**Probabilistic reconstruction of Dark Matter fields from biased tracers using diffusion models**|Core Francisco Park et.al.|[2311.08558v1](http://arxiv.org/abs/2311.08558v1)|**[link](https://github.com/cfpark00/vdm4cdm)**|
 |**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355v1](http://arxiv.org/abs/2311.08355v1)|**[link](https://github.com/amaai-lab/mustango)**|
 |**2023-11-15**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330v2](http://arxiv.org/abs/2311.08330v2)|null|
@@ -3107,7 +3107,7 @@
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848v1](http://arxiv.org/abs/2310.12848v1)|null|
 |**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881v1](http://arxiv.org/abs/2310.11881v1)|null|
 |**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513v1](http://arxiv.org/abs/2310.10513v1)|null|
-|**2023-10-17**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123v2](http://arxiv.org/abs/2310.10123v2)|null|
+|**2023-11-19**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123v3](http://arxiv.org/abs/2310.10123v3)|null|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068v1](http://arxiv.org/abs/2310.08068v1)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721v1](http://arxiv.org/abs/2310.06721v1)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
@@ -3132,7 +3132,7 @@
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270v1](http://arxiv.org/abs/2309.02270v1)|**[link](https://github.com/hplqaq/sam-deblur)**|
 |**2023-09-05**|**Advanced Underwater Image Restoration in Complex Illumination Conditions**|Yifan Song et.al.|[2309.02217v1](http://arxiv.org/abs/2309.02217v1)|null|
 |**2023-09-04**|**Memory augment is All You Need for image restoration**|Xiao Feng Zhang et.al.|[2309.01377v1](http://arxiv.org/abs/2309.01377v1)|**[link](https://github.com/zhangbaijin/memorynet)**|
-|**2023-09-04**|**Restoration Guarantee of Image Inpainting via Low Rank Patch Matrix Completion**|Jian-Feng Cai et.al.|[2309.01328v1](http://arxiv.org/abs/2309.01328v1)|null|
+|**2023-11-20**|**Restoration Guarantee of Image Inpainting via Low Rank Patch Matrix Completion**|Jian-Feng Cai et.al.|[2309.01328v2](http://arxiv.org/abs/2309.01328v2)|null|
 |**2023-09-03**|**Holistic Dynamic Frequency Transformer for Image Fusion and Exposure Correction**|Xiaoke Shang et.al.|[2309.01183v1](http://arxiv.org/abs/2309.01183v1)|null|
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070v1](http://arxiv.org/abs/2308.15070v1)|**[link](https://github.com/xpixelgroup/diffbir)**|
 |**2023-09-05**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334v2](http://arxiv.org/abs/2308.14334v2)|null|
@@ -3940,7 +3940,7 @@
 |**2023-09-13**|**GAN-based Algorithm for Efficient Image Inpainting**|Zhengyang Han et.al.|[2309.07293v1](http://arxiv.org/abs/2309.07293v1)|null|
 |**2023-09-12**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153v2](http://arxiv.org/abs/2309.05153v2)|null|
 |**2023-10-18**|**Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition**|Minsu Kim et.al.|[2309.01406v3](http://arxiv.org/abs/2309.01406v3)|**[link](https://github.com/minshu-kim/rewarp)**|
-|**2023-09-04**|**Restoration Guarantee of Image Inpainting via Low Rank Patch Matrix Completion**|Jian-Feng Cai et.al.|[2309.01328v1](http://arxiv.org/abs/2309.01328v1)|null|
+|**2023-11-20**|**Restoration Guarantee of Image Inpainting via Low Rank Patch Matrix Completion**|Jian-Feng Cai et.al.|[2309.01328v2](http://arxiv.org/abs/2309.01328v2)|null|
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
 |**2023-11-17**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v3](http://arxiv.org/abs/2308.10436v3)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
