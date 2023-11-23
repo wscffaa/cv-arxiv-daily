@@ -61,7 +61,7 @@
 |**2023-11-17**|**Local asymptotics and optimal control for a viscous Cahn-Hilliard-Reaction-Diffusion model for tumor growth**|Elisa Davoli et.al.|[2311.10457v1](http://arxiv.org/abs/2311.10457v1)|null|
 |**2023-11-17**|**High-fidelity Person-centric Subject-to-Image Synthesis**|Yibin Wang et.al.|[2311.10329v1](http://arxiv.org/abs/2311.10329v1)|null|
 |**2023-11-17**|**Joint channel estimation and data detection in massive MIMO systems based on diffusion models**|Nicolas Zilberstein et.al.|[2311.10311v1](http://arxiv.org/abs/2311.10311v1)|null|
-|**2023-11-17**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242v1](http://arxiv.org/abs/2311.10242v1)|null|
+|**2023-11-21**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242v2](http://arxiv.org/abs/2311.10242v2)|null|
 |**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162v1](http://arxiv.org/abs/2311.10162v1)|null|
 |**2023-11-16**|**MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture**|Lincong Feng et.al.|[2311.10123v1](http://arxiv.org/abs/2311.10123v1)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093v1](http://arxiv.org/abs/2311.10093v1)|null|
@@ -2096,7 +2096,7 @@
 |**2023-11-21**|**HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis**|Sang-Hoon Lee et.al.|[2311.12454v1](http://arxiv.org/abs/2311.12454v1)|**[link](https://github.com/sh-lee-prml/hierspeechpp)**|
 |**2023-11-20**|**Efficient Model Agnostic Approach for Implicit Neural Representation Based Arbitrary-Scale Image Super-Resolution**|Young Jae Oh et.al.|[2311.12077v1](http://arxiv.org/abs/2311.12077v1)|null|
 |**2023-11-18**|**LATIS: Lambda Abstraction-based Thermal Image Super-resolution**|Gargi Panda et.al.|[2311.12046v1](http://arxiv.org/abs/2311.12046v1)|null|
-|**2023-11-20**|**Generalized super-resolution 4D Flow MRI -- using ensemble learning to extend across the cardiovascular system**|Leon Ericsson et.al.|[2311.11819v1](http://arxiv.org/abs/2311.11819v1)|null|
+|**2023-11-21**|**Generalized super-resolution 4D Flow MRI  $\unicode{x2013}$  using ensemble learning to extend across the cardiovascular system**|Leon Ericsson et.al.|[2311.11819v2](http://arxiv.org/abs/2311.11819v2)|null|
 |**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162v1](http://arxiv.org/abs/2311.10162v1)|null|
 |**2023-11-16**|**Combined Channel and Spatial Attention-based Stereo Endoscopic Image Super-Resolution**|Mansoor Hayat et.al.|[2311.10115v1](http://arxiv.org/abs/2311.10115v1)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
@@ -3138,7 +3138,7 @@
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614v1](http://arxiv.org/abs/2311.04614v1)|null|
 |**2023-11-21**|**Energy-Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071v2](http://arxiv.org/abs/2311.04071v2)|null|
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819v1](http://arxiv.org/abs/2311.03819v1)|null|
-|**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105v1](http://arxiv.org/abs/2311.03105v1)|null|
+|**2023-11-22**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105v2](http://arxiv.org/abs/2311.03105v2)|null|
 |**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010v1](http://arxiv.org/abs/2311.03010v1)|null|
 |**2023-11-08**|**Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things**|Li Ping Qian et.al.|[2311.02926v2](http://arxiv.org/abs/2311.02926v2)|**[link](https://github.com/meatery/semantic-segmentation)**|
 |**2023-11-03**|**Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems**|Ziqi Yan et.al.|[2311.01924v1](http://arxiv.org/abs/2311.01924v1)|null|
