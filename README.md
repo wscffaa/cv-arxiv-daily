@@ -55,7 +55,7 @@
 |**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488v1](http://arxiv.org/abs/2311.16488v1)|null|
 |**2023-11-28**|**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**|Jingye Chen et.al.|[2311.16465v1](http://arxiv.org/abs/2311.16465v1)|null|
 |**2023-11-28**|**Manifold Preserving Guided Diffusion**|Yutong He et.al.|[2311.16424v1](http://arxiv.org/abs/2311.16424v1)|null|
-|**2023-11-27**|**ChatTraffc: Text-to-Traffic Generation via Diffusion Model**|Chengyang Zhang et.al.|[2311.16203v1](http://arxiv.org/abs/2311.16203v1)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
+|**2023-11-29**|**ChatTraffic: Text-to-Traffic Generation via Diffusion Model**|Chengyang Zhang et.al.|[2311.16203v2](http://arxiv.org/abs/2311.16203v2)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
 |**2023-11-27**|**Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for Molecule Generation**|Ameya Daigavane et.al.|[2311.16199v1](http://arxiv.org/abs/2311.16199v1)|null|
 |**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102v1](http://arxiv.org/abs/2311.16102v1)|**[link](https://github.com/mihirp1998/Diffusion-TTA)**|
 |**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090v1](http://arxiv.org/abs/2311.16090v1)|null|
@@ -3158,7 +3158,7 @@
 |**2023-04-21**|**Improved Diffusion-based Image Colorization via Piggybacked Models**|Hanyuan Liu et.al.|[2304.11105v1](http://arxiv.org/abs/2304.11105v1)|null|
 |**2023-04-20**|**Edge-Aware Image Color Appearance and Difference Modeling**|Abhinau K. Venkataramanan et.al.|[2304.10669v1](http://arxiv.org/abs/2304.10669v1)|null|
 |**2023-04-14**|**Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**|Wenyang Liu et.al.|[2304.06976v1](http://arxiv.org/abs/2304.06976v1)|**[link](https://github.com/wenyang001/two-acir)**|
-|**2023-04-14**|**SPColor: Semantic Prior Guided Exemplar-based Image Colorization**|Siqi Chen et.al.|[2304.06255v2](http://arxiv.org/abs/2304.06255v2)|**[link](https://github.com/viector/spcolor)**|
+|**2023-11-29**|**SPColor: Semantic Prior Guided Exemplar-based Image Colorization**|Siqi Chen et.al.|[2304.06255v3](http://arxiv.org/abs/2304.06255v3)|**[link](https://github.com/viector/spcolor)**|
 |**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212v1](http://arxiv.org/abs/2303.17212v1)|null|
 |**2023-05-27**|**Posthoc Interpretation via Quantization**|Francesco Paissan et.al.|[2303.12659v2](http://arxiv.org/abs/2303.12659v2)|null|
 |**2023-03-11**|**AI-Enhanced Intensive Care Unit: Revolutionizing Patient Care with Pervasive Sensing**|Subhash Nerella et.al.|[2303.06252v1](http://arxiv.org/abs/2303.06252v1)|null|
@@ -3517,7 +3517,7 @@
 |**2023-11-10**|**Interferometric Image Reconstruction using Closure Invariants and Machine Learning**|Nithyanandan Thyagarajan et.al.|[2311.06349v1](http://arxiv.org/abs/2311.06349v1)|null|
 |**2023-11-10**|**Full-length-body CBCT imaging in upright position with robotic-arm system: a simulation study**|Tong Lin et.al.|[2311.05816v1](http://arxiv.org/abs/2311.05816v1)|null|
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614v1](http://arxiv.org/abs/2311.04614v1)|null|
-|**2023-11-07**|**Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248v1](http://arxiv.org/abs/2311.04248v1)|null|
+|**2023-11-28**|**DDPET-3D: Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248v2](http://arxiv.org/abs/2311.04248v2)|null|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|**[link](https://github.com/gofigure-lanl/figure-segmentation)**|
 |**2023-11-02**|**Investigation of the Impact of Magnetic Fields on Scattering Muography Images**|Hamid Basiri et.al.|[2311.00972v1](http://arxiv.org/abs/2311.00972v1)|null|
 |**2023-11-02**|**RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection**|Fengyi Wu et.al.|[2311.00917v1](http://arxiv.org/abs/2311.00917v1)|null|
@@ -3532,7 +3532,7 @@
 |**2023-11-03**|**Proceedings of the 17th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine**|Chuan Huang et.al.|[2310.16846v2](http://arxiv.org/abs/2310.16846v2)|null|
 |**2023-10-25**|**Learning Robust Deep Visual Representations from EEG Brain Recordings**|Prajwal Singh et.al.|[2310.16532v1](http://arxiv.org/abs/2310.16532v1)|**[link](https://github.com/prajwalsingh/eegstylegan-ada)**|
 |**2023-10-24**|**Pixel-Level Clustering Network for Unsupervised Image Segmentation**|Cuong Manh Hoang et.al.|[2310.16234v1](http://arxiv.org/abs/2310.16234v1)|null|
-|**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831v1](http://arxiv.org/abs/2310.15831v1)|**[link](https://github.com/adahfbch/dgm-eit)**|
+|**2023-11-29**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831v2](http://arxiv.org/abs/2310.15831v2)|**[link](https://github.com/adahfbch/dgm-eit)**|
 |**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978v1](http://arxiv.org/abs/2310.14978v1)|null|
 |**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184v1](http://arxiv.org/abs/2310.14184v1)|null|
 |**2023-10-21**|**Breaking the Resolution limit in Photoacoustic Imaging using Positivity and Sparsity**|Peter Burgholzer et.al.|[2310.13952v1](http://arxiv.org/abs/2310.13952v1)|null|
@@ -3911,7 +3911,7 @@
 |**2023-11-11**|**Back to Basics: Fast Denoising Iterative Algorithm**|Deborah Pereg et.al.|[2311.06634v1](http://arxiv.org/abs/2311.06634v1)|null|
 |**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548v1](http://arxiv.org/abs/2311.05548v1)|null|
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614v1](http://arxiv.org/abs/2311.04614v1)|null|
-|**2023-11-07**|**Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248v1](http://arxiv.org/abs/2311.04248v1)|null|
+|**2023-11-28**|**DDPET-3D: Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248v2](http://arxiv.org/abs/2311.04248v2)|null|
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819v1](http://arxiv.org/abs/2311.03819v1)|null|
 |**2023-11-06**|**Zero-Shot Enhancement of Low-Light Image Based on Retinex Decomposition**|Wenchao Li et.al.|[2311.02995v1](http://arxiv.org/abs/2311.02995v1)|**[link](https://github.com/liwenchao0615/zerrinnet)**|
 |**2023-11-04**|**Thermal Face Image Classification using Deep Learning Techniques**|Prosenjit Chatterjee et.al.|[2311.02314v1](http://arxiv.org/abs/2311.02314v1)|null|
@@ -4253,7 +4253,7 @@
 |**2023-11-25**|**FreePIH: Training-Free Painterly Image Harmonization with Diffusion Model**|Ruibin Li et.al.|[2311.14926v1](http://arxiv.org/abs/2311.14926v1)|null|
 |**2023-11-24**|**Neural Style Transfer for Computer Games**|Eleftherios Ioannou et.al.|[2311.14617v1](http://arxiv.org/abs/2311.14617v1)|null|
 |**2023-11-23**|**Exploring Methods for Cross-lingual Text Style Transfer: The Case of Text Detoxification**|Daryna Dementieva et.al.|[2311.13937v1](http://arxiv.org/abs/2311.13937v1)|null|
-|**2023-11-22**|**Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object**|Junhao Chen et.al.|[2311.13562v1](http://arxiv.org/abs/2311.13562v1)|**[link](https://github.com/yisuanwang/soulstyler)**|
+|**2023-11-29**|**Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object**|Junhao Chen et.al.|[2311.13562v2](http://arxiv.org/abs/2311.13562v2)|**[link](https://github.com/yisuanwang/soulstyler)**|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168v1](http://arxiv.org/abs/2311.13168v1)|null|
 |**2023-11-17**|**Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction**|Mohamed El Amine Elforaici et.al.|[2311.10305v1](http://arxiv.org/abs/2311.10305v1)|null|
 |**2023-11-15**|**NormNet: Scale Normalization for 6D Pose Estimation in Stacked Scenarios**|En-Te Lin et.al.|[2311.09269v1](http://arxiv.org/abs/2311.09269v1)|**[link](https://github.com/shuttlet/normnet)**|
