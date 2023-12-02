@@ -50,7 +50,7 @@
 |**2023-11-29**|**GELDA: A generative language annotation framework to reveal visual biases in datasets**|Krish Kabra et.al.|[2311.18064v1](http://arxiv.org/abs/2311.18064v1)|null|
 |**2023-11-29**|**Echoes in the Noise: Posterior Samples of Faint Galaxy Surface Brightness Profiles with Score-Based Likelihoods and Priors**|Alexandre Adam et.al.|[2311.18002v1](http://arxiv.org/abs/2311.18002v1)|null|
 |**2023-11-29**|**4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling**|Sherwin Bahmani et.al.|[2311.17984v1](http://arxiv.org/abs/2311.17984v1)|null|
-|**2023-11-29**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971v1](http://arxiv.org/abs/2311.17971v1)|**[link](https://github.com/baaivision/uni3d)**|
+|**2023-11-29**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971v1](http://arxiv.org/abs/2311.17971v1)|**[link](https://github.com/baaivision/GeoDream)**|
 |**2023-11-29**|**HandRefiner: Refining Malformed Hands in Generated Images by Diffusion-based Conditional Inpainting**|Wenquan Lu et.al.|[2311.17957v1](http://arxiv.org/abs/2311.17957v1)|null|
 |**2023-11-29**|**C3Net: Compound Conditioned ControlNet for Multimodal Content Generation**|Juntao Zhang et.al.|[2311.17951v1](http://arxiv.org/abs/2311.17951v1)|null|
 |**2023-11-28**|**Unlocking Spatial Comprehension in Text-to-Image Diffusion Models**|Mohammad Mahdi Derakhshani et.al.|[2311.17937v1](http://arxiv.org/abs/2311.17937v1)|null|
