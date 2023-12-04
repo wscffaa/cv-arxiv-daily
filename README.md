@@ -26,6 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**TrackDiffusion: Multi-object Tracking Data Generation via Diffusion Models**|Pengxiang Li et.al.|[2312.00651v1](http://arxiv.org/abs/2312.00651v1)|null|
+|**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
+|**2023-12-01**|**Text-Guided 3D Face Synthesis -- From Generation to Editing**|Yunjie Wu et.al.|[2312.00375v1](http://arxiv.org/abs/2312.00375v1)|null|
+|**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210v1](http://arxiv.org/abs/2312.00210v1)|null|
+|**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116v1](http://arxiv.org/abs/2312.00116v1)|null|
+|**2023-11-30**|**Fast ODE-based Sampling for Diffusion Models in Around 5 Steps**|Zhenyu Zhou et.al.|[2312.00094v1](http://arxiv.org/abs/2312.00094v1)|null|
+|**2023-11-30**|**GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs**|Gege Gao et.al.|[2312.00093v1](http://arxiv.org/abs/2312.00093v1)|null|
+|**2023-11-30**|**Generative Artificial Intelligence in Learning Analytics: Contextualising Opportunities and Challenges through the Learning Analytics Cycle**|Lixiang Yan et.al.|[2312.00087v1](http://arxiv.org/abs/2312.00087v1)|null|
+|**2023-11-30**|**X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation**|Yiwei Ma et.al.|[2312.00085v1](http://arxiv.org/abs/2312.00085v1)|null|
+|**2023-11-30**|**Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?**|Zhengyue Zhao et.al.|[2312.00084v1](http://arxiv.org/abs/2312.00084v1)|null|
+|**2023-11-30**|**HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models**|Zhonghao Wang et.al.|[2312.00079v1](http://arxiv.org/abs/2312.00079v1)|null|
+|**2023-11-29**|**Unsupervised Keypoints from Pretrained Diffusion Models**|Eric Hedlin et.al.|[2312.00065v1](http://arxiv.org/abs/2312.00065v1)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
 |**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834v1](http://arxiv.org/abs/2311.18834v1)|null|
 |**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832v1](http://arxiv.org/abs/2311.18832v1)|**[link](https://github.com/shinying/dmp)**|
@@ -2254,6 +2266,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Infrared Image Super-Resolution via GAN**|Yongsong Huang et.al.|[2312.00689v1](http://arxiv.org/abs/2312.00689v1)|null|
+|**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210v1](http://arxiv.org/abs/2312.00210v1)|null|
 |**2023-11-30**|**DifAugGAN: A Practical Diffusion-style Data Augmentation for GAN-based Single Image Super-resolution**|Axi Niu et.al.|[2311.18508v1](http://arxiv.org/abs/2311.18508v1)|null|
 |**2023-11-30**|**HiPA: Enabling One-Step Text-to-Image Diffusion Models via High-Frequency-Promoting Adaptation**|Yifan Zhang et.al.|[2311.18158v1](http://arxiv.org/abs/2311.18158v1)|null|
 |**2023-11-29**|**Zooming Out on Zooming In: Advancing Super-Resolution for Remote Sensing**|Piper Wolters et.al.|[2311.18082v1](http://arxiv.org/abs/2311.18082v1)|**[link](https://github.com/allenai/satlas-super-resolution)**|
@@ -2871,6 +2885,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Infrared Image Super-Resolution via GAN**|Yongsong Huang et.al.|[2312.00689v1](http://arxiv.org/abs/2312.00689v1)|null|
+|**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210v1](http://arxiv.org/abs/2312.00210v1)|null|
 |**2023-11-30**|**DifAugGAN: A Practical Diffusion-style Data Augmentation for GAN-based Single Image Super-resolution**|Axi Niu et.al.|[2311.18508v1](http://arxiv.org/abs/2311.18508v1)|null|
 |**2023-11-29**|**PEAN: A Diffusion-based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution**|Zuoyan Zhao et.al.|[2311.17955v1](http://arxiv.org/abs/2311.17955v1)|null|
 |**2023-11-29**|**Neural Fields with Thermal Activations for Arbitrary-Scale Super-Resolution**|Alexander Becker et.al.|[2311.17643v1](http://arxiv.org/abs/2311.17643v1)|null|
@@ -3567,6 +3583,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Domain Adaptive Imitation Learning with Visual Observation**|Sungho Choi et.al.|[2312.00548v1](http://arxiv.org/abs/2312.00548v1)|null|
+|**2023-12-01**|**Suppression of the Talbot effect in Fourier transform acousto-optic imaging**|Maïmouna Bocoum et.al.|[2312.00432v1](http://arxiv.org/abs/2312.00432v1)|null|
+|**2023-12-01**|**Lung Imaging with UTE MRI**|Peder E. Z. Larson et.al.|[2312.00381v1](http://arxiv.org/abs/2312.00381v1)|null|
+|**2023-11-30**|**Scalable Bayesian uncertainty quantification with data-driven priors for radio interferometric imaging**|Tobías I. Liaudat et.al.|[2312.00125v1](http://arxiv.org/abs/2312.00125v1)|**[link](https://github.com/astro-informatics/quantifai)**|
 |**2023-11-30**|**Anatomy and Physiology of Artificial Intelligence in PET Imaging**|Tyler J. Bradshaw et.al.|[2311.18614v1](http://arxiv.org/abs/2311.18614v1)|null|
 |**2023-11-30**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433v1](http://arxiv.org/abs/2311.18433v1)|**[link](https://github.com/xmu-qcj/e2pnet)**|
 |**2023-11-30**|**Few-shot Image Generation via Style Adaptation and Content Preservation**|Xiaosheng He et.al.|[2311.18169v1](http://arxiv.org/abs/2311.18169v1)|null|
@@ -4325,7 +4345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-30**|**Advances in 3D Neural Stylization: A Survey**|Yingshu Chen et.al.|[2311.18328v1](http://arxiv.org/abs/2311.18328v1)|null|
+|**2023-11-30**|**Advances in 3D Neural Stylization: A Survey**|Yingshu Chen et.al.|[2311.18328v1](http://arxiv.org/abs/2311.18328v1)|**[link](https://github.com/chenyingshu/advances_3d_neural_stylization)**|
 |**2023-11-30**|**Beyond Entropy: Style Transfer Guided Single Image Continual Test-Time Adaptation**|Younggeol Cho et.al.|[2311.18270v1](http://arxiv.org/abs/2311.18270v1)|null|
 |**2023-11-29**|**Leveraging Graph Diffusion Models for Network Refinement Tasks**|Puja Trivedi et.al.|[2311.17856v1](http://arxiv.org/abs/2311.17856v1)|null|
 |**2023-11-25**|** $Z^*$ : Zero-shot Style Transfer via Attention Rearrangement**|Yingying Deng et.al.|[2311.16491v1](http://arxiv.org/abs/2311.16491v1)|null|
