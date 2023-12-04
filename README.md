@@ -71,7 +71,7 @@
 |**2023-11-29**|**When StyleGAN Meets Stable Diffusion: a  $\mathscr{W}_+$  Adapter for Personalized Image Generation**|Xiaoming Li et.al.|[2311.17461v1](http://arxiv.org/abs/2311.17461v1)|**[link](https://github.com/csxmli2016/w-plus-adapter)**|
 |**2023-11-29**|**DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Diffusion Model**|Jiuming Liu et.al.|[2311.17456v1](http://arxiv.org/abs/2311.17456v1)|null|
 |**2023-11-29**|**Wireless Network Digital Twin for 6G: Generative AI as A Key Enabler**|Zhenyu Tao et.al.|[2311.17451v1](http://arxiv.org/abs/2311.17451v1)|null|
-|**2023-11-29**|**VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model**|Haoyu Zhao et.al.|[2311.17338v1](http://arxiv.org/abs/2311.17338v1)|null|
+|**2023-12-01**|**VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model**|Haoyu Zhao et.al.|[2311.17338v2](http://arxiv.org/abs/2311.17338v2)|null|
 |**2023-11-28**|**Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation**|Hang Li et.al.|[2311.17216v1](http://arxiv.org/abs/2311.17216v1)|null|
 |**2023-11-28**|**A point cloud approach to generative modeling for galaxy surveys at the field level**|Carolina Cuesta-Lazaro et.al.|[2311.17141v1](http://arxiv.org/abs/2311.17141v1)|**[link](https://github.com/smsharma/point-cloud-galaxy-diffusion)**|
 |**2023-11-28**|**Generative Models: What do they know? Do they know things? Let's find out!**|Xiaodan Du et.al.|[2311.17137v1](http://arxiv.org/abs/2311.17137v1)|null|
