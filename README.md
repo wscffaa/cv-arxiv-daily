@@ -43,7 +43,7 @@
 |**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832v1](http://arxiv.org/abs/2311.18832v1)|**[link](https://github.com/shinying/dmp)**|
 |**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|**[link](https://github.com/Francis-Rings/MotionEditor)**|
 |**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
-|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|
+|**2023-12-03**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v2](http://arxiv.org/abs/2311.18828v2)|null|
 |**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|**[link](https://github.com/moayedhajiali/elasticdiffusion-official)**|
 |**2023-11-30**|**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**|James Seale Smith et.al.|[2311.18763v1](http://arxiv.org/abs/2311.18763v1)|null|
 |**2023-11-30**|**Detailed Human-Centric Text Description-Driven Large Scene Synthesis**|Gwanghyun Kim et.al.|[2311.18654v1](http://arxiv.org/abs/2311.18654v1)|null|
@@ -62,7 +62,7 @@
 |**2023-11-29**|**GELDA: A generative language annotation framework to reveal visual biases in datasets**|Krish Kabra et.al.|[2311.18064v1](http://arxiv.org/abs/2311.18064v1)|null|
 |**2023-11-29**|**Echoes in the Noise: Posterior Samples of Faint Galaxy Surface Brightness Profiles with Score-Based Likelihoods and Priors**|Alexandre Adam et.al.|[2311.18002v1](http://arxiv.org/abs/2311.18002v1)|null|
 |**2023-11-29**|**4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling**|Sherwin Bahmani et.al.|[2311.17984v1](http://arxiv.org/abs/2311.17984v1)|null|
-|**2023-11-29**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971v1](http://arxiv.org/abs/2311.17971v1)|**[link](https://github.com/baaivision/GeoDream)**|
+|**2023-12-01**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971v2](http://arxiv.org/abs/2311.17971v2)|**[link](https://github.com/baaivision/GeoDream)**|
 |**2023-11-29**|**HandRefiner: Refining Malformed Hands in Generated Images by Diffusion-based Conditional Inpainting**|Wenquan Lu et.al.|[2311.17957v1](http://arxiv.org/abs/2311.17957v1)|**[link](https://github.com/wenquanlu/handrefiner)**|
 |**2023-11-29**|**C3Net: Compound Conditioned ControlNet for Multimodal Content Generation**|Juntao Zhang et.al.|[2311.17951v1](http://arxiv.org/abs/2311.17951v1)|null|
 |**2023-11-28**|**Unlocking Spatial Comprehension in Text-to-Image Diffusion Models**|Mohammad Mahdi Derakhshani et.al.|[2311.17937v1](http://arxiv.org/abs/2311.17937v1)|null|
@@ -4235,7 +4235,7 @@
 |**2023-11-17**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v3](http://arxiv.org/abs/2308.10436v3)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
-|**2023-08-09**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v1](http://arxiv.org/abs/2308.05045v1)|null|
+|**2023-12-02**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v2](http://arxiv.org/abs/2308.05045v2)|null|
 |**2023-08-03**|**Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding**|Hangcheng Liu et.al.|[2308.01512v1](http://arxiv.org/abs/2308.01512v1)|null|
 |**2023-08-01**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
 |**2023-07-26**|**SuperInpaint: Learning Detail-Enhanced Attentional Implicit Representation for Super-resolutional Image Inpainting**|Canyu Zhang et.al.|[2307.14489v1](http://arxiv.org/abs/2307.14489v1)|null|
