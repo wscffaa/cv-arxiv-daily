@@ -26,6 +26,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970v1](http://arxiv.org/abs/2312.02970v1)|null|
+|**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967v1](http://arxiv.org/abs/2312.02967v1)|null|
+|**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966v1](http://arxiv.org/abs/2312.02966v1)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
+|**2023-12-05**|**A Diffusion Model of Dynamic Participant Inflow Management**|Baris Ata et.al.|[2312.02927v1](http://arxiv.org/abs/2312.02927v1)|null|
+|**2023-12-05**|**Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting**|Donggeun Yoon et.al.|[2312.02819v1](http://arxiv.org/abs/2312.02819v1)|null|
+|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813v1](http://arxiv.org/abs/2312.02813v1)|null|
+|**2023-12-05**|**Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions**|Xu Shi et.al.|[2312.02772v1](http://arxiv.org/abs/2312.02772v1)|null|
+|**2023-12-05**|**Neural Sign Actors: A diffusion model for 3D sign language production from text**|Vasileios Baltatzis et.al.|[2312.02702v1](http://arxiv.org/abs/2312.02702v1)|null|
+|**2023-12-05**|**Analyzing and Improving the Training Dynamics of Diffusion Models**|Tero Karras et.al.|[2312.02696v1](http://arxiv.org/abs/2312.02696v1)|null|
+|**2023-12-05**|**Diffusion-Based Speech Enhancement in Matched and Mismatched Conditions Using a Heun-Based Sampler**|Philippe Gonzalez et.al.|[2312.02683v1](http://arxiv.org/abs/2312.02683v1)|null|
+|**2023-12-05**|**TPA3D: Triplane Attention for Fast Text-to-3D Generation**|Hong-En Chen et.al.|[2312.02647v1](http://arxiv.org/abs/2312.02647v1)|null|
+|**2023-12-05**|**Diffusion Noise Feature: Accurate and Fast Generated Image Detection**|Yichi Zhang et.al.|[2312.02625v1](http://arxiv.org/abs/2312.02625v1)|null|
+|**2023-12-05**|**Projection Regret: Reducing Background Bias for Novelty Detection via Diffusion Models**|Sungik Choi et.al.|[2312.02615v1](http://arxiv.org/abs/2312.02615v1)|null|
+|**2023-12-05**|**GeNIe: Generative Hard Negative Images Through Diffusion**|Soroush Abbasi Koohpayegani et.al.|[2312.02548v1](http://arxiv.org/abs/2312.02548v1)|**[link](https://github.com/ucdvision/genie)**|
+|**2023-12-05**|**Retrieving Conditions from Reference Images for Diffusion Models**|Haoran Tang et.al.|[2312.02521v1](http://arxiv.org/abs/2312.02521v1)|null|
+|**2023-12-05**|**Creative Agents: Empowering Agents with Imagination for Creative Tasks**|Chi Zhang et.al.|[2312.02519v1](http://arxiv.org/abs/2312.02519v1)|**[link](https://github.com/pku-rl/creative-agents)**|
+|**2023-12-05**|**Orthogonal Adaptation for Modular Customization of Diffusion Models**|Ryan Po et.al.|[2312.02432v1](http://arxiv.org/abs/2312.02432v1)|null|
+|**2023-12-05**|**Towards Granularity-adjusted Pixel-level Semantic Annotation**|Rohit Kundu et.al.|[2312.02420v1](http://arxiv.org/abs/2312.02420v1)|null|
+|**2023-12-04**|**EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Motion Generation**|Wenyang Zhou et.al.|[2312.02256v1](http://arxiv.org/abs/2312.02256v1)|null|
+|**2023-12-04**|**Diversify, Don't Fine-Tune: Scaling Up Visual Recognition Training with Synthetic Images**|Zhuoran Yu et.al.|[2312.02253v1](http://arxiv.org/abs/2312.02253v1)|null|
+|**2023-12-04**|**Conditional Variational Diffusion Models**|Gabriel della Maggiora et.al.|[2312.02246v1](http://arxiv.org/abs/2312.02246v1)|null|
+|**2023-12-04**|**X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model**|Lingmin Ran et.al.|[2312.02238v1](http://arxiv.org/abs/2312.02238v1)|null|
+|**2023-12-03**|**Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction**|Yizhi Wang et.al.|[2312.02221v1](http://arxiv.org/abs/2312.02221v1)|null|
+|**2023-12-03**|**DragVideo: Interactive Drag-style Video Editing**|Yufan Deng et.al.|[2312.02216v1](http://arxiv.org/abs/2312.02216v1)|**[link](https://github.com/rickyskywalker/dragvideo-official)**|
+|**2023-12-03**|**Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting**|Jin Liu et.al.|[2312.02212v1](http://arxiv.org/abs/2312.02212v1)|**[link](https://github.com/liujin112/portraitdiffusion)**|
+|**2023-12-02**|**ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation**|Peng Wang et.al.|[2312.02201v1](http://arxiv.org/abs/2312.02201v1)|null|
+|**2023-12-02**|**Exploiting Diffusion Priors for All-in-One Image Restoration**|Yuanbiao Gou et.al.|[2312.02197v1](http://arxiv.org/abs/2312.02197v1)|null|
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156v1](http://arxiv.org/abs/2312.02156v1)|null|
 |**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150v1](http://arxiv.org/abs/2312.02150v1)|null|
 |**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|null|
@@ -2302,6 +2329,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Conditional Variational Diffusion Models**|Gabriel della Maggiora et.al.|[2312.02246v1](http://arxiv.org/abs/2312.02246v1)|null|
 |**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149v1](http://arxiv.org/abs/2312.02149v1)|null|
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999v1](http://arxiv.org/abs/2312.01999v1)|null|
 |**2023-12-04**|**TMSR: Tiny Multi-path CNNs for Super Resolution**|Chia-Hung Liu et.al.|[2312.01644v1](http://arxiv.org/abs/2312.01644v1)|null|
@@ -3391,6 +3419,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**|Yuang Ai et.al.|[2312.02918v1](http://arxiv.org/abs/2312.02918v1)|null|
+|**2023-12-05**|**Deep-learning-driven end-to-end metalens imaging**|Joonhyuk Seo et.al.|[2312.02669v1](http://arxiv.org/abs/2312.02669v1)|null|
+|**2023-12-02**|**Exploiting Diffusion Priors for All-in-One Image Restoration**|Yuanbiao Gou et.al.|[2312.02197v1](http://arxiv.org/abs/2312.02197v1)|null|
 |**2023-12-05**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677v2](http://arxiv.org/abs/2312.01677v2)|null|
 |**2023-12-05**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529v2](http://arxiv.org/abs/2312.01529v2)|null|
 |**2023-12-03**|**An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-Block Composite Optimization**|Zhanwang Deng et.al.|[2312.01273v1](http://arxiv.org/abs/2312.01273v1)|null|
@@ -3635,6 +3666,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**ReconU-Net: a direct PET image reconstruction using U-Net architecture with back projection-induced skip connection**|Fumio Hashimoto et.al.|[2312.02494v1](http://arxiv.org/abs/2312.02494v1)|null|
+|**2023-12-03**|**Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting**|Jin Liu et.al.|[2312.02212v1](http://arxiv.org/abs/2312.02212v1)|**[link](https://github.com/liujin112/portraitdiffusion)**|
 |**2023-12-04**|**Equivariant plug-and-play image reconstruction**|Matthieu Terris et.al.|[2312.01831v1](http://arxiv.org/abs/2312.01831v1)|null|
 |**2023-12-03**|**Diffusion Posterior Sampling for Nonlinear CT Reconstruction**|Shudong Li et.al.|[2312.01464v1](http://arxiv.org/abs/2312.01464v1)|null|
 |**2023-12-03**|**Few-shot Shape Recognition by Learning Deep Shape-aware Features**|Wenlong Shi et.al.|[2312.01315v1](http://arxiv.org/abs/2312.01315v1)|null|
