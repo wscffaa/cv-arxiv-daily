@@ -79,7 +79,7 @@
 |**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832v1](http://arxiv.org/abs/2311.18832v1)|**[link](https://github.com/shinying/dmp)**|
 |**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830v1](http://arxiv.org/abs/2311.18830v1)|**[link](https://github.com/Francis-Rings/MotionEditor)**|
 |**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
-|**2023-12-03**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v2](http://arxiv.org/abs/2311.18828v2)|null|
+|**2023-12-05**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v3](http://arxiv.org/abs/2311.18828v3)|null|
 |**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822v1](http://arxiv.org/abs/2311.18822v1)|**[link](https://github.com/moayedhajiali/elasticdiffusion-official)**|
 |**2023-11-30**|**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**|James Seale Smith et.al.|[2311.18763v1](http://arxiv.org/abs/2311.18763v1)|null|
 |**2023-11-30**|**Detailed Human-Centric Text Description-Driven Large Scene Synthesis**|Gwanghyun Kim et.al.|[2311.18654v1](http://arxiv.org/abs/2311.18654v1)|null|
@@ -2306,7 +2306,7 @@
 |**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999v1](http://arxiv.org/abs/2312.01999v1)|null|
 |**2023-12-04**|**TMSR: Tiny Multi-path CNNs for Super Resolution**|Chia-Hung Liu et.al.|[2312.01644v1](http://arxiv.org/abs/2312.01644v1)|null|
 |**2023-12-04**|**J-Net: Improved U-Net for Terahertz Image Super-Resolution**|Woon-Ha Yeo et.al.|[2312.01638v1](http://arxiv.org/abs/2312.01638v1)|null|
-|**2023-12-02**|**Joint Multiple FMCW Chirp Sequence Processing for Velocity Estimation and Ambiguity Resolving**|Tarik Kazaz et.al.|[2312.01123v1](http://arxiv.org/abs/2312.01123v1)|null|
+|**2023-12-05**|**Joint Multiple FMCW Chirp Sequence Processing for Velocity Estimation and Ambiguity Resolving**|Tarik Kazaz et.al.|[2312.01123v2](http://arxiv.org/abs/2312.01123v2)|null|
 |**2023-12-02**|**High-speed image reconstruction for nonlinear structured illumination microscopy**|Jingxiang Zhang et.al.|[2312.01073v1](http://arxiv.org/abs/2312.01073v1)|null|
 |**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061v1](http://arxiv.org/abs/2312.01061v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|null|
@@ -2323,7 +2323,7 @@
 |**2023-11-28**|**Precision Enhancement in Spatial Measurement by Introducing Squeezed Light into Weak Value Amplification**|Chaoxia Zhang et.al.|[2311.16622v1](http://arxiv.org/abs/2311.16622v1)|null|
 |**2023-11-27**|**SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2311.16518v1](http://arxiv.org/abs/2311.16518v1)|**[link](https://github.com/cswry/seesr)**|
 |**2023-11-27**|**LFSRDiff: Light Field Image Super-Resolution via Diffusion Models**|Wentao Chao et.al.|[2311.16517v1](http://arxiv.org/abs/2311.16517v1)|**[link](https://github.com/chaowentao/lfsrdiff)**|
-|**2023-11-29**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v2](http://arxiv.org/abs/2311.16512v2)|null|
+|**2023-12-02**|**CoSeR: Bridging Image and Language for Cognitive Super-Resolution**|Haoze Sun et.al.|[2311.16512v3](http://arxiv.org/abs/2311.16512v3)|null|
 |**2023-11-27**|**SIRAN: Sinkhorn Distance Regularized Adversarial Network for DEM Super-resolution using Discriminative Spatial Self-attention**|Subhajit Paul et.al.|[2311.16490v1](http://arxiv.org/abs/2311.16490v1)|null|
 |**2023-11-27**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908v1](http://arxiv.org/abs/2311.15908v1)|**[link](https://github.com/claudiom4sir/stablevsr)**|
 |**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445v1](http://arxiv.org/abs/2311.15445v1)|null|
@@ -2976,7 +2976,7 @@
 |**2023-09-29**|**Prior Mismatch and Adaptation in PnP-ADMM with a Nonconvex Convergence Analysis**|Shirin Shoushtari et.al.|[2310.00133v1](http://arxiv.org/abs/2310.00133v1)|null|
 |**2023-09-29**|**Multi-Depth Branches Network for Efficient Image Super-Resolution**|Huiyuan Tian et.al.|[2309.17334v1](http://arxiv.org/abs/2309.17334v1)|**[link](https://github.com/thy960112/mdbn)**|
 |**2023-09-29**|**Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN**|Weiwen Zhang et.al.|[2309.17269v1](http://arxiv.org/abs/2309.17269v1)|null|
-|**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
+|**2023-12-05**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v2](http://arxiv.org/abs/2309.14162v2)|null|
 |**2023-09-28**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v3](http://arxiv.org/abs/2309.13655v3)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-23**|**Cine cardiac MRI reconstruction using a convolutional recurrent network with refinement**|Yuyang Xue et.al.|[2309.13385v1](http://arxiv.org/abs/2309.13385v1)|**[link](https://github.com/vios-s/CMRxRECON_Challenge_EDIPO)**|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506v1](http://arxiv.org/abs/2309.12506v1)|null|
@@ -3391,8 +3391,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-04**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677v1](http://arxiv.org/abs/2312.01677v1)|null|
-|**2023-12-03**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529v1](http://arxiv.org/abs/2312.01529v1)|null|
+|**2023-12-05**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677v2](http://arxiv.org/abs/2312.01677v2)|null|
+|**2023-12-05**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529v2](http://arxiv.org/abs/2312.01529v2)|null|
 |**2023-12-03**|**An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-Block Composite Optimization**|Zhanwang Deng et.al.|[2312.01273v1](http://arxiv.org/abs/2312.01273v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|null|
 |**2023-11-30**|**A Novel Variational Approach for Multiphoton Microscopy Image Restoration: from PSF Estimation to 3D Deconvolution**|Julien Ajdenbaum et.al.|[2311.18386v1](http://arxiv.org/abs/2311.18386v1)|null|
@@ -3422,7 +3422,7 @@
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848v1](http://arxiv.org/abs/2310.12848v1)|null|
 |**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881v1](http://arxiv.org/abs/2310.11881v1)|null|
 |**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513v1](http://arxiv.org/abs/2310.10513v1)|null|
-|**2023-11-19**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123v3](http://arxiv.org/abs/2310.10123v3)|null|
+|**2023-12-02**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123v4](http://arxiv.org/abs/2310.10123v4)|null|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068v1](http://arxiv.org/abs/2310.08068v1)|null|
 |**2023-11-22**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721v2](http://arxiv.org/abs/2310.06721v2)|null|
 |**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180v1](http://arxiv.org/abs/2310.04180v1)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
