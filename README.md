@@ -3682,7 +3682,7 @@
 |**2023-11-30**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433v1](http://arxiv.org/abs/2311.18433v1)|**[link](https://github.com/xmu-qcj/e2pnet)**|
 |**2023-11-30**|**Few-shot Image Generation via Style Adaptation and Content Preservation**|Xiaosheng He et.al.|[2311.18169v1](http://arxiv.org/abs/2311.18169v1)|null|
 |**2023-11-29**|**Calibration and evaluation of a motion measurement system for PET imaging studies**|Junxiang Wang et.al.|[2311.18009v1](http://arxiv.org/abs/2311.18009v1)|null|
-|**2023-11-29**|**Evaluation of a measurement system for PET imaging studies**|Junxiang Wang et.al.|[2311.17863v1](http://arxiv.org/abs/2311.17863v1)|null|
+|**2023-12-06**|**Evaluation of a motion measurement system for PET imaging studies**|Junxiang Wang et.al.|[2311.17863v2](http://arxiv.org/abs/2311.17863v2)|null|
 |**2023-11-29**|**Method for robotic motion compensation during PET imaging of mobile subjects**|Junxiang Wang et.al.|[2311.17861v1](http://arxiv.org/abs/2311.17861v1)|null|
 |**2023-11-28**|**Deep Regularized Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2311.17248v1](http://arxiv.org/abs/2311.17248v1)|null|
 |**2023-11-28**|**Augmenting x-ray single particle imaging reconstruction with self-supervised machine learning**|Zhantao Chen et.al.|[2311.16652v1](http://arxiv.org/abs/2311.16652v1)|null|
