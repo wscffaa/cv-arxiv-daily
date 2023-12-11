@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253v1](http://arxiv.org/abs/2312.05253v1)|null|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239v1](http://arxiv.org/abs/2312.05239v1)|null|
+|**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140v1](http://arxiv.org/abs/2312.05140v1)|null|
+|**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107v1](http://arxiv.org/abs/2312.05107v1)|null|
+|**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
+|**2023-12-07**|**Customizing Motion in Text-to-Video Diffusion Models**|Joanna Materzynska et.al.|[2312.04966v1](http://arxiv.org/abs/2312.04966v1)|null|
+|**2023-12-07**|**Inversion-Free Image Editing with Natural Language**|Sihan Xu et.al.|[2312.04965v1](http://arxiv.org/abs/2312.04965v1)|null|
+|**2023-12-08**|**UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models**|Yiming Zhao et.al.|[2312.04884v1](http://arxiv.org/abs/2312.04884v1)|**[link](https://github.com/zym-pku/udifftext)**|
+|**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875v1](http://arxiv.org/abs/2312.04875v1)|null|
+|**2023-12-08**|**HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models**|Pei Lin et.al.|[2312.04867v1](http://arxiv.org/abs/2312.04867v1)|null|
+|**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820v1](http://arxiv.org/abs/2312.04820v1)|null|
+|**2023-12-08**|**A Unified Particle-Based Solver for Non-Newtonian Behaviors Simulation**|Chunlei Li et.al.|[2312.04814v1](http://arxiv.org/abs/2312.04814v1)|null|
+|**2023-12-08**|**RS-Corrector: Correcting the Racial Stereotypes in Latent Diffusion Models**|Yue Jiang et.al.|[2312.04810v1](http://arxiv.org/abs/2312.04810v1)|null|
+|**2023-12-08**|**RL Dreams: Policy Gradient Optimization for Score Distillation based 3D Generation**|Aradhya N. Mathur et.al.|[2312.04806v1](http://arxiv.org/abs/2312.04806v1)|null|
+|**2023-12-08**|**MimicDiffusion: Purifying Adversarial Perturbation via Mimicking Clean Diffusion Model**|Kaiyu Song et.al.|[2312.04802v1](http://arxiv.org/abs/2312.04802v1)|null|
+|**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784v1](http://arxiv.org/abs/2312.04784v1)|null|
+|**2023-12-08**|**Fine-Tuning InstructPix2Pix for Advanced Image Colorization**|Zifeng An et.al.|[2312.04780v1](http://arxiv.org/abs/2312.04780v1)|null|
+|**2023-12-07**|**Diffence: Fencing Membership Privacy With Diffusion Models**|Yuefeng Peng et.al.|[2312.04692v1](http://arxiv.org/abs/2312.04692v1)|null|
+|**2023-12-07**|**ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations**|Maitreya Patel et.al.|[2312.04655v1](http://arxiv.org/abs/2312.04655v1)|null|
+|**2023-12-07**|**NeuSD: Surface Completion with Multi-View Text-to-Image Diffusion**|Savva Ignatyev et.al.|[2312.04654v1](http://arxiv.org/abs/2312.04654v1)|null|
 |**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566v1](http://arxiv.org/abs/2312.04566v1)|null|
 |**2023-12-07**|**NeRFiller: Completing Scenes via Generative 3D Inpainting**|Ethan Weber et.al.|[2312.04560v1](http://arxiv.org/abs/2312.04560v1)|null|
 |**2023-12-07**|**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation**|Zhaoxi Chen et.al.|[2312.04559v1](http://arxiv.org/abs/2312.04559v1)|**[link](https://github.com/frozenburning/primdiffusion)**|
@@ -3349,6 +3369,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Fine-Tuning InstructPix2Pix for Advanced Image Colorization**|Zifeng An et.al.|[2312.04780v1](http://arxiv.org/abs/2312.04780v1)|null|
 |**2023-12-07**|**Diffusing Colors: Image Colorization with Text Guided Diffusion**|Nir Zabari et.al.|[2312.04145v1](http://arxiv.org/abs/2312.04145v1)|null|
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984v1](http://arxiv.org/abs/2311.01984v1)|null|
 |**2023-11-17**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v2](http://arxiv.org/abs/2310.16869v2)|null|
@@ -3481,6 +3502,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190v1](http://arxiv.org/abs/2312.05190v1)|null|
+|**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038v1](http://arxiv.org/abs/2312.05038v1)|**[link](https://github.com/longzilicart/pip_universal)**|
+|**2023-12-08**|**Decoupling Degradation and Content Processing for Adverse Weather Image Restoration**|Xi Wang et.al.|[2312.05006v1](http://arxiv.org/abs/2312.05006v1)|null|
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
 |**2023-12-05**|**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**|Yuang Ai et.al.|[2312.02918v1](http://arxiv.org/abs/2312.02918v1)|null|
 |**2023-12-05**|**Deep-learning-driven end-to-end metalens imaging**|Joonhyuk Seo et.al.|[2312.02669v1](http://arxiv.org/abs/2312.02669v1)|**[link](https://github.com/yhy258/eidl_drmi)**|
@@ -4158,6 +4182,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038v1](http://arxiv.org/abs/2312.05038v1)|**[link](https://github.com/longzilicart/pip_universal)**|
+|**2023-12-08**|**DiffCMR: Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models**|Tianqi Xiang et.al.|[2312.04853v1](http://arxiv.org/abs/2312.04853v1)|**[link](https://github.com/xmed-lab/diffcmr)**|
 |**2023-11-25**|** $Z^*$ : Zero-shot Style Transfer via Attention Rearrangement**|Yingying Deng et.al.|[2311.16491v1](http://arxiv.org/abs/2311.16491v1)|null|
 |**2023-12-08**|**Self-supervised OCT Image Denoising with Slice-to-Slice Registration and Reconstruction**|Shijie Li et.al.|[2311.15167v2](http://arxiv.org/abs/2311.15167v2)|**[link](https://github.com/cjlee94/slice2slice)**|
 |**2023-11-22**|**TDiffDe: A Truncated Diffusion Model for Remote Sensing Hyperspectral Image Denoising**|Jiang He et.al.|[2311.13622v1](http://arxiv.org/abs/2311.13622v1)|null|
@@ -4368,6 +4394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
 |**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|**[link](https://github.com/zhang-zx/AVID)**|
 |**2023-12-05**|**DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models**|Shaoan Xie et.al.|[2312.03771v1](http://arxiv.org/abs/2312.03771v1)|null|
 |**2023-12-07**|**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**|Junhao Zhuang et.al.|[2312.03594v2](http://arxiv.org/abs/2312.03594v2)|**[link](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint)**|
@@ -4507,6 +4534,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046v1](http://arxiv.org/abs/2312.05046v1)|null|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143v1](http://arxiv.org/abs/2312.04143v1)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
 |**2023-12-07**|**Style Transfer to Calvin and Hobbes comics using Stable Diffusion**|Sloke Shrestha et.al.|[2312.03993v1](http://arxiv.org/abs/2312.03993v1)|null|
 |**2023-12-04**|**ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation**|Dar-Yen Chen et.al.|[2312.02109v1](http://arxiv.org/abs/2312.02109v1)|null|
