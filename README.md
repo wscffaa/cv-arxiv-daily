@@ -26,6 +26,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**PhenDiff: Revealing Invisible Phenotypes with Conditional Diffusion Models**|Anis Bourou et.al.|[2312.08290v1](http://arxiv.org/abs/2312.08290v1)|**[link](https://github.com/warmongeringbeaver/phendiff)**|
+|**2023-12-13**|**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**|Yan Pang et.al.|[2312.08207v1](http://arxiv.org/abs/2312.08207v1)|null|
+|**2023-12-13**|**Concept-centric Personalization with Large-scale Diffusion Priors**|Pu Cao et.al.|[2312.08195v1](http://arxiv.org/abs/2312.08195v1)|**[link](https://github.com/priv-creation/concept-centric-personalization)**|
+|**2023-12-13**|** $ρ$ -Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153v1](http://arxiv.org/abs/2312.08153v1)|null|
+|**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128v1](http://arxiv.org/abs/2312.08128v1)|null|
+|**2023-12-13**|**Knowledge-Aware Artifact Image Synthesis with LLM-Enhanced Prompting and Multi-Source Supervision**|Shengguang Wu et.al.|[2312.08056v1](http://arxiv.org/abs/2312.08056v1)|null|
+|**2023-12-13**|**Compositional Inversion for Stable Diffusion Models**|Xu-Lu Zhang et.al.|[2312.08048v1](http://arxiv.org/abs/2312.08048v1)|**[link](https://github.com/zhangxulu1996/compositional-inversion)**|
+|**2023-12-13**|**AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing**|Zhiyuan Ma et.al.|[2312.08019v1](http://arxiv.org/abs/2312.08019v1)|**[link](https://github.com/anonymouspony/adap-edit)**|
+|**2023-12-13**|**Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation**|Haiming Yi et.al.|[2312.07981v1](http://arxiv.org/abs/2312.07981v1)|null|
+|**2023-12-13**|**LMD: Faster Image Reconstruction with Latent Masking Diffusion**|Zhiyuan Ma et.al.|[2312.07971v1](http://arxiv.org/abs/2312.07971v1)|**[link](https://github.com/anonymouspony/lmd)**|
+|**2023-12-13**|**Semantic-aware Data Augmentation for Text-to-image Synthesis**|Zhaorui Tan et.al.|[2312.07951v1](http://arxiv.org/abs/2312.07951v1)|null|
+|**2023-12-13**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937v1](http://arxiv.org/abs/2312.07937v1)|null|
+|**2023-12-13**|**SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models**|Feifei Wang et.al.|[2312.07865v1](http://arxiv.org/abs/2312.07865v1)|null|
+|**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854v1](http://arxiv.org/abs/2312.07854v1)|null|
+|**2023-12-13**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851v1](http://arxiv.org/abs/2312.07851v1)|null|
+|**2023-12-13**|**Stable Rivers: A Case Study in the Application of Text-to-Image Generative Models for Earth Sciences**|C Kupferschmidt et.al.|[2312.07833v1](http://arxiv.org/abs/2312.07833v1)|null|
+|**2023-12-12**|**Brain-optimized inference improves reconstructions of fMRI brain activity**|Reese Kneeland et.al.|[2312.07705v1](http://arxiv.org/abs/2312.07705v1)|null|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537v1](http://arxiv.org/abs/2312.07537v1)|**[link](https://github.com/tianxingwu/freeinit)**|
 |**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536v1](http://arxiv.org/abs/2312.07536v1)|null|
 |**2023-12-12**|**Cosmological Field Emulation and Parameter Inference with Diffusion Models**|Nayantara Mudur et.al.|[2312.07534v1](http://arxiv.org/abs/2312.07534v1)|null|
@@ -2472,6 +2489,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
+|**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
+|**2023-12-13**|**CoIE: Chain-of-Instruct Editing for Multi-Attribute Face Manipulation**|Zhenduo Zhang et.al.|[2312.07879v1](http://arxiv.org/abs/2312.07879v1)|null|
+|**2023-12-13**|**Video Dynamics Prior: An Internal Learning Approach for Robust Video Enhancements**|Gaurav Shrivastava et.al.|[2312.07835v1](http://arxiv.org/abs/2312.07835v1)|null|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
 |**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
 |**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
 |**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
@@ -3114,6 +3136,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
+|**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
 |**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
 |**2023-12-11**|**Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution**|Binxiao Huang et.al.|[2312.06101v1](http://arxiv.org/abs/2312.06101v1)|null|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616v1](http://arxiv.org/abs/2312.05616v1)|**[link](https://github.com/chaofengc/iter)**|
@@ -3364,6 +3388,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
 |**2023-12-01**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853v1](http://arxiv.org/abs/2312.00853v1)|**[link](https://github.com/ianyeung/mgld-vsr)**|
@@ -3584,6 +3609,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Uncertainty Visualization via Low-Dimensional Posterior Projections**|Omer Yair et.al.|[2312.07804v1](http://arxiv.org/abs/2312.07804v1)|null|
 |**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946v1](http://arxiv.org/abs/2312.06946v1)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162v1](http://arxiv.org/abs/2312.06162v1)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
@@ -3838,6 +3864,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
+|**2023-12-13**|**LMD: Faster Image Reconstruction with Latent Masking Diffusion**|Zhiyuan Ma et.al.|[2312.07971v1](http://arxiv.org/abs/2312.07971v1)|**[link](https://github.com/anonymouspony/lmd)**|
+|**2023-12-12**|**Robust MRI Reconstruction by Smoothed Unrolling (SMUG)**|Shijun Liang et.al.|[2312.07784v1](http://arxiv.org/abs/2312.07784v1)|**[link](https://github.com/sjames40/smug_journal)**|
 |**2023-12-11**|**DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**|Haoyang He et.al.|[2312.06607v1](http://arxiv.org/abs/2312.06607v1)|**[link](https://github.com/lewandofskee/DiAD)**|
 |**2023-12-10**|**Learning Spatially-Continuous Fiber Orientation Functions**|Tyler Spears et.al.|[2312.05721v1](http://arxiv.org/abs/2312.05721v1)|null|
 |**2023-12-09**|**Improving reconstructions in nanotomography for homogeneous materials via mathematical optimization**|Sebastian Kreuz et.al.|[2312.05592v1](http://arxiv.org/abs/2312.05592v1)|null|
@@ -4623,6 +4652,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Towards Better Morphed Face Images without Ghosting Artifacts**|Clemens Seibold et.al.|[2312.08111v1](http://arxiv.org/abs/2312.08111v1)|null|
 |**2023-12-12**|**Scalable Motion Style Transfer with Constrained Diffusion Generation**|Wenjie Yin et.al.|[2312.07311v1](http://arxiv.org/abs/2312.07311v1)|null|
 |**2023-12-10**|**Neutral Editing Framework for Diffusion-based Video Editing**|Sunjae Yoon et.al.|[2312.06708v1](http://arxiv.org/abs/2312.06708v1)|null|
 |**2023-12-11**|**ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank**|Zhanjie Zhang et.al.|[2312.06135v1](http://arxiv.org/abs/2312.06135v1)|null|
