@@ -32,7 +32,7 @@
 |**2023-12-13**|** $ρ$ -Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153v1](http://arxiv.org/abs/2312.08153v1)|null|
 |**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128v1](http://arxiv.org/abs/2312.08128v1)|null|
 |**2023-12-13**|**Knowledge-Aware Artifact Image Synthesis with LLM-Enhanced Prompting and Multi-Source Supervision**|Shengguang Wu et.al.|[2312.08056v1](http://arxiv.org/abs/2312.08056v1)|null|
-|**2023-12-13**|**Compositional Inversion for Stable Diffusion Models**|Xu-Lu Zhang et.al.|[2312.08048v1](http://arxiv.org/abs/2312.08048v1)|**[link](https://github.com/zhangxulu1996/compositional-inversion)**|
+|**2023-12-14**|**Compositional Inversion for Stable Diffusion Models**|Xu-Lu Zhang et.al.|[2312.08048v2](http://arxiv.org/abs/2312.08048v2)|**[link](https://github.com/zhangxulu1996/compositional-inversion)**|
 |**2023-12-13**|**AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing**|Zhiyuan Ma et.al.|[2312.08019v1](http://arxiv.org/abs/2312.08019v1)|**[link](https://github.com/anonymouspony/adap-edit)**|
 |**2023-12-13**|**Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation**|Haiming Yi et.al.|[2312.07981v1](http://arxiv.org/abs/2312.07981v1)|null|
 |**2023-12-13**|**LMD: Faster Image Reconstruction with Latent Masking Diffusion**|Zhiyuan Ma et.al.|[2312.07971v1](http://arxiv.org/abs/2312.07971v1)|**[link](https://github.com/anonymouspony/lmd)**|
@@ -40,7 +40,7 @@
 |**2023-12-13**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937v1](http://arxiv.org/abs/2312.07937v1)|null|
 |**2023-12-13**|**SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models**|Feifei Wang et.al.|[2312.07865v1](http://arxiv.org/abs/2312.07865v1)|null|
 |**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854v1](http://arxiv.org/abs/2312.07854v1)|null|
-|**2023-12-13**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851v1](http://arxiv.org/abs/2312.07851v1)|null|
+|**2023-12-14**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851v2](http://arxiv.org/abs/2312.07851v2)|null|
 |**2023-12-13**|**Stable Rivers: A Case Study in the Application of Text-to-Image Generative Models for Earth Sciences**|C Kupferschmidt et.al.|[2312.07833v1](http://arxiv.org/abs/2312.07833v1)|null|
 |**2023-12-12**|**Brain-optimized inference improves reconstructions of fMRI brain activity**|Reese Kneeland et.al.|[2312.07705v1](http://arxiv.org/abs/2312.07705v1)|null|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537v1](http://arxiv.org/abs/2312.07537v1)|**[link](https://github.com/tianxingwu/freeinit)**|
@@ -2496,7 +2496,7 @@
 |**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|null|
 |**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
 |**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016v1](http://arxiv.org/abs/2312.07016v1)|null|
-|**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
+|**2023-12-14**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v2](http://arxiv.org/abs/2312.06733v2)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
 |**2023-12-11**|**Non-iterative Methods in Inhomogeneous Background Inverse Scattering Imaging Problem Assisted by Swin Transformer Network**|Naike Du et.al.|[2312.06302v1](http://arxiv.org/abs/2312.06302v1)|null|
@@ -3138,7 +3138,7 @@
 |---|---|---|---|---|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
-|**2023-12-11**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v1](http://arxiv.org/abs/2312.06733v1)|null|
+|**2023-12-14**|**TULIP: Transformer for Upsampling of LiDAR Point Cloud**|Bin Yang et.al.|[2312.06733v2](http://arxiv.org/abs/2312.06733v2)|null|
 |**2023-12-11**|**Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution**|Binxiao Huang et.al.|[2312.06101v1](http://arxiv.org/abs/2312.06101v1)|null|
 |**2023-12-09**|**Iterative Token Evaluation and Refinement for Real-World Super-Resolution**|Chaofeng Chen et.al.|[2312.05616v1](http://arxiv.org/abs/2312.05616v1)|**[link](https://github.com/chaofengc/iter)**|
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
