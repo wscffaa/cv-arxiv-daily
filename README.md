@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Latent Diffusion Models with Image-Derived Annotations for Enhanced AI-Assisted Cancer Diagnosis in Histopathology**|Pedro Osorio et.al.|[2312.09792v1](http://arxiv.org/abs/2312.09792v1)|null|
+|**2023-12-15**|**DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**|Yifeng Ma et.al.|[2312.09767v1](http://arxiv.org/abs/2312.09767v1)|null|
+|**2023-12-15**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754v1](http://arxiv.org/abs/2312.09754v1)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
+|**2023-12-15**|**Positivity and global existence for nonlocal advection-diffusion models of interacting populations**|Valeria Giunta et.al.|[2312.09692v1](http://arxiv.org/abs/2312.09692v1)|null|
+|**2023-12-15**|**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**|Selcuk Anil Karatopak et.al.|[2312.09682v1](http://arxiv.org/abs/2312.09682v1)|null|
+|**2023-12-15**|**Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**|Senmao Li et.al.|[2312.09608v1](http://arxiv.org/abs/2312.09608v1)|**[link](https://github.com/hutaihang/faster-diffusion)**|
+|**2023-12-15**|**Single PW takes a shortcut to compound PW in US imaging**|Zhiqiang Li et.al.|[2312.09514v1](http://arxiv.org/abs/2312.09514v1)|null|
+|**2023-12-15**|**Fast Sampling generative model for Ultrasound image reconstruction**|Hengrong Lan et.al.|[2312.09510v1](http://arxiv.org/abs/2312.09510v1)|null|
+|**2023-12-14**|**Unbiasing Enhanced Sampling on a High-dimensional Free Energy Surface with Deep Generative Model**|Yikai Liu et.al.|[2312.09404v1](http://arxiv.org/abs/2312.09404v1)|null|
+|**2023-12-14**|**LatentEditor: Text Driven Local Editing of 3D Scenes**|Umar Khalid et.al.|[2312.09313v1](http://arxiv.org/abs/2312.09313v1)|**[link](https://github.com/umarkhalidAI/LatentEditor)**|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256v1](http://arxiv.org/abs/2312.09256v1)|null|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252v1](http://arxiv.org/abs/2312.09252v1)|null|
 |**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250v1](http://arxiv.org/abs/2312.09250v1)|null|
@@ -42,7 +52,7 @@
 |**2023-12-14**|**Motion Flow Matching for Human Motion Synthesis and Editing**|Vincent Tao Hu et.al.|[2312.08895v1](http://arxiv.org/abs/2312.08895v1)|null|
 |**2023-12-14**|**VaLID: Variable-Length Input Diffusion for Novel View Synthesis**|Shijie Li et.al.|[2312.08892v1](http://arxiv.org/abs/2312.08892v1)|null|
 |**2023-12-13**|**SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance**|Yuanyou Xu et.al.|[2312.08889v1](http://arxiv.org/abs/2312.08889v1)|null|
-|**2023-12-13**|**SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models**|Weilong Chai et.al.|[2312.08887v1](http://arxiv.org/abs/2312.08887v1)|null|
+|**2023-12-15**|**SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models**|Weilong Chai et.al.|[2312.08887v2](http://arxiv.org/abs/2312.08887v2)|null|
 |**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v1](http://arxiv.org/abs/2312.08886v1)|null|
 |**2023-12-13**|**SceneWiz3D: Towards Text-guided 3D Scene Composition**|Qihang Zhang et.al.|[2312.08885v1](http://arxiv.org/abs/2312.08885v1)|null|
 |**2023-12-13**|**Semantic-Driven Initial Image Construction for Guided Image Synthesis in Diffusion Model**|Jiafeng Mao et.al.|[2312.08872v1](http://arxiv.org/abs/2312.08872v1)|null|
@@ -2523,6 +2533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**TMP: Temporal Motion Propagation for Online Video Super-Resolution**|Zhengqiang Zhang et.al.|[2312.09909v1](http://arxiv.org/abs/2312.09909v1)|null|
 |**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v1](http://arxiv.org/abs/2312.08886v1)|null|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853v1](http://arxiv.org/abs/2312.08853v1)|null|
 |**2023-12-14**|**CartoMark: a benchmark dataset for map pattern recognition and 1 map content retrieval with machine intelligence**|Xiran Zhou et.al.|[2312.08600v1](http://arxiv.org/abs/2312.08600v1)|null|
@@ -3426,6 +3437,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**TMP: Temporal Motion Propagation for Online Video Super-Resolution**|Zhengqiang Zhang et.al.|[2312.09909v1](http://arxiv.org/abs/2312.09909v1)|null|
 |**2023-12-13**|**Semantic-Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v1](http://arxiv.org/abs/2312.07823v1)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662v1](http://arxiv.org/abs/2312.06662v1)|null|
 |**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640v1](http://arxiv.org/abs/2312.06640v1)|null|
@@ -3647,6 +3659,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Image Deblurring using GAN**|Zhengdong Li et.al.|[2312.09496v1](http://arxiv.org/abs/2312.09496v1)|null|
 |**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881v1](http://arxiv.org/abs/2312.08881v1)|null|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853v1](http://arxiv.org/abs/2312.08853v1)|null|
 |**2023-12-14**|**VQCNIR: Clearer Night Image Restoration with Vector-Quantized Codebook**|Wenbin Zou et.al.|[2312.08606v1](http://arxiv.org/abs/2312.08606v1)|null|
@@ -3905,6 +3918,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Single PW takes a shortcut to compound PW in US imaging**|Zhiqiang Li et.al.|[2312.09514v1](http://arxiv.org/abs/2312.09514v1)|null|
+|**2023-12-15**|**Fast Sampling generative model for Ultrasound image reconstruction**|Hengrong Lan et.al.|[2312.09510v1](http://arxiv.org/abs/2312.09510v1)|null|
 |**2023-12-14**|**MaRGA: a Graphical and Application Interface for MaRCoS**|J. M. Algarín et.al.|[2312.08711v1](http://arxiv.org/abs/2312.08711v1)|null|
 |**2023-12-13**|**Patient-Adaptive and Learned MRI Data Undersampling Using Neighborhood Clustering**|Siddhant Gautam et.al.|[2312.08507v1](http://arxiv.org/abs/2312.08507v1)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
@@ -4343,6 +4358,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754v1](http://arxiv.org/abs/2312.09754v1)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
 |**2023-12-14**|**ReCoRe: Regularized Contrastive Representation Learning of World Model**|Rudra P. K. Poudel et.al.|[2312.09056v1](http://arxiv.org/abs/2312.09056v1)|null|
 |**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881v1](http://arxiv.org/abs/2312.08881v1)|null|
 |**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038v1](http://arxiv.org/abs/2312.05038v1)|**[link](https://github.com/longzilicart/pip_universal)**|
@@ -4698,6 +4714,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**|Yuxin Cao et.al.|[2312.09935v1](http://arxiv.org/abs/2312.09935v1)|**[link](https://github.com/ziyuzhao-zzy/logostylefool)**|
+|**2023-12-15**|**Style Generation in Robot Calligraphy with Deep Generative Adversarial Networks**|Xiaoming Wang et.al.|[2312.09673v1](http://arxiv.org/abs/2312.09673v1)|null|
 |**2023-12-11**|**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer**|Jiwoo Chung et.al.|[2312.09008v1](http://arxiv.org/abs/2312.09008v1)|null|
 |**2023-12-12**|**Diffusion Cocktail: Fused Generation from Diffusion Models**|Haoming Liu et.al.|[2312.08873v1](http://arxiv.org/abs/2312.08873v1)|**[link](https://github.com/MAPS-research/Ditail)**|
 |**2023-12-14**|**CPST: Comprehension-Preserving Style Transfer for Multi-Modal Narratives**|Yi-Chun Chen et.al.|[2312.08695v1](http://arxiv.org/abs/2312.08695v1)|null|
