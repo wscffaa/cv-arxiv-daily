@@ -26,23 +26,56 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431v1](http://arxiv.org/abs/2312.12431v1)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419v1](http://arxiv.org/abs/2312.12419v1)|null|
+|**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416v1](http://arxiv.org/abs/2312.12416v1)|null|
+|**2023-12-19**|**Travelling pulses on three spatial scales in a Klausmeier-type vegetation-autotoxicity model**|Paul Carter et.al.|[2312.12277v1](http://arxiv.org/abs/2312.12277v1)|null|
+|**2023-12-19**|**Intrinsic Image Diffusion for Single-view Material Estimation**|Peter Kocsis et.al.|[2312.12274v1](http://arxiv.org/abs/2312.12274v1)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232v1](http://arxiv.org/abs/2312.12232v1)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
+|**2023-12-19**|**HuTuMotion: Human-Tuned Navigation of Latent Motion Diffusion Models with Minimal Feedback**|Gaoge Han et.al.|[2312.12227v1](http://arxiv.org/abs/2312.12227v1)|null|
+|**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142v1](http://arxiv.org/abs/2312.12142v1)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
+|**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090v1](http://arxiv.org/abs/2312.12090v1)|null|
+|**2023-12-19**|**Learning Subject-Aware Cropping by Outpainting Professional Photos**|James Hong et.al.|[2312.12080v1](http://arxiv.org/abs/2312.12080v1)|null|
+|**2023-12-19**|**Resource-efficient Generative Mobile Edge Networks in 6G Era: Fundamentals, Framework and Case Study**|Bingkun Lai et.al.|[2312.12063v1](http://arxiv.org/abs/2312.12063v1)|null|
+|**2023-12-19**|**Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method**|Jiachun Pan et.al.|[2312.12030v1](http://arxiv.org/abs/2312.12030v1)|null|
+|**2023-12-19**|**Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling**|Leander van den Heuvel et.al.|[2312.12000v1](http://arxiv.org/abs/2312.12000v1)|null|
+|**2023-12-19**|**Optimizing Diffusion Noise Can Serve As Universal Motion Priors**|Korrawe Karunratanakul et.al.|[2312.11994v1](http://arxiv.org/abs/2312.11994v1)|null|
+|**2023-12-19**|**Extending intraday solar forecast horizons with deep generative models**|Alberto Carpentieri et.al.|[2312.11966v1](http://arxiv.org/abs/2312.11966v1)|null|
+|**2023-12-19**|**Text-Image Conditioned Diffusion for Consistent Text-to-3D Generation**|Yuze He et.al.|[2312.11774v1](http://arxiv.org/abs/2312.11774v1)|null|
+|**2023-12-18**|**Learning a Diffusion Model Policy from Rewards via Q-Score Matching**|Michael Psenka et.al.|[2312.11752v1](http://arxiv.org/abs/2312.11752v1)|null|
+|**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707v1](http://arxiv.org/abs/2312.11707v1)|null|
+|**2023-12-18**|**HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles**|Vanessa Sklyarova et.al.|[2312.11666v1](http://arxiv.org/abs/2312.11666v1)|null|
+|**2023-12-18**|**SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution**|Zhixuan Liang et.al.|[2312.11598v1](http://arxiv.org/abs/2312.11598v1)|null|
+|**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595v1](http://arxiv.org/abs/2312.11595v1)|null|
+|**2023-12-15**|**Iterative Motion Editing with Natural Language**|Purvi Goel et.al.|[2312.11538v1](http://arxiv.org/abs/2312.11538v1)|null|
+|**2023-12-15**|**Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior**|Nan Huang et.al.|[2312.11535v1](http://arxiv.org/abs/2312.11535v1)|null|
+|**2023-12-18**|**VolumeDiffusion: Flexible Text-to-3D Generation with Efficient Volumetric Encoder**|Zhicong Tang et.al.|[2312.11459v1](http://arxiv.org/abs/2312.11459v1)|null|
+|**2023-12-18**|**PolyDiff: Generating 3D Polygonal Meshes with Diffusion Models**|Antonio Alliegro et.al.|[2312.11417v1](http://arxiv.org/abs/2312.11417v1)|null|
+|**2023-12-18**|**MAG-Edit: Localized Image Editing in Complex Scenarios via  $\underline{M}$ ask-Based  $\underline{A}$ ttention-Adjusted  $\underline{G}$ uidance**|Qi Mao et.al.|[2312.11396v1](http://arxiv.org/abs/2312.11396v1)|null|
+|**2023-12-18**|**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing**|Zeyinzi Jiang et.al.|[2312.11392v1](http://arxiv.org/abs/2312.11392v1)|null|
+|**2023-12-18**|**Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model**|Decheng Liu et.al.|[2312.11285v1](http://arxiv.org/abs/2312.11285v1)|**[link](https://github.com/kopper-xdu/adv-diffusion)**|
+|**2023-12-18**|**GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Diffusion Models**|Kuldeep R Barad et.al.|[2312.11243v1](http://arxiv.org/abs/2312.11243v1)|null|
+|**2023-12-18**|**Multi-scale Reconstruction of Turbulent Rotating Flows with Generative Diffusion Models**|Tianyi Li et.al.|[2312.11121v1](http://arxiv.org/abs/2312.11121v1)|null|
+|**2023-12-18**|**DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models**|Jiachen Zhou et.al.|[2312.11057v1](http://arxiv.org/abs/2312.11057v1)|null|
+|**2023-12-18**|**Realistic Human Motion Generation with Cross-Diffusion Models**|Zeping Ren et.al.|[2312.10993v1](http://arxiv.org/abs/2312.10993v1)|null|
+|**2023-12-18**|**Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model**|Zhenyu Xie et.al.|[2312.10960v1](http://arxiv.org/abs/2312.10960v1)|null|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885v1](http://arxiv.org/abs/2312.10885v1)|null|
 |**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835v1](http://arxiv.org/abs/2312.10835v1)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
 |**2023-12-17**|**CogCartoon: Towards Practical Story Visualization**|Zhongyang Zhu et.al.|[2312.10718v1](http://arxiv.org/abs/2312.10718v1)|null|
-|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656v1](http://arxiv.org/abs/2312.10656v1)|null|
+|**2023-12-19**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656v2](http://arxiv.org/abs/2312.10656v2)|null|
 |**2023-12-16**|**VecFusion: Vector Font Generation with Diffusion**|Vikas Thamizharasan et.al.|[2312.10540v1](http://arxiv.org/abs/2312.10540v1)|null|
 |**2023-12-16**|**A Unified Filter Method for Jointly Estimating State and Parameters of Stochastic Dynamical Systems via the Ensemble Score Filter**|Feng Bao et.al.|[2312.10503v1](http://arxiv.org/abs/2312.10503v1)|null|
 |**2023-12-16**|**Continuous Diffusion for Mixed-Type Tabular Data**|Markus Mueller et.al.|[2312.10431v1](http://arxiv.org/abs/2312.10431v1)|null|
 |**2023-12-16**|**Lecture Notes in Probabilistic Diffusion Models**|Inga Strümke et.al.|[2312.10393v1](http://arxiv.org/abs/2312.10393v1)|null|
-|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299v1](http://arxiv.org/abs/2312.10299v1)|**[link](https://github.com/Hammour-steak/GOUB)**|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299v1](http://arxiv.org/abs/2312.10299v1)|null|
 |**2023-12-15**|**Two simple criterion to prove the existence of patterns in reaction-diffusion models of two components**|Francisco J. Vielma-Leal et.al.|[2312.10231v1](http://arxiv.org/abs/2312.10231v1)|null|
 |**2023-12-15**|**Tell Me What You See: Text-Guided Real-World Image Denoising**|Erez Yosef et.al.|[2312.10191v1](http://arxiv.org/abs/2312.10191v1)|null|
-|**2023-12-15**|**Improving new physics searches with diffusion models for event observables and jet constituents**|Debajyoti Sengupta et.al.|[2312.10130v1](http://arxiv.org/abs/2312.10130v1)|null|
+|**2023-12-19**|**Improving new physics searches with diffusion models for event observables and jet constituents**|Debajyoti Sengupta et.al.|[2312.10130v2](http://arxiv.org/abs/2312.10130v2)|null|
 |**2023-12-15**|**MVHuman: Tailoring 2D Diffusion with Multi-view Sampling For Realistic 3D Human Generation**|Suyi Jiang et.al.|[2312.10120v1](http://arxiv.org/abs/2312.10120v1)|null|
 |**2023-12-15**|**Plasticine3D: Non-rigid 3D editting with text guidance**|Yige Chen et.al.|[2312.10111v1](http://arxiv.org/abs/2312.10111v1)|null|
 |**2023-12-15**|**Latent Diffusion Models with Image-Derived Annotations for Enhanced AI-Assisted Cancer Diagnosis in Histopathology**|Pedro Osorio et.al.|[2312.09792v1](http://arxiv.org/abs/2312.09792v1)|null|
 |**2023-12-15**|**DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**|Yifeng Ma et.al.|[2312.09767v1](http://arxiv.org/abs/2312.09767v1)|null|
-|**2023-12-15**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754v1](http://arxiv.org/abs/2312.09754v1)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
+|**2023-12-19**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754v2](http://arxiv.org/abs/2312.09754v2)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
 |**2023-12-15**|**Positivity and global existence for nonlocal advection-diffusion models of interacting populations**|Valeria Giunta et.al.|[2312.09692v1](http://arxiv.org/abs/2312.09692v1)|null|
 |**2023-12-15**|**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**|Selcuk Anil Karatopak et.al.|[2312.09682v1](http://arxiv.org/abs/2312.09682v1)|null|
 |**2023-12-15**|**Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**|Senmao Li et.al.|[2312.09608v1](http://arxiv.org/abs/2312.09608v1)|**[link](https://github.com/hutaihang/faster-diffusion)**|
@@ -2547,7 +2580,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299v1](http://arxiv.org/abs/2312.10299v1)|**[link](https://github.com/Hammour-steak/GOUB)**|
+|**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122v1](http://arxiv.org/abs/2312.12122v1)|null|
+|**2023-12-19**|**Neural operator-based super-fidelity: A warm-start approach for accelerating steady-state simulations**|Xu-Hui Zhou et.al.|[2312.11842v1](http://arxiv.org/abs/2312.11842v1)|null|
+|**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595v1](http://arxiv.org/abs/2312.11595v1)|null|
+|**2023-12-15**|**FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline**|Chien-Yu Lin et.al.|[2312.11537v1](http://arxiv.org/abs/2312.11537v1)|null|
+|**2023-12-18**|**Disentangling photon rings beyond General Relativity with future radio-telescope arrays**|Raúl Carballo-Rubio et.al.|[2312.11351v1](http://arxiv.org/abs/2312.11351v1)|null|
+|**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232v1](http://arxiv.org/abs/2312.11232v1)|null|
+|**2023-12-18**|**Experimental 3D super-localization with Laguerre-Gaussian modes**|Chenyu Hu et.al.|[2312.11044v1](http://arxiv.org/abs/2312.11044v1)|null|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299v1](http://arxiv.org/abs/2312.10299v1)|null|
 |**2023-12-03**|**ESTformer: Transformer Utilizing Spatiotemporal Dependencies for EEG Super-resolution**|Dongdong Li et.al.|[2312.10052v1](http://arxiv.org/abs/2312.10052v1)|null|
 |**2023-12-18**|**TMP: Temporal Motion Propagation for Online Video Super-Resolution**|Zhengqiang Zhang et.al.|[2312.09909v2](http://arxiv.org/abs/2312.09909v2)|null|
 |**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v1](http://arxiv.org/abs/2312.08886v1)|null|
@@ -3200,6 +3240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232v1](http://arxiv.org/abs/2312.11232v1)|null|
 |**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v1](http://arxiv.org/abs/2312.08886v1)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
@@ -3675,8 +3716,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595v1](http://arxiv.org/abs/2312.11595v1)|null|
 |**2023-12-17**|**Bengali License Plate Recognition: Unveiling Clarity with CNN and GFP-GAN**|Noushin Afrin et.al.|[2312.10701v1](http://arxiv.org/abs/2312.10701v1)|**[link](https://github.com/mhtusher131/bengali-license-plate-recognition_unveling-clarity-with-cnn-and-gfp-gan)**|
-|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299v1](http://arxiv.org/abs/2312.10299v1)|**[link](https://github.com/Hammour-steak/GOUB)**|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299v1](http://arxiv.org/abs/2312.10299v1)|null|
 |**2023-12-15**|**Image Deblurring using GAN**|Zhengdong Li et.al.|[2312.09496v1](http://arxiv.org/abs/2312.09496v1)|null|
 |**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881v1](http://arxiv.org/abs/2312.08881v1)|**[link](https://github.com/csguoh/adaptir)**|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853v1](http://arxiv.org/abs/2312.08853v1)|null|
@@ -3936,11 +3978,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Chromatically modelling the parsec scale dusty structure in the centre of NGC1068**|James Leftley et.al.|[2312.12125v1](http://arxiv.org/abs/2312.12125v1)|null|
+|**2023-12-18**|**VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**|Hao Hu et.al.|[2312.11568v1](http://arxiv.org/abs/2312.11568v1)|null|
+|**2023-12-18**|**Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues**|Xingxing Yang et.al.|[2312.11119v1](http://arxiv.org/abs/2312.11119v1)|**[link](https://github.com/alexyangxx/cesst)**|
 |**2023-12-16**|**Robustness of Deep Learning for Accelerated MRI: Benefits of Diverse Training Data**|Kang Lin et.al.|[2312.10271v1](http://arxiv.org/abs/2312.10271v1)|null|
 |**2023-12-15**|**Tell Me What You See: Text-Guided Real-World Image Denoising**|Erez Yosef et.al.|[2312.10191v1](http://arxiv.org/abs/2312.10191v1)|null|
 |**2023-12-15**|**Single PW takes a shortcut to compound PW in US imaging**|Zhiqiang Li et.al.|[2312.09514v1](http://arxiv.org/abs/2312.09514v1)|null|
 |**2023-12-15**|**Fast Sampling generative model for Ultrasound image reconstruction**|Hengrong Lan et.al.|[2312.09510v1](http://arxiv.org/abs/2312.09510v1)|null|
-|**2023-12-14**|**MaRGA: a Graphical and Application Interface for MaRCoS**|J. M. Algarín et.al.|[2312.08711v1](http://arxiv.org/abs/2312.08711v1)|null|
+|**2023-12-14**|**MaRGA: a Graphical and Application Interface for MaRCoS**|J. M. Algarín et.al.|[2312.08711v1](http://arxiv.org/abs/2312.08711v1)|**[link](https://github.com/yvives/physiomri_gui)**|
 |**2023-12-13**|**Patient-Adaptive and Learned MRI Data Undersampling Using Neighborhood Clustering**|Siddhant Gautam et.al.|[2312.08507v1](http://arxiv.org/abs/2312.08507v1)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**LMD: Faster Image Reconstruction with Latent Masking Diffusion**|Zhiyuan Ma et.al.|[2312.07971v1](http://arxiv.org/abs/2312.07971v1)|**[link](https://github.com/anonymouspony/lmd)**|
@@ -4379,7 +4424,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-15**|**Tell Me What You See: Text-Guided Real-World Image Denoising**|Erez Yosef et.al.|[2312.10191v1](http://arxiv.org/abs/2312.10191v1)|null|
-|**2023-12-15**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754v1](http://arxiv.org/abs/2312.09754v1)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
+|**2023-12-19**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754v2](http://arxiv.org/abs/2312.09754v2)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
 |**2023-12-14**|**ReCoRe: Regularized Contrastive Representation Learning of World Model**|Rudra P. K. Poudel et.al.|[2312.09056v1](http://arxiv.org/abs/2312.09056v1)|null|
 |**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881v1](http://arxiv.org/abs/2312.08881v1)|**[link](https://github.com/csguoh/adaptir)**|
 |**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038v1](http://arxiv.org/abs/2312.05038v1)|**[link](https://github.com/longzilicart/pip_universal)**|
@@ -4735,8 +4780,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142v1](http://arxiv.org/abs/2312.12142v1)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
 |**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v1](http://arxiv.org/abs/2312.10741v1)|null|
-|**2023-12-17**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687v1](http://arxiv.org/abs/2312.10687v1)|null|
+|**2023-12-19**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687v2](http://arxiv.org/abs/2312.10687v2)|null|
 |**2023-12-15**|**LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer**|Yuxin Cao et.al.|[2312.09935v1](http://arxiv.org/abs/2312.09935v1)|**[link](https://github.com/ziyuzhao-zzy/logostylefool)**|
 |**2023-12-15**|**Style Generation in Robot Calligraphy with Deep Generative Adversarial Networks**|Xiaoming Wang et.al.|[2312.09673v1](http://arxiv.org/abs/2312.09673v1)|null|
 |**2023-12-11**|**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer**|Jiwoo Chung et.al.|[2312.09008v1](http://arxiv.org/abs/2312.09008v1)|null|
