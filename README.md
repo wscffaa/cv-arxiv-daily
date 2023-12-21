@@ -56,7 +56,7 @@
 |**2023-12-18**|**Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model**|Decheng Liu et.al.|[2312.11285v1](http://arxiv.org/abs/2312.11285v1)|**[link](https://github.com/kopper-xdu/adv-diffusion)**|
 |**2023-12-18**|**GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Diffusion Models**|Kuldeep R Barad et.al.|[2312.11243v1](http://arxiv.org/abs/2312.11243v1)|null|
 |**2023-12-18**|**Multi-scale Reconstruction of Turbulent Rotating Flows with Generative Diffusion Models**|Tianyi Li et.al.|[2312.11121v1](http://arxiv.org/abs/2312.11121v1)|null|
-|**2023-12-18**|**DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models**|Jiachen Zhou et.al.|[2312.11057v1](http://arxiv.org/abs/2312.11057v1)|null|
+|**2023-12-20**|**DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models**|Jiachen Zhou et.al.|[2312.11057v2](http://arxiv.org/abs/2312.11057v2)|null|
 |**2023-12-18**|**Realistic Human Motion Generation with Cross-Diffusion Models**|Zeping Ren et.al.|[2312.10993v1](http://arxiv.org/abs/2312.10993v1)|null|
 |**2023-12-18**|**Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model**|Zhenyu Xie et.al.|[2312.10960v1](http://arxiv.org/abs/2312.10960v1)|null|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885v1](http://arxiv.org/abs/2312.10885v1)|null|
@@ -2595,7 +2595,7 @@
 |**2023-12-14**|**CartoMark: a benchmark dataset for map pattern recognition and 1 map content retrieval with machine intelligence**|Xiran Zhou et.al.|[2312.08600v1](http://arxiv.org/abs/2312.08600v1)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**Toward Real World Stereo Image Super-Resolution via Hybrid Degradation Model and Discriminator for Implied Stereo Image Information**|Yuanbo Zhou et.al.|[2312.07934v1](http://arxiv.org/abs/2312.07934v1)|**[link](https://github.com/fzuzyb/scglanet)**|
-|**2023-12-13**|**CoIE: Chain-of-Instruct Editing for Multi-Attribute Face Manipulation**|Zhenduo Zhang et.al.|[2312.07879v1](http://arxiv.org/abs/2312.07879v1)|null|
+|**2023-12-20**|**CoIE: Chain-of-Instruct Editing for Multi-Attribute Face Manipulation**|Zhenduo Zhang et.al.|[2312.07879v2](http://arxiv.org/abs/2312.07879v2)|null|
 |**2023-12-13**|**Video Dynamics Prior: An Internal Learning Approach for Robust Video Enhancements**|Gaurav Shrivastava et.al.|[2312.07835v1](http://arxiv.org/abs/2312.07835v1)|null|
 |**2023-12-18**|**Semantic Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823v2](http://arxiv.org/abs/2312.07823v2)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
 |**2023-12-12**|**Super-Resolution on Rotationally Scanned Photoacoustic Microscopy Images Incorporating Scanning Prior**|Kai Pan et.al.|[2312.07226v1](http://arxiv.org/abs/2312.07226v1)|**[link](https://github.com/11710615/pamsr)**|
@@ -4659,7 +4659,7 @@
 |**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318v1](http://arxiv.org/abs/2310.06318v1)|null|
 |**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
 |**2023-12-17**|**On the Contractivity of Plug-and-Play Operators**|Chirayu D. Athalye et.al.|[2309.16899v3](http://arxiv.org/abs/2309.16899v3)|**[link](https://github.com/bhartendu-kumar/pnp-conv)**|
-|**2023-09-19**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v1](http://arxiv.org/abs/2309.10689v1)|null|
+|**2023-12-20**|**ReShader: View-Dependent Highlights for Single Image View-Synthesis**|Avinash Paliwal et.al.|[2309.10689v2](http://arxiv.org/abs/2309.10689v2)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614v1](http://arxiv.org/abs/2309.09614v1)|null|
 |**2023-10-05**|**Reconstructing Existing Levels through Level Inpainting**|Johor Jara Gonzalez et.al.|[2309.09472v3](http://arxiv.org/abs/2309.09472v3)|null|
 |**2023-09-13**|**GAN-based Algorithm for Efficient Image Inpainting**|Zhengyang Han et.al.|[2309.07293v1](http://arxiv.org/abs/2309.07293v1)|null|
