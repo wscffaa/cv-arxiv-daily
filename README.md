@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134v1](http://arxiv.org/abs/2312.14134v1)|null|
+|**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124v1](http://arxiv.org/abs/2312.14124v1)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v1](http://arxiv.org/abs/2312.14091v1)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980v1](http://arxiv.org/abs/2312.13980v1)|null|
+|**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v1](http://arxiv.org/abs/2312.13913v1)|**[link](https://github.com/opentexture/paint3d)**|
+|**2023-12-20**|**Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis**|Bichen Wu et.al.|[2312.13834v1](http://arxiv.org/abs/2312.13834v1)|null|
+|**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763v1](http://arxiv.org/abs/2312.13763v1)|null|
+|**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663v1](http://arxiv.org/abs/2312.13663v1)|null|
+|**2023-12-21**|**Diff-Oracle: Diffusion Model for Oracle Character Generation with Controllable Styles and Contents**|Jing Li et.al.|[2312.13631v1](http://arxiv.org/abs/2312.13631v1)|null|
+|**2023-12-21**|**Navigating the Structured What-If Spaces: Counterfactual Generation via Structured Diffusion**|Nishtha Madaan et.al.|[2312.13616v1](http://arxiv.org/abs/2312.13616v1)|null|
+|**2023-12-21**|**Front stability of infinitely steep travelling waves in population biology**|Matthew J Simpson et.al.|[2312.13601v1](http://arxiv.org/abs/2312.13601v1)|null|
+|**2023-12-20**|**Unlocking Pre-trained Image Backbones for Semantic Image Synthesis**|Tariq Berrada et.al.|[2312.13314v1](http://arxiv.org/abs/2312.13314v1)|null|
+|**2023-12-20**|**Generate E-commerce Product Background by Integrating Category Commonality and Personalized Style**|Haohan Wang et.al.|[2312.13309v1](http://arxiv.org/abs/2312.13309v1)|null|
+|**2023-12-20**|**Not All Steps are Equal: Efficient Generation with Progressive Diffusion Models**|Wenhao Li et.al.|[2312.13307v1](http://arxiv.org/abs/2312.13307v1)|null|
 |**2023-12-21**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v2](http://arxiv.org/abs/2312.13271v2)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252v1](http://arxiv.org/abs/2312.13252v1)|null|
@@ -38,7 +52,7 @@
 |**2023-12-20**|**How Good Are Deep Generative Models for Solving Inverse Problems?**|Shichong Peng et.al.|[2312.12691v1](http://arxiv.org/abs/2312.12691v1)|null|
 |**2023-12-19**|**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2312.12649v1](http://arxiv.org/abs/2312.12649v1)|null|
 |**2023-12-19**|**Fixed-point Inversion for Text-to-image diffusion models**|Barak Meiri et.al.|[2312.12540v1](http://arxiv.org/abs/2312.12540v1)|null|
-|**2023-12-19**|**StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation**|Akio Kodaira et.al.|[2312.12491v1](http://arxiv.org/abs/2312.12491v1)|null|
+|**2023-12-19**|**StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation**|Akio Kodaira et.al.|[2312.12491v1](http://arxiv.org/abs/2312.12491v1)|**[link](https://github.com/cumulo-autumn/streamdiffusion)**|
 |**2023-12-19**|**InstructVideo: Instructing Video Diffusion Models with Human Feedback**|Hangjie Yuan et.al.|[2312.12490v1](http://arxiv.org/abs/2312.12490v1)|null|
 |**2023-12-19**|**Adaptive Guidance: Training-free Acceleration of Conditional Diffusion Models**|Angela Castillo et.al.|[2312.12487v1](http://arxiv.org/abs/2312.12487v1)|null|
 |**2023-12-19**|**Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion**|Fan Zhang et.al.|[2312.12471v1](http://arxiv.org/abs/2312.12471v1)|**[link](https://github.com/zkawfanx/atlantis)**|
@@ -2597,6 +2611,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v1](http://arxiv.org/abs/2312.14091v1)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Super-resolution of THz time-domain images based on low-rank representation**|Marina Ljubenovic et.al.|[2312.13820v1](http://arxiv.org/abs/2312.13820v1)|null|
+|**2023-12-21**|**BAE-Net: A Low complexity and high fidelity Bandwidth-Adaptive neural network for speech super-resolution**|Guochen Yu et.al.|[2312.13722v1](http://arxiv.org/abs/2312.13722v1)|null|
+|**2023-12-21**|**A Comprehensive End-to-End Computer Vision Framework for Restoration and Recognition of Low-Quality Engineering Drawings**|Lvyang Yang et.al.|[2312.13620v1](http://arxiv.org/abs/2312.13620v1)|**[link](https://github.com/Lattle-y/AI-recognition-for-lq-ed)**|
+|**2023-12-20**|**EPNet: An Efficient Pyramid Network for Enhanced Single-Image Super-Resolution with Reduced Computational Requirements**|Xin Xu et.al.|[2312.13396v1](http://arxiv.org/abs/2312.13396v1)|null|
+|**2023-12-20**|**ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training**|Rongsheng Wang et.al.|[2312.13316v1](http://arxiv.org/abs/2312.13316v1)|**[link](https://github.com/tonichopp/ecamp)**|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212v1](http://arxiv.org/abs/2312.13212v1)|null|
 |**2023-12-20**|**Joint Range-Velocity-Azimuth Estimation for OFDM-Based Integrated Sensing and Communication**|Zelin Hu et.al.|[2312.13154v1](http://arxiv.org/abs/2312.13154v1)|null|
 |**2023-12-20**|**Learning Exhaustive Correlation for Spectral Super-Resolution: Where Unified Spatial-Spectral Attention Meets Mutual Linear Dependence**|Hongyuan Wang et.al.|[2312.12833v1](http://arxiv.org/abs/2312.12833v1)|null|
@@ -3261,6 +3281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**EPNet: An Efficient Pyramid Network for Enhanced Single-Image Super-Resolution with Reduced Computational Requirements**|Xin Xu et.al.|[2312.13396v1](http://arxiv.org/abs/2312.13396v1)|null|
 |**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232v1](http://arxiv.org/abs/2312.11232v1)|**[link](https://github.com/jscanvic/scale-equivariant-imaging)**|
 |**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886v1](http://arxiv.org/abs/2312.08886v1)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
@@ -3604,6 +3625,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**SPDGAN: A Generative Adversarial Network based on SPD Manifold Learning for Automatic Image Colorization**|Youssef Mourchid et.al.|[2312.13506v1](http://arxiv.org/abs/2312.13506v1)|null|
 |**2023-12-08**|**Fine-Tuning InstructPix2Pix for Advanced Image Colorization**|Zifeng An et.al.|[2312.04780v1](http://arxiv.org/abs/2312.04780v1)|**[link](https://github.com/allenanzifeng/deeplearning282)**|
 |**2023-12-07**|**Diffusing Colors: Image Colorization with Text Guided Diffusion**|Nir Zabari et.al.|[2312.04145v1](http://arxiv.org/abs/2312.04145v1)|null|
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984v1](http://arxiv.org/abs/2311.01984v1)|null|
@@ -4664,6 +4686,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v1](http://arxiv.org/abs/2312.14091v1)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
 |**2023-12-14**|**Planning and Rendering: Towards End-to-End Product Poster Generation**|Zhaochen Li et.al.|[2312.08822v1](http://arxiv.org/abs/2312.08822v1)|null|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
 |**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|**[link](https://github.com/zhang-zx/AVID)**|
@@ -4805,6 +4828,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663v1](http://arxiv.org/abs/2312.13663v1)|null|
+|**2023-12-21**|**HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks**|Hai Zhang et.al.|[2312.13537v1](http://arxiv.org/abs/2312.13537v1)|null|
 |**2023-12-19**|**Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion**|Fan Zhang et.al.|[2312.12471v1](http://arxiv.org/abs/2312.12471v1)|**[link](https://github.com/zkawfanx/atlantis)**|
 |**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142v1](http://arxiv.org/abs/2312.12142v1)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
 |**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v1](http://arxiv.org/abs/2312.10741v1)|null|
