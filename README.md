@@ -26,15 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v1](http://arxiv.org/abs/2312.13271v1)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-21**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v2](http://arxiv.org/abs/2312.13271v2)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252v1](http://arxiv.org/abs/2312.13252v1)|null|
 |**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236v1](http://arxiv.org/abs/2312.13236v1)|**[link](https://github.com/s-sahoo/mulan)**|
-|**2023-12-20**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v1](http://arxiv.org/abs/2312.13016v1)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
+|**2023-12-21**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v2](http://arxiv.org/abs/2312.13016v2)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
 |**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865v1](http://arxiv.org/abs/2312.12865v1)|null|
 |**2023-12-20**|**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**|Yuhui Wu et.al.|[2312.12826v1](http://arxiv.org/abs/2312.12826v1)|null|
 |**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807v1](http://arxiv.org/abs/2312.12807v1)|null|
-|**2023-12-20**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763v1](http://arxiv.org/abs/2312.12763v1)|null|
+|**2023-12-21**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763v2](http://arxiv.org/abs/2312.12763v2)|null|
 |**2023-12-20**|**How Good Are Deep Generative Models for Solving Inverse Problems?**|Shichong Peng et.al.|[2312.12691v1](http://arxiv.org/abs/2312.12691v1)|null|
 |**2023-12-19**|**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2312.12649v1](http://arxiv.org/abs/2312.12649v1)|null|
 |**2023-12-19**|**Fixed-point Inversion for Text-to-image diffusion models**|Barak Meiri et.al.|[2312.12540v1](http://arxiv.org/abs/2312.12540v1)|null|
@@ -68,7 +68,7 @@
 |**2023-12-15**|**Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior**|Nan Huang et.al.|[2312.11535v1](http://arxiv.org/abs/2312.11535v1)|null|
 |**2023-12-18**|**VolumeDiffusion: Flexible Text-to-3D Generation with Efficient Volumetric Encoder**|Zhicong Tang et.al.|[2312.11459v1](http://arxiv.org/abs/2312.11459v1)|**[link](https://github.com/tzco/volumediffusion)**|
 |**2023-12-18**|**PolyDiff: Generating 3D Polygonal Meshes with Diffusion Models**|Antonio Alliegro et.al.|[2312.11417v1](http://arxiv.org/abs/2312.11417v1)|null|
-|**2023-12-18**|**MAG-Edit: Localized Image Editing in Complex Scenarios via  $\underline{M}$ ask-Based  $\underline{A}$ ttention-Adjusted  $\underline{G}$ uidance**|Qi Mao et.al.|[2312.11396v1](http://arxiv.org/abs/2312.11396v1)|null|
+|**2023-12-21**|**MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance**|Qi Mao et.al.|[2312.11396v2](http://arxiv.org/abs/2312.11396v2)|null|
 |**2023-12-18**|**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing**|Zeyinzi Jiang et.al.|[2312.11392v1](http://arxiv.org/abs/2312.11392v1)|null|
 |**2023-12-18**|**Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model**|Decheng Liu et.al.|[2312.11285v1](http://arxiv.org/abs/2312.11285v1)|**[link](https://github.com/kopper-xdu/adv-diffusion)**|
 |**2023-12-18**|**GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Diffusion Models**|Kuldeep R Barad et.al.|[2312.11243v1](http://arxiv.org/abs/2312.11243v1)|null|
@@ -3294,7 +3294,7 @@
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
 |**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huang et.al.|[2311.08816v1](http://arxiv.org/abs/2311.08816v1)|**[link](https://github.com/yongsongh/dasrgan)**|
 |**2023-11-16**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146v2](http://arxiv.org/abs/2311.05146v2)|**[link](https://github.com/rishavbb/owslr)**|
-|**2023-11-20**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v3](http://arxiv.org/abs/2311.02358v3)|**[link](https://github.com/GreyCC/DTLS)**|
+|**2023-12-21**|**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model**|Chun-Chuen Hui et.al.|[2311.02358v4](http://arxiv.org/abs/2311.02358v4)|**[link](https://github.com/GreyCC/DTLS)**|
 |**2023-11-03**|**A Structured Pruning Algorithm for Model-based Deep Learning**|Chicago Park et.al.|[2311.02003v1](http://arxiv.org/abs/2311.02003v1)|null|
 |**2023-11-02**|**Exploring Deep Learning Image Super-Resolution for Iris Recognition**|Eduardo Ribeiro et.al.|[2311.01241v1](http://arxiv.org/abs/2311.01241v1)|null|
 |**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996v2](http://arxiv.org/abs/2311.00996v2)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
