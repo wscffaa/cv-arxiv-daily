@@ -30,7 +30,7 @@
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124v1](http://arxiv.org/abs/2312.14124v1)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v1](http://arxiv.org/abs/2312.14091v1)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980v1](http://arxiv.org/abs/2312.13980v1)|null|
-|**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v1](http://arxiv.org/abs/2312.13913v1)|**[link](https://github.com/opentexture/paint3d)**|
+|**2023-12-22**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v2](http://arxiv.org/abs/2312.13913v2)|**[link](https://github.com/opentexture/paint3d)**|
 |**2023-12-20**|**Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis**|Bichen Wu et.al.|[2312.13834v1](http://arxiv.org/abs/2312.13834v1)|null|
 |**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763v1](http://arxiv.org/abs/2312.13763v1)|null|
 |**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663v1](http://arxiv.org/abs/2312.13663v1)|null|
@@ -44,8 +44,8 @@
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252v1](http://arxiv.org/abs/2312.13252v1)|null|
 |**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236v1](http://arxiv.org/abs/2312.13236v1)|**[link](https://github.com/s-sahoo/mulan)**|
-|**2023-12-21**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v2](http://arxiv.org/abs/2312.13016v2)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
-|**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865v1](http://arxiv.org/abs/2312.12865v1)|null|
+|**2023-12-22**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v3](http://arxiv.org/abs/2312.13016v3)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
+|**2023-12-21**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865v2](http://arxiv.org/abs/2312.12865v2)|null|
 |**2023-12-20**|**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**|Yuhui Wu et.al.|[2312.12826v1](http://arxiv.org/abs/2312.12826v1)|null|
 |**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807v1](http://arxiv.org/abs/2312.12807v1)|null|
 |**2023-12-21**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763v2](http://arxiv.org/abs/2312.12763v2)|null|
@@ -2624,7 +2624,7 @@
 |**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122v1](http://arxiv.org/abs/2312.12122v1)|null|
 |**2023-12-19**|**Neural operator-based super-fidelity: A warm-start approach for accelerating steady-state simulations**|Xu-Hui Zhou et.al.|[2312.11842v1](http://arxiv.org/abs/2312.11842v1)|null|
 |**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595v1](http://arxiv.org/abs/2312.11595v1)|null|
-|**2023-12-15**|**FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline**|Chien-Yu Lin et.al.|[2312.11537v1](http://arxiv.org/abs/2312.11537v1)|null|
+|**2023-12-20**|**FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline**|Chien-Yu Lin et.al.|[2312.11537v2](http://arxiv.org/abs/2312.11537v2)|null|
 |**2023-12-18**|**Disentangling photon rings beyond General Relativity with future radio-telescope arrays**|Raúl Carballo-Rubio et.al.|[2312.11351v1](http://arxiv.org/abs/2312.11351v1)|null|
 |**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232v1](http://arxiv.org/abs/2312.11232v1)|**[link](https://github.com/jscanvic/scale-equivariant-imaging)**|
 |**2023-12-18**|**Experimental 3D super-localization with Laguerre-Gaussian modes**|Chenyu Hu et.al.|[2312.11044v1](http://arxiv.org/abs/2312.11044v1)|null|
@@ -3309,7 +3309,7 @@
 |**2023-11-20**|**Efficient Model Agnostic Approach for Implicit Neural Representation Based Arbitrary-Scale Image Super-Resolution**|Young Jae Oh et.al.|[2311.12077v1](http://arxiv.org/abs/2311.12077v1)|null|
 |**2023-11-18**|**LATIS: Lambda Abstraction-based Thermal Image Super-resolution**|Gargi Panda et.al.|[2311.12046v1](http://arxiv.org/abs/2311.12046v1)|null|
 |**2023-11-16**|**Combined Channel and Spatial Attention-based Stereo Endoscopic Image Super-Resolution**|Mansoor Hayat et.al.|[2311.10115v1](http://arxiv.org/abs/2311.10115v1)|null|
-|**2023-11-16**|**Scene Text Image Super-resolution based on Text-conditional Diffusion Models**|Chihiro Noguchi et.al.|[2311.09759v1](http://arxiv.org/abs/2311.09759v1)|null|
+|**2023-12-22**|**Scene Text Image Super-resolution based on Text-conditional Diffusion Models**|Chihiro Noguchi et.al.|[2311.09759v2](http://arxiv.org/abs/2311.09759v2)|null|
 |**2023-11-16**|**DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics**|Aniket Roy et.al.|[2311.09753v1](http://arxiv.org/abs/2311.09753v1)|null|
 |**2023-11-14**|**The Perception-Robustness Tradeoff in Deterministic Image Restoration**|Guy Ohayon et.al.|[2311.09253v1](http://arxiv.org/abs/2311.09253v1)|null|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955v1](http://arxiv.org/abs/2311.08955v1)|null|
