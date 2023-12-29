@@ -39,7 +39,7 @@
 |**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665v1](http://arxiv.org/abs/2312.15665v1)|**[link](https://github.com/wyky481l/mmcd)**|
 |**2023-12-25**|**Balanced SNR-Aware Distillation for Guided Text-to-Audio Generation**|Bingzhi Liu et.al.|[2312.15628v1](http://arxiv.org/abs/2312.15628v1)|null|
 |**2023-12-25**|**Conversational Co-Speech Gesture Generation via Modeling Dialog Intention, Emotion, and Context with Diffusion Models**|Haiwei Xue et.al.|[2312.15567v1](http://arxiv.org/abs/2312.15567v1)|null|
-|**2023-12-24**|**A-SDM: Accelerating Stable Diffusion through Redundancy Removal and Performance Optimization**|Jinchao Zhu et.al.|[2312.15516v1](http://arxiv.org/abs/2312.15516v1)|null|
+|**2023-12-27**|**A-SDM: Accelerating Stable Diffusion through Redundancy Removal and Performance Optimization**|Jinchao Zhu et.al.|[2312.15516v2](http://arxiv.org/abs/2312.15516v2)|null|
 |**2023-12-24**|**Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models**|Ling Li et.al.|[2312.15490v1](http://arxiv.org/abs/2312.15490v1)|null|
 |**2023-12-24**|**A Two-stage Personalized Virtual Try-on Framework with Shape Control and Texture Guidance**|Shufang Zhang et.al.|[2312.15480v1](http://arxiv.org/abs/2312.15480v1)|null|
 |**2023-12-23**|**Prompt-Propose-Verify: A Reliable Hand-Object-Interaction Data Generation Framework using Foundational Models**|Gurusha Juneja et.al.|[2312.15247v1](http://arxiv.org/abs/2312.15247v1)|null|
@@ -75,7 +75,7 @@
 |**2023-12-20**|**Unlocking Pre-trained Image Backbones for Semantic Image Synthesis**|Tariq Berrada et.al.|[2312.13314v1](http://arxiv.org/abs/2312.13314v1)|null|
 |**2023-12-20**|**Generate E-commerce Product Background by Integrating Category Commonality and Personalized Style**|Haohan Wang et.al.|[2312.13309v1](http://arxiv.org/abs/2312.13309v1)|null|
 |**2023-12-20**|**Not All Steps are Equal: Efficient Generation with Progressive Diffusion Models**|Wenhao Li et.al.|[2312.13307v1](http://arxiv.org/abs/2312.13307v1)|null|
-|**2023-12-21**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v2](http://arxiv.org/abs/2312.13271v2)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-27**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271v3](http://arxiv.org/abs/2312.13271v3)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253v1](http://arxiv.org/abs/2312.13253v1)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252v1](http://arxiv.org/abs/2312.13252v1)|null|
 |**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236v1](http://arxiv.org/abs/2312.13236v1)|**[link](https://github.com/s-sahoo/mulan)**|
@@ -3822,7 +3822,7 @@
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640v1](http://arxiv.org/abs/2312.03640v1)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
 |**2023-12-05**|**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**|Yuang Ai et.al.|[2312.02918v1](http://arxiv.org/abs/2312.02918v1)|null|
 |**2023-12-05**|**Deep-learning-driven end-to-end metalens imaging**|Joonhyuk Seo et.al.|[2312.02669v1](http://arxiv.org/abs/2312.02669v1)|**[link](https://github.com/yhy258/eidl_drmi)**|
-|**2023-12-02**|**Exploiting Diffusion Priors for All-in-One Image Restoration**|Yuanbiao Gou et.al.|[2312.02197v1](http://arxiv.org/abs/2312.02197v1)|null|
+|**2023-12-25**|**Exploiting Diffusion Priors for All-in-One Image Restoration**|Yuanbiao Gou et.al.|[2312.02197v2](http://arxiv.org/abs/2312.02197v2)|null|
 |**2023-12-05**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677v2](http://arxiv.org/abs/2312.01677v2)|null|
 |**2023-12-05**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529v2](http://arxiv.org/abs/2312.01529v2)|null|
 |**2023-12-03**|**An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-Block Composite Optimization**|Zhanwang Deng et.al.|[2312.01273v1](http://arxiv.org/abs/2312.01273v1)|null|
@@ -4107,7 +4107,7 @@
 |**2023-12-01**|**Lung Imaging with UTE MRI**|Peder E. Z. Larson et.al.|[2312.00381v1](http://arxiv.org/abs/2312.00381v1)|null|
 |**2023-11-30**|**Scalable Bayesian uncertainty quantification with data-driven priors for radio interferometric imaging**|Tobías I. Liaudat et.al.|[2312.00125v1](http://arxiv.org/abs/2312.00125v1)|**[link](https://github.com/astro-informatics/quantifai)**|
 |**2023-11-30**|**Anatomy and Physiology of Artificial Intelligence in PET Imaging**|Tyler J. Bradshaw et.al.|[2311.18614v1](http://arxiv.org/abs/2311.18614v1)|null|
-|**2023-11-30**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433v1](http://arxiv.org/abs/2311.18433v1)|**[link](https://github.com/xmu-qcj/e2pnet)**|
+|**2023-12-27**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433v2](http://arxiv.org/abs/2311.18433v2)|**[link](https://github.com/xmu-qcj/e2pnet)**|
 |**2023-11-30**|**Few-shot Image Generation via Style Adaptation and Content Preservation**|Xiaosheng He et.al.|[2311.18169v1](http://arxiv.org/abs/2311.18169v1)|null|
 |**2023-11-29**|**Calibration and evaluation of a motion measurement system for PET imaging studies**|Junxiang Wang et.al.|[2311.18009v1](http://arxiv.org/abs/2311.18009v1)|null|
 |**2023-12-06**|**Evaluation of a motion measurement system for PET imaging studies**|Junxiang Wang et.al.|[2311.17863v2](http://arxiv.org/abs/2311.17863v2)|null|
