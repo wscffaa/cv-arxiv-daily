@@ -26,6 +26,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**|Feng Liang et.al.|[2312.17681v1](http://arxiv.org/abs/2312.17681v1)|null|
+|**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679v1](http://arxiv.org/abs/2312.17679v1)|**[link](https://github.com/kayzliu/godm)**|
+|**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505v1](http://arxiv.org/abs/2312.17505v1)|null|
+|**2023-12-28**|**Classifier-free graph diffusion for molecular property targeting**|Matteo Ninniri et.al.|[2312.17397v1](http://arxiv.org/abs/2312.17397v1)|null|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250v1](http://arxiv.org/abs/2312.17250v1)|**[link](https://github.com/chinhsuanwu/ifusion)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234v1](http://arxiv.org/abs/2312.17234v1)|null|
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225v1](http://arxiv.org/abs/2312.17225v1)|null|
@@ -2660,6 +2664,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-28**|**Single particle algorithms to reveal cellular nanodomain organization**|Pierre Parutto et.al.|[2312.17191v1](http://arxiv.org/abs/2312.17191v1)|null|
 |**2023-12-28**|**KeDuSR: Real-World Dual-Lens Super-Resolution via Kernel-Free Matching**|Huanjing Yue et.al.|[2312.17050v1](http://arxiv.org/abs/2312.17050v1)|**[link](https://github.com/craigie-hill/kedusr)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
@@ -3340,6 +3345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|null|
 |**2023-12-24**|**BSRAW: Improving Blind RAW Image Super-Resolution**|Marcos V. Conde et.al.|[2312.15487v1](http://arxiv.org/abs/2312.15487v1)|null|
@@ -3824,6 +3830,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334v1](http://arxiv.org/abs/2312.17334v1)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234v1](http://arxiv.org/abs/2312.17234v1)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161v1](http://arxiv.org/abs/2312.17161v1)|null|
 |**2023-12-29**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805v2](http://arxiv.org/abs/2312.16805v2)|null|
