@@ -26,6 +26,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256v1](http://arxiv.org/abs/2401.01256v1)|null|
+|**2024-01-02**|**Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation**|Renshuai Liu et.al.|[2401.01207v1](http://arxiv.org/abs/2401.01207v1)|null|
+|**2024-01-02**|**A comparative study of resistivity models for simulations of magnetic reconnection in the solar atmosphere. II. Plasmoid formation**|Øystein Håvard Færder et.al.|[2401.01177v1](http://arxiv.org/abs/2401.01177v1)|null|
+|**2024-01-02**|**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models**|Bicheng Xu et.al.|[2401.01130v1](http://arxiv.org/abs/2401.01130v1)|null|
+|**2024-01-02**|**Robust single-particle cryo-EM image denoising and restoration**|Jing Zhang et.al.|[2401.01097v1](http://arxiv.org/abs/2401.01097v1)|null|
+|**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044v1](http://arxiv.org/abs/2401.01044v1)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
+|**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
+|**2023-12-30**|**FlashVideo: A Framework for Swift Inference in Text-to-Video Generation**|Bin Lei et.al.|[2401.00869v1](http://arxiv.org/abs/2401.00869v1)|null|
+|**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739v1](http://arxiv.org/abs/2401.00739v1)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v1](http://arxiv.org/abs/2401.00736v1)|null|
+|**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616v2](http://arxiv.org/abs/2401.00616v2)|null|
+|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v1](http://arxiv.org/abs/2401.00436v1)|null|
+|**2023-12-31**|**SynCDR : Training Cross Domain Retrieval Models with Synthetic Data**|Samarth Mishra et.al.|[2401.00420v1](http://arxiv.org/abs/2401.00420v1)|**[link](https://github.com/samarth4149/syncdr)**|
+|**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391v1](http://arxiv.org/abs/2401.00391v1)|null|
+|**2023-12-30**|**Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins**|Karim Kadry et.al.|[2401.00247v1](http://arxiv.org/abs/2401.00247v1)|null|
+|**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208v1](http://arxiv.org/abs/2401.00208v1)|null|
+|**2023-12-30**|**Diffusion Model with Perceptual Loss**|Shanchuan Lin et.al.|[2401.00110v1](http://arxiv.org/abs/2401.00110v1)|null|
+|**2023-12-29**|**Generating Enhanced Negatives for Training Language-Based Object Detectors**|Shiyu Zhao et.al.|[2401.00094v1](http://arxiv.org/abs/2401.00094v1)|null|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029v2](http://arxiv.org/abs/2401.00029v2)|null|
 |**2023-12-29**|**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**|Feng Liang et.al.|[2312.17681v1](http://arxiv.org/abs/2312.17681v1)|null|
 |**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679v1](http://arxiv.org/abs/2312.17679v1)|**[link](https://github.com/kayzliu/godm)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505v1](http://arxiv.org/abs/2312.17505v1)|null|
@@ -2664,9 +2683,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216v1](http://arxiv.org/abs/2401.01216v1)|null|
+|**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
+|**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766v1](http://arxiv.org/abs/2401.00766v1)|**[link](https://github.com/cszhilu1998/bracketire)**|
+|**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v1](http://arxiv.org/abs/2401.00736v1)|null|
+|**2023-12-31**|**Compressing Deep Image Super-resolution Models**|Yuxuan Jiang et.al.|[2401.00523v1](http://arxiv.org/abs/2401.00523v1)|null|
+|**2023-12-31**|**UGPNet: Universal Generative Prior for Image Restoration**|Hwayoon Lee et.al.|[2401.00370v1](http://arxiv.org/abs/2401.00370v1)|null|
+|**2023-12-30**|**Robust fluctuation-based super-resolution microscopy in a confocal architecture**|Alexander Krupinski-Ptaszek et.al.|[2401.00261v1](http://arxiv.org/abs/2401.00261v1)|null|
+|**2023-12-30**|**Image Super-resolution Reconstruction Network based on Enhanced Swin Transformer via Alternating Aggregation of Local-Global Features**|Yuming Huang et.al.|[2401.00241v1](http://arxiv.org/abs/2401.00241v1)|null|
 |**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-28**|**Single particle algorithms to reveal cellular nanodomain organization**|Pierre Parutto et.al.|[2312.17191v1](http://arxiv.org/abs/2312.17191v1)|null|
-|**2024-01-02**|**KeDuSR: Real-World Dual-Lens Super-Resolution via Kernel-Free Matching**|Huanjing Yue et.al.|[2312.17050v2](http://arxiv.org/abs/2312.17050v2)|**[link](https://github.com/craigie-hill/kedusr)**|
+|**2024-01-02**|**KeDuSR: Real-World Dual-Lens Super-Resolution via Kernel-Free Matching**|Huanjing Yue et.al.|[2312.17050v2](http://arxiv.org/abs/2312.17050v2)|null|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519v1](http://arxiv.org/abs/2312.16519v1)|null|
 |**2023-12-30**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471v2](http://arxiv.org/abs/2312.16471v2)|null|
@@ -3345,6 +3373,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
+|**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v1](http://arxiv.org/abs/2401.00736v1)|null|
+|**2023-12-31**|**Compressing Deep Image Super-resolution Models**|Yuxuan Jiang et.al.|[2401.00523v1](http://arxiv.org/abs/2401.00523v1)|null|
+|**2023-12-30**|**Image Super-resolution Reconstruction Network based on Enhanced Swin Transformer via Alternating Aggregation of Local-Global Features**|Yuming Huang et.al.|[2401.00241v1](http://arxiv.org/abs/2401.00241v1)|null|
 |**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|null|
@@ -3830,6 +3863,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766v1](http://arxiv.org/abs/2401.00766v1)|**[link](https://github.com/cszhilu1998/bracketire)**|
+|**2023-12-31**|**UGPNet: Universal Generative Prior for Image Restoration**|Hwayoon Lee et.al.|[2401.00370v1](http://arxiv.org/abs/2401.00370v1)|null|
 |**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334v1](http://arxiv.org/abs/2312.17334v1)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234v1](http://arxiv.org/abs/2312.17234v1)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161v1](http://arxiv.org/abs/2312.17161v1)|null|
@@ -4102,6 +4137,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-31**|**Generative Model-Driven Synthetic Training Image Generation: An Approach to Cognition in Rail Defect Detection**|Rahatara Ferdousi et.al.|[2401.00393v1](http://arxiv.org/abs/2401.00393v1)|null|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**ReSynthDetect: A Fundus Anomaly Detection Network with Reconstruction and Synthetic Features**|Jingqi Niu et.al.|[2312.16470v1](http://arxiv.org/abs/2312.16470v1)|null|
 |**2023-12-28**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707v2](http://arxiv.org/abs/2312.15707v2)|null|
@@ -4556,6 +4592,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Robust single-particle cryo-EM image denoising and restoration**|Jing Zhang et.al.|[2401.01097v1](http://arxiv.org/abs/2401.01097v1)|null|
+|**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708v1](http://arxiv.org/abs/2401.00708v1)|null|
 |**2023-12-27**|**Natural Adversarial Patch Generation Method Based on Latent Diffusion Model**|Xianyi Chen et.al.|[2312.16401v1](http://arxiv.org/abs/2312.16401v1)|null|
 |**2023-12-19**|**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2312.12649v1](http://arxiv.org/abs/2312.12649v1)|null|
 |**2023-12-15**|**Tell Me What You See: Text-Guided Real-World Image Denoising**|Erez Yosef et.al.|[2312.10191v1](http://arxiv.org/abs/2312.10191v1)|null|
@@ -4774,6 +4812,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708v1](http://arxiv.org/abs/2401.00708v1)|null|
 |**2023-12-25**|**Robust Stochastically-Descending Unrolled Networks**|Samar Hadou et.al.|[2312.15788v1](http://arxiv.org/abs/2312.15788v1)|**[link](https://github.com/smrhadou/unrolledglow)**|
 |**2023-12-25**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v2](http://arxiv.org/abs/2312.14091v2)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
 |**2023-12-14**|**Planning and Rendering: Towards End-to-End Product Poster Generation**|Zhaochen Li et.al.|[2312.08822v1](http://arxiv.org/abs/2312.08822v1)|null|
@@ -4917,6 +4956,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044v1](http://arxiv.org/abs/2401.01044v1)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
+|**2023-12-31**|**RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**|Hyeonjae Jeon et.al.|[2401.00460v1](http://arxiv.org/abs/2401.00460v1)|null|
 |**2023-12-28**|**Learning to Generate Text in Arbitrary Writing Styles**|Aleem Khan et.al.|[2312.17242v1](http://arxiv.org/abs/2312.17242v1)|null|
 |**2023-12-23**|**Multilingual Bias Detection and Mitigation for Indian Languages**|Ankita Maity et.al.|[2312.15181v1](http://arxiv.org/abs/2312.15181v1)|null|
 |**2023-12-22**|**Balancing the Style-Content Trade-Off in Sentiment Transfer Using Polarity-Aware Denoising**|Sourabrata Mukherjee et.al.|[2312.14708v1](http://arxiv.org/abs/2312.14708v1)|**[link](https://github.com/souro/polarity-denoising-sentiment-transfer)**|
