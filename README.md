@@ -37,12 +37,12 @@
 |**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739v1](http://arxiv.org/abs/2401.00739v1)|null|
 |**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v1](http://arxiv.org/abs/2401.00736v1)|null|
 |**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616v2](http://arxiv.org/abs/2401.00616v2)|null|
-|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v1](http://arxiv.org/abs/2401.00436v1)|null|
+|**2024-01-03**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v2](http://arxiv.org/abs/2401.00436v2)|null|
 |**2023-12-31**|**SynCDR : Training Cross Domain Retrieval Models with Synthetic Data**|Samarth Mishra et.al.|[2401.00420v1](http://arxiv.org/abs/2401.00420v1)|**[link](https://github.com/samarth4149/syncdr)**|
 |**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391v1](http://arxiv.org/abs/2401.00391v1)|null|
 |**2023-12-30**|**Probing the Limits and Capabilities of Diffusion Models for the Anatomic Editing of Digital Twins**|Karim Kadry et.al.|[2401.00247v1](http://arxiv.org/abs/2401.00247v1)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208v1](http://arxiv.org/abs/2401.00208v1)|null|
-|**2023-12-30**|**Diffusion Model with Perceptual Loss**|Shanchuan Lin et.al.|[2401.00110v1](http://arxiv.org/abs/2401.00110v1)|null|
+|**2024-01-03**|**Diffusion Model with Perceptual Loss**|Shanchuan Lin et.al.|[2401.00110v2](http://arxiv.org/abs/2401.00110v2)|null|
 |**2023-12-29**|**Generating Enhanced Negatives for Training Language-Based Object Detectors**|Shiyu Zhao et.al.|[2401.00094v1](http://arxiv.org/abs/2401.00094v1)|null|
 |**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029v2](http://arxiv.org/abs/2401.00029v2)|null|
 |**2023-12-29**|**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**|Feng Liang et.al.|[2312.17681v1](http://arxiv.org/abs/2312.17681v1)|null|
@@ -59,7 +59,7 @@
 |**2023-12-27**|**Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection**|Huan Liu et.al.|[2312.16649v1](http://arxiv.org/abs/2312.16649v1)|null|
 |**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519v1](http://arxiv.org/abs/2312.16519v1)|null|
 |**2023-12-29**|**PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion**|Guansong Lu et.al.|[2312.16486v2](http://arxiv.org/abs/2312.16486v2)|null|
-|**2023-12-27**|**SVGDreamer: Text Guided SVG Generation with Diffusion Model**|Ximing Xing et.al.|[2312.16476v1](http://arxiv.org/abs/2312.16476v1)|null|
+|**2024-01-03**|**SVGDreamer: Text Guided SVG Generation with Diffusion Model**|Ximing Xing et.al.|[2312.16476v2](http://arxiv.org/abs/2312.16476v2)|null|
 |**2023-12-27**|**Natural Adversarial Patch Generation Method Based on Latent Diffusion Model**|Xianyi Chen et.al.|[2312.16401v1](http://arxiv.org/abs/2312.16401v1)|null|
 |**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218v1](http://arxiv.org/abs/2312.16218v1)|null|
 |**2023-12-23**|**Iterative Prompt Relabeling for diffusion model with RLDF**|Jiaxin Ge et.al.|[2312.16204v1](http://arxiv.org/abs/2312.16204v1)|null|
