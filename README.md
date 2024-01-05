@@ -4148,7 +4148,7 @@
 |**2023-12-31**|**Generative Model-Driven Synthetic Training Image Generation: An Approach to Cognition in Rail Defect Detection**|Rahatara Ferdousi et.al.|[2401.00393v1](http://arxiv.org/abs/2401.00393v1)|null|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**ReSynthDetect: A Fundus Anomaly Detection Network with Reconstruction and Synthetic Features**|Jingqi Niu et.al.|[2312.16470v1](http://arxiv.org/abs/2312.16470v1)|null|
-|**2023-12-28**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707v2](http://arxiv.org/abs/2312.15707v2)|null|
+|**2024-01-04**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707v3](http://arxiv.org/abs/2312.15707v3)|null|
 |**2023-12-25**|**Surface of revolution Radon transforms with centers on generalized surfaces in  $\mathbb{R}^n$ **|James W. Webber et.al.|[2312.15635v1](http://arxiv.org/abs/2312.15635v1)|null|
 |**2023-12-25**|**Neural Born Series Operator for Biomedical Ultrasound Computed Tomography**|Zhijun Zeng et.al.|[2312.15575v1](http://arxiv.org/abs/2312.15575v1)|null|
 |**2023-12-23**|**Completions to Discrete Probability Distributions in Log-linear Models**|May Cai et.al.|[2312.15154v1](http://arxiv.org/abs/2312.15154v1)|null|
