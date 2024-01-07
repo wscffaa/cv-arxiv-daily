@@ -38,7 +38,7 @@
 |**2024-01-03**|**DiffYOLO: Object Detection for Anti-Noise via YOLO and Diffusion Models**|Yichen Liu et.al.|[2401.01659v1](http://arxiv.org/abs/2401.01659v1)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647v1](http://arxiv.org/abs/2401.01647v1)|null|
 |**2024-01-03**|**S $^{2}$ -DMs:Skip-Step Diffusion Models**|Yixuan Wang et.al.|[2401.01520v1](http://arxiv.org/abs/2401.01520v1)|**[link](https://github.com/kingkingofall/skip-step-diffusion)**|
-|**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456v1](http://arxiv.org/abs/2401.01456v1)|null|
+|**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456v1](http://arxiv.org/abs/2401.01456v1)|**[link](https://github.com/ydk-tellurion/colorizediffusion)**|
 |**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414v1](http://arxiv.org/abs/2401.01414v1)|null|
 |**2024-01-01**|**DiffAugment: Diffusion based Long-Tailed Visual Relationship Recognition**|Parul Gupta et.al.|[2401.01387v1](http://arxiv.org/abs/2401.01387v1)|null|
 |**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256v1](http://arxiv.org/abs/2401.01256v1)|null|
