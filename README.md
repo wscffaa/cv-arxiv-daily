@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916v1](http://arxiv.org/abs/2401.02916v1)|null|
+|**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913v1](http://arxiv.org/abs/2401.02913v1)|null|
+|**2024-01-05**|**Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors**|Top Piriyakulkij et.al.|[2401.02739v1](http://arxiv.org/abs/2401.02739v1)|null|
+|**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683v1](http://arxiv.org/abs/2401.02683v1)|null|
+|**2024-01-04**|**Comprehensive Exploration of Synthetic Data Generation: A Survey**|André Bauer et.al.|[2401.02524v1](http://arxiv.org/abs/2401.02524v1)|null|
+|**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473v1](http://arxiv.org/abs/2401.02473v1)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414v1](http://arxiv.org/abs/2401.02414v1)|null|
 |**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142v1](http://arxiv.org/abs/2401.02142v1)|null|
 |**2024-01-04**|**Preserving Image Properties Through Initializations in Diffusion Models**|Jeffrey Zhang et.al.|[2401.02097v1](http://arxiv.org/abs/2401.02097v1)|null|
@@ -2698,6 +2704,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Predicting Future States with Spatial Point Processes in Single Molecule Resolution Spatial Transcriptomics**|Parisa Boodaghi Malidarreh et.al.|[2401.02564v1](http://arxiv.org/abs/2401.02564v1)|null|
 |**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411v1](http://arxiv.org/abs/2401.02411v1)|null|
 |**2024-01-02**|**Efficient Hybrid Zoom using Camera Fusion on Mobile Phones**|Xiaotong Wu et.al.|[2401.01461v1](http://arxiv.org/abs/2401.01461v1)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216v1](http://arxiv.org/abs/2401.01216v1)|null|
@@ -3880,6 +3887,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Analysis of a wavelet frame based two-scale model for enhanced edges**|Bin Dong et.al.|[2401.02688v1](http://arxiv.org/abs/2401.02688v1)|null|
 |**2024-01-04**|**Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain**|Xuanhua He et.al.|[2401.02161v1](http://arxiv.org/abs/2401.02161v1)|null|
 |**2024-01-01**|**Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images**|Zhilu Zhang et.al.|[2401.00766v1](http://arxiv.org/abs/2401.00766v1)|**[link](https://github.com/cszhilu1998/bracketire)**|
 |**2023-12-31**|**UGPNet: Universal Generative Prior for Image Restoration**|Hwayoon Lee et.al.|[2401.00370v1](http://arxiv.org/abs/2401.00370v1)|null|
@@ -4611,6 +4619,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Two-stage Progressive Residual Dense Attention Network for Image Denoising**|Wencong Wu et.al.|[2401.02831v1](http://arxiv.org/abs/2401.02831v1)|null|
 |**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394v1](http://arxiv.org/abs/2401.02394v1)|null|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548v1](http://arxiv.org/abs/2401.01548v1)|**[link](https://github.com/tids-lab/its)**|
 |**2024-01-02**|**Robust single-particle cryo-EM image denoising and restoration**|Jing Zhang et.al.|[2401.01097v1](http://arxiv.org/abs/2401.01097v1)|null|
