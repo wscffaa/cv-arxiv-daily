@@ -33,7 +33,7 @@
 |**2024-01-04**|**Comprehensive Exploration of Synthetic Data Generation: A Survey**|André Bauer et.al.|[2401.02524v1](http://arxiv.org/abs/2401.02524v1)|null|
 |**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473v1](http://arxiv.org/abs/2401.02473v1)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414v1](http://arxiv.org/abs/2401.02414v1)|null|
-|**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142v1](http://arxiv.org/abs/2401.02142v1)|null|
+|**2024-01-06**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142v2](http://arxiv.org/abs/2401.02142v2)|null|
 |**2024-01-04**|**Preserving Image Properties Through Initializations in Diffusion Models**|Jeffrey Zhang et.al.|[2401.02097v1](http://arxiv.org/abs/2401.02097v1)|null|
 |**2024-01-04**|**Energy based diffusion generator for efficient sampling of Boltzmann distributions**|Yan Wang et.al.|[2401.02080v1](http://arxiv.org/abs/2401.02080v1)|null|
 |**2024-01-04**|**DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection**|Yunfan Ye et.al.|[2401.02032v1](http://arxiv.org/abs/2401.02032v1)|**[link](https://github.com/guhuangai/diffusionedge)**|
@@ -4860,7 +4860,7 @@
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
 |**2023-11-08**|**VioLA: Aligning Videos to 2D LiDAR Scans**|Jun-Jee Chao et.al.|[2311.04783v1](http://arxiv.org/abs/2311.04783v1)|null|
 |**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
-|**2023-10-31**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383v1](http://arxiv.org/abs/2310.20383v1)|null|
+|**2024-01-06**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383v2](http://arxiv.org/abs/2310.20383v2)|null|
 |**2023-10-23**|**Online Detection of AI-Generated Images**|David C. Epstein et.al.|[2310.15150v1](http://arxiv.org/abs/2310.15150v1)|null|
 |**2023-10-13**|**SAIR: Learning Semantic-aware Implicit Representation**|Canyu Zhang et.al.|[2310.09285v1](http://arxiv.org/abs/2310.09285v1)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222v1](http://arxiv.org/abs/2310.07222v1)|**[link](https://github.com/ysy31415/unipaint)**|
