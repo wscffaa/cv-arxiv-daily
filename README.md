@@ -3926,7 +3926,7 @@
 |**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334v1](http://arxiv.org/abs/2312.17334v1)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234v1](http://arxiv.org/abs/2312.17234v1)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161v1](http://arxiv.org/abs/2312.17161v1)|null|
-|**2023-12-29**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805v2](http://arxiv.org/abs/2312.16805v2)|null|
+|**2024-01-10**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805v3](http://arxiv.org/abs/2312.16805v3)|null|
 |**2023-12-27**|**Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation**|Rongyu Zhang et.al.|[2312.16610v1](http://arxiv.org/abs/2312.16610v1)|null|
 |**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519v1](http://arxiv.org/abs/2312.16519v1)|null|
 |**2023-12-25**|**Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration**|Jiahong Fu et.al.|[2312.15701v1](http://arxiv.org/abs/2312.15701v1)|**[link](https://github.com/jiahong-fu/equivariant-proximal-operator)**|
@@ -4677,7 +4677,7 @@
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819v1](http://arxiv.org/abs/2311.03819v1)|null|
 |**2023-11-06**|**Zero-Shot Enhancement of Low-Light Image Based on Retinex Decomposition**|Wenchao Li et.al.|[2311.02995v1](http://arxiv.org/abs/2311.02995v1)|**[link](https://github.com/liwenchao0615/zerrinnet)**|
 |**2023-11-04**|**Thermal Face Image Classification using Deep Learning Techniques**|Prosenjit Chatterjee et.al.|[2311.02314v1](http://arxiv.org/abs/2311.02314v1)|null|
-|**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653v1](http://arxiv.org/abs/2310.12653v1)|**[link](https://github.com/vlogroup/pogmdm)**|
+|**2024-01-09**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653v2](http://arxiv.org/abs/2310.12653v2)|**[link](https://github.com/vlogroup/pogmdm)**|
 |**2023-10-16**|**A cross Transformer for image denoising**|Chunwei Tian et.al.|[2310.10408v1](http://arxiv.org/abs/2310.10408v1)|**[link](https://github.com/hellloxiaotian/ctnet)**|
 |**2023-10-16**|**PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising**|Hyemi Jang et.al.|[2310.10088v1](http://arxiv.org/abs/2310.10088v1)|null|
 |**2023-10-13**|**Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising**|Hansen Feng et.al.|[2310.09126v1](http://arxiv.org/abs/2310.09126v1)|null|
