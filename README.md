@@ -26,9 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127v1](http://arxiv.org/abs/2401.06127v1)|null|
+|**2024-01-11**|**DiffDA: a diffusion model for weather-scale data assimilation**|Langwen Huang et.al.|[2401.05932v1](http://arxiv.org/abs/2401.05932v1)|null|
+|**2024-01-11**|**Efficient Image Deblurring Networks based on Diffusion Models**|Kang Chen et.al.|[2401.05907v1](http://arxiv.org/abs/2401.05907v1)|**[link](https://github.com/bnm6900030/swintormer)**|
+|**2024-01-11**|**HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models**|Hanzhang Wang et.al.|[2401.05870v1](http://arxiv.org/abs/2401.05870v1)|null|
+|**2024-01-11**|**EraseDiff: Erasing Data Influence in Diffusion Models**|Jing Wu et.al.|[2401.05779v1](http://arxiv.org/abs/2401.05779v1)|null|
+|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583v1](http://arxiv.org/abs/2401.05583v1)|null|
+|**2024-01-10**|**From Pampas to Pixels: Fine-Tuning Diffusion Models for Gaúcho Heritage**|Marcellus Amadeus et.al.|[2401.05520v1](http://arxiv.org/abs/2401.05520v1)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
 |**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293v1](http://arxiv.org/abs/2401.05293v1)|null|
-|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252v1](http://arxiv.org/abs/2401.05252v1)|null|
+|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252v1](http://arxiv.org/abs/2401.05252v1)|**[link](https://github.com/PixArt-alpha/PixArt-alpha)**|
 |**2024-01-05**|**Tailoring Frictional Properties of Surfaces Using Diffusion Models**|Even Marius Nordhagen et.al.|[2401.05206v1](http://arxiv.org/abs/2401.05206v1)|null|
 |**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159v1](http://arxiv.org/abs/2401.05159v1)|null|
 |**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153v1](http://arxiv.org/abs/2401.05153v1)|null|
@@ -2737,6 +2744,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
 |**2024-01-10**|**Quantum Inspired Microwave Phase Super-Resolution at Room Temperature**|Leonid Vidro et.al.|[2401.05026v1](http://arxiv.org/abs/2401.05026v1)|null|
 |**2024-01-08**|**AGG: Amortized Generative 3D Gaussians for Single Image to 3D**|Dejia Xu et.al.|[2401.04099v1](http://arxiv.org/abs/2401.04099v1)|null|
 |**2024-01-08**|**Sub-Rayleigh ghost imaging via structured illumination**|Liming Li et.al.|[2401.03829v1](http://arxiv.org/abs/2401.03829v1)|null|
@@ -3436,6 +3444,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
 |**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v1](http://arxiv.org/abs/2401.00736v1)|null|
@@ -4207,6 +4216,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Reconstruction as a service: a data space for off-site image reconstruction in magnetic particle imaging**|Anselm von Gladiss et.al.|[2401.05987v1](http://arxiv.org/abs/2401.05987v1)|null|
 |**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236v1](http://arxiv.org/abs/2401.05236v1)|**[link](https://github.com/tianhang-cheng/sfd)**|
 |**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137v1](http://arxiv.org/abs/2401.02137v1)|null|
 |**2023-12-31**|**Generative Model-Driven Synthetic Training Image Generation: An Approach to Cognition in Rail Defect Detection**|Rahatara Ferdousi et.al.|[2401.00393v1](http://arxiv.org/abs/2401.00393v1)|null|
@@ -4664,6 +4674,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Adaptive Regularized Low-Rank Tensor Decomposition for Hyperspectral Image Denoising and Destriping**|Dongyi Li et.al.|[2401.05682v1](http://arxiv.org/abs/2401.05682v1)|null|
 |**2024-01-09**|**Benchmarking Deep Learning-Based Low Dose CT Image Denoising Algorithms**|Elias Eulig et.al.|[2401.04661v1](http://arxiv.org/abs/2401.04661v1)|null|
 |**2024-01-09**|**Hyperspectral Image Denoising via Spatial-Spectral Recurrent Transformer**|Guanyiman Fu et.al.|[2401.03885v2](http://arxiv.org/abs/2401.03885v2)|null|
 |**2024-01-05**|**Two-stage Progressive Residual Dense Attention Network for Image Denoising**|Wencong Wu et.al.|[2401.02831v1](http://arxiv.org/abs/2401.02831v1)|null|
@@ -5037,6 +5048,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models**|Hanzhang Wang et.al.|[2401.05870v1](http://arxiv.org/abs/2401.05870v1)|null|
+|**2024-01-11**|**CAT-LLM: Prompting Large Language Models with Text Style Definition for Chinese Article-style Transfer**|Zhen Tao et.al.|[2401.05707v1](http://arxiv.org/abs/2401.05707v1)|**[link](https://github.com/taozhen1110/cat-llm)**|
+|**2024-01-11**|**Nucleus subtype classification using inter-modality learning**|Lucas W. Remedios et.al.|[2401.05602v1](http://arxiv.org/abs/2401.05602v1)|null|
+|**2024-01-10**|**FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields**|GeonU Kim et.al.|[2401.05516v1](http://arxiv.org/abs/2401.05516v1)|null|
 |**2024-01-09**|**Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding**|Yatong Bai et.al.|[2401.04575v1](http://arxiv.org/abs/2401.04575v1)|null|
 |**2024-01-09**|**Zero Shot Audio to Audio Emotion Transfer With Speaker Disentanglement**|Soumya Dutta et.al.|[2401.04511v1](http://arxiv.org/abs/2401.04511v1)|**[link](https://github.com/iiscleap/zest)**|
 |**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044v1](http://arxiv.org/abs/2401.01044v1)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
