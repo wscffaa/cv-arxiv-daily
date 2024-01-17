@@ -49,7 +49,7 @@
 |**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252v1](http://arxiv.org/abs/2401.05252v1)|**[link](https://github.com/PixArt-alpha/PixArt-alpha)**|
 |**2024-01-05**|**Tailoring Frictional Properties of Surfaces Using Diffusion Models**|Even Marius Nordhagen et.al.|[2401.05206v1](http://arxiv.org/abs/2401.05206v1)|null|
 |**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159v1](http://arxiv.org/abs/2401.05159v1)|null|
-|**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153v1](http://arxiv.org/abs/2401.05153v1)|null|
+|**2024-01-13**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153v2](http://arxiv.org/abs/2401.05153v2)|null|
 |**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093v1](http://arxiv.org/abs/2401.05093v1)|null|
 |**2024-01-10**|**A novel bond-based nonlocal diffusion model with matrix-valued coefficients in non-divergence form and its collocation discretization**|Lili Ju et.al.|[2401.04973v1](http://arxiv.org/abs/2401.04973v1)|null|
 |**2024-01-09**|**Transmission-eigenchannel velocity and diffusion**|Azriel Z. Genack et.al.|[2401.04818v1](http://arxiv.org/abs/2401.04818v1)|null|
