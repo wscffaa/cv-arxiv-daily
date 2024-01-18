@@ -45,10 +45,10 @@
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087v1](http://arxiv.org/abs/2401.07087v1)|null|
 |**2024-01-13**|**Quantum Denoising Diffusion Models**|Michael Kölle et.al.|[2401.07049v1](http://arxiv.org/abs/2401.07049v1)|null|
 |**2024-01-13**|**Quantum Generative Diffusion Model**|Chuangtao Chen et.al.|[2401.07039v1](http://arxiv.org/abs/2401.07039v1)|null|
-|**2024-01-13**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982v1](http://arxiv.org/abs/2401.06982v1)|null|
+|**2024-01-17**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982v2](http://arxiv.org/abs/2401.06982v2)|null|
 |**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740v1](http://arxiv.org/abs/2401.06740v1)|null|
 |**2024-01-12**|**Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks**|Stefan Blücher et.al.|[2401.06654v1](http://arxiv.org/abs/2401.06654v1)|**[link](https://github.com/bluecher31/pixel-flipping)**|
-|**2024-01-15**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v2](http://arxiv.org/abs/2401.06637v2)|null|
+|**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
 |**2024-01-12**|**Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking**|Wei Cao et.al.|[2401.06614v1](http://arxiv.org/abs/2401.06614v1)|null|
 |**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578v1](http://arxiv.org/abs/2401.06578v1)|null|
 |**2024-01-12**|**RotationDrag: Point-based Image Editing with Rotated Diffusion Features**|Minxing Luo et.al.|[2401.06442v1](http://arxiv.org/abs/2401.06442v1)|**[link](https://github.com/tony-lowe/rotationdrag)**|
@@ -4955,7 +4955,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-16**|**Inpainting Normal Maps for Lightstage data**|Hancheng Zuo et.al.|[2401.08099v1](http://arxiv.org/abs/2401.08099v1)|null|
-|**2024-01-15**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v2](http://arxiv.org/abs/2401.06637v2)|null|
+|**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
 |**2024-01-07**|**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**|Haonan Wang et.al.|[2401.04136v1](http://arxiv.org/abs/2401.04136v1)|null|
 |**2023-11-28**|**Image Inpainting via Tractable Steering of Diffusion Models**|Anji Liu et.al.|[2401.03349v1](http://arxiv.org/abs/2401.03349v1)|null|
 |**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015v1](http://arxiv.org/abs/2401.02015v1)|null|
