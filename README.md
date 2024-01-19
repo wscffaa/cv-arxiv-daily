@@ -40,7 +40,7 @@
 |**2024-01-16**|**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**|Yumeng Li et.al.|[2401.08815v1](http://arxiv.org/abs/2401.08815v1)|**[link](https://github.com/boschresearch/aldm)**|
 |**2024-01-16**|**Fixed Point Diffusion Models**|Xingjian Bai et.al.|[2401.08741v1](http://arxiv.org/abs/2401.08741v1)|null|
 |**2024-01-16**|**SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers**|Nanye Ma et.al.|[2401.08740v1](http://arxiv.org/abs/2401.08740v1)|null|
-|**2024-01-13**|**NODI: Out-Of-Distribution Detection with Noise from Diffusion**|Jingqiu Zhou et.al.|[2401.08689v1](http://arxiv.org/abs/2401.08689v1)|null|
+|**2024-01-18**|**NODI: Out-Of-Distribution Detection with Noise from Diffusion**|Jingqiu Zhou et.al.|[2401.08689v2](http://arxiv.org/abs/2401.08689v2)|null|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570v1](http://arxiv.org/abs/2401.08570v1)|null|
 |**2024-01-16**|**Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**|Mathis Petrovich et.al.|[2401.08559v1](http://arxiv.org/abs/2401.08559v1)|null|
 |**2024-01-16**|**Modeling Spoof Noise by De-spoofing Diffusion and its Application in Face Anti-spoofing**|Bin Zhang et.al.|[2401.08275v1](http://arxiv.org/abs/2401.08275v1)|null|
@@ -57,7 +57,7 @@
 |**2024-01-15**|**Multifractal-spectral features enhance classification of anomalous diffusion**|Henrik Seckler et.al.|[2401.07646v1](http://arxiv.org/abs/2401.07646v1)|null|
 |**2024-01-15**|**InstantID: Zero-shot Identity-Preserving Generation in Seconds**|Qixun Wang et.al.|[2401.07519v1](http://arxiv.org/abs/2401.07519v1)|**[link](https://github.com/instantid/instantid)**|
 |**2024-01-15**|**Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation**|Yuanchen Ju et.al.|[2401.07487v1](http://arxiv.org/abs/2401.07487v1)|null|
-|**2024-01-15**|**Hierarchical Fashion Design with Multi-stage Diffusion Models**|Zhifeng Xie et.al.|[2401.07450v1](http://arxiv.org/abs/2401.07450v1)|null|
+|**2024-01-18**|**Hierarchical Fashion Design with Multi-stage Diffusion Models**|Zhifeng Xie et.al.|[2401.07450v2](http://arxiv.org/abs/2401.07450v2)|null|
 |**2024-01-14**|**A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models**|Namjoon Suh et.al.|[2401.07187v1](http://arxiv.org/abs/2401.07187v1)|null|
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087v1](http://arxiv.org/abs/2401.07087v1)|null|
 |**2024-01-13**|**Quantum Denoising Diffusion Models**|Michael Kölle et.al.|[2401.07049v1](http://arxiv.org/abs/2401.07049v1)|null|
@@ -2797,7 +2797,7 @@
 |**2024-01-16**|**Robust DOA estimation using deep acoustic imaging**|Adrian S. Roman et.al.|[2401.08717v1](http://arxiv.org/abs/2401.08717v1)|null|
 |**2024-01-16**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503v1](http://arxiv.org/abs/2401.08503v1)|null|
 |**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390v1](http://arxiv.org/abs/2401.08390v1)|null|
-|**2024-01-16**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v1](http://arxiv.org/abs/2401.08209v1)|null|
+|**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|null|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
 |**2024-01-15**|**Sparsity-based background removal for STORM super-resolution images**|Patris Valera et.al.|[2401.07746v1](http://arxiv.org/abs/2401.07746v1)|**[link](https://github.com/patrisvalera/slnet_storm)**|
@@ -3509,7 +3509,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913v1](http://arxiv.org/abs/2401.08913v1)|null|
-|**2024-01-16**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v1](http://arxiv.org/abs/2401.08209v1)|null|
+|**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|null|
 |**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
@@ -3804,7 +3804,7 @@
 |**2024-01-01**|**NegVSR: Augmenting Negatives for Generalized Noise Modeling in Real-World Video Super-Resolution**|Yexing Song et.al.|[2305.14669v3](http://arxiv.org/abs/2305.14669v3)|null|
 |**2023-05-12**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v2](http://arxiv.org/abs/2305.06524v2)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
-|**2023-04-29**|**An Implicit Alignment for Video Super-Resolution**|Kai Xu et.al.|[2305.00163v1](http://arxiv.org/abs/2305.00163v1)|**[link](https://github.com/kai422/iart)**|
+|**2024-01-18**|**Enhancing Video Super-Resolution via Implicit Resampling-based Alignment**|Kai Xu et.al.|[2305.00163v2](http://arxiv.org/abs/2305.00163v2)|**[link](https://github.com/kai422/iart)**|
 |**2023-12-28**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818v2](http://arxiv.org/abs/2304.08818v2)|**[link](https://github.com/stability-ai/generative-models)**|
 |**2023-10-30**|**Local-Global Temporal Difference Learning for Satellite Video Super-Resolution**|Yi Xiao et.al.|[2304.04421v2](http://arxiv.org/abs/2304.04421v2)|**[link](https://github.com/xy-boy/lgtd)**|
 |**2023-03-29**|**Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution**|Yunfan Lu et.al.|[2303.13767v2](http://arxiv.org/abs/2303.13767v2)|**[link](https://github.com/yunfanLu/INR-Event-VSR)**|
