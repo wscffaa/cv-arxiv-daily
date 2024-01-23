@@ -74,7 +74,7 @@
 |**2024-01-15**|**Multifractal-spectral features enhance classification of anomalous diffusion**|Henrik Seckler et.al.|[2401.07646v1](http://arxiv.org/abs/2401.07646v1)|null|
 |**2024-01-15**|**InstantID: Zero-shot Identity-Preserving Generation in Seconds**|Qixun Wang et.al.|[2401.07519v1](http://arxiv.org/abs/2401.07519v1)|**[link](https://github.com/instantid/instantid)**|
 |**2024-01-15**|**Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation**|Yuanchen Ju et.al.|[2401.07487v1](http://arxiv.org/abs/2401.07487v1)|null|
-|**2024-01-18**|**Hierarchical Fashion Design with Multi-stage Diffusion Models**|Zhifeng Xie et.al.|[2401.07450v2](http://arxiv.org/abs/2401.07450v2)|null|
+|**2024-01-20**|**Hierarchical Fashion Design with Multi-stage Diffusion Models**|Zhifeng Xie et.al.|[2401.07450v3](http://arxiv.org/abs/2401.07450v3)|null|
 |**2024-01-14**|**A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models**|Namjoon Suh et.al.|[2401.07187v1](http://arxiv.org/abs/2401.07187v1)|null|
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087v1](http://arxiv.org/abs/2401.07087v1)|null|
 |**2024-01-13**|**Quantum Denoising Diffusion Models**|Michael Kölle et.al.|[2401.07049v1](http://arxiv.org/abs/2401.07049v1)|null|
@@ -2813,7 +2813,7 @@
 |**2024-01-17**|**3D orientation super-resolution spatial-frequency-shift microscopy**|Xiaowei Liu et.al.|[2401.09085v1](http://arxiv.org/abs/2401.09085v1)|null|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913v1](http://arxiv.org/abs/2401.08913v1)|null|
 |**2024-01-16**|**Robust DOA estimation using deep acoustic imaging**|Adrian S. Roman et.al.|[2401.08717v1](http://arxiv.org/abs/2401.08717v1)|**[link](https://github.com/adriansroman/deepwavedoa)**|
-|**2024-01-16**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503v1](http://arxiv.org/abs/2401.08503v1)|null|
+|**2024-01-20**|**Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis**|Zhenhui Ye et.al.|[2401.08503v2](http://arxiv.org/abs/2401.08503v2)|null|
 |**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390v1](http://arxiv.org/abs/2401.08390v1)|null|
 |**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|**[link](https://github.com/labshuhanggu/adaptive-token-dictionary)**|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
@@ -3914,7 +3914,7 @@
 |**2023-09-12**|**Learning to Augment: Hallucinating Data for Domain Generalized Segmentation**|Qiyu Sun et.al.|[2307.01703v2](http://arxiv.org/abs/2307.01703v2)|null|
 |**2023-06-26**|**Video object detection for privacy-preserving patient monitoring in intensive care**|Raphael Emberger et.al.|[2306.14620v1](http://arxiv.org/abs/2306.14620v1)|**[link](https://github.com/raember/yolov5r_autodidact)**|
 |**2023-05-23**|**FlowChroma -- A Deep Recurrent Neural Network for Video Colorization**|Thejan Wijesinghe et.al.|[2305.13704v1](http://arxiv.org/abs/2305.13704v1)|null|
-|**2023-12-12**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v2](http://arxiv.org/abs/2305.10124v2)|**[link](https://github.com/omerb01/puq)**|
+|**2024-01-20**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v3](http://arxiv.org/abs/2305.10124v3)|**[link](https://github.com/omerb01/puq)**|
 |**2023-05-15**|**PLIP: Language-Image Pre-training for Person Representation Learning**|Jialong Zuo et.al.|[2305.08386v1](http://arxiv.org/abs/2305.08386v1)|**[link](https://github.com/zplusdragon/plip)**|
 |**2023-05-13**|**Temporal Consistent Automatic Video Colorization via Semantic Correspondence**|Yu Zhang et.al.|[2305.07904v1](http://arxiv.org/abs/2305.07904v1)|**[link](https://github.com/bupt-ai-cz/tcvc)**|
 |**2023-05-02**|**A new sample of transient ultraluminous X-ray sources serendipitously discovered by Swift/XRT**|Murray Brightman et.al.|[2305.01693v1](http://arxiv.org/abs/2305.01693v1)|null|
