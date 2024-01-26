@@ -27,7 +27,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-24**|**Guided Diffusion for Fast Inverse Design of Density-based Mechanical Metamaterials**|Yanyan Yang et.al.|[2401.13570v1](http://arxiv.org/abs/2401.13570v1)|null|
-|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v1](http://arxiv.org/abs/2401.13388v1)|null|
+|**2024-01-25**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v2](http://arxiv.org/abs/2401.13388v2)|null|
 |**2024-01-24**|**Generative Design of Crystal Structures by Point Cloud Representations and Diffusion Model**|Zhelin Li et.al.|[2401.13192v1](http://arxiv.org/abs/2401.13192v1)|null|
 |**2024-01-24**|**Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model**|Yuanming Li et.al.|[2401.13191v1](http://arxiv.org/abs/2401.13191v1)|null|
 |**2024-01-24**|**Compositional Generative Inverse Design**|Tailin Wu et.al.|[2401.13171v1](http://arxiv.org/abs/2401.13171v1)|**[link](https://github.com/ai4science-westlakeu/cindm)**|
