@@ -30,7 +30,7 @@
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398v1](http://arxiv.org/abs/2401.14398v1)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
-|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111v1](http://arxiv.org/abs/2401.14111v1)|null|
+|**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111v2](http://arxiv.org/abs/2401.14111v2)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992v1](http://arxiv.org/abs/2401.13992v1)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974v1](http://arxiv.org/abs/2401.13974v1)|null|
@@ -2859,7 +2859,7 @@
 |**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390v1](http://arxiv.org/abs/2401.08390v1)|null|
 |**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|**[link](https://github.com/labshuhanggu/adaptive-token-dictionary)**|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
-|**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
+|**2024-01-26**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|null|
 |**2024-01-15**|**Sparsity-based background removal for STORM super-resolution images**|Patris Valera et.al.|[2401.07746v1](http://arxiv.org/abs/2401.07746v1)|**[link](https://github.com/patrisvalera/slnet_storm)**|
 |**2024-01-15**|**Time-varying k-domain modulation around a point sink in time reversal cavity**|Xin Liu et.al.|[2401.07535v1](http://arxiv.org/abs/2401.07535v1)|null|
 |**2024-01-14**|**City Scene Super-Resolution via Geometric Error Minimization**|Zhengyang Lu et.al.|[2401.07272v1](http://arxiv.org/abs/2401.07272v1)|**[link](https://github.com/mnster00/geosr)**|
@@ -3571,7 +3571,7 @@
 |**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859v2](http://arxiv.org/abs/2401.11859v2)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-17**|**Efficient Image Super-Resolution via Symmetric Visual Attention Network**|Chengxu Wu et.al.|[2401.08913v1](http://arxiv.org/abs/2401.08913v1)|null|
 |**2024-01-18**|**Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary**|Leheng Zhang et.al.|[2401.08209v2](http://arxiv.org/abs/2401.08209v2)|**[link](https://github.com/labshuhanggu/adaptive-token-dictionary)**|
-|**2024-01-16**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v1](http://arxiv.org/abs/2401.08115v1)|null|
+|**2024-01-26**|**No-Clean-Reference Image Super-Resolution: Application to Electron Microscopy**|Mohammad Khateri et.al.|[2401.08115v2](http://arxiv.org/abs/2401.08115v2)|null|
 |**2024-01-11**|**Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach**|Gang Wu et.al.|[2401.05633v1](http://arxiv.org/abs/2401.05633v1)|**[link](https://github.com/aitical/cfsr)**|
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
@@ -3971,7 +3971,7 @@
 |**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212v1](http://arxiv.org/abs/2303.17212v1)|null|
 |**2023-05-27**|**Posthoc Interpretation via Quantization**|Francesco Paissan et.al.|[2303.12659v2](http://arxiv.org/abs/2303.12659v2)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2023-03-11**|**AI-Enhanced Intensive Care Unit: Revolutionizing Patient Care with Pervasive Sensing**|Subhash Nerella et.al.|[2303.06252v1](http://arxiv.org/abs/2303.06252v1)|null|
-|**2023-03-01**|**Has the Virtualization of the Face Changed Facial Perception? A Study of the Impact of Augmented Reality on Facial Perception**|Louisa Conwill et.al.|[2303.00612v1](http://arxiv.org/abs/2303.00612v1)|null|
+|**2024-01-26**|**Has the Virtualization of the Face Changed Facial Perception? A Study of the Impact of Augmented Reality on Facial Perception**|Louisa Conwill et.al.|[2303.00612v2](http://arxiv.org/abs/2303.00612v2)|null|
 |**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
 |**2023-01-17**|**An Energy-Efficient Reconfigurable Autoencoder Implementation on FPGA**|Murat Isik et.al.|[2301.07050v1](http://arxiv.org/abs/2301.07050v1)|null|
 |**2022-12-27**|**Semi-supervised Fashion Compatibility Prediction by Color Distortion Prediction**|Ling Xiao et.al.|[2212.14680v1](http://arxiv.org/abs/2212.14680v1)|null|
