@@ -33,7 +33,7 @@
 |**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404v1](http://arxiv.org/abs/2401.14404v1)|null|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398v1](http://arxiv.org/abs/2401.14398v1)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
-|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
+|**2024-01-27**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v2](http://arxiv.org/abs/2401.14257v2)|null|
 |**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111v2](http://arxiv.org/abs/2401.14111v2)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992v1](http://arxiv.org/abs/2401.13992v1)|null|
@@ -4396,7 +4396,7 @@
 |**2023-12-15**|**Single PW takes a shortcut to compound PW in US imaging**|Zhiqiang Li et.al.|[2312.09514v1](http://arxiv.org/abs/2312.09514v1)|null|
 |**2023-12-15**|**Fast Sampling generative model for Ultrasound image reconstruction**|Hengrong Lan et.al.|[2312.09510v1](http://arxiv.org/abs/2312.09510v1)|null|
 |**2023-12-14**|**MaRGA: a Graphical and Application Interface for MaRCoS**|J. M. Algarín et.al.|[2312.08711v1](http://arxiv.org/abs/2312.08711v1)|**[link](https://github.com/yvives/physiomri_gui)**|
-|**2023-12-13**|**Patient-Adaptive and Learned MRI Data Undersampling Using Neighborhood Clustering**|Siddhant Gautam et.al.|[2312.08507v1](http://arxiv.org/abs/2312.08507v1)|null|
+|**2024-01-28**|**Patient-Adaptive and Learned MRI Data Undersampling Using Neighborhood Clustering**|Siddhant Gautam et.al.|[2312.08507v2](http://arxiv.org/abs/2312.08507v2)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220v1](http://arxiv.org/abs/2312.08220v1)|null|
 |**2023-12-13**|**LMD: Faster Image Reconstruction with Latent Masking Diffusion**|Zhiyuan Ma et.al.|[2312.07971v1](http://arxiv.org/abs/2312.07971v1)|**[link](https://github.com/anonymouspony/lmd)**|
 |**2023-12-12**|**Robust MRI Reconstruction by Smoothed Unrolling (SMUG)**|Shijun Liang et.al.|[2312.07784v1](http://arxiv.org/abs/2312.07784v1)|**[link](https://github.com/sjames40/smug_journal)**|
@@ -5221,7 +5221,7 @@
 |**2024-01-18**|**Artwork Protection Against Neural Style Transfer Using Locally Adaptive Adversarial Color Attack**|Zhongliang Guo et.al.|[2401.09673v1](http://arxiv.org/abs/2401.09673v1)|null|
 |**2024-01-11**|**HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models**|Hanzhang Wang et.al.|[2401.05870v1](http://arxiv.org/abs/2401.05870v1)|null|
 |**2024-01-11**|**CAT-LLM: Prompting Large Language Models with Text Style Definition for Chinese Article-style Transfer**|Zhen Tao et.al.|[2401.05707v1](http://arxiv.org/abs/2401.05707v1)|**[link](https://github.com/taozhen1110/cat-llm)**|
-|**2024-01-11**|**Nucleus subtype classification using inter-modality learning**|Lucas W. Remedios et.al.|[2401.05602v1](http://arxiv.org/abs/2401.05602v1)|null|
+|**2024-01-29**|**Nucleus subtype classification using inter-modality learning**|Lucas W. Remedios et.al.|[2401.05602v2](http://arxiv.org/abs/2401.05602v2)|null|
 |**2024-01-10**|**FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields**|GeonU Kim et.al.|[2401.05516v1](http://arxiv.org/abs/2401.05516v1)|null|
 |**2024-01-09**|**Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding**|Yatong Bai et.al.|[2401.04575v1](http://arxiv.org/abs/2401.04575v1)|null|
 |**2024-01-09**|**Zero Shot Audio to Audio Emotion Transfer With Speaker Disentanglement**|Soumya Dutta et.al.|[2401.04511v1](http://arxiv.org/abs/2401.04511v1)|**[link](https://github.com/iiscleap/zest)**|
