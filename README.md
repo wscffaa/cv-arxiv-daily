@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
+|**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212v1](http://arxiv.org/abs/2401.17212v1)|null|
+|**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181v1](http://arxiv.org/abs/2401.17181v1)|null|
+|**2024-01-30**|**PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering**|Rong Huang et.al.|[2401.17120v1](http://arxiv.org/abs/2401.17120v1)|null|
+|**2024-01-30**|**Local modification of subdiffusion by initial Fickian diffusion: Multiscale modeling, analysis and computation**|Xiangcheng Zheng et.al.|[2401.16885v1](http://arxiv.org/abs/2401.16885v1)|null|
+|**2024-01-30**|**A Literature Review on Fetus Brain Motion Correction in MRI**|Haoran Zhang et.al.|[2401.16782v1](http://arxiv.org/abs/2401.16782v1)|null|
+|**2024-01-30**|**BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion**|Yonghao Yu et.al.|[2401.16764v1](http://arxiv.org/abs/2401.16764v1)|null|
+|**2024-01-30**|**Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization**|Henglei Lv et.al.|[2401.16762v1](http://arxiv.org/abs/2401.16762v1)|null|
+|**2024-01-30**|**Diffusion model for relational inference**|Shuhan Zheng et.al.|[2401.16755v1](http://arxiv.org/abs/2401.16755v1)|null|
+|**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459v1](http://arxiv.org/abs/2401.16459v1)|null|
 |**2024-01-29**|**Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model**|Qiyao Peng et.al.|[2401.16261v1](http://arxiv.org/abs/2401.16261v1)|null|
 |**2024-01-29**|**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**|Zhongjie Duan et.al.|[2401.16224v1](http://arxiv.org/abs/2401.16224v1)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157v1](http://arxiv.org/abs/2401.16157v1)|null|
@@ -2866,6 +2876,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
+|**2024-01-30**|**Ptycho-endoscopy on a lensless ultrathin fiber bundle tip**|Pengming Song et.al.|[2401.17213v1](http://arxiv.org/abs/2401.17213v1)|null|
+|**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972v1](http://arxiv.org/abs/2401.16972v1)|null|
 |**2024-01-29**|**Reconfigurable AI Modules Aided Channel Estimation and MIMO Detection**|Xiangzhao Qin et.al.|[2401.16141v1](http://arxiv.org/abs/2401.16141v1)|null|
 |**2024-01-29**|**Bridging the Domain Gap: A Simple Domain Matching Method for Reference-based Image Super-Resolution in Remote Sensing**|Jeongho Min et.al.|[2401.15944v1](http://arxiv.org/abs/2401.15944v1)|null|
 |**2024-01-29**|**Vision-Informed Flow Image Super-Resolution with Quaternion Spatial Modeling and Dynamic Flow Convolution**|Qinglong Cao et.al.|[2401.15913v1](http://arxiv.org/abs/2401.15913v1)|null|
@@ -3597,6 +3610,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
+|**2024-01-30**|**Deep 3D World Models for Multi-Image Super-Resolution Beyond Optical Flow**|Luca Savant Aira et.al.|[2401.16972v1](http://arxiv.org/abs/2401.16972v1)|null|
 |**2024-01-29**|**Bridging the Domain Gap: A Simple Domain Matching Method for Reference-based Image Super-Resolution in Remote Sensing**|Jeongho Min et.al.|[2401.15944v1](http://arxiv.org/abs/2401.15944v1)|null|
 |**2024-01-29**|**Vision-Informed Flow Image Super-Resolution with Quaternion Spatial Modeling and Dynamic Flow Convolution**|Qinglong Cao et.al.|[2401.15913v1](http://arxiv.org/abs/2401.15913v1)|null|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613v1](http://arxiv.org/abs/2401.15613v1)|null|
@@ -3613,7 +3628,7 @@
 |**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer**|Yongsong Huang et.al.|[2312.16455v1](http://arxiv.org/abs/2312.16455v1)|null|
-|**2023-12-24**|**BSRAW: Improving Blind RAW Image Super-Resolution**|Marcos V. Conde et.al.|[2312.15487v1](http://arxiv.org/abs/2312.15487v1)|null|
+|**2023-12-24**|**BSRAW: Improving Blind RAW Image Super-Resolution**|Marcos V. Conde et.al.|[2312.15487v1](http://arxiv.org/abs/2312.15487v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2023-12-22**|**DDistill-SR: Reparameterized Dynamic Distillation Network for Lightweight Image Super-Resolution**|Yan Wang et.al.|[2312.14551v1](http://arxiv.org/abs/2312.14551v1)|**[link](https://github.com/icandle/ddistill-sr)**|
 |**2023-12-20**|**EPNet: An Efficient Pyramid Network for Enhanced Single-Image Super-Resolution with Reduced Computational Requirements**|Xin Xu et.al.|[2312.13396v1](http://arxiv.org/abs/2312.13396v1)|null|
 |**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232v1](http://arxiv.org/abs/2312.11232v1)|**[link](https://github.com/jscanvic/scale-equivariant-imaging)**|
@@ -4102,6 +4117,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v1](http://arxiv.org/abs/2401.16468v1)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647v1](http://arxiv.org/abs/2401.15647v1)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235v1](http://arxiv.org/abs/2401.15235v1)|null|
 |**2024-01-24**|**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild**|Fanghua Yu et.al.|[2401.13627v1](http://arxiv.org/abs/2401.13627v1)|null|
@@ -4390,6 +4406,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**All-optical complex field imaging using diffractive processors**|Jingxi Li et.al.|[2401.16779v1](http://arxiv.org/abs/2401.16779v1)|null|
 |**2024-01-29**|**Evaluation of pseudo-healthy image reconstruction for anomaly detection with deep generative models: Application to brain FDG PET**|Ravi Hassanaly et.al.|[2401.16363v1](http://arxiv.org/abs/2401.16363v1)|**[link](https://github.com/ravih18/uad_evaluation_framework)**|
 |**2024-01-29**|**A 2D Sinogram-Based Approach to Defect Localization in Computed Tomography**|Yuzhong Zhou et.al.|[2401.16104v1](http://arxiv.org/abs/2401.16104v1)|null|
 |**2024-01-28**|**ARCNet: An Asymmetric Residual Wavelet Column Correction Network for Infrared Image Destriping**|Shuai Yuan et.al.|[2401.15578v1](http://arxiv.org/abs/2401.15578v1)|null|
@@ -4864,6 +4881,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v1](http://arxiv.org/abs/2401.16468v1)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-29**|**A Ridgelet Approach to Poisson Denoising**|Ali Dadras et.al.|[2401.16099v1](http://arxiv.org/abs/2401.16099v1)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235v1](http://arxiv.org/abs/2401.15235v1)|null|
 |**2024-01-26**|**Masked Pre-trained Model Enables Universal Zero-shot Denoiser**|Xiaoxiao Ma et.al.|[2401.14966v1](http://arxiv.org/abs/2401.14966v1)|**[link](https://github.com/krennic999/mpi)**|
@@ -5095,6 +5113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Krasnoselskii-Mann Iterations: Inertia, Perturbations and Approximation**|Daniel Cortild et.al.|[2401.16870v1](http://arxiv.org/abs/2401.16870v1)|null|
 |**2024-01-26**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832v1](http://arxiv.org/abs/2401.14832v1)|**[link](https://github.com/blackprotoss/gsdm)**|
 |**2024-01-16**|**Inpainting Normal Maps for Lightstage data**|Hancheng Zuo et.al.|[2401.08099v1](http://arxiv.org/abs/2401.08099v1)|null|
 |**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
@@ -5247,6 +5266,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Evaluation in Neural Style Transfer: A Review**|Eleftherios Ioannou et.al.|[2401.17109v1](http://arxiv.org/abs/2401.17109v1)|null|
+|**2024-01-30**|**Active Generation Network of Human Skeleton for Action Recognition**|Long Liu et.al.|[2401.17086v1](http://arxiv.org/abs/2401.17086v1)|null|
+|**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830v1](http://arxiv.org/abs/2401.16830v1)|null|
 |**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027v1](http://arxiv.org/abs/2401.16027v1)|null|
 |**2024-01-28**|**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models**|Feihong He et.al.|[2401.15636v1](http://arxiv.org/abs/2401.15636v1)|null|
 |**2024-01-27**|**An Implicit Physical Face Model Driven by Expression and Style**|Lingchen Yang et.al.|[2401.15414v1](http://arxiv.org/abs/2401.15414v1)|null|
