@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590v1](http://arxiv.org/abs/2402.01590v1)|null|
+|**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566v1](http://arxiv.org/abs/2402.01566v1)|null|
+|**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516v1](http://arxiv.org/abs/2402.01516v1)|null|
+|**2024-02-02**|**Conditioning non-linear and infinite-dimensional diffusion processes**|Elizabeth Louise Baker et.al.|[2402.01434v1](http://arxiv.org/abs/2402.01434v1)|null|
+|**2024-02-02**|**Bass Accompaniment Generation via Latent Diffusion**|Marco Pasini et.al.|[2402.01412v1](http://arxiv.org/abs/2402.01412v1)|null|
+|**2024-02-02**|**Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors**|Dingcheng Yang et.al.|[2402.01369v1](http://arxiv.org/abs/2402.01369v1)|**[link](https://github.com/ydc123/mmp-attack)**|
+|**2024-02-02**|**Unsupervised Generation of Pseudo Normal PET from MRI with Diffusion Model for Epileptic Focus Localization**|Wentao Chen et.al.|[2402.01191v1](http://arxiv.org/abs/2402.01191v1)|null|
+|**2024-02-01**|**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**|Salman Ul Hassan Dar et.al.|[2402.01054v1](http://arxiv.org/abs/2402.01054v1)|null|
+|**2024-02-01**|**pop-cosmos: A comprehensive picture of the galaxy population from COSMOS data**|Justin Alsing et.al.|[2402.00935v1](http://arxiv.org/abs/2402.00935v1)|null|
+|**2024-02-01**|**Data-Space Validation of High-Dimensional Models by Comparing Sample Quantiles**|Stephen Thorp et.al.|[2402.00930v1](http://arxiv.org/abs/2402.00930v1)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811v1](http://arxiv.org/abs/2402.00811v1)|null|
 |**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807v1](http://arxiv.org/abs/2402.00807v1)|null|
@@ -2901,6 +2911,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**A Robust Super-resolution Gridless Imaging Framework for UAV-borne SAR Tomography**|Silin Gao et.al.|[2402.01194v1](http://arxiv.org/abs/2402.01194v1)|null|
 |**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao et.al.|[2402.00575v1](http://arxiv.org/abs/2402.00575v1)|null|
 |**2024-01-31**|**Improving Object Detection Quality in Football Through Super-Resolution Techniques**|Karolina Seweryn et.al.|[2402.00163v1](http://arxiv.org/abs/2402.00163v1)|null|
 |**2024-01-31**|**Fully Data-Driven Model for Increasing Sampling Rate Frequency of Seismic Data using Super-Resolution Generative Adversarial Networks**|Navid Gholizadeh et.al.|[2402.00153v1](http://arxiv.org/abs/2402.00153v1)|null|
@@ -4146,6 +4157,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**LIR: Efficient Degradation Removal for Lightweight Image Restoration**|Dongqi Fan et.al.|[2402.01368v1](http://arxiv.org/abs/2402.01368v1)|**[link](https://github.com/dongqi-fan/lir)**|
 |**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629v1](http://arxiv.org/abs/2401.17629v1)|null|
 |**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547v1](http://arxiv.org/abs/2401.17547v1)|null|
 |**2024-01-31**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v2](http://arxiv.org/abs/2401.16468v2)|**[link](https://github.com/mv-lab/InstructIR)**|
@@ -5299,6 +5311,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection**|Hao Li et.al.|[2402.01304v1](http://arxiv.org/abs/2402.01304v1)|null|
 |**2024-02-02**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863v2](http://arxiv.org/abs/2402.00863v2)|null|
 |**2024-02-01**|**Neural Style Transfer with Twin-Delayed DDPG for Shared Control of Robotic Manipulators**|Raul Fernandez-Fernandez et.al.|[2402.00722v1](http://arxiv.org/abs/2402.00722v1)|null|
 |**2024-02-01**|**Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00677v1](http://arxiv.org/abs/2402.00677v1)|null|
