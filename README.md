@@ -46,7 +46,7 @@
 |**2024-02-01**|**Masked Conditional Diffusion Model for Enhancing Deepfake Detection**|Tiewen Chen et.al.|[2402.00541v1](http://arxiv.org/abs/2402.00541v1)|null|
 |**2024-02-01**|**Energetic Particles in the Central Starburst, Disc, and Halo of NGC253**|Yoel Rephaeli et.al.|[2402.00523v1](http://arxiv.org/abs/2402.00523v1)|null|
 |**2024-02-01**|**LRDif: Diffusion Models for Under-Display Camera Emotion Recognition**|Zhifeng Wang et.al.|[2402.00250v1](http://arxiv.org/abs/2402.00250v1)|null|
-|**2024-01-31**|**SuperDiff: Diffusion Models for Conditional Generation of Hypothetical New Families of Superconductors**|Samuel Yuan et.al.|[2402.00198v1](http://arxiv.org/abs/2402.00198v1)|null|
+|**2024-02-02**|**SuperDiff: Diffusion Models for Conditional Generation of Hypothetical New Families of Superconductors**|Samuel Yuan et.al.|[2402.00198v2](http://arxiv.org/abs/2402.00198v2)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
 |**2024-01-31**|**Ljusternik-Schnirelmann eigenvalues for the fractional  $m-$ Laplacian without the  $Δ_2$  condition**|Julian Fernandez Bonder et.al.|[2401.18041v1](http://arxiv.org/abs/2401.18041v1)|null|
 |**2024-01-31**|**Diagnosing the particle transport mechanism in the pulsar halo via X-ray observations**|Qi-Zuo Wu et.al.|[2401.17982v1](http://arxiv.org/abs/2401.17982v1)|null|
@@ -62,7 +62,7 @@
 |**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547v1](http://arxiv.org/abs/2401.17547v1)|null|
 |**2024-01-31**|**Enhancing Score-Based Sampling Methods with Ensembles**|Tobias Bischoff et.al.|[2401.17539v1](http://arxiv.org/abs/2401.17539v1)|null|
 |**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258v1](http://arxiv.org/abs/2401.17258v1)|null|
-|**2024-01-30**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212v1](http://arxiv.org/abs/2401.17212v1)|null|
+|**2024-02-03**|**ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**|Dongjun Gu et.al.|[2401.17212v2](http://arxiv.org/abs/2401.17212v2)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181v1](http://arxiv.org/abs/2401.17181v1)|null|
 |**2024-01-30**|**PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering**|Rong Huang et.al.|[2401.17120v1](http://arxiv.org/abs/2401.17120v1)|null|
 |**2024-01-30**|**Local modification of subdiffusion by initial Fickian diffusion: Multiscale modeling, analysis and computation**|Xiangcheng Zheng et.al.|[2401.16885v1](http://arxiv.org/abs/2401.16885v1)|null|
