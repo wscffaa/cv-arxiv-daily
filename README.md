@@ -43,9 +43,9 @@
 |**2024-02-05**|**Hyper-Diffusion: Estimating Epistemic and Aleatoric Uncertainty with a Single Model**|Matthew A. Chan et.al.|[2402.03478v1](http://arxiv.org/abs/2402.03478v1)|null|
 |**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445v1](http://arxiv.org/abs/2402.03445v1)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|null|
-|**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292v1](http://arxiv.org/abs/2402.03292v1)|null|
+|**2024-02-07**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292v2](http://arxiv.org/abs/2402.03292v2)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290v1](http://arxiv.org/abs/2402.03290v1)|null|
-|**2024-02-05**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214v1](http://arxiv.org/abs/2402.03214v1)|null|
+|**2024-02-06**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214v2](http://arxiv.org/abs/2402.03214v2)|null|
 |**2024-02-05**|**Light and Optimal Schrödinger Bridge Matching**|Nikita Gushchin et.al.|[2402.03207v1](http://arxiv.org/abs/2402.03207v1)|null|
 |**2024-02-05**|**Guidance with Spherical Gaussian Constraint for Conditional Diffusion**|Lingxiao Yang et.al.|[2402.03201v1](http://arxiv.org/abs/2402.03201v1)|null|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162v1](http://arxiv.org/abs/2402.03162v1)|null|
@@ -62,7 +62,7 @@
 |**2024-02-04**|**Latent Graph Diffusion: A Unified Framework for Generation and Prediction on Graphs**|Zhou Cai et.al.|[2402.02518v1](http://arxiv.org/abs/2402.02518v1)|null|
 |**2024-02-04**|**PoCo: Policy Composition from and for Heterogeneous Robot Learning**|Lirui Wang et.al.|[2402.02511v1](http://arxiv.org/abs/2402.02511v1)|null|
 |**2024-02-04**|**PromptRR: Diffusion Models as Prompt Generators for Single Image Reflection Removal**|Tao Wang et.al.|[2402.02374v1](http://arxiv.org/abs/2402.02374v1)|**[link](https://github.com/taowangzj/promptrr)**|
-|**2024-02-04**|**Riemannian Preconditioned LoRA for Fine-Tuning Foundation Models**|Fangzhao Zhang et.al.|[2402.02347v1](http://arxiv.org/abs/2402.02347v1)|**[link](https://github.com/pilancilab/Riemannian_Preconditioned_LoRA)**|
+|**2024-02-07**|**Riemannian Preconditioned LoRA for Fine-Tuning Foundation Models**|Fangzhao Zhang et.al.|[2402.02347v2](http://arxiv.org/abs/2402.02347v2)|**[link](https://github.com/pilancilab/Riemannian_Preconditioned_LoRA)**|
 |**2024-02-04**|**Closed-Loop Unsupervised Representation Disentanglement with  $β$ -VAE Distillation and Diffusion Probabilistic Feedback**|Xin Jin et.al.|[2402.02346v1](http://arxiv.org/abs/2402.02346v1)|null|
 |**2024-02-04**|**Your Diffusion Model is Secretly a Certifiably Robust Classifier**|Huanran Chen et.al.|[2402.02316v1](http://arxiv.org/abs/2402.02316v1)|null|
 |**2024-02-03**|**Improving Diffusion Models for Inverse Problems Using Optimal Posterior Covariance**|Xinyu Peng et.al.|[2402.02149v1](http://arxiv.org/abs/2402.02149v1)|**[link](https://github.com/xypeng9903/k-diffusion-inverse-problems)**|
