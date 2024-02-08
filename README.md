@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098v1](http://arxiv.org/abs/2402.05098v1)|null|
+|**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073v1](http://arxiv.org/abs/2402.05073v1)|null|
+|**2024-02-07**|**LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation**|Jiaxiang Tang et.al.|[2402.05054v1](http://arxiv.org/abs/2402.05054v1)|null|
+|**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997v1](http://arxiv.org/abs/2402.04997v1)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
+|**2024-02-07**|**Blue noise for diffusion models**|Xingchang Huang et.al.|[2402.04930v1](http://arxiv.org/abs/2402.04930v1)|null|
+|**2024-02-07**|**Source-Free Domain Adaptation with Diffusion-Guided Source Data Generation**|Shivang Chopra et.al.|[2402.04929v1](http://arxiv.org/abs/2402.04929v1)|null|
+|**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754v1](http://arxiv.org/abs/2402.04754v1)|null|
+|**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753v1](http://arxiv.org/abs/2402.04753v1)|null|
+|**2024-02-07**|**EvoSeed: Unveiling the Threat on Deep Neural Networks with Real-World Illusions**|Shashank Kotyan et.al.|[2402.04699v1](http://arxiv.org/abs/2402.04699v1)|**[link](https://github.com/shashankkotyan/EvoSeed)**|
+|**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625v1](http://arxiv.org/abs/2402.04625v1)|**[link](https://github.com/hansam95/nmg)**|
+|**2024-02-07**|**BRI3L: A Brightness Illusion Image Dataset for Identification and Localization of Regions of Illusory Perception**|Aniket Roy et.al.|[2402.04541v1](http://arxiv.org/abs/2402.04541v1)|**[link](https://github.com/aniket004/bri3l)**|
+|**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504v1](http://arxiv.org/abs/2402.04504v1)|null|
+|**2024-02-06**|**Fine-Tuned Language Models Generate Stable Inorganic Materials as Text**|Nate Gruver et.al.|[2402.04379v1](http://arxiv.org/abs/2402.04379v1)|**[link](https://github.com/facebookresearch/crystal-llm)**|
+|**2024-02-06**|**Bidirectional Autoregressive Diffusion Model for Dance Generation**|Canyu Zhang et.al.|[2402.04356v1](http://arxiv.org/abs/2402.04356v1)|null|
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v1](http://arxiv.org/abs/2402.04031v1)|**[link](https://github.com/mobaidoctor/polyp-ddpm)**|
 |**2024-02-06**|**Space Group Constrained Crystal Generation**|Rui Jiao et.al.|[2402.03992v1](http://arxiv.org/abs/2402.03992v1)|null|
 |**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981v1](http://arxiv.org/abs/2402.03981v1)|null|
@@ -2959,6 +2973,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068v1](http://arxiv.org/abs/2402.05068v1)|null|
+|**2024-02-07**|**Device Activity Detection and Channel Estimation for Millimeter-Wave Massive MIMO**|Yinchuan Li et.al.|[2402.04704v1](http://arxiv.org/abs/2402.04704v1)|null|
+|**2024-02-06**|**Elastic wave imaging with Maxwell's fish-eye lens**|Liuxian Zhao et.al.|[2402.04285v1](http://arxiv.org/abs/2402.04285v1)|null|
 |**2024-02-06**|**3D Volumetric Super-Resolution in Radiology Using 3D RRDB-GAN**|Juhyung Ha et.al.|[2402.04171v1](http://arxiv.org/abs/2402.04171v1)|null|
 |**2024-02-05**|**Video Super-Resolution for Optimized Bitrate and Green Online Streaming**|Vignesh V Menon et.al.|[2402.03513v1](http://arxiv.org/abs/2402.03513v1)|null|
 |**2024-02-05**|**See More Details: Efficient Image Super-Resolution by Experts Mining**|Eduard Zamfir et.al.|[2402.03412v1](http://arxiv.org/abs/2402.03412v1)|null|
@@ -4510,6 +4527,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**MIRT: a simultaneous reconstruction and affine motion compensation technique for four dimensional computed tomography (4DCT)**|Anh-Tuan Nguyen et.al.|[2402.04480v1](http://arxiv.org/abs/2402.04480v1)|null|
 |**2024-02-06**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097v1](http://arxiv.org/abs/2402.04097v1)|null|
 |**2024-02-05**|**Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks**|Yanbo Wang et.al.|[2402.03124v1](http://arxiv.org/abs/2402.03124v1)|**[link](https://github.com/ybwang119/label_recovery)**|
 |**2024-02-05**|**Knowledge-driven deep learning for fast MR imaging: undersampled MR image reconstruction from supervised to un-supervised learning**|Shanshan Wang et.al.|[2402.02704v1](http://arxiv.org/abs/2402.02704v1)|null|
