@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Chain Reaction of Ideas: Can Radioactive Decay Predict Technological Innovation?**|Guilherme S. Y. Giardini et.al.|[2402.08681v1](http://arxiv.org/abs/2402.08681v1)|null|
+|**2024-02-13**|**Target Score Matching**|Valentin De Bortoli et.al.|[2402.08667v1](http://arxiv.org/abs/2402.08667v1)|null|
+|**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654v1](http://arxiv.org/abs/2402.08654v1)|null|
+|**2024-02-13**|**Denoising Diffusion Restoration Tackles Forward and Inverse Problems for the Laplace Operator**|Amartya Mukherjee et.al.|[2402.08563v1](http://arxiv.org/abs/2402.08563v1)|null|
+|**2024-02-13**|**Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases**|Ziyi Zhang et.al.|[2402.08552v1](http://arxiv.org/abs/2402.08552v1)|null|
+|**2024-02-13**|**A Dense Reward View on Aligning Text-to-Image Diffusion with Preference**|Shentao Yang et.al.|[2402.08265v1](http://arxiv.org/abs/2402.08265v1)|**[link](https://github.com/shentao-yang/dense_reward_t2i)**|
+|**2024-02-13**|**Fine-Tuning Text-To-Image Diffusion Models for Class-Wise Spurious Feature Generation**|AprilPyone MaungMaung et.al.|[2402.08200v1](http://arxiv.org/abs/2402.08200v1)|null|
+|**2024-02-12**|**Convergence Analysis of Discrete Diffusion Model: Exact Implementation through Uniformization**|Hongrui Chen et.al.|[2402.08095v1](http://arxiv.org/abs/2402.08095v1)|null|
+|**2024-02-12**|**Nearest Neighbour Score Estimators for Diffusion Generative Models**|Matthew Niedoba et.al.|[2402.08018v1](http://arxiv.org/abs/2402.08018v1)|null|
 |**2024-02-12**|**Towards a mathematical theory for consistency training in diffusion models**|Gen Li et.al.|[2402.07802v1](http://arxiv.org/abs/2402.07802v1)|null|
 |**2024-02-12**|**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**|Jiacheng Ye et.al.|[2402.07754v1](http://arxiv.org/abs/2402.07754v1)|null|
 |**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694v1](http://arxiv.org/abs/2402.07694v1)|null|
@@ -59,7 +68,7 @@
 |**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235v1](http://arxiv.org/abs/2402.05235v1)|null|
 |**2024-02-09**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210v2](http://arxiv.org/abs/2402.05210v2)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
 |**2024-02-07**|** $λ$ -ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space**|Maitreya Patel et.al.|[2402.05195v1](http://arxiv.org/abs/2402.05195v1)|null|
-|**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098v1](http://arxiv.org/abs/2402.05098v1)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
+|**2024-02-13**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098v2](http://arxiv.org/abs/2402.05098v2)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
 |**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073v1](http://arxiv.org/abs/2402.05073v1)|null|
 |**2024-02-07**|**LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation**|Jiaxiang Tang et.al.|[2402.05054v1](http://arxiv.org/abs/2402.05054v1)|null|
 |**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997v1](http://arxiv.org/abs/2402.04997v1)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
@@ -3031,7 +3040,7 @@
 |**2024-01-29**|**Bridging the Domain Gap: A Simple Domain Matching Method for Reference-based Image Super-Resolution in Remote Sensing**|Jeongho Min et.al.|[2401.15944v1](http://arxiv.org/abs/2401.15944v1)|null|
 |**2024-01-29**|**Vision-Informed Flow Image Super-Resolution with Quaternion Spatial Modeling and Dynamic Flow Convolution**|Qinglong Cao et.al.|[2401.15913v1](http://arxiv.org/abs/2401.15913v1)|null|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613v1](http://arxiv.org/abs/2401.15613v1)|null|
-|**2024-01-31**|**Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models**|Fabio Merizzi et.al.|[2401.15469v2](http://arxiv.org/abs/2401.15469v2)|null|
+|**2024-01-31**|**Wind speed super-resolution and validation: from ERA5 to CERRA via diffusion models**|Fabio Merizzi et.al.|[2401.15469v2](http://arxiv.org/abs/2401.15469v2)|**[link](https://github.com/fmerizzi/era5-to-cerra-via-diffusion-models)**|
 |**2024-01-27**|**Face to Cartoon Incremental Super-Resolution using Knowledge Distillation**|Trinetra Devkatte et.al.|[2401.15366v1](http://arxiv.org/abs/2401.15366v1)|null|
 |**2024-01-26**|**From Blurry to Brilliant Detection: YOLOv5-Based Aerial Object Detection with Super Resolution**|Ragib Amin Nihal et.al.|[2401.14661v1](http://arxiv.org/abs/2401.14661v1)|null|
 |**2024-01-26**|**Super Efficient Neural Network for Compression Artifacts Reduction and Super Resolution**|Wen Ma et.al.|[2401.14641v1](http://arxiv.org/abs/2401.14641v1)|null|
@@ -4604,7 +4613,7 @@
 |**2024-01-04**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707v3](http://arxiv.org/abs/2312.15707v3)|null|
 |**2023-12-25**|**Surface of revolution Radon transforms with centers on generalized surfaces in  $\mathbb{R}^n$ **|James W. Webber et.al.|[2312.15635v1](http://arxiv.org/abs/2312.15635v1)|null|
 |**2023-12-25**|**Neural Born Series Operator for Biomedical Ultrasound Computed Tomography**|Zhijun Zeng et.al.|[2312.15575v1](http://arxiv.org/abs/2312.15575v1)|null|
-|**2023-12-23**|**Completions to Discrete Probability Distributions in Log-linear Models**|May Cai et.al.|[2312.15154v1](http://arxiv.org/abs/2312.15154v1)|null|
+|**2024-02-13**|**Completions to Discrete Probability Distributions in Log-linear Models**|May Cai et.al.|[2312.15154v2](http://arxiv.org/abs/2312.15154v2)|null|
 |**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871v1](http://arxiv.org/abs/2312.14871v1)|null|
 |**2023-12-20**|**SISMIK for brain MRI: Deep-learning-based motion estimation and model-based motion correction in k-space**|Oscar Dabrowski et.al.|[2312.13220v1](http://arxiv.org/abs/2312.13220v1)|null|
 |**2023-12-20**|**Multi-task Learning To Improve Semantic Segmentation Of CBCT Scans Using Image Reconstruction**|Maximilian Ernst Tschuchnig et.al.|[2312.12990v1](http://arxiv.org/abs/2312.12990v1)|null|
@@ -5053,6 +5062,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Color Image Denoising Using The Green Channel Prior**|Zhaoming Kong et.al.|[2402.08235v1](http://arxiv.org/abs/2402.08235v1)|null|
+|**2024-02-13**|**Poisson flow consistency models for low-dose CT image denoising**|Dennis Hein et.al.|[2402.08159v1](http://arxiv.org/abs/2402.08159v1)|null|
 |**2024-01-31**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v2](http://arxiv.org/abs/2401.16468v2)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-29**|**A Ridgelet Approach to Poisson Denoising**|Ali Dadras et.al.|[2401.16099v1](http://arxiv.org/abs/2401.16099v1)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235v1](http://arxiv.org/abs/2401.15235v1)|null|
