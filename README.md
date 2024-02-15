@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|**[link](https://github.com/lancezpf/kefs)**|
+|**2024-02-14**|**Semi-Supervised Diffusion Model for Brain Age Prediction**|Ayodeji Ijishakin et.al.|[2402.09137v1](http://arxiv.org/abs/2402.09137v1)|null|
+|**2024-02-14**|**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**|Yutaro Yamada et.al.|[2402.09052v1](http://arxiv.org/abs/2402.09052v1)|null|
+|**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934v1](http://arxiv.org/abs/2402.08934v1)|**[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)**|
+|**2024-02-14**|**The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing Forward Passes**|Myeongseob Ko et.al.|[2402.08922v1](http://arxiv.org/abs/2402.08922v1)|null|
+|**2024-02-13**|**Percolating transition to turbulence without puffs or bands**|Sébastien Gomé et.al.|[2402.08829v1](http://arxiv.org/abs/2402.08829v1)|null|
+|**2024-02-13**|**LDTrack: Dynamic People Tracking by Service Robots using Diffusion Models**|Angus Fung et.al.|[2402.08774v1](http://arxiv.org/abs/2402.08774v1)|null|
+|**2024-02-13**|**Towards the Detection of AI-Synthesized Human Face Images**|Yuhang Lu et.al.|[2402.08750v1](http://arxiv.org/abs/2402.08750v1)|null|
+|**2024-02-13**|**PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models**|Fei Deng et.al.|[2402.08714v1](http://arxiv.org/abs/2402.08714v1)|null|
+|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708v1](http://arxiv.org/abs/2402.08708v1)|**[link](https://github.com/rokasel/simgen)**|
 |**2024-02-13**|**Chain Reaction of Ideas: Can Radioactive Decay Predict Technological Innovation?**|Guilherme S. Y. Giardini et.al.|[2402.08681v1](http://arxiv.org/abs/2402.08681v1)|null|
 |**2024-02-13**|**Target Score Matching**|Valentin De Bortoli et.al.|[2402.08667v1](http://arxiv.org/abs/2402.08667v1)|null|
 |**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654v1](http://arxiv.org/abs/2402.08654v1)|null|
@@ -42,6 +52,7 @@
 |**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487v1](http://arxiv.org/abs/2402.07487v1)|null|
 |**2024-02-13**|**SALAD: Smart AI Language Assistant Daily**|Ragib Amin Nihal et.al.|[2402.07431v2](http://arxiv.org/abs/2402.07431v2)|null|
 |**2024-02-12**|**Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation**|Tonglong Wei et.al.|[2402.07369v1](http://arxiv.org/abs/2402.07369v1)|null|
+|**2024-02-14**|**Re-DiffiNet: Modeling discrepancies loss in tumor segmentation using diffusion models**|Tianyi Ren et.al.|[2402.07354v2](http://arxiv.org/abs/2402.07354v2)|null|
 |**2024-02-11**|**Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL**|Sungyoon Kim et.al.|[2402.07226v1](http://arxiv.org/abs/2402.07226v1)|**[link](https://github.com/rlatjddbs/ssd)**|
 |**2024-02-13**|**Towards Fast Stochastic Sampling in Diffusion Generative Models**|Kushagra Pandey et.al.|[2402.07211v2](http://arxiv.org/abs/2402.07211v2)|null|
 |**2024-02-10**|**Synthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models**|Ayman Abaid et.al.|[2402.06969v1](http://arxiv.org/abs/2402.06969v1)|null|
@@ -3015,6 +3026,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Neural Operators Meet Energy-based Theory: Operator Learning for Hamiltonian and Dissipative PDEs**|Yusuke Tanaka et.al.|[2402.09018v1](http://arxiv.org/abs/2402.09018v1)|null|
 |**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694v1](http://arxiv.org/abs/2402.07694v1)|null|
 |**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597v1](http://arxiv.org/abs/2402.07597v1)|null|
 |**2024-02-12**|**High-resolution Cryogenic Spectroscopy of Single Molecules in Nanoprinted Crystals**|Mohammad Musavinezhad et.al.|[2402.07474v1](http://arxiv.org/abs/2402.07474v1)|null|
@@ -4277,9 +4289,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101v1](http://arxiv.org/abs/2402.09101v1)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854v1](http://arxiv.org/abs/2402.06854v1)|**[link](https://github.com/lsmlovefm/GAMD-Net)**|
 |**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350v1](http://arxiv.org/abs/2402.05350v1)|null|
-|**2024-02-08**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139v2](http://arxiv.org/abs/2402.04139v2)|**[link](https://github.com/zzr-idam/uvm-net)**|
+|**2024-02-14**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139v3](http://arxiv.org/abs/2402.04139v3)|**[link](https://github.com/zzr-idam/uvm-net)**|
 |**2024-02-08**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097v2](http://arxiv.org/abs/2402.04097v2)|null|
 |**2024-02-05**|**Rethinking RGB Color Representation for Image Restoration Models**|Jaerin Lee et.al.|[2402.03399v1](http://arxiv.org/abs/2402.03399v1)|null|
 |**2024-02-05**|**Knowledge-driven deep learning for fast MR imaging: undersampled MR image reconstruction from supervised to un-supervised learning**|Shanshan Wang et.al.|[2402.02704v1](http://arxiv.org/abs/2402.02704v1)|null|
