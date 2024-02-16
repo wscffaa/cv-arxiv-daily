@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095v1](http://arxiv.org/abs/2402.10095v1)|null|
+|**2024-02-15**|**Diffusion Models Meet Contextual Bandits with Large Action Spaces**|Imad Aouali et.al.|[2402.10028v1](http://arxiv.org/abs/2402.10028v1)|null|
+|**2024-02-15**|**Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**|Hila Manor et.al.|[2402.10009v1](http://arxiv.org/abs/2402.10009v1)|null|
+|**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970v1](http://arxiv.org/abs/2402.09970v1)|null|
+|**2024-02-15**|**Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation**|Junjie Shentu et.al.|[2402.09966v1](http://arxiv.org/abs/2402.09966v1)|**[link](https://github.com/junjie-shentu/textual-localization)**|
+|**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883v1](http://arxiv.org/abs/2402.09883v1)|**[link](https://github.com/rtous/lester)**|
+|**2024-02-15**|**Diffusion Models for Audio Restoration**|Jean-Marie Lemercier et.al.|[2402.09821v1](http://arxiv.org/abs/2402.09821v1)|null|
+|**2024-02-15**|**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization**|Jisu Nam et.al.|[2402.09812v1](http://arxiv.org/abs/2402.09812v1)|null|
+|**2024-02-15**|**Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement**|Tao Yang et.al.|[2402.09712v1](http://arxiv.org/abs/2402.09712v1)|null|
+|**2024-02-12**|**Rolling Diffusion Models**|David Ruhe et.al.|[2402.09470v1](http://arxiv.org/abs/2402.09470v1)|null|
 |**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|**[link](https://github.com/lancezpf/kefs)**|
 |**2024-02-14**|**Semi-Supervised Diffusion Model for Brain Age Prediction**|Ayodeji Ijishakin et.al.|[2402.09137v1](http://arxiv.org/abs/2402.09137v1)|null|
 |**2024-02-14**|**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**|Yutaro Yamada et.al.|[2402.09052v1](http://arxiv.org/abs/2402.09052v1)|null|
@@ -3026,6 +3039,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Multi-Center Fetal Brain Tissue Annotation (FeTA) Challenge 2022 Results**|Kelly Payette et.al.|[2402.09463v1](http://arxiv.org/abs/2402.09463v1)|null|
 |**2024-02-14**|**Neural Operators Meet Energy-based Theory: Operator Learning for Hamiltonian and Dissipative PDEs**|Yusuke Tanaka et.al.|[2402.09018v1](http://arxiv.org/abs/2402.09018v1)|null|
 |**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694v1](http://arxiv.org/abs/2402.07694v1)|null|
 |**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597v1](http://arxiv.org/abs/2402.07597v1)|null|
@@ -4590,6 +4604,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement**|Tao Yang et.al.|[2402.09712v1](http://arxiv.org/abs/2402.09712v1)|null|
 |**2024-02-12**|**Compressive Recovery of Signals Defined on Perturbed Graphs**|Sabyasachi Ghosh et.al.|[2402.07637v1](http://arxiv.org/abs/2402.07637v1)|null|
 |**2024-02-08**|**HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image Translation**|Hrishav Bakul Barua et.al.|[2402.06692v1](http://arxiv.org/abs/2402.06692v1)|null|
 |**2024-02-08**|**Memory-efficient deep end-to-end posterior network (DEEPEN) for inverse problems**|Jyothi Rikhab Chand et.al.|[2402.05422v1](http://arxiv.org/abs/2402.05422v1)|null|
