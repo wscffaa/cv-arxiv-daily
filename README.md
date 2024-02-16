@@ -39,7 +39,7 @@
 |**2024-02-13**|**Chain Reaction of Ideas: Can Radioactive Decay Predict Technological Innovation?**|Guilherme S. Y. Giardini et.al.|[2402.08681v1](http://arxiv.org/abs/2402.08681v1)|null|
 |**2024-02-13**|**Target Score Matching**|Valentin De Bortoli et.al.|[2402.08667v1](http://arxiv.org/abs/2402.08667v1)|null|
 |**2024-02-13**|**Learning Continuous 3D Words for Text-to-Image Generation**|Ta-Ying Cheng et.al.|[2402.08654v1](http://arxiv.org/abs/2402.08654v1)|null|
-|**2024-02-13**|**Denoising Diffusion Restoration Tackles Forward and Inverse Problems for the Laplace Operator**|Amartya Mukherjee et.al.|[2402.08563v1](http://arxiv.org/abs/2402.08563v1)|null|
+|**2024-02-14**|**Denoising Diffusion Restoration Tackles Forward and Inverse Problems for the Laplace Operator**|Amartya Mukherjee et.al.|[2402.08563v2](http://arxiv.org/abs/2402.08563v2)|null|
 |**2024-02-13**|**Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases**|Ziyi Zhang et.al.|[2402.08552v1](http://arxiv.org/abs/2402.08552v1)|null|
 |**2024-02-13**|**A Dense Reward View on Aligning Text-to-Image Diffusion with Preference**|Shentao Yang et.al.|[2402.08265v1](http://arxiv.org/abs/2402.08265v1)|**[link](https://github.com/shentao-yang/dense_reward_t2i)**|
 |**2024-02-13**|**Fine-Tuning Text-To-Image Diffusion Models for Class-Wise Spurious Feature Generation**|AprilPyone MaungMaung et.al.|[2402.08200v1](http://arxiv.org/abs/2402.08200v1)|null|
@@ -52,7 +52,7 @@
 |**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487v1](http://arxiv.org/abs/2402.07487v1)|null|
 |**2024-02-13**|**SALAD: Smart AI Language Assistant Daily**|Ragib Amin Nihal et.al.|[2402.07431v2](http://arxiv.org/abs/2402.07431v2)|null|
 |**2024-02-12**|**Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation**|Tonglong Wei et.al.|[2402.07369v1](http://arxiv.org/abs/2402.07369v1)|null|
-|**2024-02-14**|**Re-DiffiNet: Modeling discrepancies loss in tumor segmentation using diffusion models**|Tianyi Ren et.al.|[2402.07354v2](http://arxiv.org/abs/2402.07354v2)|null|
+|**2024-02-15**|**Re-DiffiNet: Modeling discrepancies loss in tumor segmentation using diffusion models**|Tianyi Ren et.al.|[2402.07354v3](http://arxiv.org/abs/2402.07354v3)|null|
 |**2024-02-11**|**Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL**|Sungyoon Kim et.al.|[2402.07226v1](http://arxiv.org/abs/2402.07226v1)|**[link](https://github.com/rlatjddbs/ssd)**|
 |**2024-02-13**|**Towards Fast Stochastic Sampling in Diffusion Generative Models**|Kushagra Pandey et.al.|[2402.07211v2](http://arxiv.org/abs/2402.07211v2)|null|
 |**2024-02-10**|**Synthesizing CTA Image Data for Type-B Aortic Dissection using Stable Diffusion Models**|Ayman Abaid et.al.|[2402.06969v1](http://arxiv.org/abs/2402.06969v1)|null|
@@ -60,7 +60,7 @@
 |**2024-02-08**|**Social Physics Informed Diffusion Model for Crowd Simulation**|Hongyi Chen et.al.|[2402.06680v1](http://arxiv.org/abs/2402.06680v1)|**[link](https://github.com/tsinghua-fib-lab/spdiff)**|
 |**2024-02-06**|**Weather Prediction with Diffusion Guided by Realistic Forecast Processes**|Zhanxiang Hua et.al.|[2402.06666v1](http://arxiv.org/abs/2402.06666v1)|null|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559v1](http://arxiv.org/abs/2402.06559v1)|null|
-|**2024-02-09**|**Sequential Flow Matching for Generative Modeling**|Jongmin Yoon et.al.|[2402.06461v1](http://arxiv.org/abs/2402.06461v1)|null|
+|**2024-02-15**|**Sequential Flow Straightening for Generative Modeling**|Jongmin Yoon et.al.|[2402.06461v2](http://arxiv.org/abs/2402.06461v2)|null|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446v1](http://arxiv.org/abs/2402.06446v1)|null|
 |**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436v1](http://arxiv.org/abs/2402.06436v1)|null|
 |**2024-02-09**|**Particle Denoising Diffusion Sampler**|Angus Phillips et.al.|[2402.06320v1](http://arxiv.org/abs/2402.06320v1)|**[link](https://github.com/angusphillips/particle_denoising_diffusion_sampler)**|
