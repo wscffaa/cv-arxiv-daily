@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**3D Diffuser Actor: Policy Diffusion with 3D Scene Representations**|Tsung-Wei Ke et.al.|[2402.10885v1](http://arxiv.org/abs/2402.10885v1)|null|
+|**2024-02-16**|**Training Class-Imbalanced Diffusion Model Via Overlap Optimization**|Divin Yan et.al.|[2402.10821v1](http://arxiv.org/abs/2402.10821v1)|**[link](https://github.com/yanliang3612/diffrop)**|
+|**2024-02-16**|**VATr++: Choose Your Words Wisely for Handwritten Text Generation**|Bram Vanherle et.al.|[2402.10798v1](http://arxiv.org/abs/2402.10798v1)|null|
+|**2024-02-16**|**Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation**|Hongbin Na et.al.|[2402.10699v1](http://arxiv.org/abs/2402.10699v1)|null|
+|**2024-02-16**|**Generative AI and Attentive User Interfaces: Five Strategies to Enhance Take-Over Quality in Automated Driving**|Patrick Ebel et.al.|[2402.10664v1](http://arxiv.org/abs/2402.10664v1)|null|
+|**2024-02-16**|**Speaking in Wavelet Domain: A Simple and Efficient Approach to Speed up Speech Diffusion Model**|Xiangyu Zhang et.al.|[2402.10642v1](http://arxiv.org/abs/2402.10642v1)|null|
+|**2024-02-16**|**U $^2$ MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model**|Ziqi Gao et.al.|[2402.10609v1](http://arxiv.org/abs/2402.10609v1)|null|
+|**2024-02-16**|**A maximum likelihood estimation of Lévy-driven stochastic systems for univariate and multivariate time series of observations**|Babak M. S. Arani et.al.|[2402.10608v1](http://arxiv.org/abs/2402.10608v1)|null|
+|**2024-02-16**|**Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation**|Lanqing Guo et.al.|[2402.10491v1](http://arxiv.org/abs/2402.10491v1)|null|
+|**2024-02-16**|**Explaining generative diffusion models via visual analysis for interpretable decision-making process**|Ji-Hoon Park et.al.|[2402.10404v1](http://arxiv.org/abs/2402.10404v1)|null|
+|**2024-02-15**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259v1](http://arxiv.org/abs/2402.10259v1)|null|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210v1](http://arxiv.org/abs/2402.10210v1)|null|
 |**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207v1](http://arxiv.org/abs/2402.10207v1)|null|
 |**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
@@ -3039,6 +3050,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Optimizing Skin Lesion Classification via Multimodal Data and Auxiliary Task Integration**|Mahapara Khurshid et.al.|[2402.10454v1](http://arxiv.org/abs/2402.10454v1)|null|
 |**2024-02-08**|**Multi-Center Fetal Brain Tissue Annotation (FeTA) Challenge 2022 Results**|Kelly Payette et.al.|[2402.09463v1](http://arxiv.org/abs/2402.09463v1)|null|
 |**2024-02-14**|**Neural Operators Meet Energy-based Theory: Operator Learning for Hamiltonian and Dissipative PDEs**|Yusuke Tanaka et.al.|[2402.09018v1](http://arxiv.org/abs/2402.09018v1)|null|
 |**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694v1](http://arxiv.org/abs/2402.07694v1)|null|
@@ -4165,6 +4177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Control Color: Multimodal Diffusion-based Interactive Image Colorization**|Zhexin Liang et.al.|[2402.10855v1](http://arxiv.org/abs/2402.10855v1)|null|
 |**2024-01-24**|**Audio-Infused Automatic Image Colorization by Exploiting Audio Scene Semantics**|Pengcheng Zhao et.al.|[2401.13270v1](http://arxiv.org/abs/2401.13270v1)|null|
 |**2024-01-21**|**Grayscale Image Colorization with GAN and CycleGAN in Different Image Domain**|Chen Liang et.al.|[2401.11425v1](http://arxiv.org/abs/2401.11425v1)|null|
 |**2024-01-08**|**Color- $S^{4}L$ : Self-supervised Semi-supervised Learning with Image Colorization**|Hanxiao Chen et.al.|[2401.03753v1](http://arxiv.org/abs/2401.03753v1)|null|
@@ -4604,6 +4617,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**GAN-driven Electromagnetic Imaging of 2-D Dielectric Scatterers**|Ehtasham Naseer et.al.|[2402.10831v1](http://arxiv.org/abs/2402.10831v1)|null|
 |**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204v1](http://arxiv.org/abs/2402.10204v1)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
 |**2024-02-15**|**Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement**|Tao Yang et.al.|[2402.09712v1](http://arxiv.org/abs/2402.09712v1)|null|
 |**2024-02-16**|**Compressive Recovery of Signals Defined on Perturbed Graphs**|Sabyasachi Ghosh et.al.|[2402.07637v2](http://arxiv.org/abs/2402.07637v2)|null|
