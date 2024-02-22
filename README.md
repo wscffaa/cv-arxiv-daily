@@ -26,9 +26,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Non-asymptotic Convergence of Discrete-time Diffusion Models: New Approach and Improved Rate**|Yuchen Liang et.al.|[2402.13901v1](http://arxiv.org/abs/2402.13901v1)|null|
+|**2024-02-21**|**NeuralDiffuser: Controllable fMRI Reconstruction with Primary Visual Feature Guided Diffusion**|Haoyu Li et.al.|[2402.13809v1](http://arxiv.org/abs/2402.13809v1)|null|
+|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v1](http://arxiv.org/abs/2402.13777v1)|null|
+|**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
+|**2024-02-21**|**Music Style Transfer with Time-Varying Inversion of Diffusion Models**|Sifei Li et.al.|[2402.13763v1](http://arxiv.org/abs/2402.13763v1)|null|
+|**2024-02-21**|**SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model**|Xudong Ling et.al.|[2402.13737v1](http://arxiv.org/abs/2402.13737v1)|null|
+|**2024-02-21**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729v1](http://arxiv.org/abs/2402.13729v1)|null|
+|**2024-02-21**|**Flexible Physical Camouflage Generation Based on a Differential Approach**|Yang Li et.al.|[2402.13575v1](http://arxiv.org/abs/2402.13575v1)|null|
+|**2024-02-21**|**ToDo: Token Downsampling for Efficient Generation of High-Resolution Images**|Ethan Smith et.al.|[2402.13573v1](http://arxiv.org/abs/2402.13573v1)|null|
+|**2024-02-21**|**Generative AI for Secure Physical Layer Communications: A Survey**|Changyuan Zhao et.al.|[2402.13553v1](http://arxiv.org/abs/2402.13553v1)|null|
+|**2024-02-21**|**DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load**|Siyang Li et.al.|[2402.13548v1](http://arxiv.org/abs/2402.13548v1)|**[link](https://github.com/LSY-Cython/DiffPLF)**|
+|**2024-02-21**|**Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models**|Chen Wu et.al.|[2402.13490v1](http://arxiv.org/abs/2402.13490v1)|null|
+|**2024-02-20**|**Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control**|Denis Lukovnikov et.al.|[2402.13404v1](http://arxiv.org/abs/2402.13404v1)|null|
+|**2024-02-20**|**The Uncanny Valley: A Comprehensive Analysis of Diffusion Models**|Karam Ghanem et.al.|[2402.13369v1](http://arxiv.org/abs/2402.13369v1)|null|
 |**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144v1](http://arxiv.org/abs/2402.13144v1)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
 |**2024-02-20**|**Text-Guided Molecule Generation with Diffusion Language Model**|Haisong Gong et.al.|[2402.13040v1](http://arxiv.org/abs/2402.13040v1)|**[link](https://github.com/deno-v/tgm-dlm)**|
-|**2024-02-20**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974v1](http://arxiv.org/abs/2402.12974v1)|null|
+|**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974v2](http://arxiv.org/abs/2402.12974v2)|null|
 |**2024-02-20**|**CLIPping the Deception: Adapting Vision-Language Models for Universal Deepfake Detection**|Sohail Ahmed Khan et.al.|[2402.12927v1](http://arxiv.org/abs/2402.12927v1)|null|
 |**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908v1](http://arxiv.org/abs/2402.12908v1)|**[link](https://github.com/yangling0818/realcompo)**|
 |**2024-02-20**|**Two-stage Rainfall-Forecasting Diffusion Model**|XuDong Ling et.al.|[2402.12779v1](http://arxiv.org/abs/2402.12779v1)|**[link](https://github.com/clearlyzerolxd/trdm)**|
@@ -3084,6 +3098,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v1](http://arxiv.org/abs/2402.13876v1)|null|
+|**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
 |**2024-02-20**|**Diffusion Posterior Sampling is Computationally Intractable**|Shivam Gupta et.al.|[2402.12727v1](http://arxiv.org/abs/2402.12727v1)|null|
 |**2024-02-19**|**Image Super-resolution Inspired Electron Density Prediction**|Chenghan Li et.al.|[2402.12335v1](http://arxiv.org/abs/2402.12335v1)|null|
 |**2024-02-19**|**Regularization by denoising: Bayesian model and Langevin-within-split Gibbs sampling**|Elhadji C. Faye et.al.|[2402.12292v1](http://arxiv.org/abs/2402.12292v1)|null|
@@ -4358,6 +4374,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629v1](http://arxiv.org/abs/2402.13629v1)|null|
 |**2024-02-14**|**DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping**|Shiqi Yang et.al.|[2402.09101v1](http://arxiv.org/abs/2402.09101v1)|null|
 |**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854v1](http://arxiv.org/abs/2402.06854v1)|**[link](https://github.com/lsmlovefm/GAMD-Net)**|
 |**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350v1](http://arxiv.org/abs/2402.05350v1)|null|
@@ -4370,7 +4387,7 @@
 |**2024-02-02**|**LIR: Efficient Degradation Removal for Lightweight Image Restoration**|Dongqi Fan et.al.|[2402.01368v1](http://arxiv.org/abs/2402.01368v1)|**[link](https://github.com/dongqi-fan/lir)**|
 |**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629v1](http://arxiv.org/abs/2401.17629v1)|null|
 |**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547v1](http://arxiv.org/abs/2401.17547v1)|null|
-|**2024-01-31**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v2](http://arxiv.org/abs/2401.16468v2)|**[link](https://github.com/mv-lab/InstructIR)**|
+|**2024-02-21**|**InstructIR: High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v3](http://arxiv.org/abs/2401.16468v3)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647v1](http://arxiv.org/abs/2401.15647v1)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235v1](http://arxiv.org/abs/2401.15235v1)|null|
 |**2024-01-24**|**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild**|Fanghua Yu et.al.|[2401.13627v1](http://arxiv.org/abs/2401.13627v1)|null|
@@ -5150,10 +5167,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**RFI-DRUnet: Restoring dynamic spectra corrupted by radio frequency interference -- Application to pulsar observations**|Xiao Zhang et.al.|[2402.13867v1](http://arxiv.org/abs/2402.13867v1)|null|
+|**2024-02-21**|**A unified framework of non-local parametric methods for image denoising**|Sébastien Herbreteau et.al.|[2402.13816v1](http://arxiv.org/abs/2402.13816v1)|null|
 |**2024-02-18**|**Quantum Image Denoising with Machine Learning: A Novel Approach to Improve Quantum Image Processing Quality and Reliability**|Yew Kee Wonga et.al.|[2402.11645v1](http://arxiv.org/abs/2402.11645v1)|null|
 |**2024-02-13**|**Color Image Denoising Using The Green Channel Prior**|Zhaoming Kong et.al.|[2402.08235v1](http://arxiv.org/abs/2402.08235v1)|null|
 |**2024-02-13**|**Poisson flow consistency models for low-dose CT image denoising**|Dennis Hein et.al.|[2402.08159v1](http://arxiv.org/abs/2402.08159v1)|null|
-|**2024-01-31**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v2](http://arxiv.org/abs/2401.16468v2)|**[link](https://github.com/mv-lab/InstructIR)**|
+|**2024-02-21**|**InstructIR: High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468v3](http://arxiv.org/abs/2401.16468v3)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-29**|**A Ridgelet Approach to Poisson Denoising**|Ali Dadras et.al.|[2401.16099v1](http://arxiv.org/abs/2401.16099v1)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235v1](http://arxiv.org/abs/2401.15235v1)|null|
 |**2024-01-26**|**Masked Pre-trained Model Enables Universal Zero-shot Denoiser**|Xiaoxiao Ma et.al.|[2401.14966v1](http://arxiv.org/abs/2401.14966v1)|**[link](https://github.com/krennic999/mpi)**|
@@ -5540,6 +5559,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Music Style Transfer with Time-Varying Inversion of Diffusion Models**|Sifei Li et.al.|[2402.13763v1](http://arxiv.org/abs/2402.13763v1)|null|
+|**2024-02-21**|**Unsupervised Text Style Transfer via LLMs and Attention Masking with Multi-way Interactions**|Lei Pan et.al.|[2402.13647v1](http://arxiv.org/abs/2402.13647v1)|null|
 |**2024-02-19**|**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**|Yihua Zhang et.al.|[2402.11846v1](http://arxiv.org/abs/2402.11846v1)|null|
 |**2024-02-18**|**MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning for Discrete Prompt Optimization**|Yasaman Jafari et.al.|[2402.11711v1](http://arxiv.org/abs/2402.11711v1)|null|
 |**2024-02-12**|**Text Detoxification as Style Transfer in English and Hindi**|Sourabrata Mukherjee et.al.|[2402.07767v1](http://arxiv.org/abs/2402.07767v1)|null|
