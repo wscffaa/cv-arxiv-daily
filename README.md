@@ -28,7 +28,7 @@
 |---|---|---|---|---|
 |**2024-02-21**|**Non-asymptotic Convergence of Discrete-time Diffusion Models: New Approach and Improved Rate**|Yuchen Liang et.al.|[2402.13901v1](http://arxiv.org/abs/2402.13901v1)|null|
 |**2024-02-21**|**NeuralDiffuser: Controllable fMRI Reconstruction with Primary Visual Feature Guided Diffusion**|Haoyu Li et.al.|[2402.13809v1](http://arxiv.org/abs/2402.13809v1)|null|
-|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v1](http://arxiv.org/abs/2402.13777v1)|null|
+|**2024-02-22**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v2](http://arxiv.org/abs/2402.13777v2)|null|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
 |**2024-02-21**|**Music Style Transfer with Time-Varying Inversion of Diffusion Models**|Sifei Li et.al.|[2402.13763v1](http://arxiv.org/abs/2402.13763v1)|null|
 |**2024-02-21**|**SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model**|Xudong Ling et.al.|[2402.13737v1](http://arxiv.org/abs/2402.13737v1)|null|
@@ -3877,7 +3877,7 @@
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877v1](http://arxiv.org/abs/2401.00877v1)|**[link](https://github.com/csslc/ccsr)**|
 |**2024-01-01**|**Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2401.00740v1](http://arxiv.org/abs/2401.00740v1)|null|
 |**2024-02-06**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v2](http://arxiv.org/abs/2401.00736v2)|null|
-|**2023-12-31**|**Compressing Deep Image Super-resolution Models**|Yuxuan Jiang et.al.|[2401.00523v1](http://arxiv.org/abs/2401.00523v1)|null|
+|**2024-02-21**|**Compressing Deep Image Super-resolution Models**|Yuxuan Jiang et.al.|[2401.00523v2](http://arxiv.org/abs/2401.00523v2)|null|
 |**2024-01-16**|**Image Super-resolution Reconstruction Network based on Enhanced Swin Transformer via Alternating Aggregation of Local-Global Features**|Yuming Huang et.al.|[2401.00241v2](http://arxiv.org/abs/2401.00241v2)|null|
 |**2023-12-29**|**Noise-free Optimization in Early Training Steps for Image Super-Resolution**|MinKyu Lee et.al.|[2312.17526v1](http://arxiv.org/abs/2312.17526v1)|**[link](https://github.com/2minkyulee/eco)**|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
