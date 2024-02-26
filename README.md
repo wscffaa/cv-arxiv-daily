@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504v1](http://arxiv.org/abs/2402.15504v1)|**[link](https://github.com/louisYen/Gen4Gen)**|
+|**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429v1](http://arxiv.org/abs/2402.15429v1)|**[link](https://github.com/wellzline/protip)**|
+|**2024-02-23**|**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**|Shunyu Liu et.al.|[2402.15289v1](http://arxiv.org/abs/2402.15289v1)|**[link](https://github.com/qlb6x/diffusionabsa)**|
+|**2024-02-23**|**Weak Reproductive Solutions for a Convection-Diffusion Model Describing a Binary Alloy Solidification Processes**|Blanca Climent-Ezquerra et.al.|[2402.15221v1](http://arxiv.org/abs/2402.15221v1)|null|
+|**2024-02-23**|**Label-efficient Multi-organ Segmentation Method with Diffusion Model**|Yongzhi Huang et.al.|[2402.15216v1](http://arxiv.org/abs/2402.15216v1)|null|
+|**2024-02-23**|**Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**|Masatoshi Uehara et.al.|[2402.15194v1](http://arxiv.org/abs/2402.15194v1)|null|
+|**2024-02-23**|**Dynamics-Guided Diffusion Model for Robot Manipulator Design**|Xiaomeng Xu et.al.|[2402.15038v1](http://arxiv.org/abs/2402.15038v1)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817v1](http://arxiv.org/abs/2402.14817v1)|null|
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780v1](http://arxiv.org/abs/2402.14780v1)|null|
 |**2024-02-22**|**Debiasing Text-to-Image Diffusion Models**|Ruifei He et.al.|[2402.14577v1](http://arxiv.org/abs/2402.14577v1)|null|
@@ -3109,6 +3116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Towards complete all-optical emission control of high-harmonic generation from solids**|Pieter J. van Essen et.al.|[2402.15375v1](http://arxiv.org/abs/2402.15375v1)|null|
 |**2024-02-21**|**Generative Adversarial Models for Extreme Downscaling of Climate Datasets**|Guiye Li et.al.|[2402.14049v1](http://arxiv.org/abs/2402.14049v1)|null|
 |**2024-02-23**|**Scene Prior Filtering for Depth Map Super-Resolution**|Zhengxue Wang et.al.|[2402.13876v2](http://arxiv.org/abs/2402.13876v2)|null|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
@@ -5180,6 +5188,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey**|Sébastien Herbreteau et.al.|[2402.15352v1](http://arxiv.org/abs/2402.15352v1)|null|
 |**2024-02-21**|**RFI-DRUnet: Restoring dynamic spectra corrupted by radio frequency interference -- Application to pulsar observations**|Xiao Zhang et.al.|[2402.13867v1](http://arxiv.org/abs/2402.13867v1)|null|
 |**2024-02-21**|**A unified framework of non-local parametric methods for image denoising**|Sébastien Herbreteau et.al.|[2402.13816v1](http://arxiv.org/abs/2402.13816v1)|null|
 |**2024-02-18**|**Quantum Image Denoising with Machine Learning: A Novel Approach to Improve Quantum Image Processing Quality and Reliability**|Yew Kee Wonga et.al.|[2402.11645v1](http://arxiv.org/abs/2402.11645v1)|null|
@@ -5573,6 +5582,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Counterfactual Generation with Identifiability Guarantees**|Hanqi Yan et.al.|[2402.15309v1](http://arxiv.org/abs/2402.15309v1)|**[link](https://github.com/hanqi-qi/matte)**|
+|**2024-02-23**|**A Survey of Music Generation in the Context of Interaction**|Ismael Agchar et.al.|[2402.15294v1](http://arxiv.org/abs/2402.15294v1)|null|
 |**2024-02-21**|**Music Style Transfer with Time-Varying Inversion of Diffusion Models**|Sifei Li et.al.|[2402.13763v1](http://arxiv.org/abs/2402.13763v1)|null|
 |**2024-02-21**|**Unsupervised Text Style Transfer via LLMs and Attention Masking with Multi-way Interactions**|Lei Pan et.al.|[2402.13647v1](http://arxiv.org/abs/2402.13647v1)|null|
 |**2024-02-19**|**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**|Yihua Zhang et.al.|[2402.11846v1](http://arxiv.org/abs/2402.11846v1)|**[link](https://github.com/optml-group/unlearncanvas)**|
