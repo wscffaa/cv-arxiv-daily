@@ -51,7 +51,7 @@
 |**2024-02-28**|**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**|Yanzuo Lu et.al.|[2402.18078v1](http://arxiv.org/abs/2402.18078v1)|**[link](https://github.com/YanzuoLu/CFLD)**|
 |**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068v1](http://arxiv.org/abs/2402.18068v1)|null|
 |**2024-02-28**|**Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints**|Lingkai Kong et.al.|[2402.18012v1](http://arxiv.org/abs/2402.18012v1)|null|
-|**2024-02-28**|**Imagine, Initialize, and Explore: An Effective Exploration Method in Multi-Agent Reinforcement Learning**|Zeyang Liu et.al.|[2402.17978v1](http://arxiv.org/abs/2402.17978v1)|null|
+|**2024-03-01**|**Imagine, Initialize, and Explore: An Effective Exploration Method in Multi-Agent Reinforcement Learning**|Zeyang Liu et.al.|[2402.17978v2](http://arxiv.org/abs/2402.17978v2)|null|
 |**2024-02-27**|**Box It to Bind It: Unified Layout Control and Attribute Binding in T2I Diffusion Models**|Ashkan Taghipour et.al.|[2402.17910v1](http://arxiv.org/abs/2402.17910v1)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|null|
 |**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563v1](http://arxiv.org/abs/2402.17563v1)|null|
@@ -5542,7 +5542,7 @@
 |**2024-01-30**|**Krasnoselskii-Mann Iterations: Inertia, Perturbations and Approximation**|Daniel Cortild et.al.|[2401.16870v1](http://arxiv.org/abs/2401.16870v1)|null|
 |**2024-02-02**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832v2](http://arxiv.org/abs/2401.14832v2)|**[link](https://github.com/blackprotoss/gsdm)**|
 |**2024-01-16**|**Inpainting Normal Maps for Lightstage data**|Hancheng Zuo et.al.|[2401.08099v1](http://arxiv.org/abs/2401.08099v1)|null|
-|**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
+|**2024-03-01**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v4](http://arxiv.org/abs/2401.06637v4)|null|
 |**2024-01-07**|**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**|Haonan Wang et.al.|[2401.04136v1](http://arxiv.org/abs/2401.04136v1)|null|
 |**2023-11-28**|**Image Inpainting via Tractable Steering of Diffusion Models**|Anji Liu et.al.|[2401.03349v1](http://arxiv.org/abs/2401.03349v1)|null|
 |**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015v1](http://arxiv.org/abs/2401.02015v1)|null|
