@@ -55,11 +55,11 @@
 |**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084v1](http://arxiv.org/abs/2403.02084v1)|**[link](https://github.com/bytedance/res-adapter)**|
 |**2024-03-04**|**FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio**|Chao Xu et.al.|[2403.01901v1](http://arxiv.org/abs/2403.01901v1)|**[link](https://github.com/modelscope/facechain)**|
 |**2024-03-04**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807v1](http://arxiv.org/abs/2403.01807v1)|**[link](https://github.com/facebookresearch/viewdiff)**|
-|**2024-03-04**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v1](http://arxiv.org/abs/2403.01779v1)|**[link](https://github.com/levihsu/ootdiffusion)**|
+|**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779v2](http://arxiv.org/abs/2403.01779v2)|**[link](https://github.com/levihsu/ootdiffusion)**|
 |**2024-03-04**|**Differentially Private Synthetic Data via Foundation Model APIs 2: Text**|Chulin Xie et.al.|[2403.01749v1](http://arxiv.org/abs/2403.01749v1)|**[link](https://github.com/ai-secure/aug-pe)**|
 |**2024-03-04**|**Soft-constrained Schrodinger Bridge: a Stochastic Control Approach**|Jhanvi Garg et.al.|[2403.01717v1](http://arxiv.org/abs/2403.01717v1)|null|
 |**2024-03-04**|**HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances**|Supreeth Narasimhaswamy et.al.|[2403.01693v1](http://arxiv.org/abs/2403.01693v1)|null|
-|**2024-03-06**|**Reaction-diffusion models of biological invasion: Open source computational tools, key concepts and analysis**|Matthew J Simpson et.al.|[2403.01667v3](http://arxiv.org/abs/2403.01667v3)|null|
+|**2024-03-07**|**Reaction-diffusion models of biological invasion: Open source computational tools, key concepts and analysis**|Matthew J Simpson et.al.|[2403.01667v4](http://arxiv.org/abs/2403.01667v4)|null|
 |**2024-03-03**|**Theoretical Insights for Diffusion Guidance: A Case Study for Gaussian Mixture Models**|Yuchen Wu et.al.|[2403.01639v1](http://arxiv.org/abs/2403.01639v1)|null|
 |**2024-03-03**|**Critical windows: non-asymptotic theory for feature emergence in diffusion models**|Marvin Li et.al.|[2403.01633v1](http://arxiv.org/abs/2403.01633v1)|null|
 |**2024-03-03**|**Neural Graph Generator: Feature-Conditioned Graph Generation using Latent Diffusion Models**|Iakovos Evdaimon et.al.|[2403.01535v1](http://arxiv.org/abs/2403.01535v1)|**[link](https://github.com/iakovosevdaimon/Neural-Graph-Generator)**|
@@ -3234,7 +3234,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-06**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821v1](http://arxiv.org/abs/2403.03821v1)|null|
+|**2024-03-07**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821v2](http://arxiv.org/abs/2403.03821v2)|null|
 |**2024-03-05**|**Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning**|Haoyu Chen et.al.|[2403.02601v1](http://arxiv.org/abs/2403.02601v1)|null|
 |**2024-03-04**|**UB-FineNet: Urban Building Fine-grained Classification Network for Open-access Satellite Images**|Zhiyi He et.al.|[2403.02132v1](http://arxiv.org/abs/2403.02132v1)|null|
 |**2024-03-03**|**APISR: Anime Production Inspired Real-World Anime Super-Resolution**|Boyang Wang et.al.|[2403.01598v1](http://arxiv.org/abs/2403.01598v1)|**[link](https://github.com/kiteretsu77/apisr)**|
@@ -5786,7 +5786,7 @@
 |**2024-02-12**|**Text Detoxification as Style Transfer in English and Hindi**|Sourabrata Mukherjee et.al.|[2402.07767v1](http://arxiv.org/abs/2402.07767v1)|null|
 |**2024-02-08**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227v2](http://arxiv.org/abs/2402.03227v2)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-03-04**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733v2](http://arxiv.org/abs/2402.02733v2)|null|
-|**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v1](http://arxiv.org/abs/2402.01950v1)|**[link](https://github.com/xingy038/conrf)**|
+|**2024-03-06**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v2](http://arxiv.org/abs/2402.01950v2)|**[link](https://github.com/xingy038/conrf)**|
 |**2024-02-05**|**Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection**|Hao Li et.al.|[2402.01304v2](http://arxiv.org/abs/2402.01304v2)|null|
 |**2024-02-02**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863v2](http://arxiv.org/abs/2402.00863v2)|null|
 |**2024-02-01**|**Neural Style Transfer with Twin-Delayed DDPG for Shared Control of Robotic Manipulators**|Raul Fernandez-Fernandez et.al.|[2402.00722v1](http://arxiv.org/abs/2402.00722v1)|null|
