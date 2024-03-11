@@ -26,6 +26,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438v1](http://arxiv.org/abs/2403.05438v1)|**[link](https://github.com/ybybzhang/videoelevator)**|
+|**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327v1](http://arxiv.org/abs/2403.05327v1)|null|
+|**2024-03-08**|**Noise Level Adaptive Diffusion Model for Robust Reconstruction of Accelerated MRI**|Shoujin Huang et.al.|[2403.05245v1](http://arxiv.org/abs/2403.05245v1)|null|
+|**2024-03-08**|**Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation**|Junyan Wang et.al.|[2403.05239v1](http://arxiv.org/abs/2403.05239v1)|null|
+|**2024-03-08**|**Denoising Autoregressive Representation Learning**|Yazhe Li et.al.|[2403.05196v1](http://arxiv.org/abs/2403.05196v1)|null|
+|**2024-03-08**|**DiffuLT: How to Make Diffusion Model Useful for Long-tail Recognition**|Jie Shao et.al.|[2403.05170v1](http://arxiv.org/abs/2403.05170v1)|null|
+|**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154v1](http://arxiv.org/abs/2403.05154v1)|null|
+|**2024-03-08**|**Improving Diffusion Models for Virtual Try-on**|Yisol Choi et.al.|[2403.05139v1](http://arxiv.org/abs/2403.05139v1)|null|
+|**2024-03-08**|**ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**|Xiwei Hu et.al.|[2403.05135v1](http://arxiv.org/abs/2403.05135v1)|null|
+|**2024-03-08**|**CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion**|Wendi Zheng et.al.|[2403.05121v1](http://arxiv.org/abs/2403.05121v1)|null|
+|**2024-03-08**|**Face2Diffusion for Fast and Editable Face Personalization**|Kaede Shiohara et.al.|[2403.05094v1](http://arxiv.org/abs/2403.05094v1)|**[link](https://github.com/mapooon/face2diffusion)**|
+|**2024-03-08**|**Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile**|Seokjun Lee et.al.|[2403.05093v1](http://arxiv.org/abs/2403.05093v1)|null|
+|**2024-03-08**|**Improving Diffusion-Based Generative Models via Approximated Optimal Transport**|Daegyu Kim et.al.|[2403.05069v1](http://arxiv.org/abs/2403.05069v1)|null|
+|**2024-03-08**|**XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution**|Yunpeng Qu et.al.|[2403.05049v1](http://arxiv.org/abs/2403.05049v1)|null|
+|**2024-03-08**|**BjTT: A Large-scale Multimodal Dataset for Traffic Prediction**|Chengyang Zhang et.al.|[2403.05029v1](http://arxiv.org/abs/2403.05029v1)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
+|**2024-03-08**|**InstructGIE: Towards Generalizable Image Editing**|Zichong Meng et.al.|[2403.05018v1](http://arxiv.org/abs/2403.05018v1)|null|
+|**2024-03-08**|**DiffClass: Diffusion-Based Class Incremental Learning**|Zichong Meng et.al.|[2403.05016v1](http://arxiv.org/abs/2403.05016v1)|null|
+|**2024-03-08**|**RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction**|Peng Liu et.al.|[2403.05010v1](http://arxiv.org/abs/2403.05010v1)|**[link](https://github.com/bfs18/rfwave)**|
+|**2024-03-08**|**StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models**|Lezhong Wang et.al.|[2403.04965v1](http://arxiv.org/abs/2403.04965v1)|null|
+|**2024-03-07**|**AFreeCA: Annotation-Free Counting for All**|Adriano D'Alessandro et.al.|[2403.04943v1](http://arxiv.org/abs/2403.04943v1)|null|
+|**2024-03-07**|**An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control**|Aosong Feng et.al.|[2403.04880v1](http://arxiv.org/abs/2403.04880v1)|null|
 |**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701v1](http://arxiv.org/abs/2403.04701v1)|null|
 |**2024-03-07**|**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.|[2403.04700v1](http://arxiv.org/abs/2403.04700v1)|**[link](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**|
 |**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692v1](http://arxiv.org/abs/2403.04692v1)|null|
@@ -3246,6 +3267,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial**|Leonardo Peroni et.al.|[2403.05192v1](http://arxiv.org/abs/2403.05192v1)|null|
+|**2024-03-08**|**CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion**|Wendi Zheng et.al.|[2403.05121v1](http://arxiv.org/abs/2403.05121v1)|null|
+|**2024-03-08**|**XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution**|Yunpeng Qu et.al.|[2403.05049v1](http://arxiv.org/abs/2403.05049v1)|null|
 |**2024-03-07**|**Super-resolution on network telemetry time series**|Fengchen Gong et.al.|[2403.04165v1](http://arxiv.org/abs/2403.04165v1)|null|
 |**2024-03-07**|**Identifying Black Holes Through Space Telescopes and Deep Learning**|Yeqi Fang et.al.|[2403.03821v2](http://arxiv.org/abs/2403.03821v2)|null|
 |**2024-03-05**|**Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning**|Haoyu Chen et.al.|[2403.02601v1](http://arxiv.org/abs/2403.02601v1)|null|
@@ -4040,6 +4064,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution**|Yunpeng Qu et.al.|[2403.05049v1](http://arxiv.org/abs/2403.05049v1)|null|
 |**2024-03-05**|**Low-Res Leads the Way: Improving Generalization for Super-Resolution by Self-Supervised Learning**|Haoyu Chen et.al.|[2403.02601v1](http://arxiv.org/abs/2403.02601v1)|null|
 |**2024-03-02**|**Extrapolated Plug-and-Play Three-Operator Splitting Methods for Nonconvex Optimization with Applications to Image Restoration**|Zhongming Wu et.al.|[2403.01144v1](http://arxiv.org/abs/2403.01144v1)|null|
 |**2024-03-02**|**Text-guided Explorable Image Super-resolution**|Kanchana Vaishnavi Gandikota et.al.|[2403.01124v1](http://arxiv.org/abs/2403.01124v1)|null|
@@ -4875,6 +4900,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**The R2D2 deep neural network series paradigm for fast precision imaging in radio astronomy**|Amir Aghabiglou et.al.|[2403.05452v1](http://arxiv.org/abs/2403.05452v1)|null|
+|**2024-03-08**|**Noise Level Adaptive Diffusion Model for Robust Reconstruction of Accelerated MRI**|Shoujin Huang et.al.|[2403.05245v1](http://arxiv.org/abs/2403.05245v1)|null|
 |**2024-03-07**|**Learning to Remove Wrinkled Transparent Film with Polarized Prior**|Jiaqi Tang et.al.|[2403.04368v1](http://arxiv.org/abs/2403.04368v1)|**[link](https://github.com/jqtangust/filmremoval)**|
 |**2024-03-07**|**Single-Image HDR Reconstruction Assisted Ghost Suppression and Detail Preservation Network for Multi-Exposure HDR Imaging**|Huafeng Li et.al.|[2403.04228v1](http://arxiv.org/abs/2403.04228v1)|**[link](https://github.com/lhf12278/samhdr)**|
 |**2024-03-06**|**ProxNF: Neural Field Proximal Training for High-Resolution 4D Dynamic Image Reconstruction**|Luke Lozenski et.al.|[2403.03860v1](http://arxiv.org/abs/2403.03860v1)|null|
@@ -5789,6 +5816,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**A spatiotemporal style transfer algorithm for dynamic visual stimulus generation**|Antonino Greco et.al.|[2403.04940v1](http://arxiv.org/abs/2403.04940v1)|null|
 |**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981v1](http://arxiv.org/abs/2403.02981v1)|**[link](https://github.com/xuesong39/dac)**|
 |**2024-03-02**|**Distilling Text Style Transfer With Self-Explanation From LLMs**|Chiyu Zhang et.al.|[2403.01106v1](http://arxiv.org/abs/2403.01106v1)|null|
 |**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni et.al.|[2402.18192v1](http://arxiv.org/abs/2402.18192v1)|**[link](https://github.com/eezkni/fdl)**|
