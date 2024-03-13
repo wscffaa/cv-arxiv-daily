@@ -47,11 +47,11 @@
 |**2024-03-12**|**Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**|Shuai Tan et.al.|[2403.06365v2](http://arxiv.org/abs/2403.06365v2)|null|
 |**2024-03-10**|**Transferable Reinforcement Learning via Generalized Occupancy Models**|Chuning Zhu et.al.|[2403.06328v1](http://arxiv.org/abs/2403.06328v1)|null|
 |**2024-03-10**|**Spectral Diffusion Posterior Sampling for Synergistic Reconstruction in Spectral Computed Tomography**|Corentin Vazia et.al.|[2403.06308v1](http://arxiv.org/abs/2403.06308v1)|null|
-|**2024-03-10**|**Fine-tuning of diffusion models via stochastic control: entropy regularization and beyond**|Wenpin Tang et.al.|[2403.06279v1](http://arxiv.org/abs/2403.06279v1)|null|
+|**2024-03-12**|**Fine-tuning of diffusion models via stochastic control: entropy regularization and beyond**|Wenpin Tang et.al.|[2403.06279v2](http://arxiv.org/abs/2403.06279v2)|null|
 |**2024-03-10**|**FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing**|Youyuan Zhang et.al.|[2403.06269v1](http://arxiv.org/abs/2403.06269v1)|null|
 |**2024-03-10**|**DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation**|Xiaobin Hu et.al.|[2403.06168v1](http://arxiv.org/abs/2403.06168v1)|null|
 |**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164v1](http://arxiv.org/abs/2403.06164v1)|null|
-|**2024-03-10**|**MACE: Mass Concept Erasure in Diffusion Models**|Shilin Lu et.al.|[2403.06135v1](http://arxiv.org/abs/2403.06135v1)|null|
+|**2024-03-10**|**MACE: Mass Concept Erasure in Diffusion Models**|Shilin Lu et.al.|[2403.06135v1](http://arxiv.org/abs/2403.06135v1)|**[link](https://github.com/shilin-lu/mace)**|
 |**2024-03-10**|**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**|Wenhao Wang et.al.|[2403.06098v1](http://arxiv.org/abs/2403.06098v1)|null|
 |**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090v1](http://arxiv.org/abs/2403.06090v1)|null|
 |**2024-03-10**|**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising**|Yuang Wang et.al.|[2403.06069v1](http://arxiv.org/abs/2403.06069v1)|null|
@@ -59,7 +59,7 @@
 |**2024-03-09**|**CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence**|Pan Du et.al.|[2403.05940v1](http://arxiv.org/abs/2403.05940v1)|null|
 |**2024-03-12**|**SEMRes-DDPM: Residual Network Based Diffusion Modelling Applied to Imbalanced Data**|Ming Zheng et.al.|[2403.05918v2](http://arxiv.org/abs/2403.05918v2)|null|
 |**2024-03-09**|**Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines**|Michael Toker et.al.|[2403.05846v1](http://arxiv.org/abs/2403.05846v1)|null|
-|**2024-03-09**|**An Audio-textual Diffusion Model For Converting Speech Signals Into Ultrasound Tongue Imaging Data**|Yudong Yang et.al.|[2403.05820v1](http://arxiv.org/abs/2403.05820v1)|null|
+|**2024-03-12**|**An Audio-textual Diffusion Model For Converting Speech Signals Into Ultrasound Tongue Imaging Data**|Yudong Yang et.al.|[2403.05820v2](http://arxiv.org/abs/2403.05820v2)|null|
 |**2024-03-09**|**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution**|Junxiong Lin et.al.|[2403.05808v1](http://arxiv.org/abs/2403.05808v1)|null|
 |**2024-03-09**|**Privacy-Preserving Diffusion Model Using Homomorphic Encryption**|Yaojian Chen et.al.|[2403.05794v1](http://arxiv.org/abs/2403.05794v1)|null|
 |**2024-03-09**|**Large Generative Model Assisted 3D Semantic Communication**|Feibo Jiang et.al.|[2403.05783v1](http://arxiv.org/abs/2403.05783v1)|null|
@@ -5764,7 +5764,7 @@
 |**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
 |**2023-11-17**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v3](http://arxiv.org/abs/2308.10436v3)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
-|**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
+|**2024-03-12**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v2](http://arxiv.org/abs/2308.07652v2)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-12-02**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v2](http://arxiv.org/abs/2308.05045v2)|null|
 |**2023-08-03**|**Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding**|Hangcheng Liu et.al.|[2308.01512v1](http://arxiv.org/abs/2308.01512v1)|null|
 |**2023-08-01**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
@@ -5891,7 +5891,7 @@
 |**2024-02-26**|**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**|Yihua Zhang et.al.|[2402.11846v2](http://arxiv.org/abs/2402.11846v2)|**[link](https://github.com/optml-group/unlearncanvas)**|
 |**2024-02-18**|**MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning for Discrete Prompt Optimization**|Yasaman Jafari et.al.|[2402.11711v1](http://arxiv.org/abs/2402.11711v1)|null|
 |**2024-02-12**|**Text Detoxification as Style Transfer in English and Hindi**|Sourabrata Mukherjee et.al.|[2402.07767v1](http://arxiv.org/abs/2402.07767v1)|null|
-|**2024-02-08**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227v2](http://arxiv.org/abs/2402.03227v2)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
+|**2024-03-12**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227v3](http://arxiv.org/abs/2402.03227v3)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-03-04**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733v2](http://arxiv.org/abs/2402.02733v2)|null|
 |**2024-03-06**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v2](http://arxiv.org/abs/2402.01950v2)|**[link](https://github.com/xingy038/conrf)**|
 |**2024-02-05**|**Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection**|Hao Li et.al.|[2402.01304v2](http://arxiv.org/abs/2402.01304v2)|null|
