@@ -65,7 +65,7 @@
 |**2024-03-12**|**Fine-tuning of diffusion models via stochastic control: entropy regularization and beyond**|Wenpin Tang et.al.|[2403.06279v2](http://arxiv.org/abs/2403.06279v2)|null|
 |**2024-03-10**|**FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing**|Youyuan Zhang et.al.|[2403.06269v1](http://arxiv.org/abs/2403.06269v1)|null|
 |**2024-03-10**|**DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation**|Xiaobin Hu et.al.|[2403.06168v1](http://arxiv.org/abs/2403.06168v1)|null|
-|**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164v1](http://arxiv.org/abs/2403.06164v1)|null|
+|**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164v1](http://arxiv.org/abs/2403.06164v1)|**[link](https://github.com/sinzlab/platypose)**|
 |**2024-03-10**|**MACE: Mass Concept Erasure in Diffusion Models**|Shilin Lu et.al.|[2403.06135v1](http://arxiv.org/abs/2403.06135v1)|**[link](https://github.com/shilin-lu/mace)**|
 |**2024-03-10**|**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**|Wenhao Wang et.al.|[2403.06098v1](http://arxiv.org/abs/2403.06098v1)|null|
 |**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090v1](http://arxiv.org/abs/2403.06090v1)|null|
@@ -5938,7 +5938,7 @@
 |**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027v1](http://arxiv.org/abs/2401.16027v1)|null|
 |**2024-01-28**|**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models**|Feihong He et.al.|[2401.15636v1](http://arxiv.org/abs/2401.15636v1)|null|
 |**2024-01-27**|**An Implicit Physical Face Model Driven by Expression and Style**|Lingchen Yang et.al.|[2401.15414v1](http://arxiv.org/abs/2401.15414v1)|null|
-|**2024-01-30**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v2](http://arxiv.org/abs/2401.14066v2)|null|
+|**2024-01-30**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v2](http://arxiv.org/abs/2401.14066v2)|**[link](https://github.com/haha-lisa/CreativeSynth)**|
 |**2024-01-19**|**Fast Registration of Photorealistic Avatars for VR Facial Animation**|Chaitanya Patel et.al.|[2401.11002v1](http://arxiv.org/abs/2401.11002v1)|null|
 |**2023-11-30**|**DanceMeld: Unraveling Dance Phrases with Hierarchical Latent Codes for Music-to-Dance Synthesis**|Xin Gao et.al.|[2401.10242v1](http://arxiv.org/abs/2401.10242v1)|null|
 |**2024-01-30**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742v2](http://arxiv.org/abs/2401.09742v2)|null|
