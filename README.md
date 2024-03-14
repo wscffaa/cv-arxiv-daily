@@ -3322,7 +3322,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-12**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v1](http://arxiv.org/abs/2403.07673v1)|null|
+|**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-12**|**Learning Hierarchical Color Guidance for Depth Map Super-Resolution**|Runmin Cong et.al.|[2403.07290v1](http://arxiv.org/abs/2403.07290v1)|null|
@@ -4130,7 +4130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-12**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v1](http://arxiv.org/abs/2403.07673v1)|null|
+|**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
 |**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390v1](http://arxiv.org/abs/2403.07390v1)|null|
 |**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319v1](http://arxiv.org/abs/2403.07319v1)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2024-03-09**|**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution**|Junxiong Lin et.al.|[2403.05808v1](http://arxiv.org/abs/2403.05808v1)|null|
@@ -5905,7 +5905,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-12**|**StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting**|Kunhao Liu et.al.|[2403.07807v1](http://arxiv.org/abs/2403.07807v1)|null|
-|**2024-03-12**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v1](http://arxiv.org/abs/2403.07673v1)|null|
+|**2024-03-13**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v2](http://arxiv.org/abs/2403.07673v2)|null|
 |**2024-03-12**|**Gender-ambiguous voice generation through feminine speaking style transfer in male voices**|Maria Koutsogiannaki et.al.|[2403.07661v1](http://arxiv.org/abs/2403.07661v1)|null|
 |**2024-03-11**|**3D-aware Image Generation and Editing with Multi-modal Conditions**|Bo Li et.al.|[2403.06470v1](http://arxiv.org/abs/2403.06470v1)|null|
 |**2024-03-10**|**MoST: Motion Style Transformer between Diverse Action Contents**|Boeun Kim et.al.|[2403.06225v1](http://arxiv.org/abs/2403.06225v1)|**[link](https://github.com/boeun-kim/most)**|
