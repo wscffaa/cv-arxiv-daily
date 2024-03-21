@@ -6131,7 +6131,7 @@
 |**2024-03-19**|**Towards Model Extraction Attacks in GAN-Based Image Translation via Domain Shift Mitigation**|Di Mi et.al.|[2403.07673v3](http://arxiv.org/abs/2403.07673v3)|null|
 |**2024-03-15**|**Gender-ambiguous voice generation through feminine speaking style transfer in male voices**|Maria Koutsogiannaki et.al.|[2403.07661v2](http://arxiv.org/abs/2403.07661v2)|null|
 |**2024-03-11**|**3D-aware Image Generation and Editing with Multi-modal Conditions**|Bo Li et.al.|[2403.06470v1](http://arxiv.org/abs/2403.06470v1)|null|
-|**2024-03-10**|**MoST: Motion Style Transformer between Diverse Action Contents**|Boeun Kim et.al.|[2403.06225v1](http://arxiv.org/abs/2403.06225v1)|**[link](https://github.com/boeun-kim/most)**|
+|**2024-03-20**|**MoST: Motion Style Transformer between Diverse Action Contents**|Boeun Kim et.al.|[2403.06225v2](http://arxiv.org/abs/2403.06225v2)|**[link](https://github.com/boeun-kim/most)**|
 |**2024-03-13**|**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**|Xingyi Li et.al.|[2403.06205v2](http://arxiv.org/abs/2403.06205v2)|null|
 |**2024-03-07**|**A spatiotemporal style transfer algorithm for dynamic visual stimulus generation**|Antonino Greco et.al.|[2403.04940v1](http://arxiv.org/abs/2403.04940v1)|null|
 |**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981v1](http://arxiv.org/abs/2403.02981v1)|**[link](https://github.com/xuesong39/dac)**|
