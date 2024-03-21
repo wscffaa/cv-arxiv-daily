@@ -26,6 +26,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788v1](http://arxiv.org/abs/2403.13788v1)|null|
+|**2024-03-20**|**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**|Fu-Yun Wang et.al.|[2403.13745v1](http://arxiv.org/abs/2403.13745v1)|null|
+|**2024-03-20**|**DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance**|Zixuan Wang et.al.|[2403.13667v1](http://arxiv.org/abs/2403.13667v1)|null|
+|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652v1](http://arxiv.org/abs/2403.13652v1)|null|
+|**2024-03-20**|**ReGround: Improving Textual and Spatial Grounding at No Cost**|Yuseung Lee et.al.|[2403.13589v1](http://arxiv.org/abs/2403.13589v1)|null|
+|**2024-03-20**|**Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing**|Hangeol Chang et.al.|[2403.13551v1](http://arxiv.org/abs/2403.13551v1)|null|
+|**2024-03-20**|**Compress3D: a Compressed Latent Space for 3D Generation from a Single Image**|Bowen Zhang et.al.|[2403.13524v1](http://arxiv.org/abs/2403.13524v1)|null|
+|**2024-03-20**|**VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis**|Yumeng Li et.al.|[2403.13501v1](http://arxiv.org/abs/2403.13501v1)|null|
+|**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470v1](http://arxiv.org/abs/2403.13470v1)|**[link](https://github.com/prbonn/lidiff)**|
+|**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408v1](http://arxiv.org/abs/2403.13408v1)|null|
+|**2024-03-20**|**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis**|Feng Liu et.al.|[2403.13378v1](http://arxiv.org/abs/2403.13378v1)|null|
+|**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352v1](http://arxiv.org/abs/2403.13352v1)|null|
+|**2024-03-20**|**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**|Peishan Cong et.al.|[2403.13307v1](http://arxiv.org/abs/2403.13307v1)|null|
+|**2024-03-20**|**DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception**|Yibo Wang et.al.|[2403.13304v1](http://arxiv.org/abs/2403.13304v1)|null|
+|**2024-03-20**|**Building Optimal Neural Architectures using Interpretable Knowledge**|Keith G. Mills et.al.|[2403.13293v1](http://arxiv.org/abs/2403.13293v1)|null|
+|**2024-03-20**|**Beyond Skeletons: Integrative Latent Mapping for Coherent 4D Sequence Generation**|Qitong Yang et.al.|[2403.13238v1](http://arxiv.org/abs/2403.13238v1)|null|
+|**2024-03-20**|**A Contact Model based on Denoising Diffusion to Learn Variable Impedance Control for Contact-rich Manipulation**|Masashi Okada et.al.|[2403.13221v1](http://arxiv.org/abs/2403.13221v1)|null|
+|**2024-03-20**|**Diffusion Model for Data-Driven Black-Box Optimization**|Zihao Li et.al.|[2403.13219v1](http://arxiv.org/abs/2403.13219v1)|null|
+|**2024-03-19**|**Depth-guided NeRF Training via Earth Mover's Distance**|Anita Rau et.al.|[2403.13206v1](http://arxiv.org/abs/2403.13206v1)|null|
+|**2024-03-19**|**Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos**|Hadi Alzayer et.al.|[2403.13044v1](http://arxiv.org/abs/2403.13044v1)|null|
 |**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963v1](http://arxiv.org/abs/2403.12963v1)|**[link](https://github.com/leonhlj/fouriscale)**|
 |**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962v1](http://arxiv.org/abs/2403.12962v1)|**[link](https://github.com/williamyang1991/fresco)**|
 |**2024-03-19**|**Zero-Reference Low-Light Enhancement via Physical Quadruple Priors**|Wenjing Wang et.al.|[2403.12933v1](http://arxiv.org/abs/2403.12933v1)|null|
@@ -50,9 +73,9 @@
 |**2024-03-18**|**Synthetic Image Generation in Cyber Influence Operations: An Emergent Threat?**|Melanie Mathys et.al.|[2403.12207v1](http://arxiv.org/abs/2403.12207v1)|null|
 |**2024-03-18**|**Latent CLAP Loss for Better Foley Sound Synthesis**|Tornike Karchkhadze et.al.|[2403.12182v1](http://arxiv.org/abs/2403.12182v1)|null|
 |**2024-03-18**|**Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Ali Karami et.al.|[2403.12172v1](http://arxiv.org/abs/2403.12172v1)|null|
-|**2024-03-18**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042v1](http://arxiv.org/abs/2403.12042v1)|null|
+|**2024-03-18**|**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation**|Zixin Zhu et.al.|[2403.12042v1](http://arxiv.org/abs/2403.12042v1)|**[link](https://github.com/buxiangzhiren/vd-it)**|
 |**2024-03-19**|**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**|Enshen Zhou et.al.|[2403.12037v2](http://arxiv.org/abs/2403.12037v2)|**[link](https://github.com/Zhoues/MineDreamer)**|
-|**2024-03-18**|**One-Step Image Translation with Text-to-Image Models**|Gaurav Parmar et.al.|[2403.12036v1](http://arxiv.org/abs/2403.12036v1)|null|
+|**2024-03-18**|**One-Step Image Translation with Text-to-Image Models**|Gaurav Parmar et.al.|[2403.12036v1](http://arxiv.org/abs/2403.12036v1)|**[link](https://github.com/gaparmar/img2img-turbo)**|
 |**2024-03-18**|**VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models**|Junlin Han et.al.|[2403.12034v1](http://arxiv.org/abs/2403.12034v1)|null|
 |**2024-03-19**|**Generic 3D Diffusion Adapter Using Controlled Multi-View Editing**|Hansheng Chen et.al.|[2403.12032v2](http://arxiv.org/abs/2403.12032v2)|null|
 |**2024-03-18**|**LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation**|Yushi Lan et.al.|[2403.12019v1](http://arxiv.org/abs/2403.12019v1)|null|
@@ -3470,6 +3493,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Multi-photon super-linear image scanning microscopy using upconversion nanoparticles**|Yao Wang et.al.|[2403.13436v1](http://arxiv.org/abs/2403.13436v1)|null|
+|**2024-03-20**|**Efficient scene text image super-resolution with semantic guidance**|LeoWu TomyEnrique et.al.|[2403.13330v1](http://arxiv.org/abs/2403.13330v1)|null|
 |**2024-03-18**|**Super-resolution of ultrafast pulses via spectral inversion**|Michał Lipka et.al.|[2403.12746v1](http://arxiv.org/abs/2403.12746v1)|null|
 |**2024-03-18**|**A Wideband Distributed Massive MIMO Channel Sounder for Communication and Sensing**|Michiel Sandra et.al.|[2403.11856v1](http://arxiv.org/abs/2403.11856v1)|null|
 |**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791v1](http://arxiv.org/abs/2403.11791v1)|null|
@@ -4297,6 +4322,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Efficient scene text image super-resolution with semantic guidance**|LeoWu TomyEnrique et.al.|[2403.13330v1](http://arxiv.org/abs/2403.13330v1)|null|
 |**2024-03-18**|**PAON: A New Neuron Model using Padé Approximants**|Onur Keleş et.al.|[2403.11791v1](http://arxiv.org/abs/2403.11791v1)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451v1](http://arxiv.org/abs/2403.11451v1)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423v1](http://arxiv.org/abs/2403.11423v1)|**[link](https://github.com/alphacatplus/vmambair)**|
@@ -4836,6 +4862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680v1](http://arxiv.org/abs/2403.13680v1)|null|
+|**2024-03-20**|**A multilevel framework for accelerating uSARA in radio-interferometric imaging**|Guillaume Lauga et.al.|[2403.13385v1](http://arxiv.org/abs/2403.13385v1)|null|
 |**2024-03-19**|**Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.|[2403.12770v1](http://arxiv.org/abs/2403.12770v1)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451v1](http://arxiv.org/abs/2403.11451v1)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423v1](http://arxiv.org/abs/2403.11423v1)|**[link](https://github.com/alphacatplus/vmambair)**|
@@ -5166,6 +5194,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**A Multi-Task Oriented Semantic Communication Framework for Autonomous Vehicles**|Eslam Eldeeb et.al.|[2403.12997v1](http://arxiv.org/abs/2403.12997v1)|null|
 |**2024-03-19**|**Deep Few-view High-resolution Photon-counting Extremity CT at Halved Dose for a Clinical Trial**|Mengzhou Li et.al.|[2403.12331v1](http://arxiv.org/abs/2403.12331v1)|null|
 |**2024-03-18**|**IDF-CR: Iterative Diffusion Process for Divide-and-Conquer Cloud Removal in Remote-sensing Images**|Meilin Wang et.al.|[2403.11870v1](http://arxiv.org/abs/2403.11870v1)|null|
 |**2024-03-19**|**MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation**|Haoyu Zhao et.al.|[2403.11689v2](http://arxiv.org/abs/2403.11689v2)|null|
@@ -5699,6 +5728,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis**|Feng Liu et.al.|[2403.13378v1](http://arxiv.org/abs/2403.13378v1)|null|
 |**2024-03-19**|**Low-Trace Adaptation of Zero-shot Self-supervised Blind Image Denoising**|Jintong Hu et.al.|[2403.12382v1](http://arxiv.org/abs/2403.12382v1)|null|
 |**2024-03-19**|**WIA-LD2ND: Wavelet-based Image Alignment for Self-supervised Low-Dose CT Denoising**|Haoyu Zhao et.al.|[2403.11672v2](http://arxiv.org/abs/2403.11672v2)|null|
 |**2024-03-16**|**A Spectrum-based Image Denoising Method with Edge Feature Enhancement**|Peter Luvton et.al.|[2403.11036v1](http://arxiv.org/abs/2403.11036v1)|null|
@@ -5972,6 +6002,7 @@
 |**2024-01-01**|**Revisiting Nonlocal Self-Similarity from Continuous Representation**|Yisi Luo et.al.|[2401.00708v1](http://arxiv.org/abs/2401.00708v1)|null|
 |**2023-12-25**|**Robust Stochastically-Descending Unrolled Networks**|Samar Hadou et.al.|[2312.15788v1](http://arxiv.org/abs/2312.15788v1)|**[link](https://github.com/smrhadou/unrolledglow)**|
 |**2024-03-18**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v3](http://arxiv.org/abs/2312.14091v3)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2024-03-20**|**Towards Architecture-Agnostic Untrained Network Priors for Image Reconstruction with Frequency Regularization**|Yilin Liu et.al.|[2312.09988v2](http://arxiv.org/abs/2312.09988v2)|null|
 |**2023-12-14**|**Planning and Rendering: Towards End-to-End Product Poster Generation**|Zhaochen Li et.al.|[2312.08822v1](http://arxiv.org/abs/2312.08822v1)|null|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039v1](http://arxiv.org/abs/2312.05039v1)|null|
 |**2024-03-17**|**Towards Context-Stable and Visual-Consistent Image Inpainting**|Yikai Wang et.al.|[2312.04831v2](http://arxiv.org/abs/2312.04831v2)|**[link](https://github.com/yikai-wang/asuka-misato)**|
