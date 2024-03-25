@@ -55,7 +55,7 @@
 |**2024-03-20**|**Compress3D: a Compressed Latent Space for 3D Generation from a Single Image**|Bowen Zhang et.al.|[2403.13524v1](http://arxiv.org/abs/2403.13524v1)|null|
 |**2024-03-20**|**VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis**|Yumeng Li et.al.|[2403.13501v1](http://arxiv.org/abs/2403.13501v1)|null|
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470v1](http://arxiv.org/abs/2403.13470v1)|**[link](https://github.com/prbonn/lidiff)**|
-|**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408v1](http://arxiv.org/abs/2403.13408v1)|null|
+|**2024-03-22**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408v2](http://arxiv.org/abs/2403.13408v2)|null|
 |**2024-03-20**|**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis**|Feng Liu et.al.|[2403.13378v1](http://arxiv.org/abs/2403.13378v1)|**[link](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)**|
 |**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352v1](http://arxiv.org/abs/2403.13352v1)|null|
 |**2024-03-21**|**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**|Peishan Cong et.al.|[2403.13307v2](http://arxiv.org/abs/2403.13307v2)|null|
@@ -6188,7 +6188,7 @@
 |**2024-03-15**|**Gender-ambiguous voice generation through feminine speaking style transfer in male voices**|Maria Koutsogiannaki et.al.|[2403.07661v2](http://arxiv.org/abs/2403.07661v2)|null|
 |**2024-03-11**|**3D-aware Image Generation and Editing with Multi-modal Conditions**|Bo Li et.al.|[2403.06470v1](http://arxiv.org/abs/2403.06470v1)|null|
 |**2024-03-20**|**MoST: Motion Style Transformer between Diverse Action Contents**|Boeun Kim et.al.|[2403.06225v2](http://arxiv.org/abs/2403.06225v2)|**[link](https://github.com/boeun-kim/most)**|
-|**2024-03-13**|**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**|Xingyi Li et.al.|[2403.06205v2](http://arxiv.org/abs/2403.06205v2)|null|
+|**2024-03-22**|**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**|Xingyi Li et.al.|[2403.06205v3](http://arxiv.org/abs/2403.06205v3)|null|
 |**2024-03-07**|**A spatiotemporal style transfer algorithm for dynamic visual stimulus generation**|Antonino Greco et.al.|[2403.04940v1](http://arxiv.org/abs/2403.04940v1)|null|
 |**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981v1](http://arxiv.org/abs/2403.02981v1)|**[link](https://github.com/xuesong39/dac)**|
 |**2024-03-02**|**Distilling Text Style Transfer With Self-Explanation From LLMs**|Chiyu Zhang et.al.|[2403.01106v1](http://arxiv.org/abs/2403.01106v1)|null|
@@ -6203,7 +6203,7 @@
 |**2024-02-18**|**MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning for Discrete Prompt Optimization**|Yasaman Jafari et.al.|[2402.11711v1](http://arxiv.org/abs/2402.11711v1)|null|
 |**2024-02-12**|**Text Detoxification as Style Transfer in English and Hindi**|Sourabrata Mukherjee et.al.|[2402.07767v1](http://arxiv.org/abs/2402.07767v1)|null|
 |**2024-03-12**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227v3](http://arxiv.org/abs/2402.03227v3)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
-|**2024-03-04**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733v2](http://arxiv.org/abs/2402.02733v2)|null|
+|**2024-03-22**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733v3](http://arxiv.org/abs/2402.02733v3)|null|
 |**2024-03-06**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v2](http://arxiv.org/abs/2402.01950v2)|**[link](https://github.com/xingy038/conrf)**|
 |**2024-02-05**|**Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection**|Hao Li et.al.|[2402.01304v2](http://arxiv.org/abs/2402.01304v2)|null|
 |**2024-02-02**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863v2](http://arxiv.org/abs/2402.00863v2)|null|
