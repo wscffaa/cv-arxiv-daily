@@ -74,7 +74,7 @@
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470v1](http://arxiv.org/abs/2403.13470v1)|**[link](https://github.com/prbonn/lidiff)**|
 |**2024-03-22**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408v2](http://arxiv.org/abs/2403.13408v2)|null|
 |**2024-03-20**|**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis**|Feng Liu et.al.|[2403.13378v1](http://arxiv.org/abs/2403.13378v1)|**[link](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)**|
-|**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352v1](http://arxiv.org/abs/2403.13352v1)|null|
+|**2024-03-24**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352v2](http://arxiv.org/abs/2403.13352v2)|null|
 |**2024-03-21**|**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**|Peishan Cong et.al.|[2403.13307v2](http://arxiv.org/abs/2403.13307v2)|null|
 |**2024-03-20**|**DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception**|Yibo Wang et.al.|[2403.13304v1](http://arxiv.org/abs/2403.13304v1)|null|
 |**2024-03-20**|**Building Optimal Neural Architectures using Interpretable Knowledge**|Keith G. Mills et.al.|[2403.13293v1](http://arxiv.org/abs/2403.13293v1)|**[link](https://github.com/ascend-research/autobuild)**|
