@@ -41,11 +41,11 @@
 |**2024-03-24**|**Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing**|Yongqing Liang et.al.|[2403.16207v1](http://arxiv.org/abs/2403.16207v1)|null|
 |**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198v1](http://arxiv.org/abs/2403.16198v1)|null|
 |**2024-03-24**|**Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery**|Siddharth Tourani et.al.|[2403.16194v1](http://arxiv.org/abs/2403.16194v1)|**[link](https://github.com/skt9/pose-proxy-uld)**|
-|**2024-03-24**|**Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method**|Jie Tian et.al.|[2403.16169v1](http://arxiv.org/abs/2403.16169v1)|null|
+|**2024-03-26**|**Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method**|Jie Tian et.al.|[2403.16169v2](http://arxiv.org/abs/2403.16169v2)|null|
 |**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067v1](http://arxiv.org/abs/2403.16067v1)|null|
 |**2024-03-24**|**A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA**|Ayush Thakur et.al.|[2403.16024v1](http://arxiv.org/abs/2403.16024v1)|null|
 |**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943v1](http://arxiv.org/abs/2403.15943v1)|null|
-|**2024-03-23**|**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**|You Xie et.al.|[2403.15931v1](http://arxiv.org/abs/2403.15931v1)|null|
+|**2024-03-26**|**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**|You Xie et.al.|[2403.15931v2](http://arxiv.org/abs/2403.15931v2)|null|
 |**2024-03-23**|**Diffusion-based Aesthetic QR Code Generation via Scanning-Robust Perceptual Guidance**|Jia-Wei Liao et.al.|[2403.15878v1](http://arxiv.org/abs/2403.15878v1)|**[link](https://github.com/jwliao1209/diffqrcode)**|
 |**2024-03-23**|**In-Context Matting**|He Guo et.al.|[2403.15789v1](http://arxiv.org/abs/2403.15789v1)|null|
 |**2024-03-23**|**Time-dependent localized patterns in a predator-prey model**|Fahad Al Saadi et.al.|[2403.15788v1](http://arxiv.org/abs/2403.15788v1)|null|
