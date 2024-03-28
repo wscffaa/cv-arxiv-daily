@@ -3629,7 +3629,7 @@
 |**2024-03-11**|**Breaking Abbe's diffraction limit with harmonic deactivation microscopy**|Kevin Murzyn et.al.|[2403.06617v1](http://arxiv.org/abs/2403.06617v1)|null|
 |**2024-03-11**|**Multi-Scale Implicit Transformer with Re-parameterize for Arbitrary-Scale Super-Resolution**|Jinchen Zhu et.al.|[2403.06536v1](http://arxiv.org/abs/2403.06536v1)|null|
 |**2024-03-10**|**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising**|Yuang Wang et.al.|[2403.06069v1](http://arxiv.org/abs/2403.06069v1)|null|
-|**2024-03-22**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v3](http://arxiv.org/abs/2403.06054v3)|null|
+|**2024-03-27**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v4](http://arxiv.org/abs/2403.06054v4)|null|
 |**2024-03-15**|**CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence**|Pan Du et.al.|[2403.05940v2](http://arxiv.org/abs/2403.05940v2)|null|
 |**2024-03-09**|**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution**|Junxiong Lin et.al.|[2403.05808v1](http://arxiv.org/abs/2403.05808v1)|null|
 |**2024-03-08**|**An End-to-End Pipeline Perspective on Video Streaming in Best-Effort Networks: A Survey and Tutorial**|Leonardo Peroni et.al.|[2403.05192v1](http://arxiv.org/abs/2403.05192v1)|null|
@@ -5000,7 +5000,7 @@
 |**2024-03-12**|**Continual All-in-One Adverse Weather Removal with Knowledge Replay on a Unified Network Structure**|De Cheng et.al.|[2403.07292v1](http://arxiv.org/abs/2403.07292v1)|**[link](https://github.com/xiaojihh/cl_all-in-one)**|
 |**2024-03-19**|**Boosting Image Restoration via Priors from Pre-trained Models**|Xiaogang Xu et.al.|[2403.06793v2](http://arxiv.org/abs/2403.06793v2)|null|
 |**2024-03-10**|**Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising**|Yuang Wang et.al.|[2403.06069v1](http://arxiv.org/abs/2403.06069v1)|null|
-|**2024-03-22**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v3](http://arxiv.org/abs/2403.06054v3)|null|
+|**2024-03-27**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v4](http://arxiv.org/abs/2403.06054v4)|null|
 |**2024-03-09**|**Segmentation Guided Sparse Transformer for Under-Display Camera Image Restoration**|Jingyun Xue et.al.|[2403.05906v1](http://arxiv.org/abs/2403.05906v1)|null|
 |**2024-03-09**|**Generalizing to Out-of-Sample Degradations via Model Reprogramming**|Runhua Jiang et.al.|[2403.05886v1](http://arxiv.org/abs/2403.05886v1)|**[link](https://github.com/ddghjikle/out-of-sample-restoration)**|
 |**2024-03-08**|**Decoupling Degradations with Recurrent Network for Video Restoration in Under-Display Camera**|Chengxu Liu et.al.|[2403.05660v1](http://arxiv.org/abs/2403.05660v1)|**[link](https://github.com/chengxuliu/ddrnet)**|
@@ -5315,7 +5315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-26**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Chen Yiwei et.al.|[2403.17905v1](http://arxiv.org/abs/2403.17905v1)|null|
+|**2024-03-27**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Yiwei Chen et.al.|[2403.17905v2](http://arxiv.org/abs/2403.17905v2)|null|
 |**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837v1](http://arxiv.org/abs/2403.17837v1)|null|
 |**2024-03-26**|**Implementing photometric stereo for scanning helium microscopy (SHeM) to reconstruct true-to-size 3D surfaces**|Aleksandar Radic et.al.|[2403.17835v1](http://arxiv.org/abs/2403.17835v1)|null|
 |**2024-03-26**|**Algorithmic unfolding for image reconstruction and localization problems in fluorescence microscopy**|Silvia Bonettini et.al.|[2403.17506v1](http://arxiv.org/abs/2403.17506v1)|null|
@@ -5877,7 +5877,7 @@
 |**2024-03-15**|**Hybrid Convolutional and Attention Network for Hyperspectral Image Denoising**|Shuai Hu et.al.|[2403.10067v1](http://arxiv.org/abs/2403.10067v1)|**[link](https://github.com/summitgao/hcanet)**|
 |**2024-03-13**|**Iterative Learning for Joint Image Denoising and Motion Artifact Correction of 3D Brain MRI**|Lintao Zhang et.al.|[2403.08162v1](http://arxiv.org/abs/2403.08162v1)|**[link](https://github.com/goodaycoder/jdac)**|
 |**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874v1](http://arxiv.org/abs/2403.07874v1)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
-|**2024-03-22**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v3](http://arxiv.org/abs/2403.06054v3)|null|
+|**2024-03-27**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054v4](http://arxiv.org/abs/2403.06054v4)|null|
 |**2024-03-06**|**Fast, nonlocal and neural: a lightweight high quality solution to image denoising**|Yu Guo et.al.|[2403.03488v1](http://arxiv.org/abs/2403.03488v1)|null|
 |**2024-02-27**|**Purified and Unified Steganographic Network**|Guobiao Li et.al.|[2402.17210v1](http://arxiv.org/abs/2402.17210v1)|**[link](https://github.com/albblgb/pusnet)**|
 |**2024-02-23**|**On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey**|Sébastien Herbreteau et.al.|[2402.15352v1](http://arxiv.org/abs/2402.15352v1)|null|
@@ -6298,7 +6298,7 @@
 |**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468v2](http://arxiv.org/abs/2403.14468v2)|null|
 |**2024-03-20**|**Enhancing Fingerprint Image Synthesis with GANs, Diffusion Models, and Style Transfer Techniques**|W. Tang et.al.|[2403.13916v1](http://arxiv.org/abs/2403.13916v1)|null|
 |**2024-03-18**|**LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model**|Runhui Huang et.al.|[2403.11929v1](http://arxiv.org/abs/2403.11929v1)|null|
-|**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656v1](http://arxiv.org/abs/2403.11656v1)|null|
+|**2024-03-27**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656v2](http://arxiv.org/abs/2403.11656v2)|null|
 |**2024-03-16**|**Could We Generate Cytology Images from Histopathology Images? An Empirical Study**|Soumyajyoti Dey et.al.|[2403.10885v1](http://arxiv.org/abs/2403.10885v1)|null|
 |**2024-03-16**|**Efficient Domain Adaptation for Endoscopic Visual Odometry**|Junyang Wu et.al.|[2403.10860v1](http://arxiv.org/abs/2403.10860v1)|null|
 |**2024-03-18**|**A survey of synthetic data augmentation methods in computer vision**|Alhassan Mumuni et.al.|[2403.10075v2](http://arxiv.org/abs/2403.10075v2)|null|
