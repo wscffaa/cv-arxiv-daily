@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Relation Rectification in Diffusion Model**|Yinwei Wu et.al.|[2403.20249v1](http://arxiv.org/abs/2403.20249v1)|null|
+|**2024-03-29**|**Motion Inversion for Video Customization**|Luozhou Wang et.al.|[2403.20193v1](http://arxiv.org/abs/2403.20193v1)|null|
+|**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105v1](http://arxiv.org/abs/2403.20105v1)|null|
+|**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079v1](http://arxiv.org/abs/2403.20079v1)|null|
+|**2024-03-29**|**Probing solar modulation analytic models with cosmic ray periodic spectra**|Wei-Cheng Long et.al.|[2403.20038v1](http://arxiv.org/abs/2403.20038v1)|null|
+|**2024-03-29**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v1](http://arxiv.org/abs/2403.19898v1)|**[link](https://github.com/htyjers/strdiffusion)**|
+|**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880v1](http://arxiv.org/abs/2403.19880v1)|**[link](https://github.com/pooria90/diffecho)**|
+|**2024-03-28**|**ShapeFusion: A 3D diffusion model for localized shape editing**|Rolandos Alexandros Potamias et.al.|[2403.19773v1](http://arxiv.org/abs/2403.19773v1)|null|
+|**2024-03-28**|**MIST: Mitigating Intersectional Bias with Disentangled Cross-Attention Editing in Text-to-Image Diffusion Models**|Hidir Yesiltepe et.al.|[2403.19738v1](http://arxiv.org/abs/2403.19738v1)|null|
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653v1](http://arxiv.org/abs/2403.19653v1)|**[link](https://github.com/k8xu/imageattribution)**|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|null|
 |**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645v1](http://arxiv.org/abs/2403.19645v1)|null|
@@ -5367,6 +5376,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Psychometry: An Omnifit Model for Image Reconstruction from Human Brain Activity**|Ruijie Quan et.al.|[2403.20022v1](http://arxiv.org/abs/2403.20022v1)|null|
+|**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018v1](http://arxiv.org/abs/2403.20018v1)|**[link](https://github.com/wu-cvgl/scinerf)**|
+|**2024-03-29**|**Multi-task Magnetic Resonance Imaging Reconstruction using Meta-learning**|Wanyu Bian et.al.|[2403.19966v1](http://arxiv.org/abs/2403.19966v1)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476v1](http://arxiv.org/abs/2403.18476v1)|null|
 |**2024-03-27**|**NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation**|Jingyang Huo et.al.|[2403.18211v1](http://arxiv.org/abs/2403.18211v1)|null|
 |**2024-03-26**|**Pseudo-MRI-Guided PET Image Reconstruction Method Based on a Diffusion Probabilistic Model**|Weijie Gan et.al.|[2403.18139v1](http://arxiv.org/abs/2403.18139v1)|null|
@@ -6175,6 +6187,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting**|Haipeng Liu et.al.|[2403.19898v1](http://arxiv.org/abs/2403.19898v1)|**[link](https://github.com/htyjers/strdiffusion)**|
 |**2024-03-28**|**Locate, Assign, Refine: Taming Customized Image Inpainting with Text-Subject Guidance**|Yulin Pan et.al.|[2403.19534v1](http://arxiv.org/abs/2403.19534v1)|null|
 |**2024-03-27**|**Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting**|Haiwei Chen et.al.|[2403.18186v1](http://arxiv.org/abs/2403.18186v1)|null|
 |**2024-03-26**|**An inexact proximal MM method for a class of nonconvex composite image reconstruction models**|Bujin Li et.al.|[2403.17450v1](http://arxiv.org/abs/2403.17450v1)|null|
