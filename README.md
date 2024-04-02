@@ -48,7 +48,7 @@
 |**2024-03-28**|**RecDiffusion: Rectangling for Image Stitching with Diffusion Models**|Tianhao Zhou et.al.|[2403.19164v1](http://arxiv.org/abs/2403.19164v1)|**[link](https://github.com/lhaippp/recdiffusion)**|
 |**2024-03-28**|**MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation**|Seyeon Kim et.al.|[2403.19144v1](http://arxiv.org/abs/2403.19144v1)|**[link](https://github.com/KU-CVLAB/MoDiTalker)**|
 |**2024-03-28**|**QNCD: Quantization Noise Correction for Diffusion Models**|Huanpeng Chu et.al.|[2403.19140v1](http://arxiv.org/abs/2403.19140v1)|**[link](https://github.com/huanpengchu/qncd)**|
-|**2024-03-27**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026v1](http://arxiv.org/abs/2403.19026v1)|null|
+|**2024-03-30**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026v2](http://arxiv.org/abs/2403.19026v2)|null|
 |**2024-03-27**|**TextCraftor: Your Text Encoder Can be Image Quality Controller**|Yanyu Li et.al.|[2403.18978v1](http://arxiv.org/abs/2403.18978v1)|null|
 |**2024-03-27**|**CPR: Retrieval Augmented Generation for Copyright Protection**|Aditya Golatkar et.al.|[2403.18920v1](http://arxiv.org/abs/2403.18920v1)|null|
 |**2024-03-27**|**A Geometric Explanation of the Likelihood OOD Detection Paradox**|Hamidreza Kamkari et.al.|[2403.18910v1](http://arxiv.org/abs/2403.18910v1)|**[link](https://github.com/layer6ai-labs/dgm_ood_detection)**|
@@ -74,7 +74,7 @@
 |**2024-03-28**|**Oh! We Freeze: Improving Quantized Knowledge Distillation via Signal Propagation Analysis for Large Language Models**|Kartikeya Bhardwaj et.al.|[2403.18159v2](http://arxiv.org/abs/2403.18159v2)|null|
 |**2024-03-26**|**Tutorial on Diffusion Models for Imaging and Vision**|Stanley H. Chan et.al.|[2403.18103v1](http://arxiv.org/abs/2403.18103v1)|null|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036v1](http://arxiv.org/abs/2403.18036v1)|**[link](https://github.com/afford-motion/afford-motion)**|
-|**2024-03-26**|**Bidirectional Consistency Models**|Liangchen Li et.al.|[2403.18035v1](http://arxiv.org/abs/2403.18035v1)|null|
+|**2024-03-30**|**Bidirectional Consistency Models**|Liangchen Li et.al.|[2403.18035v2](http://arxiv.org/abs/2403.18035v2)|null|
 |**2024-03-26**|**Mixing Artificial and Natural Intelligence: From Statistical Mechanics to AI and Back to Turbulence**|Michael et.al.|[2403.17993v1](http://arxiv.org/abs/2403.17993v1)|null|
 |**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924v1](http://arxiv.org/abs/2403.17924v1)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
 |**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870v1](http://arxiv.org/abs/2403.17870v1)|null|
@@ -3664,7 +3664,7 @@
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451v1](http://arxiv.org/abs/2403.11451v1)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423v1](http://arxiv.org/abs/2403.11423v1)|**[link](https://github.com/alphacatplus/vmambair)**|
 |**2024-03-17**|**Adaptive Semantic-Enhanced Denoising Diffusion Probabilistic Model for Remote Sensing Image Super-Resolution**|Jialu Sui et.al.|[2403.11078v1](http://arxiv.org/abs/2403.11078v1)|**[link](https://github.com/littlebeen/asddpm-adaptive-semantic-enhanced-ddpm)**|
-|**2024-03-16**|**Boosting Flow-based Generative Super-Resolution Models via Learned Prior**|Li-Yuan Tsao et.al.|[2403.10988v1](http://arxiv.org/abs/2403.10988v1)|**[link](https://github.com/liyuantsao/flowsr-lp)**|
+|**2024-03-30**|**Boosting Flow-based Generative Super-Resolution Models via Learned Prior**|Li-Yuan Tsao et.al.|[2403.10988v2](http://arxiv.org/abs/2403.10988v2)|**[link](https://github.com/liyuantsao/flowsr-lp)**|
 |**2024-03-16**|**Learning Dual-Level Deformable Implicit Representation for Real-World Scale Arbitrary Super-Resolution**|Zhiheng Li et.al.|[2403.10925v1](http://arxiv.org/abs/2403.10925v1)|null|
 |**2024-03-15**|**A General Method to Incorporate Spatial Information into Loss Functions for GAN-based Super-resolution Models**|Xijun Wang et.al.|[2403.10589v1](http://arxiv.org/abs/2403.10589v1)|null|
 |**2024-03-15**|**Solving General Noisy Inverse Problem via Posterior Sampling: A Policy Gradient Viewpoint**|Haoyue Tang et.al.|[2403.10585v1](http://arxiv.org/abs/2403.10585v1)|null|
