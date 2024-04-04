@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|null|
+|**2024-04-03**|**Fast Diffusion Model For Seismic Data Noise Attenuation**|Junheng Peng et.al.|[2404.02767v1](http://arxiv.org/abs/2404.02767v1)|null|
+|**2024-04-03**|**Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models**|Wentian Zhang et.al.|[2404.02747v1](http://arxiv.org/abs/2404.02747v1)|**[link](https://github.com/haozheliu-st/t-gate)**|
+|**2024-04-03**|**Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition**|Behrooz Razeghi et.al.|[2404.02696v1](http://arxiv.org/abs/2404.02696v1)|null|
+|**2024-04-03**|**Diffexplainer: Towards Cross-modal Global Explanations with Diffusion Models**|Matteo Pennisi et.al.|[2404.02618v1](http://arxiv.org/abs/2404.02618v1)|null|
+|**2024-04-03**|**A Unified Editing Method for Co-Speech Gesture Generation via Diffusion Inversion**|Zeyu Zhao et.al.|[2404.02411v1](http://arxiv.org/abs/2404.02411v1)|null|
+|**2024-04-03**|**Enhancing Diffusion-based Point Cloud Generation with Smoothness Constraint**|Yukun Li et.al.|[2404.02396v1](http://arxiv.org/abs/2404.02396v1)|null|
+|**2024-04-02**|**Semantic Augmentation in Images using Language**|Sahiti Yerramilli et.al.|[2404.02353v1](http://arxiv.org/abs/2404.02353v1)|null|
+|**2024-04-02**|**Heat Death of Generative Models in Closed-Loop Learning**|Matteo Marchi et.al.|[2404.02325v1](http://arxiv.org/abs/2404.02325v1)|null|
+|**2024-04-02**|**APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models**|Apan Dastider et.al.|[2404.02284v1](http://arxiv.org/abs/2404.02284v1)|null|
+|**2024-04-02**|**Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better**|Enshu Liu et.al.|[2404.02241v1](http://arxiv.org/abs/2404.02241v1)|**[link](https://github.com/imagination-research/lcsc)**|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148v1](http://arxiv.org/abs/2404.02148v1)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082v1](http://arxiv.org/abs/2404.02082v1)|**[link](https://github.com/yangchen1997/wcdt)**|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003v2](http://arxiv.org/abs/2404.02003v2)|null|
@@ -3677,6 +3688,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim Guy Tshuva et.al.|[2404.02797v1](http://arxiv.org/abs/2404.02797v1)|null|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
+|**2024-04-03**|**Two-Stage Super-Resolution Simulation Method for Three-Dimensional Flow Fields Around Buildings for Real-Time Prediction of Urban Micrometeorology**|Yuki Yasuda et.al.|[2404.02631v1](http://arxiv.org/abs/2404.02631v1)|null|
+|**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
 |**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790v1](http://arxiv.org/abs/2404.01790v1)|null|
 |**2024-04-03**|**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation**|Rui Xie et.al.|[2404.01717v2](http://arxiv.org/abs/2404.01717v2)|null|
 |**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v1](http://arxiv.org/abs/2404.01692v1)|null|
@@ -4538,6 +4553,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
 |**2024-04-02**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v1](http://arxiv.org/abs/2404.01692v1)|null|
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
