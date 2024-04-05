@@ -3688,13 +3688,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-03**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim Guy Tshuva et.al.|[2404.02797v1](http://arxiv.org/abs/2404.02797v1)|null|
+|**2024-04-04**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim et.al.|[2404.02797v2](http://arxiv.org/abs/2404.02797v2)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
 |**2024-04-03**|**Two-Stage Super-Resolution Simulation Method for Three-Dimensional Flow Fields Around Buildings for Real-Time Prediction of Urban Micrometeorology**|Yuki Yasuda et.al.|[2404.02631v1](http://arxiv.org/abs/2404.02631v1)|null|
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
 |**2024-04-02**|**Super-Resolution Analysis for Landfill Waste Classification**|Matias Molina et.al.|[2404.01790v1](http://arxiv.org/abs/2404.01790v1)|null|
 |**2024-04-03**|**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation**|Rui Xie et.al.|[2404.01717v2](http://arxiv.org/abs/2404.01717v2)|null|
-|**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v2](http://arxiv.org/abs/2404.01692v2)|null|
+|**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v2](http://arxiv.org/abs/2404.01692v2)|**[link](https://github.com/jaehakim97/sr4ir)**|
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-01**|**Video Interpolation with Diffusion Models**|Siddhant Jain et.al.|[2404.01203v1](http://arxiv.org/abs/2404.01203v1)|null|
 |**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874v1](http://arxiv.org/abs/2404.00874v1)|null|
@@ -4554,7 +4554,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
-|**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v2](http://arxiv.org/abs/2404.01692v2)|null|
+|**2024-04-04**|**Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss**|Jaeha Kim et.al.|[2404.01692v2](http://arxiv.org/abs/2404.01692v2)|**[link](https://github.com/jaehakim97/sr4ir)**|
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
