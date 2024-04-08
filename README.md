@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243v1](http://arxiv.org/abs/2404.04243v1)|null|
+|**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193v1](http://arxiv.org/abs/2404.04193v1)|null|
+|**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095v1](http://arxiv.org/abs/2404.04095v1)|**[link](https://github.com/mowenyii/pae)**|
+|**2024-04-05**|**Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation**|Mingyuan Zhou et.al.|[2404.04057v1](http://arxiv.org/abs/2404.04057v1)|null|
+|**2024-04-05**|**Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models**|Gihyun Kwon et.al.|[2404.03913v1](http://arxiv.org/abs/2404.03913v1)|null|
+|**2024-04-04**|**Bi-level Guided Diffusion Models for Zero-Shot Medical Imaging Inverse Problems**|Hossein Askari et.al.|[2404.03706v1](http://arxiv.org/abs/2404.03706v1)|null|
+|**2024-04-04**|**Mitigating analytical variability in fMRI results with style transfer**|Elodie Germani et.al.|[2404.03703v1](http://arxiv.org/abs/2404.03703v1)|null|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656v1](http://arxiv.org/abs/2404.03656v1)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653v1](http://arxiv.org/abs/2404.03653v1)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652v1](http://arxiv.org/abs/2404.03652v1)|null|
@@ -46,7 +53,7 @@
 |**2024-04-03**|**ASAP: Interpretable Analysis and Summarization of AI-generated Image Patterns at Scale**|Jinbin Huang et.al.|[2404.02990v1](http://arxiv.org/abs/2404.02990v1)|null|
 |**2024-04-03**|**Deep Generative Models through the Lens of the Manifold Hypothesis: A Survey and New Connections**|Gabriel Loaiza-Ganem et.al.|[2404.02954v1](http://arxiv.org/abs/2404.02954v1)|null|
 |**2024-04-02**|**Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models**|Jiachen Ma et.al.|[2404.02928v1](http://arxiv.org/abs/2404.02928v1)|null|
-|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|null|
+|**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903v1](http://arxiv.org/abs/2404.02903v1)|**[link](https://github.com/vzyrianov/LidarDM)**|
 |**2024-04-03**|**Fast Diffusion Model For Seismic Data Noise Attenuation**|Junheng Peng et.al.|[2404.02767v1](http://arxiv.org/abs/2404.02767v1)|null|
 |**2024-04-03**|**Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models**|Wentian Zhang et.al.|[2404.02747v1](http://arxiv.org/abs/2404.02747v1)|**[link](https://github.com/haozheliu-st/t-gate)**|
 |**2024-04-03**|**Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition**|Behrooz Razeghi et.al.|[2404.02696v1](http://arxiv.org/abs/2404.02696v1)|null|
@@ -3708,6 +3715,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Real-GDSR: Real-World Guided DSM Super-Resolution via Edge-Enhancing Residual Network**|Daniel Panangian et.al.|[2404.03930v1](http://arxiv.org/abs/2404.03930v1)|null|
+|**2024-04-05**|**The ESPRIT algorithm under high noise: Optimal error scaling and noisy super-resolution**|Zhiyan Ding et.al.|[2404.03885v1](http://arxiv.org/abs/2404.03885v1)|null|
 |**2024-04-04**|**AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution**|Cheeun Hong et.al.|[2404.03296v1](http://arxiv.org/abs/2404.03296v1)|**[link](https://github.com/Cheeun/AdaBM)**|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209v1](http://arxiv.org/abs/2404.03209v1)|null|
 |**2024-04-04**|**Quantum enhanced mechanical rotation sensing using wavefront photonic gears**|Ofir Yesharim et.al.|[2404.02797v2](http://arxiv.org/abs/2404.02797v2)|null|
@@ -5142,7 +5151,7 @@
 |**2024-03-27**|**Towards Image Ambient Lighting Normalization**|Florin-Alexandru Vasluianu et.al.|[2403.18730v1](http://arxiv.org/abs/2403.18730v1)|null|
 |**2024-03-26**|**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**|Mohammad Shahab Sepehri et.al.|[2403.17902v1](http://arxiv.org/abs/2403.17902v1)|null|
 |**2024-03-26**|**SeNM-VAE: Semi-Supervised Noise Modeling with Hierarchical Variational Autoencoder**|Dihan Zheng et.al.|[2403.17502v1](http://arxiv.org/abs/2403.17502v1)|**[link](https://github.com/zhengdharia/SeNM-VAE)**|
-|**2024-03-26**|**Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance**|Donghoon Ahn et.al.|[2403.17377v1](http://arxiv.org/abs/2403.17377v1)|null|
+|**2024-03-26**|**Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance**|Donghoon Ahn et.al.|[2403.17377v1](http://arxiv.org/abs/2403.17377v1)|**[link](https://github.com/Min-Jaewon/PSLD_PAG)**|
 |**2024-04-02**|**Distilling Semantic Priors from SAM to Efficient Image Restoration Models**|Quan Zhang et.al.|[2403.16368v2](http://arxiv.org/abs/2403.16368v2)|null|
 |**2024-03-23**|**Graph Image Prior for Unsupervised Dynamic MRI Reconstruction**|Zhongsen Li et.al.|[2403.15770v1](http://arxiv.org/abs/2403.15770v1)|**[link](https://github.com/lizs17/gip_cardiac_mri)**|
 |**2024-03-22**|**Latent Neural Cellular Automata for Resource-Efficient Image Restoration**|Andrea Menta et.al.|[2403.15525v1](http://arxiv.org/abs/2403.15525v1)|null|
@@ -5480,6 +5489,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Convolutional variational autoencoders for secure lossy image compression in remote sensing**|Alessandro Giuliano et.al.|[2404.03696v1](http://arxiv.org/abs/2404.03696v1)|null|
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126v1](http://arxiv.org/abs/2404.03126v1)|null|
 |**2024-04-02**|**Two-Phase Multi-Dose-Level PET Image Reconstruction with Dose Level Awareness**|Yuchen Fei et.al.|[2404.01563v1](http://arxiv.org/abs/2404.01563v1)|null|
 |**2024-04-02**|**Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining**|Xiang Chen et.al.|[2404.01547v1](http://arxiv.org/abs/2404.01547v1)|**[link](https://github.com/cschenxiang/nerd-rain)**|
@@ -6478,6 +6488,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Mitigating analytical variability in fMRI results with style transfer**|Elodie Germani et.al.|[2404.03703v1](http://arxiv.org/abs/2404.03703v1)|null|
 |**2024-04-03**|**MeshBrush: Painting the Anatomical Mesh with Neural Stylization for Endoscopy**|John J. Han et.al.|[2404.02999v1](http://arxiv.org/abs/2404.02999v1)|null|
 |**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067v1](http://arxiv.org/abs/2404.02067v1)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
 |**2024-04-02**|**MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages**|Daryna Dementieva et.al.|[2404.02037v1](http://arxiv.org/abs/2404.02037v1)|null|
