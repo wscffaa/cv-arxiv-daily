@@ -63,11 +63,11 @@
 |**2024-04-02**|**Semantic Augmentation in Images using Language**|Sahiti Yerramilli et.al.|[2404.02353v1](http://arxiv.org/abs/2404.02353v1)|null|
 |**2024-04-02**|**Heat Death of Generative Models in Closed-Loop Learning**|Matteo Marchi et.al.|[2404.02325v1](http://arxiv.org/abs/2404.02325v1)|null|
 |**2024-04-02**|**APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models**|Apan Dastider et.al.|[2404.02284v1](http://arxiv.org/abs/2404.02284v1)|null|
-|**2024-04-02**|**Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better**|Enshu Liu et.al.|[2404.02241v1](http://arxiv.org/abs/2404.02241v1)|**[link](https://github.com/imagination-research/lcsc)**|
+|**2024-04-08**|**Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better**|Enshu Liu et.al.|[2404.02241v2](http://arxiv.org/abs/2404.02241v2)|**[link](https://github.com/imagination-research/lcsc)**|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148v1](http://arxiv.org/abs/2404.02148v1)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082v1](http://arxiv.org/abs/2404.02082v1)|**[link](https://github.com/yangchen1997/wcdt)**|
 |**2024-04-03**|**AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design**|Xinze Li et.al.|[2404.02003v2](http://arxiv.org/abs/2404.02003v2)|null|
-|**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959v1](http://arxiv.org/abs/2404.01959v1)|null|
+|**2024-04-07**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959v2](http://arxiv.org/abs/2404.01959v2)|null|
 |**2024-04-02**|**Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model**|Xu He et.al.|[2404.01862v1](http://arxiv.org/abs/2404.01862v1)|**[link](https://github.com/thuhcsi/s2g-mddiffusion)**|
 |**2024-04-02**|**Upsample Guidance: Scale Up Diffusion Models without Training**|Juno Hwang et.al.|[2404.01709v1](http://arxiv.org/abs/2404.01709v1)|null|
 |**2024-04-05**|**FashionEngine: Interactive Generation and Editing of 3D Clothed Humans**|Tao Hu et.al.|[2404.01655v2](http://arxiv.org/abs/2404.01655v2)|null|
@@ -3733,7 +3733,7 @@
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349v1](http://arxiv.org/abs/2404.00349v1)|null|
 |**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
-|**2024-04-03**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v2](http://arxiv.org/abs/2403.19428v2)|**[link](https://github.com/placerkyo/bsrd)**|
+|**2024-04-08**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v3](http://arxiv.org/abs/2403.19428v3)|**[link](https://github.com/placerkyo/bsrd)**|
 |**2024-03-28**|**Structured illumination microscopy with extreme ultraviolet pulses**|R. Mincigrucci et.al.|[2403.19382v1](http://arxiv.org/abs/2403.19382v1)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
 |**2024-03-27**|**Breaking the Limitations with Sparse Inputs by Variational Frameworks (BLIss) in Terahertz Super-Resolution 3D Reconstruction**|Yiyao Zhang et.al.|[2403.18776v1](http://arxiv.org/abs/2403.18776v1)|**[link](https://github.com/cyiyoo/bliss)**|
@@ -6534,7 +6534,7 @@
 |**2024-03-22**|**ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer**|Bumsoo Kim et.al.|[2402.02733v3](http://arxiv.org/abs/2402.02733v3)|null|
 |**2024-03-06**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v2](http://arxiv.org/abs/2402.01950v2)|**[link](https://github.com/xingy038/conrf)**|
 |**2024-02-05**|**Phrase Grounding-based Style Transfer for Single-Domain Generalized Object Detection**|Hao Li et.al.|[2402.01304v2](http://arxiv.org/abs/2402.01304v2)|null|
-|**2024-02-02**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863v2](http://arxiv.org/abs/2402.00863v2)|null|
+|**2024-04-06**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863v3](http://arxiv.org/abs/2402.00863v3)|null|
 |**2024-02-01**|**Neural Style Transfer with Twin-Delayed DDPG for Shared Control of Robotic Manipulators**|Raul Fernandez-Fernandez et.al.|[2402.00722v1](http://arxiv.org/abs/2402.00722v1)|null|
 |**2024-02-01**|**Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00677v1](http://arxiv.org/abs/2402.00677v1)|null|
 |**2024-02-01**|**Transferring human emotions to robot motions using Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00663v1](http://arxiv.org/abs/2402.00663v1)|null|
