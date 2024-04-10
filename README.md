@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481v1](http://arxiv.org/abs/2404.06481v1)|null|
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
+|**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425v1](http://arxiv.org/abs/2404.06425v1)|null|
+|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356v1](http://arxiv.org/abs/2404.06356v1)|null|
+|**2024-04-09**|**Quantum State Generation with Structure-Preserving Diffusion Model**|Yuchen Zhu et.al.|[2404.06336v1](http://arxiv.org/abs/2404.06336v1)|null|
+|**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139v1](http://arxiv.org/abs/2404.06139v1)|null|
+|**2024-04-09**|**Hash3D: Training-free Acceleration for 3D Generation**|Xingyi Yang et.al.|[2404.06091v1](http://arxiv.org/abs/2404.06091v1)|**[link](https://github.com/Adamdad/hash3D)**|
+|**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012v1](http://arxiv.org/abs/2404.06012v1)|null|
+|**2024-04-09**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980v1](http://arxiv.org/abs/2404.05980v1)|null|
+|**2024-04-09**|**Map Optical Properties to Subwavelength Structures Directly via a Diffusion Model**|Shijie Rao et.al.|[2404.05959v1](http://arxiv.org/abs/2404.05959v1)|null|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674v1](http://arxiv.org/abs/2404.05674v1)|null|
 |**2024-04-08**|**YaART: Yet Another ART Rendering Technology**|Sergey Kastryulin et.al.|[2404.05666v1](http://arxiv.org/abs/2404.05666v1)|null|
 |**2024-04-08**|**BinaryDM: Towards Accurate Binarization of Diffusion Model**|Xingyu Zheng et.al.|[2404.05662v1](http://arxiv.org/abs/2404.05662v1)|null|
@@ -3744,6 +3754,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400v1](http://arxiv.org/abs/2404.06400v1)|null|
+|**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
+|**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
+|**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036v1](http://arxiv.org/abs/2404.06036v1)|null|
+|**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012v1](http://arxiv.org/abs/2404.06012v1)|null|
+|**2024-04-09**|**Resolution enhancement of SOHO/MDI Magnetograms**|Ying Qin et.al.|[2404.05968v1](http://arxiv.org/abs/2404.05968v1)|null|
 |**2024-04-08**|**Nanomolecular OLED Pixelization Enabling Electroluminescent Metasurfaces**|Tommaso Marcato et.al.|[2404.05336v1](http://arxiv.org/abs/2404.05336v1)|null|
 |**2024-04-07**|**Gull: A Generative Multifunctional Audio Codec**|Yi Luo et.al.|[2404.04947v1](http://arxiv.org/abs/2404.04947v1)|null|
 |**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922v1](http://arxiv.org/abs/2404.04922v1)|null|
@@ -4623,6 +4639,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
+|**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
 |**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922v1](http://arxiv.org/abs/2404.04922v1)|null|
 |**2024-04-04**|**AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution**|Cheeun Hong et.al.|[2404.03296v1](http://arxiv.org/abs/2404.03296v1)|**[link](https://github.com/Cheeun/AdaBM)**|
 |**2024-04-03**|**Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution**|Simiao Li et.al.|[2404.02573v1](http://arxiv.org/abs/2404.02573v1)|null|
@@ -4940,6 +4958,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036v1](http://arxiv.org/abs/2404.06036v1)|null|
 |**2024-04-06**|**Collaborative Feedback Discriminative Propagation for Video Super-Resolution**|Hao Li et.al.|[2404.04745v1](http://arxiv.org/abs/2404.04745v1)|**[link](https://github.com/house-leo/cfdvsr)**|
 |**2024-04-03**|**Translation-based Video-to-Video Synthesis**|Pratim Saha et.al.|[2404.04283v1](http://arxiv.org/abs/2404.04283v1)|null|
 |**2024-03-25**|**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution**|Zhikai Chen et.al.|[2403.17000v1](http://arxiv.org/abs/2403.17000v1)|null|
@@ -5143,6 +5162,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**ColorMNet: A Memory-based Deep Spatial-Temporal Feature Propagation Network for Video Colorization**|Yixin Yang et.al.|[2404.06251v1](http://arxiv.org/abs/2404.06251v1)|**[link](https://github.com/yyang181/colormnet)**|
 |**2024-03-04**|**Piet: Facilitating Color Authoring for Motion Graphics Video**|Xinyu Shi et.al.|[2403.02199v1](http://arxiv.org/abs/2403.02199v1)|null|
 |**2023-08-09**|**Histogram-guided Video Colorization Structure with Spatial-Temporal Connection**|Zheyuan Liu et.al.|[2308.04899v1](http://arxiv.org/abs/2308.04899v1)|null|
 |**2023-06-25**|**Improving Video Colorization by Test-Time Tuning**|Yaping Zhao et.al.|[2307.11757v1](http://arxiv.org/abs/2307.11757v1)|**[link](https://github.com/indigopurple/t3)**|
@@ -6100,6 +6120,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726v1](http://arxiv.org/abs/2404.04726v1)|null|
 |**2024-04-04**|**Spatio-Spectral Structure Tensor Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|[2404.03313v1](http://arxiv.org/abs/2404.03313v1)|**[link](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)**|
 |**2024-04-02**|**Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration**|Akshay Dudhane et.al.|[2404.02154v1](http://arxiv.org/abs/2404.02154v1)|**[link](https://github.com/akshaydudhane16/dynet)**|
