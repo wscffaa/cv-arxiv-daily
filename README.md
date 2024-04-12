@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987v1](http://arxiv.org/abs/2404.07987v1)|null|
+|**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949v1](http://arxiv.org/abs/2404.07949v1)|**[link](https://github.com/chengzhag/panfusion)**|
+|**2024-04-11**|**Adaptive Hyperbolic-cross-space Mapped Jacobi Method on Unbounded Domains with Applications to Solving Multidimensional Spatiotemporal Integrodifferential Equations**|Yunhong Deng et.al.|[2404.07844v1](http://arxiv.org/abs/2404.07844v1)|null|
+|**2024-04-11**|**ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model**|Lifan Jiang et.al.|[2404.07773v1](http://arxiv.org/abs/2404.07773v1)|null|
+|**2024-04-11**|**An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization**|Minshuo Chen et.al.|[2404.07771v1](http://arxiv.org/abs/2404.07771v1)|null|
+|**2024-04-11**|**Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations**|Yufeng Yue et.al.|[2404.07770v1](http://arxiv.org/abs/2404.07770v1)|null|
+|**2024-04-11**|**Diffusing in Someone Else's Shoes: Robotic Perspective Taking with Diffusion**|Josua Spisak et.al.|[2404.07735v1](http://arxiv.org/abs/2404.07735v1)|null|
+|**2024-04-11**|**Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models**|Tuomas Kynkäänniemi et.al.|[2404.07724v1](http://arxiv.org/abs/2404.07724v1)|null|
+|**2024-04-11**|**Implicit and Explicit Language Guidance for Diffusion-based Visual Perception**|Hefeng Wang et.al.|[2404.07600v1](http://arxiv.org/abs/2404.07600v1)|null|
+|**2024-04-11**|**ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation**|Stanislav Frolov et.al.|[2404.07564v1](http://arxiv.org/abs/2404.07564v1)|null|
+|**2024-04-11**|**Effects of phase separation on extinction times in population models**|Janik Schüttler et.al.|[2404.07563v1](http://arxiv.org/abs/2404.07563v1)|null|
+|**2024-04-11**|**CAT: Contrastive Adapter Training for Personalized Image Generation**|Jae Wan Park et.al.|[2404.07554v1](http://arxiv.org/abs/2404.07554v1)|**[link](https://github.com/OnomaAi101/CAT)**|
+|**2024-04-10**|**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models**|Yasi Zhang et.al.|[2404.07389v1](http://arxiv.org/abs/2404.07389v1)|null|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206v1](http://arxiv.org/abs/2404.07206v1)|null|
 |**2024-04-10**|**RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**|Jaidev Shriram et.al.|[2404.07199v1](http://arxiv.org/abs/2404.07199v1)|null|
 |**2024-04-10**|**InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models**|Jiale Xu et.al.|[2404.07191v1](http://arxiv.org/abs/2404.07191v1)|**[link](https://github.com/tencentarc/instantmesh)**|
@@ -3769,6 +3782,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
+|**2024-04-11**|**Near-field reconstruction of periodic structures with superimposed illumination**|Jue Wang et.al.|[2404.07763v1](http://arxiv.org/abs/2404.07763v1)|null|
+|**2024-04-11**|**Deep learning-driven pulmonary arteries and veins segmentation reveals demography-associated pulmonary vasculature anatomy**|Yuetan Chu et.al.|[2404.07671v1](http://arxiv.org/abs/2404.07671v1)|**[link](https://github.com/arturia-pendragon-iris/hipas_av_segmentation)**|
 |**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400v1](http://arxiv.org/abs/2404.06400v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
@@ -4655,6 +4671,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
 |**2024-04-07**|**Efficient Learnable Collaborative Attention for Single Image Super-Resolution**|Yigang Zhao Chaowei Zheng et.al.|[2404.04922v1](http://arxiv.org/abs/2404.04922v1)|null|
@@ -5220,6 +5237,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846v1](http://arxiv.org/abs/2404.07846v1)|**[link](https://github.com/nagejacob/tbsn)**|
+|**2024-04-11**|**Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations**|Yufeng Yue et.al.|[2404.07770v1](http://arxiv.org/abs/2404.07770v1)|null|
 |**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-07**|**STAIC regularization for spatio-temporal image reconstruction**|Deepak G Skariah et.al.|[2404.05070v1](http://arxiv.org/abs/2404.05070v1)|null|
 |**2024-04-09**|**Empowering Image Recovery_ A Multi-Attention Approach**|Juan Wen et.al.|[2404.04617v2](http://arxiv.org/abs/2404.04617v2)|null|
@@ -5571,6 +5590,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Recovering the gas properties of protoplanetary disks through parametric visibility modeling: MHO 6**|Nicolas T. Kurtovic et.al.|[2404.07349v1](http://arxiv.org/abs/2404.07349v1)|null|
 |**2024-04-10**|**Accelerating Cardiac MRI Reconstruction with CMRatt: An Attention-Driven Approach**|Anam Hashmi et.al.|[2404.06941v1](http://arxiv.org/abs/2404.06941v1)|null|
 |**2024-04-10**|**PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles**|Zhengru Fang et.al.|[2404.06891v1](http://arxiv.org/abs/2404.06891v1)|null|
 |**2024-04-10**|**Spiral Scanning and Self-Supervised Image Reconstruction Enable Ultra-Sparse Sampling Multispectral Photoacoustic Tomography**|Yutian Zhong et.al.|[2404.06695v1](http://arxiv.org/abs/2404.06695v1)|null|
@@ -6141,6 +6161,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846v1](http://arxiv.org/abs/2404.07846v1)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726v1](http://arxiv.org/abs/2404.04726v1)|null|
 |**2024-04-04**|**Spatio-Spectral Structure Tensor Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|[2404.03313v1](http://arxiv.org/abs/2404.03313v1)|**[link](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)**|
