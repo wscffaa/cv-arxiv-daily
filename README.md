@@ -38,7 +38,7 @@
 |**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814v1](http://arxiv.org/abs/2404.06814v1)|null|
 |**2024-04-10**|**Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**|Fan Lu et.al.|[2404.06780v1](http://arxiv.org/abs/2404.06780v1)|null|
 |**2024-04-10**|**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**|Jianxiang Xiang et.al.|[2404.06760v1](http://arxiv.org/abs/2404.06760v1)|null|
-|**2024-04-10**|**Disguised Copyright Infringement of Latent Diffusion Model**|Yiwei Lu et.al.|[2404.06737v1](http://arxiv.org/abs/2404.06737v1)|null|
+|**2024-04-11**|**Disguised Copyright Infringement of Latent Diffusion Models**|Yiwei Lu et.al.|[2404.06737v2](http://arxiv.org/abs/2404.06737v2)|null|
 |**2024-04-10**|**Efficient Denoising using Score Embedding in Score-based Diffusion Models**|Andrew S. Na et.al.|[2404.06661v1](http://arxiv.org/abs/2404.06661v1)|null|
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542v1](http://arxiv.org/abs/2404.06542v1)|null|
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481v1](http://arxiv.org/abs/2404.06481v1)|null|
@@ -73,7 +73,7 @@
 |**2024-04-07**|**Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution**|Guangyuan Li et.al.|[2404.04785v1](http://arxiv.org/abs/2404.04785v1)|**[link](https://github.com/guangyuankk/diffmsr)**|
 |**2024-04-06**|**InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization**|Xiefan Guo et.al.|[2404.04650v1](http://arxiv.org/abs/2404.04650v1)|**[link](https://github.com/xiefan-guo/initno)**|
 |**2024-04-06**|**DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation**|Duy-Tho Le et.al.|[2404.04629v1](http://arxiv.org/abs/2404.04629v1)|null|
-|**2024-04-06**|**Diffusion Time-step Curriculum for One Image to 3D Generation**|Xuanyu Yi et.al.|[2404.04562v1](http://arxiv.org/abs/2404.04562v1)|**[link](https://github.com/yxymessi/dtc123)**|
+|**2024-04-11**|**Diffusion Time-step Curriculum for One Image to 3D Generation**|Xuanyu Yi et.al.|[2404.04562v2](http://arxiv.org/abs/2404.04562v2)|**[link](https://github.com/yxymessi/dtc123)**|
 |**2024-04-06**|**BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion**|Gwanghyun Kim et.al.|[2404.04544v1](http://arxiv.org/abs/2404.04544v1)|null|
 |**2024-04-06**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526v1](http://arxiv.org/abs/2404.04526v1)|null|
 |**2024-04-06**|**Latent-based Diffusion Model for Long-tailed Recognition**|Pengxiao Han et.al.|[2404.04517v1](http://arxiv.org/abs/2404.04517v1)|null|
@@ -3769,7 +3769,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|null|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-09**|**Dynamic Deep Learning Based Super-Resolution For The Shallow Water Equations**|Maximilian Witte et.al.|[2404.06400v1](http://arxiv.org/abs/2404.06400v1)|null|
 |**2024-04-09**|**Fortifying Fully Convolutional Generative Adversarial Networks for Image Super-Resolution Using Divergence Measures**|Arkaprabha Basu et.al.|[2404.06294v1](http://arxiv.org/abs/2404.06294v1)|null|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
@@ -5220,7 +5220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|null|
+|**2024-04-10**|**Unfolding ADMM for Enhanced Subspace Clustering of Hyperspectral Images**|Xianlu Li et.al.|[2404.07112v1](http://arxiv.org/abs/2404.07112v1)|**[link](https://github.com/lxlscut/Unfolding-ADMM-for-Enhanced-Subspace-Clustering-of-Hyperspectral-Images)**|
 |**2024-04-07**|**STAIC regularization for spatio-temporal image reconstruction**|Deepak G Skariah et.al.|[2404.05070v1](http://arxiv.org/abs/2404.05070v1)|null|
 |**2024-04-09**|**Empowering Image Recovery_ A Multi-Attention Approach**|Juan Wen et.al.|[2404.04617v2](http://arxiv.org/abs/2404.04617v2)|null|
 |**2024-04-04**|**DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior**|Yiming Zhang et.al.|[2404.03642v1](http://arxiv.org/abs/2404.03642v1)|null|
