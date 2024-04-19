@@ -35,7 +35,7 @@
 |**2024-04-17**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474v1](http://arxiv.org/abs/2404.11474v1)|**[link](https://github.com/jamie-cheung/lsast)**|
 |**2024-04-17**|**Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption**|Buzhen Huang et.al.|[2404.11291v1](http://arxiv.org/abs/2404.11291v1)|**[link](https://github.com/boycehbz/humaninteraction)**|
 |**2024-04-17**|**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case**|João Gabriel Vinholi et.al.|[2404.11243v1](http://arxiv.org/abs/2404.11243v1)|null|
-|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199v1](http://arxiv.org/abs/2404.11199v1)|null|
+|**2024-04-17**|**RiboDiffusion: Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models**|Han Huang et.al.|[2404.11199v1](http://arxiv.org/abs/2404.11199v1)|**[link](https://github.com/ml4bio/ribodiffusion)**|
 |**2024-04-18**|**LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models**|Dingkun Zhang et.al.|[2404.11098v2](http://arxiv.org/abs/2404.11098v2)|null|
 |**2024-04-16**|**Molecular relaxation by reverse diffusion with time step prediction**|Khaled Kahouli et.al.|[2404.10935v1](http://arxiv.org/abs/2404.10935v1)|**[link](https://github.com/khaledkah/morered)**|
 |**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765v1](http://arxiv.org/abs/2404.10765v1)|null|
@@ -53,7 +53,7 @@
 |**2024-04-16**|**SparseDM: Toward Sparse Efficient Diffusion Models**|Kafeng Wang et.al.|[2404.10445v1](http://arxiv.org/abs/2404.10445v1)|null|
 |**2024-04-16**|**Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior**|Yiqian Wu et.al.|[2404.10394v1](http://arxiv.org/abs/2404.10394v1)|null|
 |**2024-04-16**|**Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery**|Payal Varshney et.al.|[2404.10356v1](http://arxiv.org/abs/2404.10356v1)|null|
-|**2024-04-16**|**Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models**|Qi Guo et.al.|[2404.10335v1](http://arxiv.org/abs/2404.10335v1)|null|
+|**2024-04-18**|**Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models**|Qi Guo et.al.|[2404.10335v2](http://arxiv.org/abs/2404.10335v2)|null|
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-16**|**EucliDreamer: Fast and High-Quality Texturing for 3D Models with Depth-Conditioned Stable Diffusion**|Cindy Le et.al.|[2404.10279v1](http://arxiv.org/abs/2404.10279v1)|null|
 |**2024-04-16**|**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance**|Jiahao Wang et.al.|[2404.10267v1](http://arxiv.org/abs/2404.10267v1)|null|
@@ -3855,7 +3855,7 @@
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-16**|**Little Pilot is Needed for Channel Estimation with Integrated Super-Resolution Sensing and Communication**|Jingran Xu et.al.|[2404.10233v1](http://arxiv.org/abs/2404.10233v1)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817v1](http://arxiv.org/abs/2404.09817v1)|null|
-|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|null|
+|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|**[link](https://github.com/zhengchen1999/ntire2024_imagesr_x4)**|
 |**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571v1](http://arxiv.org/abs/2404.09571v1)|null|
 |**2024-04-15**|**Super-resolution of biomedical volumes with 2D supervision**|Cheng Jiang et.al.|[2404.09425v1](http://arxiv.org/abs/2404.09425v1)|null|
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010v2](http://arxiv.org/abs/2404.08010v2)|null|
@@ -3896,7 +3896,7 @@
 |**2024-04-15**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v4](http://arxiv.org/abs/2404.00722v4)|**[link](https://github.com/ming053l/drct)**|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349v1](http://arxiv.org/abs/2404.00349v1)|null|
-|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
+|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|**[link](https://github.com/aitical/sscsr)**|
 |**2024-04-08**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428v3](http://arxiv.org/abs/2403.19428v3)|**[link](https://github.com/placerkyo/bsrd)**|
 |**2024-03-28**|**Structured illumination microscopy with extreme ultraviolet pulses**|R. Mincigrucci et.al.|[2403.19382v1](http://arxiv.org/abs/2403.19382v1)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
@@ -4753,7 +4753,7 @@
 |**2024-04-16**|**The Ninth NTIRE 2024 Efficient Super-Resolution Challenge Report**|Bin Ren et.al.|[2404.10343v1](http://arxiv.org/abs/2404.10343v1)|**[link](https://github.com/amazingren/ntire2024_esr)**|
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-15**|**The Problem Of Image Super-Resolution, Denoising And Some Image Restoration Methods In Deep Learning Models**|Ngoc-Giau Pham et.al.|[2404.09817v1](http://arxiv.org/abs/2404.09817v1)|null|
-|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|null|
+|**2024-04-15**|**NTIRE 2024 Challenge on Image Super-Resolution ( $\times$ 4): Methods and Results**|Zheng Chen et.al.|[2404.09790v1](http://arxiv.org/abs/2404.09790v1)|**[link](https://github.com/zhengchen1999/ntire2024_imagesr_x4)**|
 |**2024-04-15**|**MTKD: Multi-Teacher Knowledge Distillation for Image Super-Resolution**|Yuxuan Jiang et.al.|[2404.09571v1](http://arxiv.org/abs/2404.09571v1)|null|
 |**2024-04-15**|**Differentiable Search for Finding Optimal Quantization Strategy**|Lianqiang Li et.al.|[2404.08010v2](http://arxiv.org/abs/2404.08010v2)|null|
 |**2024-04-11**|**Terahertz imaging super-resolution for documental heritage diagnostics**|Danae Antunez Vazquez et.al.|[2404.07798v1](http://arxiv.org/abs/2404.07798v1)|null|
@@ -4766,7 +4766,7 @@
 |**2024-04-02**|**RefQSR: Reference-based Quantization for Image Super-Resolution Networks**|Hongjae Lee et.al.|[2404.01690v1](http://arxiv.org/abs/2404.01690v1)|null|
 |**2024-04-15**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v4](http://arxiv.org/abs/2404.00722v4)|**[link](https://github.com/ming053l/drct)**|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
-|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|null|
+|**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|**[link](https://github.com/aitical/sscsr)**|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
 |**2024-03-27**|**Super-Resolution of SOHO/MDI Magnetograms of Solar Active Regions Using SDO/HMI Data and an Attention-Aided Convolutional Neural Network**|Chunhui Xu et.al.|[2403.18302v1](http://arxiv.org/abs/2403.18302v1)|null|
 |**2024-03-26**|**Algorithmic unfolding for image reconstruction and localization problems in fluorescence microscopy**|Silvia Bonettini et.al.|[2403.17506v1](http://arxiv.org/abs/2403.17506v1)|**[link](https://github.com/danilopezzi/agd-unfolding-for-microscopy-imaging)**|
@@ -6265,7 +6265,7 @@
 |**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533v1](http://arxiv.org/abs/2404.09533v1)|**[link](https://github.com/woldier/witunet)**|
 |**2024-04-15**|**Masked and Shuffled Blind Spot Denoising for Real-World Images**|Hamadi Chihaoui et.al.|[2404.09389v1](http://arxiv.org/abs/2404.09389v1)|null|
 |**2024-04-14**|**Minimax Optimal rates of convergence in the shuffled regression, unlinked regression, and deconvolution under vanishing noise**|Cecile Durot et.al.|[2404.09306v1](http://arxiv.org/abs/2404.09306v1)|null|
-|**2024-04-16**|**NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**|Rongjian Xu et.al.|[2404.08514v2](http://arxiv.org/abs/2404.08514v2)|null|
+|**2024-04-16**|**NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**|Rongjian Xu et.al.|[2404.08514v2](http://arxiv.org/abs/2404.08514v2)|**[link](https://github.com/ronjonxu/naid)**|
 |**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846v1](http://arxiv.org/abs/2404.07846v1)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075v1](http://arxiv.org/abs/2404.06075v1)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726v1](http://arxiv.org/abs/2404.04726v1)|null|
@@ -6302,7 +6302,7 @@
 |**2024-01-12**|**Enhancing a Convolutional Autoencoder with a Quantum Approximate Optimization Algorithm for Image Noise Reduction**|Kimleang Kea et.al.|[2401.06367v1](http://arxiv.org/abs/2401.06367v1)|null|
 |**2024-01-11**|**Adaptive Regularized Low-Rank Tensor Decomposition for Hyperspectral Image Denoising and Destriping**|Dongyi Li et.al.|[2401.05682v1](http://arxiv.org/abs/2401.05682v1)|null|
 |**2024-01-09**|**Benchmarking Deep Learning-Based Low Dose CT Image Denoising Algorithms**|Elias Eulig et.al.|[2401.04661v1](http://arxiv.org/abs/2401.04661v1)|null|
-|**2024-01-09**|**Hyperspectral Image Denoising via Spatial-Spectral Recurrent Transformer**|Guanyiman Fu et.al.|[2401.03885v2](http://arxiv.org/abs/2401.03885v2)|null|
+|**2024-01-09**|**Hyperspectral Image Denoising via Spatial-Spectral Recurrent Transformer**|Guanyiman Fu et.al.|[2401.03885v2](http://arxiv.org/abs/2401.03885v2)|**[link](https://github.com/lronkitty/ssrt)**|
 |**2024-01-05**|**Two-stage Progressive Residual Dense Attention Network for Image Denoising**|Wencong Wu et.al.|[2401.02831v1](http://arxiv.org/abs/2401.02831v1)|null|
 |**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394v1](http://arxiv.org/abs/2401.02394v1)|null|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548v1](http://arxiv.org/abs/2401.01548v1)|**[link](https://github.com/tids-lab/its)**|
