@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis**|Yufei Ye et.al.|[2404.12383v1](http://arxiv.org/abs/2404.12383v1)|null|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361v1](http://arxiv.org/abs/2404.12361v1)|null|
+|**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347v1](http://arxiv.org/abs/2404.12347v1)|null|
+|**2024-04-18**|**Guided Discrete Diffusion for Electronic Health Record Generation**|Zixiang Chen et.al.|[2404.12314v1](http://arxiv.org/abs/2404.12314v1)|null|
+|**2024-04-18**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154v1](http://arxiv.org/abs/2404.12154v1)|null|
+|**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936v1](http://arxiv.org/abs/2404.11936v1)|null|
+|**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895v1](http://arxiv.org/abs/2404.11895v1)|null|
+|**2024-04-17**|**Prompt-Driven Feature Diffusion for Open-World Semi-Supervised Learning**|Marzi Heidari et.al.|[2404.11795v1](http://arxiv.org/abs/2404.11795v1)|null|
+|**2024-04-17**|**Diffusion Schrödinger Bridge Models for High-Quality MR-to-CT Synthesis for Head and Neck Proton Treatment Planning**|Muheng Li et.al.|[2404.11741v1](http://arxiv.org/abs/2404.11741v1)|null|
 |**2024-04-17**|**Factorized Diffusion: Perceptual Illusions by Noise Decomposition**|Daniel Geng et.al.|[2404.11615v1](http://arxiv.org/abs/2404.11615v1)|null|
 |**2024-04-17**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593v1](http://arxiv.org/abs/2404.11593v1)|null|
 |**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589v1](http://arxiv.org/abs/2404.11589v1)|null|
@@ -3847,6 +3856,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388v1](http://arxiv.org/abs/2404.12388v1)|null|
+|**2024-04-18**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370v1](http://arxiv.org/abs/2404.12370v1)|null|
+|**2024-04-18**|**Multiphoton super-resolution imaging via virtual structured illumination**|Sumin Lim et.al.|[2404.11849v1](http://arxiv.org/abs/2404.11849v1)|null|
+|**2024-04-18**|**Partial Large Kernel CNNs for Efficient Super-Resolution**|Dongheon Lee et.al.|[2404.11848v1](http://arxiv.org/abs/2404.11848v1)|**[link](https://github.com/dslisleedh/PLKSR)**|
 |**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273v1](http://arxiv.org/abs/2404.11273v1)|null|
 |**2024-04-16**|**Uncertainty Quantification of Super-Resolution Flow Mapping in Liquid Metals using Ultrasound Localization Microscopy**|David Weik et.al.|[2404.10840v1](http://arxiv.org/abs/2404.10840v1)|null|
 |**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688v1](http://arxiv.org/abs/2404.10688v1)|**[link](https://github.com/yuan-yutao/ecdp)**|
@@ -5076,6 +5089,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388v1](http://arxiv.org/abs/2404.12388v1)|null|
 |**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036v1](http://arxiv.org/abs/2404.06036v1)|null|
 |**2024-04-06**|**Collaborative Feedback Discriminative Propagation for Video Super-Resolution**|Hao Li et.al.|[2404.04745v1](http://arxiv.org/abs/2404.04745v1)|**[link](https://github.com/house-leo/cfdvsr)**|
 |**2024-04-03**|**Translation-based Video-to-Video Synthesis**|Pratim Saha et.al.|[2404.04283v1](http://arxiv.org/abs/2404.04283v1)|null|
@@ -5322,6 +5336,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**|Rui Deng et.al.|[2404.11778v1](http://arxiv.org/abs/2404.11778v1)|null|
 |**2024-04-17**|**AdaIR: Exploiting Underlying Similarities of Image Restoration Tasks with Adapters**|Hao-Wei Chen et.al.|[2404.11475v1](http://arxiv.org/abs/2404.11475v1)|null|
 |**2024-04-16**|**Improving Bracket Image Restoration and Enhancement with Flow-guided Alignment and Enhanced Feature Aggregation**|Wenjie Lin et.al.|[2404.10358v1](http://arxiv.org/abs/2404.10358v1)|null|
 |**2024-04-16**|**Referring Flexible Image Restoration**|Runwei Guan et.al.|[2404.10342v1](http://arxiv.org/abs/2404.10342v1)|null|
@@ -5682,6 +5697,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Image Compression and Reconstruction Based on Quantum Network**|Xun Ji et.al.|[2404.11994v1](http://arxiv.org/abs/2404.11994v1)|null|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511v1](http://arxiv.org/abs/2404.11511v1)|null|
 |**2024-04-16**|**GPU-Based Parallel Computing Methods for Medical Photoacoustic Image Reconstruction**|Xinyao Yi et.al.|[2404.10928v1](http://arxiv.org/abs/2404.10928v1)|null|
 |**2024-04-16**|**Diffusion assisted image reconstruction in optoacoustic tomography**|M. G. González et.al.|[2404.10239v1](http://arxiv.org/abs/2404.10239v1)|null|
@@ -6527,6 +6543,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Sketch-guided Image Inpainting with Partial Discrete Diffusion Process**|Nakul Sharma et.al.|[2404.11949v1](http://arxiv.org/abs/2404.11949v1)|**[link](https://github.com/vl2g/sketch-inpainting)**|
 |**2024-04-17**|**Object Remover Performance Evaluation Methods using Class-wise Object Removal Images**|Changsuk Oh et.al.|[2404.11104v1](http://arxiv.org/abs/2404.11104v1)|null|
 |**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765v1](http://arxiv.org/abs/2404.10765v1)|null|
 |**2024-04-16**|**Learnable Prompt for Few-Shot Semantic Segmentation in Remote Sensing Domain**|Steve Andreas Immanuel et.al.|[2404.10307v1](http://arxiv.org/abs/2404.10307v1)|**[link](https://github.com/SteveImmanuel/OEM-Few-Shot-Learnable-Prompt)**|
