@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Analysis of Classifier-Free Guidance Weight Schedulers**|Xi Wang et.al.|[2404.13040v1](http://arxiv.org/abs/2404.13040v1)|null|
+|**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000v1](http://arxiv.org/abs/2404.13000v1)|null|
+|**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973v1](http://arxiv.org/abs/2404.12973v1)|null|
+|**2024-04-19**|**Neural Flow Diffusion Models: Learnable Forward Process for Improved Diffusion Modelling**|Grigory Bartosh et.al.|[2404.12940v1](http://arxiv.org/abs/2404.12940v1)|null|
+|**2024-04-19**|**Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models**|Konstantinos Vilouras et.al.|[2404.12920v1](http://arxiv.org/abs/2404.12920v1)|null|
+|**2024-04-19**|**Robust CLIP-Based Detector for Exposing Diffusion Model-Generated Images**|Santosh et.al.|[2404.12908v1](http://arxiv.org/abs/2404.12908v1)|**[link](https://github.com/purdue-m2/robust_dm_generated_image_detection)**|
+|**2024-04-19**|**ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model**|Dingming Liu et.al.|[2404.12903v1](http://arxiv.org/abs/2404.12903v1)|null|
+|**2024-04-19**|**Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing**|Teng-Fang Hsiao et.al.|[2404.12900v1](http://arxiv.org/abs/2404.12900v1)|**[link](https://github.com/bluedyee/tf-gph)**|
+|**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886v1](http://arxiv.org/abs/2404.12886v1)|null|
+|**2024-04-19**|**Detecting Out-Of-Distribution Earth Observation Images with Diffusion Models**|Georges Le Bellier et.al.|[2404.12667v1](http://arxiv.org/abs/2404.12667v1)|null|
+|**2024-04-19**|**F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation**|Man M. Ho et.al.|[2404.12650v1](http://arxiv.org/abs/2404.12650v1)|null|
+|**2024-04-19**|**Dragtraffic: A Non-Expert Interactive and Point-Based Controllable Traffic Scene Generation Framework**|Sheng Wang et.al.|[2404.12624v1](http://arxiv.org/abs/2404.12624v1)|null|
+|**2024-04-19**|**Rethinking Clothes Changing Person ReID: Conflicts, Synthesis, and Optimization**|Junjie Li et.al.|[2404.12611v1](http://arxiv.org/abs/2404.12611v1)|null|
+|**2024-04-18**|**GenVideo: One-shot Target-image and Shape Aware Video Editing using T2I Diffusion Models**|Sai Sree Harsha et.al.|[2404.12541v1](http://arxiv.org/abs/2404.12541v1)|null|
 |**2024-04-18**|**G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis**|Yufei Ye et.al.|[2404.12383v1](http://arxiv.org/abs/2404.12383v1)|null|
 |**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361v1](http://arxiv.org/abs/2404.12361v1)|null|
 |**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347v1](http://arxiv.org/abs/2404.12347v1)|null|
@@ -3856,6 +3870,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018v1](http://arxiv.org/abs/2404.13018v1)|null|
+|**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973v1](http://arxiv.org/abs/2404.12973v1)|null|
 |**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388v1](http://arxiv.org/abs/2404.12388v1)|null|
 |**2024-04-18**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370v1](http://arxiv.org/abs/2404.12370v1)|null|
 |**2024-04-18**|**Multiphoton super-resolution imaging via virtual structured illumination**|Sumin Lim et.al.|[2404.11849v1](http://arxiv.org/abs/2404.11849v1)|null|
@@ -5697,6 +5713,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**MindTuner: Cross-Subject Visual Decoding with Visual Fingerprint and Semantic Correction**|Zixuan Gong et.al.|[2404.12630v1](http://arxiv.org/abs/2404.12630v1)|null|
 |**2024-04-18**|**Image Compression and Reconstruction Based on Quantum Network**|Xun Ji et.al.|[2404.11994v1](http://arxiv.org/abs/2404.11994v1)|null|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511v1](http://arxiv.org/abs/2404.11511v1)|null|
 |**2024-04-16**|**GPU-Based Parallel Computing Methods for Medical Photoacoustic Image Reconstruction**|Xinyao Yi et.al.|[2404.10928v1](http://arxiv.org/abs/2404.10928v1)|null|
@@ -6726,6 +6743,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000v1](http://arxiv.org/abs/2404.13000v1)|null|
 |**2024-04-17**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474v1](http://arxiv.org/abs/2404.11474v1)|**[link](https://github.com/jamie-cheung/lsast)**|
 |**2024-04-15**|**Improved Object-Based Style Transfer with Single Deep Network**|Harshmohan Kulkarni et.al.|[2404.09461v1](http://arxiv.org/abs/2404.09461v1)|null|
 |**2024-04-10**|**Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer**|Yanqi Ge et.al.|[2404.06835v1](http://arxiv.org/abs/2404.06835v1)|null|
