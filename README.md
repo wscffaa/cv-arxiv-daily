@@ -5740,7 +5740,7 @@
 |**2024-03-30**|**Score-Based Diffusion Models for Photoacoustic Tomography Image Reconstruction**|Sreemanti Dey et.al.|[2404.00471v1](http://arxiv.org/abs/2404.00471v1)|null|
 |**2024-03-29**|**Psychometry: An Omnifit Model for Image Reconstruction from Human Brain Activity**|Ruijie Quan et.al.|[2403.20022v1](http://arxiv.org/abs/2403.20022v1)|null|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018v1](http://arxiv.org/abs/2403.20018v1)|**[link](https://github.com/wu-cvgl/scinerf)**|
-|**2024-03-29**|**Multi-task Magnetic Resonance Imaging Reconstruction using Meta-learning**|Wanyu Bian et.al.|[2403.19966v1](http://arxiv.org/abs/2403.19966v1)|null|
+|**2024-04-21**|**Multi-task Magnetic Resonance Imaging Reconstruction using Meta-learning**|Wanyu Bian et.al.|[2403.19966v2](http://arxiv.org/abs/2403.19966v2)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476v1](http://arxiv.org/abs/2403.18476v1)|null|
 |**2024-03-27**|**NeuroPictor: Refining fMRI-to-Image Reconstruction via Multi-individual Pretraining and Multi-level Modulation**|Jingyang Huo et.al.|[2403.18211v1](http://arxiv.org/abs/2403.18211v1)|null|
 |**2024-03-26**|**Pseudo-MRI-Guided PET Image Reconstruction Method Based on a Diffusion Probabilistic Model**|Weijie Gan et.al.|[2403.18139v1](http://arxiv.org/abs/2403.18139v1)|null|
