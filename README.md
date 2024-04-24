@@ -36,7 +36,7 @@
 |**2024-04-22**|**Face2Face: Label-driven Facial Retouching Restoration**|Guanhua Zhao et.al.|[2404.14177v1](http://arxiv.org/abs/2404.14177v1)|null|
 |**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162v1](http://arxiv.org/abs/2404.14162v1)|null|
 |**2024-04-22**|**Generative Artificial Intelligence Assisted Wireless Sensing: Human Flow Detection in Practical Communication Environments**|Jiacheng Wang et.al.|[2404.14140v1](http://arxiv.org/abs/2404.14140v1)|null|
-|**2024-04-22**|**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification**|Hai Ci et.al.|[2404.14055v1](http://arxiv.org/abs/2404.14055v1)|null|
+|**2024-04-23**|**RingID: Rethinking Tree-Ring Watermarking for Enhanced Multi-Key Identification**|Hai Ci et.al.|[2404.14055v2](http://arxiv.org/abs/2404.14055v2)|**[link](https://github.com/showlab/ringid)**|
 |**2024-04-22**|**RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance**|Chengrui Wang et.al.|[2404.13984v1](http://arxiv.org/abs/2404.13984v1)|null|
 |**2024-04-22**|**MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**|Zeyu Li et.al.|[2404.13923v1](http://arxiv.org/abs/2404.13923v1)|null|
 |**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903v2](http://arxiv.org/abs/2404.13903v2)|null|
