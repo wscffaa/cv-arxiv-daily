@@ -31,7 +31,7 @@
 |**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556v1](http://arxiv.org/abs/2404.16556v1)|null|
 |**2024-04-25**|**DiffSeg: A Segmentation Model for Skin Lesions Based on Diffusion Difference**|Zhihao Shuai et.al.|[2404.16474v1](http://arxiv.org/abs/2404.16474v1)|null|
 |**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306v1](http://arxiv.org/abs/2404.16306v1)|null|
-|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302v1](http://arxiv.org/abs/2404.16302v1)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302v1](http://arxiv.org/abs/2404.16302v1)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-25**|**One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns**|Arman Maesumi et.al.|[2404.16292v1](http://arxiv.org/abs/2404.16292v1)|null|
 |**2024-04-24**|**Editable Image Elements for Controllable Synthesis**|Jiteng Mu et.al.|[2404.16029v1](http://arxiv.org/abs/2404.16029v1)|null|
 |**2024-04-24**|**RetinaRegNet: A Versatile Approach for Retinal Image Registration**|Vishal Balaji Sivaraman et.al.|[2404.16017v1](http://arxiv.org/abs/2404.16017v1)|null|
@@ -55,7 +55,7 @@
 |**2024-04-23**|**Gradient Guidance for Diffusion Models: An Optimization Perspective**|Yingqing Guo et.al.|[2404.14743v1](http://arxiv.org/abs/2404.14743v1)|null|
 |**2024-04-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700v3](http://arxiv.org/abs/2404.14700v3)|null|
 |**2024-04-23**|**DreamPBR: Text-driven Generation of High-resolution SVBRDF with Multi-modal Guidance**|Linxuan Xin et.al.|[2404.14676v1](http://arxiv.org/abs/2404.14676v1)|null|
-|**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568v1](http://arxiv.org/abs/2404.14568v1)|null|
+|**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568v1](http://arxiv.org/abs/2404.14568v1)|**[link](https://github.com/twowwj/uvmap-id)**|
 |**2024-04-22**|**Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**|Amirmojtaba Sabour et.al.|[2404.14507v1](http://arxiv.org/abs/2404.14507v1)|null|
 |**2024-04-22**|**Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses**|Inhee Lee et.al.|[2404.14410v1](http://arxiv.org/abs/2404.14410v1)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403v1](http://arxiv.org/abs/2404.14403v1)|null|
@@ -3937,7 +3937,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
-|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|null|
+|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451v1](http://arxiv.org/abs/2404.16451v1)|**[link](https://github.com/hezongyao/lmf)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
 |**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
@@ -3956,7 +3956,7 @@
 |**2024-04-19**|**Multichannel-GaAsP-photomultiplier-based fiber bundle ISM-STED microscope**|Marcus Babin et.al.|[2404.12370v2](http://arxiv.org/abs/2404.12370v2)|null|
 |**2024-04-18**|**Multiphoton super-resolution imaging via virtual structured illumination**|Sumin Lim et.al.|[2404.11849v1](http://arxiv.org/abs/2404.11849v1)|null|
 |**2024-04-18**|**Partial Large Kernel CNNs for Efficient Super-Resolution**|Dongheon Lee et.al.|[2404.11848v1](http://arxiv.org/abs/2404.11848v1)|**[link](https://github.com/dslisleedh/PLKSR)**|
-|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273v1](http://arxiv.org/abs/2404.11273v1)|null|
+|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273v1](http://arxiv.org/abs/2404.11273v1)|**[link](https://github.com/mandalinadagi/wavelettention)**|
 |**2024-04-16**|**Uncertainty Quantification of Super-Resolution Flow Mapping in Liquid Metals using Ultrasound Localization Microscopy**|David Weik et.al.|[2404.10840v1](http://arxiv.org/abs/2404.10840v1)|null|
 |**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688v1](http://arxiv.org/abs/2404.10688v1)|**[link](https://github.com/yuan-yutao/ecdp)**|
 |**2024-04-16**|**The Ninth NTIRE 2024 Efficient Super-Resolution Challenge Report**|Bin Ren et.al.|[2404.10343v1](http://arxiv.org/abs/2404.10343v1)|**[link](https://github.com/amazingren/ntire2024_esr)**|
@@ -4858,7 +4858,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
-|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|null|
+|**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
 |**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
 |**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v1](http://arxiv.org/abs/2404.15956v1)|null|
@@ -4866,7 +4866,7 @@
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|**[link](https://github.com/visioniclab/swinfusr)**|
 |**2024-04-20**|**SEGSRNet for Stereo-Endoscopic Image Super-Resolution and Surgical Instrument Segmentation**|Mansoor Hayat et.al.|[2404.13330v1](http://arxiv.org/abs/2404.13330v1)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102v1](http://arxiv.org/abs/2404.13102v1)|null|
-|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273v1](http://arxiv.org/abs/2404.11273v1)|null|
+|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273v1](http://arxiv.org/abs/2404.11273v1)|**[link](https://github.com/mandalinadagi/wavelettention)**|
 |**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688v1](http://arxiv.org/abs/2404.10688v1)|**[link](https://github.com/yuan-yutao/ecdp)**|
 |**2024-04-16**|**The Ninth NTIRE 2024 Efficient Super-Resolution Challenge Report**|Bin Ren et.al.|[2404.10343v1](http://arxiv.org/abs/2404.10343v1)|**[link](https://github.com/amazingren/ntire2024_esr)**|
 |**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
@@ -6400,7 +6400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v1](http://arxiv.org/abs/2404.16617v1)|null|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v1](http://arxiv.org/abs/2404.16617v1)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
 |**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664v1](http://arxiv.org/abs/2404.10664v1)|null|
 |**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533v1](http://arxiv.org/abs/2404.09533v1)|**[link](https://github.com/woldier/witunet)**|
