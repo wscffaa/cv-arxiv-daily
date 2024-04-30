@@ -26,6 +26,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928v1](http://arxiv.org/abs/2404.18928v1)|null|
+|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919v1](http://arxiv.org/abs/2404.18919v1)|null|
+|**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893v1](http://arxiv.org/abs/2404.18893v1)|null|
+|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|null|
+|**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869v1](http://arxiv.org/abs/2404.18869v1)|null|
+|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820v1](http://arxiv.org/abs/2404.18820v1)|null|
+|**2024-04-29**|**Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**|Yifei Gao et.al.|[2404.18669v1](http://arxiv.org/abs/2404.18669v1)|null|
+|**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620v1](http://arxiv.org/abs/2404.18620v1)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
+|**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598v1](http://arxiv.org/abs/2404.18598v1)|null|
+|**2024-04-26**|**FashionSD-X: Multimodal Fashion Garment Synthesis using Latent Diffusion**|Abhishek Kumar Singh et.al.|[2404.18591v1](http://arxiv.org/abs/2404.18591v1)|null|
+|**2024-04-29**|**U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models**|Song Mei et.al.|[2404.18444v1](http://arxiv.org/abs/2404.18444v1)|null|
+|**2024-04-28**|**Fisher Information Improved Training-Free Conditional Diffusion Model**|Kaiyu Song et.al.|[2404.18252v1](http://arxiv.org/abs/2404.18252v1)|null|
+|**2024-04-28**|**Paint by Inpaint: Learning to Add Image Objects by Removing Them First**|Navve Wasserman et.al.|[2404.18212v1](http://arxiv.org/abs/2404.18212v1)|null|
+|**2024-04-28**|**Generative AI for Visualization: State of the Art and Future Directions**|Yilin Ye et.al.|[2404.18144v1](http://arxiv.org/abs/2404.18144v1)|null|
+|**2024-04-28**|**Generative AI for Low-Carbon Artificial Intelligence of Things**|Jinbo Wen et.al.|[2404.18077v1](http://arxiv.org/abs/2404.18077v1)|null|
+|**2024-04-28**|**Grounded Compositional and Diverse Text-to-3D with Pretrained Multi-View Diffusion Model**|Xiaolong Li et.al.|[2404.18065v1](http://arxiv.org/abs/2404.18065v1)|null|
+|**2024-04-28**|**Exposing Text-Image Inconsistency Using Diffusion Models**|Mingzhen Huang et.al.|[2404.18033v1](http://arxiv.org/abs/2404.18033v1)|null|
+|**2024-04-27**|**Control randomisation approach for policy gradient and application to reinforcement learning in optimal switching**|Robert Denkert et.al.|[2404.17939v1](http://arxiv.org/abs/2404.17939v1)|null|
+|**2024-04-27**|**Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling**|Di Wu et.al.|[2404.17900v1](http://arxiv.org/abs/2404.17900v1)|null|
+|**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890v1](http://arxiv.org/abs/2404.17890v1)|null|
+|**2024-04-27**|**Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission**|Mingyu Yang et.al.|[2404.17736v1](http://arxiv.org/abs/2404.17736v1)|null|
+|**2024-04-27**|**Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models**|Aneesh Komanduri et.al.|[2404.17735v1](http://arxiv.org/abs/2404.17735v1)|null|
+|**2024-04-26**|**Stocking and Harvesting Effects in Advection-Reaction-Diffusion Model: Exploring Decoupled Algorithms and Analysis**|Mayesha Sharmim Tisha et.al.|[2404.17702v1](http://arxiv.org/abs/2404.17702v1)|null|
 |**2024-04-26**|**MaPa: Text-driven Photorealistic Material Painting for 3D Shapes**|Shangzhan Zhang et.al.|[2404.17569v1](http://arxiv.org/abs/2404.17569v1)|null|
 |**2024-04-26**|**Chemotaxis-inspired PDE model for airborne infectious disease transmission: analysis and simulations**|Pierluigi Colli et.al.|[2404.17506v1](http://arxiv.org/abs/2404.17506v1)|null|
 |**2024-04-26**|**Multi-view Image Prompted Multi-view Diffusion for Improved 3D Generation**|Seungwook Kim et.al.|[2404.17419v1](http://arxiv.org/abs/2404.17419v1)|null|
@@ -3945,6 +3968,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
+|**2024-04-27**|**Generative Diffusion-based Downscaling for Climate**|Robbie A. Watt et.al.|[2404.17752v1](http://arxiv.org/abs/2404.17752v1)|**[link](https://github.com/robbiewatt1/climatediffuse)**|
+|**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670v1](http://arxiv.org/abs/2404.17670v1)|null|
 |**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426v1](http://arxiv.org/abs/2404.17426v1)|null|
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357v1](http://arxiv.org/abs/2404.17357v1)|null|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
@@ -4868,6 +4894,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
+|**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670v1](http://arxiv.org/abs/2404.17670v1)|null|
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
@@ -5453,6 +5481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394v1](http://arxiv.org/abs/2404.18394v1)|null|
 |**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433v1](http://arxiv.org/abs/2404.17433v1)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
 |**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426v1](http://arxiv.org/abs/2404.17426v1)|null|
 |**2024-04-25**|**NTIRE 2024 Quality Assessment of AI-Generated Content Challenge**|Xiaohong Liu et.al.|[2404.16687v1](http://arxiv.org/abs/2404.16687v1)|null|
@@ -5823,6 +5852,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Convergence Properties of Score-Based Models using Graduated Optimisation for Linear Inverse Problems**|Pascal Fernsel et.al.|[2404.18699v1](http://arxiv.org/abs/2404.18699v1)|null|
+|**2024-04-28**|**PSTAIC regularization for 2D spatiotemporal image reconstruction**|Deepak G Skariah et.al.|[2404.18294v1](http://arxiv.org/abs/2404.18294v1)|null|
+|**2024-04-27**|**Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling**|Di Wu et.al.|[2404.17900v1](http://arxiv.org/abs/2404.17900v1)|null|
+|**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890v1](http://arxiv.org/abs/2404.17890v1)|null|
 |**2024-04-26**|**Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model**|Zhenghong Li et.al.|[2404.17484v1](http://arxiv.org/abs/2404.17484v1)|null|
 |**2024-04-26**|**Efficient Orthogonal Decomposition with Automatic Basis Extraction for Low-Rank Matrix Approximation**|Weijie Shen et.al.|[2404.17290v1](http://arxiv.org/abs/2404.17290v1)|null|
 |**2024-04-26**|**Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment**|Kazi Shahriar Sanjid et.al.|[2404.17235v1](http://arxiv.org/abs/2404.17235v1)|null|
@@ -6417,6 +6450,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994v1](http://arxiv.org/abs/2404.17994v1)|null|
 |**2024-04-27**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v2](http://arxiv.org/abs/2404.16617v2)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
 |**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664v1](http://arxiv.org/abs/2404.10664v1)|null|
@@ -6685,6 +6719,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598v1](http://arxiv.org/abs/2404.18598v1)|null|
+|**2024-04-28**|**SafePaint: Anti-forensic Image Inpainting with Domain Adaptation**|Dunyun Chen et.al.|[2404.18136v1](http://arxiv.org/abs/2404.18136v1)|null|
 |**2024-04-26**|**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion**|Ziyue Zhang et.al.|[2404.17230v1](http://arxiv.org/abs/2404.17230v1)|**[link](https://github.com/potato-kitty/objectadd)**|
 |**2024-04-23**|**Multi-scale Intervention Planning based on Generative Design**|Ioannis Kavouras et.al.|[2404.15492v1](http://arxiv.org/abs/2404.15492v1)|null|
 |**2024-04-19**|**Equivariant Imaging for Self-supervised Hyperspectral Image Inpainting**|Shuo Li et.al.|[2404.13159v1](http://arxiv.org/abs/2404.13159v1)|null|
