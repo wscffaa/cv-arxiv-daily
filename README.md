@@ -26,10 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model**|Wenxun Dai et.al.|[2404.19759v1](http://arxiv.org/abs/2404.19759v1)|null|
+|**2024-04-30**|**Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting**|Paul Engstler et.al.|[2404.19758v1](http://arxiv.org/abs/2404.19758v1)|null|
+|**2024-04-30**|**Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation**|Ian Dunn et.al.|[2404.19739v1](http://arxiv.org/abs/2404.19739v1)|**[link](https://github.com/dunni3/flowmol)**|
+|**2024-04-30**|**X-Diffusion: Generating Detailed 3D MRI Volumes From a Single Image Using Cross-Sectional Diffusion Models**|Emmanuelle Bourigault et.al.|[2404.19604v1](http://arxiv.org/abs/2404.19604v1)|null|
+|**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in  $\sim$ 20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525v1](http://arxiv.org/abs/2404.19525v1)|**[link](https://github.com/ml-gsai/microdreamer)**|
+|**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475v1](http://arxiv.org/abs/2404.19475v1)|null|
+|**2024-04-30**|**Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**|Xiaoxuan Han et.al.|[2404.19382v1](http://arxiv.org/abs/2404.19382v1)|null|
+|**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277v1](http://arxiv.org/abs/2404.19277v1)|null|
+|**2024-04-30**|**DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets**|Xiaoyu Huang et.al.|[2404.19264v1](http://arxiv.org/abs/2404.19264v1)|null|
+|**2024-04-30**|**CONTUNER: Singing Voice Beautifying with Pitch and Expressiveness Condition**|Jianzong Wang et.al.|[2404.19187v1](http://arxiv.org/abs/2404.19187v1)|null|
 |**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928v1](http://arxiv.org/abs/2404.18928v1)|null|
 |**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919v1](http://arxiv.org/abs/2404.18919v1)|null|
 |**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893v1](http://arxiv.org/abs/2404.18893v1)|null|
-|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|null|
+|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886v1](http://arxiv.org/abs/2404.18886v1)|**[link](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)**|
 |**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869v1](http://arxiv.org/abs/2404.18869v1)|null|
 |**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820v1](http://arxiv.org/abs/2404.18820v1)|null|
 |**2024-04-29**|**Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting**|Yifei Gao et.al.|[2404.18669v1](http://arxiv.org/abs/2404.18669v1)|null|
@@ -56,7 +66,7 @@
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357v1](http://arxiv.org/abs/2404.17357v1)|null|
 |**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254v1](http://arxiv.org/abs/2404.17254v1)|null|
 |**2024-04-26**|**Few-shot Calligraphy Style Learning**|Fangda Chen et.al.|[2404.17199v1](http://arxiv.org/abs/2404.17199v1)|**[link](https://github.com/kono-dada/xysffusion)**|
-|**2024-04-25**|**CyNetDiff -- A Python Library for Accelerated Implementation of Network Diffusion Models**|Eliot W. Robson et.al.|[2404.17059v1](http://arxiv.org/abs/2404.17059v1)|null|
+|**2024-04-25**|**CyNetDiff -- A Python Library for Accelerated Implementation of Network Diffusion Models**|Eliot W. Robson et.al.|[2404.17059v1](http://arxiv.org/abs/2404.17059v1)|**[link](https://github.com/eliotwrobson/cynetdiff)**|
 |**2024-04-25**|**Universal fragmentation in annihilation reactions with constrained kinetics**|Enrique Rozas Garcia et.al.|[2404.16950v1](http://arxiv.org/abs/2404.16950v1)|null|
 |**2024-04-25**|**Inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT method**|A. Emir Gumrukcuoglu et.al.|[2404.16658v1](http://arxiv.org/abs/2404.16658v1)|null|
 |**2024-04-29**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612v2](http://arxiv.org/abs/2404.16612v2)|null|
@@ -3968,6 +3978,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Replica-assisted super-resolution fluorescence imaging in scattering media**|Tengfei Wu et.al.|[2404.19734v1](http://arxiv.org/abs/2404.19734v1)|null|
+|**2024-04-30**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500v1](http://arxiv.org/abs/2404.19500v1)|null|
+|**2024-04-30**|**Super-resolution by converting evanescent waves in microsphere to propagating and transfer function from its surface to nano-jet**|Y. Ben-Aryeh et.al.|[2404.19333v1](http://arxiv.org/abs/2404.19333v1)|null|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
 |**2024-04-27**|**Generative Diffusion-based Downscaling for Climate**|Robbie A. Watt et.al.|[2404.17752v1](http://arxiv.org/abs/2404.17752v1)|**[link](https://github.com/robbiewatt1/climatediffuse)**|
 |**2024-04-26**|**Federated Learning for Blind Image Super-Resolution**|Brian B. Moser et.al.|[2404.17670v1](http://arxiv.org/abs/2404.17670v1)|null|
@@ -3977,7 +3990,7 @@
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451v1](http://arxiv.org/abs/2404.16451v1)|**[link](https://github.com/hezongyao/lmf)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
-|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v2](http://arxiv.org/abs/2404.15956v2)|null|
 |**2024-04-24**|**Super-resolution imaging based on active optical intensity interferometry**|Lu-Chuan Liu et.al.|[2404.15685v1](http://arxiv.org/abs/2404.15685v1)|null|
 |**2024-04-26**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620v2](http://arxiv.org/abs/2404.15620v2)|**[link](https://github.com/XYLGroup/DKP)**|
@@ -4899,7 +4912,7 @@
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
 |**2024-04-25**|**Real-Time 4K Super-Resolution of Compressed AVIF Images. AIS 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16484v1](http://arxiv.org/abs/2404.16484v1)|**[link](https://github.com/eduardzamfir/ntire23-rtsr)**|
 |**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409v1](http://arxiv.org/abs/2404.16409v1)|**[link](https://github.com/aimiokab/misr-s2)**|
-|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|null|
+|**2024-04-24**|**Deep RAW Image Super-Resolution. A NTIRE 2024 Challenge Survey**|Marcos V. Conde et.al.|[2404.16223v1](http://arxiv.org/abs/2404.16223v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956v2](http://arxiv.org/abs/2404.15956v2)|null|
 |**2024-04-26**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620v2](http://arxiv.org/abs/2404.15620v2)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**SwinFuSR: an image fusion-inspired model for RGB-guided thermal image super-resolution**|Cyprien Arnold et.al.|[2404.14533v1](http://arxiv.org/abs/2404.14533v1)|**[link](https://github.com/visioniclab/swinfusr)**|
@@ -5233,6 +5246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500v1](http://arxiv.org/abs/2404.19500v1)|null|
 |**2024-04-18**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388v1](http://arxiv.org/abs/2404.12388v1)|null|
 |**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036v1](http://arxiv.org/abs/2404.06036v1)|null|
 |**2024-04-06**|**Collaborative Feedback Discriminative Propagation for Video Super-Resolution**|Hao Li et.al.|[2404.04745v1](http://arxiv.org/abs/2404.04745v1)|**[link](https://github.com/house-leo/cfdvsr)**|
@@ -5852,6 +5866,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**ATOMMIC: An Advanced Toolbox for Multitask Medical Imaging Consistency to facilitate Artificial Intelligence applications from acquisition to analysis in Magnetic Resonance Imaging**|Dimitrios Karkalousos et.al.|[2404.19665v1](http://arxiv.org/abs/2404.19665v1)|null|
+|**2024-04-30**|**Neuro-Vision to Language: Image Reconstruction and Interaction via Non-invasive Brain Recordings**|Guobin Shen et.al.|[2404.19438v1](http://arxiv.org/abs/2404.19438v1)|null|
+|**2024-04-30**|**Global Search Optics: Automatically Exploring Optimal Solutions to Compact Computational Imaging Systems**|Yao Gao et.al.|[2404.19201v1](http://arxiv.org/abs/2404.19201v1)|null|
+|**2024-04-29**|**Distributed Stochastic Optimization of a Neural Representation Network for Time-Space Tomography Reconstruction**|K. Aditya Mohan et.al.|[2404.19075v1](http://arxiv.org/abs/2404.19075v1)|null|
 |**2024-04-29**|**Convergence Properties of Score-Based Models using Graduated Optimisation for Linear Inverse Problems**|Pascal Fernsel et.al.|[2404.18699v1](http://arxiv.org/abs/2404.18699v1)|null|
 |**2024-04-28**|**PSTAIC regularization for 2D spatiotemporal image reconstruction**|Deepak G Skariah et.al.|[2404.18294v1](http://arxiv.org/abs/2404.18294v1)|null|
 |**2024-04-27**|**Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling**|Di Wu et.al.|[2404.17900v1](http://arxiv.org/abs/2404.17900v1)|null|
@@ -5863,7 +5881,7 @@
 |**2024-04-25**|**Deep learning-based blind image super-resolution with iterative kernel reconstruction and noise estimation**|Hasan F. Ates et.al.|[2404.16564v1](http://arxiv.org/abs/2404.16564v1)|**[link](https://github.com/hfates/ikr-net)**|
 |**2024-04-23**|**High Contrast, High Angular Resolution Optical Speckle Imaging: Uncovering Hidden Stellar Companions**|Steve B. Howell et.al.|[2404.15528v1](http://arxiv.org/abs/2404.15528v1)|null|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274v1](http://arxiv.org/abs/2404.15274v1)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
-|**2024-04-23**|**Quantum optical classifier with superexponential speedup**|Simone Roncallo et.al.|[2404.15266v1](http://arxiv.org/abs/2404.15266v1)|null|
+|**2024-04-23**|**Quantum optical classifier with superexponential speedup**|Simone Roncallo et.al.|[2404.15266v1](http://arxiv.org/abs/2404.15266v1)|**[link](https://github.com/simoneroncallo/quantum-optical-neuron)**|
 |**2024-04-23**|**Mining Supervision for Dynamic Regions in Self-Supervised Monocular Depth Estimation**|Hoang Chuong Nguyen et.al.|[2404.14908v1](http://arxiv.org/abs/2404.14908v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
 |**2024-04-20**|**HybridFlow: Infusing Continuity into Masked Codebook for Extreme Low-Bitrate Image Compression**|Lei Lu et.al.|[2404.13372v1](http://arxiv.org/abs/2404.13372v1)|null|
@@ -6450,6 +6468,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Noise propagation and MP-PCA image denoising for high-resolution quantitative T2* and magnetic susceptibility mapping (QSM)**|Liad Doniza et.al.|[2404.19309v1](http://arxiv.org/abs/2404.19309v1)|null|
 |**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994v1](http://arxiv.org/abs/2404.17994v1)|null|
 |**2024-04-27**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v2](http://arxiv.org/abs/2404.16617v2)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
