@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280v1](http://arxiv.org/abs/2405.02280v1)|null|
+|**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117v1](http://arxiv.org/abs/2405.02117v1)|null|
+|**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008v1](http://arxiv.org/abs/2405.02008v1)|null|
+|**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872v1](http://arxiv.org/abs/2405.01872v1)|null|
+|**2024-05-03**|**Creation of Novel Soft Robot Designs using Generative AI**|Wee Kiat Chan et.al.|[2405.01824v1](http://arxiv.org/abs/2405.01824v1)|null|
+|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822v1](http://arxiv.org/abs/2405.01822v1)|null|
+|**2024-05-02**|**Converting Anyone's Voice: End-to-End Expressive Voice Conversion with a Conditional Diffusion Model**|Zongyang Du et.al.|[2405.01730v1](http://arxiv.org/abs/2405.01730v1)|null|
+|**2024-05-02**|**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning**|Rafael Elberg et.al.|[2405.01705v1](http://arxiv.org/abs/2405.01705v1)|**[link](https://github.com/sugarfreemanatee/feature-space-augmentation-and-iterated-learning)**|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496v1](http://arxiv.org/abs/2405.01496v1)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494v1](http://arxiv.org/abs/2405.01494v1)|null|
 |**2024-05-02**|**Statistical algorithms for low-frequency diffusion data: A PDE approach**|Matteo Giordano et.al.|[2405.01372v1](http://arxiv.org/abs/2405.01372v1)|null|
@@ -4005,6 +4013,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Reference-Free Image Quality Metric for Degradation and Reconstruction Artifacts**|Han Cui et.al.|[2405.02208v1](http://arxiv.org/abs/2405.02208v1)|null|
+|**2024-05-03**|**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**|Zhilu Zhang et.al.|[2405.02171v1](http://arxiv.org/abs/2405.02171v1)|**[link](https://github.com/cszhilu1998/selfdzsr_plusplus)**|
+|**2024-05-03**|**Optical skyrmions from metafibers**|Tiantian He et.al.|[2405.01962v1](http://arxiv.org/abs/2405.01962v1)|null|
 |**2024-05-02**|**TRAMBA: A Hybrid Transformer and Mamba Architecture for Practical Audio and Bone Conduction Speech Super Resolution and Enhancement on Mobile and Wearable Platforms**|Yueyuan Sui et.al.|[2405.01242v1](http://arxiv.org/abs/2405.01242v1)|null|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
 |**2024-05-01**|**Detail-Enhancing Framework for Reference-Based Image Super-Resolution**|Zihan Wang et.al.|[2405.00431v1](http://arxiv.org/abs/2405.00431v1)|null|
@@ -5527,6 +5538,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726v1](http://arxiv.org/abs/2405.01726v1)|null|
 |**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394v1](http://arxiv.org/abs/2404.18394v1)|null|
 |**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433v1](http://arxiv.org/abs/2404.17433v1)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
 |**2024-04-26**|**One-Shot Image Restoration**|Deborah Pereg et.al.|[2404.17426v1](http://arxiv.org/abs/2404.17426v1)|null|
@@ -5898,6 +5910,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Reference-Free Image Quality Metric for Degradation and Reconstruction Artifacts**|Han Cui et.al.|[2405.02208v1](http://arxiv.org/abs/2405.02208v1)|null|
+|**2024-05-03**|**Auto-Encoding Morph-Tokens for Multimodal LLM**|Kaihang Pan et.al.|[2405.01926v1](http://arxiv.org/abs/2405.01926v1)|**[link](https://github.com/dcdmllm/morphtokens)**|
+|**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725v1](http://arxiv.org/abs/2405.01725v1)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
 |**2024-04-30**|**ATOMMIC: An Advanced Toolbox for Multitask Medical Imaging Consistency to facilitate Artificial Intelligence applications from acquisition to analysis in Magnetic Resonance Imaging**|Dimitrios Karkalousos et.al.|[2404.19665v1](http://arxiv.org/abs/2404.19665v1)|**[link](https://github.com/wdika/atommic)**|
 |**2024-05-01**|**Neuro-Vision to Language: Image Reconstruction and Language enabled Interaction via Brain Recordings**|Guobin Shen et.al.|[2404.19438v2](http://arxiv.org/abs/2404.19438v2)|null|
 |**2024-04-30**|**Global Search Optics: Automatically Exploring Optimal Solutions to Compact Computational Imaging Systems**|Yao Gao et.al.|[2404.19201v1](http://arxiv.org/abs/2404.19201v1)|null|
@@ -6500,12 +6515,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726v1](http://arxiv.org/abs/2405.01726v1)|null|
 |**2024-05-02**|**Investigating Self-Supervised Image Denoising with Denaturation**|Hiroki Waida et.al.|[2405.01124v1](http://arxiv.org/abs/2405.01124v1)|null|
 |**2024-04-30**|**Noise propagation and MP-PCA image denoising for high-resolution quantitative T2* and magnetic susceptibility mapping (QSM)**|Liad Doniza et.al.|[2404.19309v1](http://arxiv.org/abs/2404.19309v1)|null|
 |**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994v1](http://arxiv.org/abs/2404.17994v1)|null|
 |**2024-04-27**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617v2](http://arxiv.org/abs/2404.16617v2)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972v1](http://arxiv.org/abs/2404.13972v1)|null|
-|**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664v1](http://arxiv.org/abs/2404.10664v1)|null|
+|**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664v1](http://arxiv.org/abs/2404.10664v1)|**[link](https://github.com/MHmi1/Image_Denoising_Classification)**|
 |**2024-04-29**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533v2](http://arxiv.org/abs/2404.09533v2)|**[link](https://github.com/woldier/witunet)**|
 |**2024-04-15**|**Masked and Shuffled Blind Spot Denoising for Real-World Images**|Hamadi Chihaoui et.al.|[2404.09389v1](http://arxiv.org/abs/2404.09389v1)|null|
 |**2024-04-14**|**Minimax Optimal rates of convergence in the shuffled regression, unlinked regression, and deconvolution under vanishing noise**|Cecile Durot et.al.|[2404.09306v1](http://arxiv.org/abs/2404.09306v1)|null|
