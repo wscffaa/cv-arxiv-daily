@@ -26,6 +26,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549v1](http://arxiv.org/abs/2405.03549v1)|null|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546v1](http://arxiv.org/abs/2405.03546v1)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485v1](http://arxiv.org/abs/2405.03485v1)|**[link](https://github.com/l-sun/lgtm)**|
+|**2024-05-06**|**Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond**|Jiuxiang Gu et.al.|[2405.03251v1](http://arxiv.org/abs/2405.03251v1)|null|
+|**2024-05-06**|**Hyperbolic Geometric Latent Diffusion Model for Graph Generation**|Xingcheng Fu et.al.|[2405.03188v1](http://arxiv.org/abs/2405.03188v1)|null|
+|**2024-05-06**|**DeepMpMRI: Tensor-decomposition Regularized Learning for Fast and High-Fidelity Multi-Parametric Microstructural MR Imaging**|Wenxin Fan et.al.|[2405.03159v1](http://arxiv.org/abs/2405.03159v1)|null|
+|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150v1](http://arxiv.org/abs/2405.03150v1)|null|
+|**2024-05-06**|**AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding**|Tao Liu et.al.|[2405.03121v1](http://arxiv.org/abs/2405.03121v1)|**[link](https://github.com/x-lance/anitalker)**|
+|**2024-05-05**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025v1](http://arxiv.org/abs/2405.03025v1)|null|
+|**2024-05-05**|**Exploring Text-based Realistic Building Facades Editing Applicaiton**|Jing Wang et.al.|[2405.02967v1](http://arxiv.org/abs/2405.02967v1)|null|
+|**2024-05-05**|**Efficient Text-driven Motion Generation via Latent Consistency Training**|Mengxian Hu et.al.|[2405.02791v1](http://arxiv.org/abs/2405.02791v1)|null|
+|**2024-05-04**|**DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model**|Liangqi Lei et.al.|[2405.02696v1](http://arxiv.org/abs/2405.02696v1)|null|
+|**2024-05-03**|**Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI**|Minhui Yu et.al.|[2405.02504v1](http://arxiv.org/abs/2405.02504v1)|null|
+|**2024-05-03**|**Continuous Learned Primal Dual**|Christina Runkel et.al.|[2405.02478v1](http://arxiv.org/abs/2405.02478v1)|null|
+|**2024-05-03**|**CogDPM: Diffusion Probabilistic Models via Cognitive Predictive Coding**|Kaiyuan Chen et.al.|[2405.02384v1](http://arxiv.org/abs/2405.02384v1)|null|
 |**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280v1](http://arxiv.org/abs/2405.02280v1)|null|
 |**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117v1](http://arxiv.org/abs/2405.02117v1)|null|
 |**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008v1](http://arxiv.org/abs/2405.02008v1)|null|
@@ -36,7 +51,7 @@
 |**2024-05-02**|**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning**|Rafael Elberg et.al.|[2405.01705v1](http://arxiv.org/abs/2405.01705v1)|**[link](https://github.com/sugarfreemanatee/feature-space-augmentation-and-iterated-learning)**|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496v1](http://arxiv.org/abs/2405.01496v1)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494v1](http://arxiv.org/abs/2405.01494v1)|null|
-|**2024-05-02**|**Statistical algorithms for low-frequency diffusion data: A PDE approach**|Matteo Giordano et.al.|[2405.01372v1](http://arxiv.org/abs/2405.01372v1)|null|
+|**2024-05-02**|**Statistical algorithms for low-frequency diffusion data: A PDE approach**|Matteo Giordano et.al.|[2405.01372v1](http://arxiv.org/abs/2405.01372v1)|**[link](https://github.com/mattgiord/lf-diffusion)**|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248v1](http://arxiv.org/abs/2405.01248v1)|null|
 |**2024-05-02**|**Automated Virtual Product Placement and Assessment in Images using Diffusion Models**|Mohammad Mahmudul Alam et.al.|[2405.01130v1](http://arxiv.org/abs/2405.01130v1)|null|
 |**2024-05-02**|**Part-aware Shape Generation with Latent 3D Diffusion of Neural Voxel Fields**|Yuhang Huang et.al.|[2405.00998v1](http://arxiv.org/abs/2405.00998v1)|null|
@@ -44,7 +59,7 @@
 |**2024-05-02**|**EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion**|Guangyao Zhai et.al.|[2405.00915v1](http://arxiv.org/abs/2405.00915v1)|null|
 |**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878v1](http://arxiv.org/abs/2405.00878v1)|null|
 |**2024-05-01**|**Guided Conditional Diffusion Classifier (ConDiff) for Enhanced Prediction of Infection in Diabetic Foot Ulcers**|Palawat Busaranuvong et.al.|[2405.00858v1](http://arxiv.org/abs/2405.00858v1)|null|
-|**2024-05-01**|**ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties**|Jiahui Li et.al.|[2405.00797v1](http://arxiv.org/abs/2405.00797v1)|null|
+|**2024-05-01**|**ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties**|Jiahui Li et.al.|[2405.00797v1](http://arxiv.org/abs/2405.00797v1)|**[link](https://github.com/skygoo2000/adm)**|
 |**2024-05-01**|**Obtaining Favorable Layouts for Multiple Object Generation**|Barak Battash et.al.|[2405.00791v1](http://arxiv.org/abs/2405.00791v1)|null|
 |**2024-05-01**|**Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models**|Xiaoshi Wu et.al.|[2405.00760v1](http://arxiv.org/abs/2405.00760v1)|null|
 |**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672v1](http://arxiv.org/abs/2405.00672v1)|null|
@@ -4013,6 +4028,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
+|**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008v1](http://arxiv.org/abs/2405.03008v1)|**[link](https://github.com/nathan66666/dvmsr)**|
+|**2024-05-05**|**I $^3$ Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis**|Haofei Song et.al.|[2405.02857v1](http://arxiv.org/abs/2405.02857v1)|null|
+|**2024-05-05**|**Antenna Failure Resilience: Deep Learning-Enabled Robust DOA Estimation with Single Snapshot Sparse Arrays**|Ruxin Zheng et.al.|[2405.02788v1](http://arxiv.org/abs/2405.02788v1)|null|
 |**2024-05-01**|**Reference-Free Image Quality Metric for Degradation and Reconstruction Artifacts**|Han Cui et.al.|[2405.02208v1](http://arxiv.org/abs/2405.02208v1)|null|
 |**2024-05-03**|**Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations**|Zhilu Zhang et.al.|[2405.02171v1](http://arxiv.org/abs/2405.02171v1)|**[link](https://github.com/cszhilu1998/selfdzsr_plusplus)**|
 |**2024-05-03**|**Optical skyrmions from metafibers**|Tiantian He et.al.|[2405.01962v1](http://arxiv.org/abs/2405.01962v1)|null|
@@ -4948,6 +4967,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008v1](http://arxiv.org/abs/2405.03008v1)|**[link](https://github.com/nathan66666/dvmsr)**|
 |**2024-05-02**|**Single Image Super-Resolution Based on Global-Local Information Synergy**|Nianzu Qiao et.al.|[2405.01085v1](http://arxiv.org/abs/2405.01085v1)|null|
 |**2024-05-01**|**Detail-Enhancing Framework for Reference-Based Image Super-Resolution**|Zihan Wang et.al.|[2405.00431v1](http://arxiv.org/abs/2405.00431v1)|null|
 |**2024-04-29**|**Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing**|Leonardo Rossi et.al.|[2404.18924v1](http://arxiv.org/abs/2404.18924v1)|null|
@@ -5538,6 +5558,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-05**|**Residual-Conditioned Optimal Transport: Towards Structure-preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843v1](http://arxiv.org/abs/2405.02843v1)|null|
+|**2024-05-04**|**Deep Image Restoration For Image Anti-Forensics**|Eren Tahir et.al.|[2405.02751v1](http://arxiv.org/abs/2405.02751v1)|**[link](https://github.com/99eren99/dirfiaf)**|
 |**2024-05-06**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726v2](http://arxiv.org/abs/2405.01726v2)|null|
 |**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394v1](http://arxiv.org/abs/2404.18394v1)|null|
 |**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433v1](http://arxiv.org/abs/2404.17433v1)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
@@ -5910,6 +5932,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
+|**2024-05-06**|**Swarm intelligence for full Stokes dynamic imaging reconstruction of interferometric data**|Alejandro Mus et.al.|[2405.03330v1](http://arxiv.org/abs/2405.03330v1)|null|
+|**2024-05-05**|**I $^3$ Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis**|Haofei Song et.al.|[2405.02857v1](http://arxiv.org/abs/2405.02857v1)|null|
 |**2024-05-01**|**Reference-Free Image Quality Metric for Degradation and Reconstruction Artifacts**|Han Cui et.al.|[2405.02208v1](http://arxiv.org/abs/2405.02208v1)|null|
 |**2024-05-03**|**Auto-Encoding Morph-Tokens for Multimodal LLM**|Kaihang Pan et.al.|[2405.01926v1](http://arxiv.org/abs/2405.01926v1)|**[link](https://github.com/dcdmllm/morphtokens)**|
 |**2024-05-02**|**Development of Skip Connection in Deep Neural Networks for Computer Vision and Medical Image Analysis: A Survey**|Guoping Xu et.al.|[2405.01725v1](http://arxiv.org/abs/2405.01725v1)|**[link](https://github.com/apple1986/residual_learning_for_images)**|
@@ -6975,6 +7000,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-05**|**SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion**|Ziyun Qian et.al.|[2405.02844v1](http://arxiv.org/abs/2405.02844v1)|null|
 |**2024-04-24**|**SRAGAN: Saliency Regularized and Attended Generative Adversarial Network for Chinese Ink-wash Painting Generation**|Xiang Gao et.al.|[2404.15743v1](http://arxiv.org/abs/2404.15743v1)|null|
 |**2024-04-23**|**CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields**|Deheng Zhang et.al.|[2404.14967v1](http://arxiv.org/abs/2404.14967v1)|null|
 |**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771v1](http://arxiv.org/abs/2404.14771v1)|null|
