@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534v1](http://arxiv.org/abs/2405.04534v1)|null|
+|**2024-05-07**|**Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing**|Yi Zuo et.al.|[2405.04496v1](http://arxiv.org/abs/2405.04496v1)|null|
+|**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483v1](http://arxiv.org/abs/2405.04483v1)|null|
+|**2024-05-07**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370v1](http://arxiv.org/abs/2405.04370v1)|null|
+|**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356v1](http://arxiv.org/abs/2405.04356v1)|null|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v1](http://arxiv.org/abs/2405.04312v1)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-07**|**BUDDy: Single-Channel Blind Unsupervised Dereverberation with Diffusion Models**|Eloi Moliner et.al.|[2405.04272v1](http://arxiv.org/abs/2405.04272v1)|null|
+|**2024-05-07**|**Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models**|Fan Bao et.al.|[2405.04233v1](http://arxiv.org/abs/2405.04233v1)|null|
+|**2024-05-07**|**Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model**|Joo Young Choi et.al.|[2405.03958v1](http://arxiv.org/abs/2405.03958v1)|null|
+|**2024-05-06**|**MVDiff: Scalable and Flexible Multi-View Diffusion for 3D Object Reconstruction from Single-View**|Emmanuelle Bourigault et.al.|[2405.03894v1](http://arxiv.org/abs/2405.03894v1)|null|
+|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
+|**2024-05-06**|**Synthetic Data from Diffusion Models Improve Drug Discovery Prediction**|Bing Hu et.al.|[2405.03799v1](http://arxiv.org/abs/2405.03799v1)|null|
+|**2024-05-06**|**GraphSL: An Open-Source Library for Graph Source Localization Approaches and Benchmark Datasets**|Junxiang Wang et.al.|[2405.03724v1](http://arxiv.org/abs/2405.03724v1)|null|
 |**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549v1](http://arxiv.org/abs/2405.03549v1)|null|
 |**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546v1](http://arxiv.org/abs/2405.03546v1)|**[link](https://github.com/ubcdingxin/ccdm)**|
 |**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485v1](http://arxiv.org/abs/2405.03485v1)|**[link](https://github.com/l-sun/lgtm)**|
@@ -4028,6 +4041,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483v1](http://arxiv.org/abs/2405.04483v1)|null|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312v1](http://arxiv.org/abs/2405.04312v1)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
 |**2024-05-05**|**DVMSR: Distillated Vision Mamba for Efficient Super-Resolution**|Xiaoyan Lei et.al.|[2405.03008v1](http://arxiv.org/abs/2405.03008v1)|**[link](https://github.com/nathan66666/dvmsr)**|
 |**2024-05-05**|**I $^3$ Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis**|Haofei Song et.al.|[2405.02857v1](http://arxiv.org/abs/2405.02857v1)|null|
@@ -5558,6 +5573,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**|Jiaxin Zhang et.al.|[2405.04408v1](http://arxiv.org/abs/2405.04408v1)|**[link](https://github.com/zzzhang-jx/docres)**|
 |**2024-05-05**|**Residual-Conditioned Optimal Transport: Towards Structure-preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843v1](http://arxiv.org/abs/2405.02843v1)|null|
 |**2024-05-04**|**Deep Image Restoration For Image Anti-Forensics**|Eren Tahir et.al.|[2405.02751v1](http://arxiv.org/abs/2405.02751v1)|**[link](https://github.com/99eren99/dirfiaf)**|
 |**2024-05-06**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726v2](http://arxiv.org/abs/2405.01726v2)|null|
@@ -5932,6 +5948,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Cross-IQA: Unsupervised Learning for Image Quality Assessment**|Zhen Zhang et.al.|[2405.04311v1](http://arxiv.org/abs/2405.04311v1)|null|
+|**2024-05-07**|**Policy Learning with a Language Bottleneck**|Megha Srivastava et.al.|[2405.04118v1](http://arxiv.org/abs/2405.04118v1)|**[link](https://github.com/meghabyte/bottleneck)**|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684v1](http://arxiv.org/abs/2405.03684v1)|null|
 |**2024-05-06**|**Swarm intelligence for full Stokes dynamic imaging reconstruction of interferometric data**|Alejandro Mus et.al.|[2405.03330v1](http://arxiv.org/abs/2405.03330v1)|null|
 |**2024-05-05**|**I $^3$ Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis**|Haofei Song et.al.|[2405.02857v1](http://arxiv.org/abs/2405.02857v1)|null|
