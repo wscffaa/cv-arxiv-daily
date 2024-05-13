@@ -26,6 +26,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547v1](http://arxiv.org/abs/2405.06547v1)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
+|**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461v1](http://arxiv.org/abs/2405.06461v1)|null|
+|**2024-05-10**|**PUMA: margin-based data pruning**|Javier Maroto et.al.|[2405.06298v1](http://arxiv.org/abs/2405.06298v1)|null|
+|**2024-05-10**|**Prior-guided Diffusion Model for Cell Segmentation in Quantitative Phase Imaging**|Zhuchen Shao et.al.|[2405.06175v1](http://arxiv.org/abs/2405.06175v1)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967v1](http://arxiv.org/abs/2405.05967v1)|null|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959v1](http://arxiv.org/abs/2405.05959v1)|**[link](https://github.com/eqtpartners/tsde)**|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953v1](http://arxiv.org/abs/2405.05953v1)|null|
@@ -4071,6 +4075,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Machine learning for reconstruction of polarity inversion lines from solar filaments**|V. Kisielius et.al.|[2405.06293v1](http://arxiv.org/abs/2405.06293v1)|null|
+|**2024-05-07**|**Single-antenna 3D localization with nonseparable toroidal pulses**|Ren Wang et.al.|[2405.05979v1](http://arxiv.org/abs/2405.05979v1)|null|
 |**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908v1](http://arxiv.org/abs/2405.05908v1)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497v1](http://arxiv.org/abs/2405.05497v1)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001v1](http://arxiv.org/abs/2405.05001v1)|**[link](https://github.com/korouuuuu/hma)**|
@@ -5990,6 +5996,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Learning A Spiking Neural Network for Efficient Image Deraining**|Tianyu Song et.al.|[2405.06277v1](http://arxiv.org/abs/2405.06277v1)|**[link](https://github.com/mingtian99/esdnet)**|
+|**2024-05-09**|**Prospects of Detecting a Jet in Sagittarius A* with VLBI**|Erandi Chavez et.al.|[2405.06029v1](http://arxiv.org/abs/2405.06029v1)|null|
 |**2024-05-09**|**MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**|Pinhuang Tan et.al.|[2405.05814v1](http://arxiv.org/abs/2405.05814v1)|null|
 |**2024-05-09**|**Joint Edge Optimization Deep Unfolding Network for Accelerated MRI Reconstruction**|Yue Cai et.al.|[2405.05564v1](http://arxiv.org/abs/2405.05564v1)|null|
 |**2024-05-07**|**Cross-IQA: Unsupervised Learning for Image Quality Assessment**|Zhen Zhang et.al.|[2405.04311v1](http://arxiv.org/abs/2405.04311v1)|null|
