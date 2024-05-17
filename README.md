@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Text-to-Vector Generation with Neural Path Representation**|Peiying Zhang et.al.|[2405.10317v1](http://arxiv.org/abs/2405.10317v1)|null|
+|**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316v1](http://arxiv.org/abs/2405.10316v1)|null|
+|**2024-05-16**|**CAT3D: Create Anything in 3D with Multi-View Diffusion Models**|Ruiqi Gao et.al.|[2405.10314v1](http://arxiv.org/abs/2405.10314v1)|null|
+|**2024-05-16**|**Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks**|João Bordalo et.al.|[2405.10122v1](http://arxiv.org/abs/2405.10122v1)|null|
+|**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078v1](http://arxiv.org/abs/2405.10078v1)|null|
+|**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
+|**2024-05-16**|**VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing**|Binghui Chen et.al.|[2405.09985v1](http://arxiv.org/abs/2405.09985v1)|null|
+|**2024-05-16**|**Language-Oriented Semantic Latent Representation for Image Transmission**|Giordano Cicchetti et.al.|[2405.09976v1](http://arxiv.org/abs/2405.09976v1)|**[link](https://github.com/ispamm/img2img-sc)**|
+|**2024-05-16**|**Whole-Song Hierarchical Generation of Symbolic Music Using Cascaded Diffusion Models**|Ziyu Wang et.al.|[2405.09901v1](http://arxiv.org/abs/2405.09901v1)|**[link](https://github.com/zzwaang/melody-reduction-algo)**|
+|**2024-05-16**|**DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection**|Yuhao Sun et.al.|[2405.09882v1](http://arxiv.org/abs/2405.09882v1)|**[link](https://github.com/hanssuny/diffam)**|
+|**2024-05-16**|**Dual3D: Efficient and Consistent Text-to-3D Generation with Dual-mode Multi-view Latent Diffusion**|Xinyang Li et.al.|[2405.09874v1](http://arxiv.org/abs/2405.09874v1)|null|
+|**2024-05-16**|**Rethinking Multi-User Semantic Communications with Deep Generative Models**|Eleonora Grassucci et.al.|[2405.09866v1](http://arxiv.org/abs/2405.09866v1)|null|
+|**2024-05-16**|**MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis**|Joseph Cho et.al.|[2405.09806v1](http://arxiv.org/abs/2405.09806v1)|null|
+|**2024-05-15**|**A Survey of Generative Techniques for Spatial-Temporal Data Mining**|Qianru Zhang et.al.|[2405.09592v1](http://arxiv.org/abs/2405.09592v1)|null|
 |**2024-05-16**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v2](http://arxiv.org/abs/2405.09539v2)|**[link](https://github.com/wuchengyu123/mmfusion)**|
 |**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369v1](http://arxiv.org/abs/2405.09369v1)|null|
 |**2024-05-15**|**Dance Any Beat: Blending Beats with Visuals in Dance Video Generation**|Xuanchen Wang et.al.|[2405.09266v1](http://arxiv.org/abs/2405.09266v1)|null|
@@ -4107,6 +4121,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Bilateral Event Mining and Complementary for Event Stream Super-Resolution**|Zhilin Huang et.al.|[2405.10037v1](http://arxiv.org/abs/2405.10037v1)|**[link](https://github.com/lqm26/bmcnet-esr)**|
+|**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
+|**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873v1](http://arxiv.org/abs/2405.09873v1)|**[link](https://github.com/yongsongh/irsrmamba)**|
 |**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
 |**2024-05-15**|**Low-Complexity Joint Azimuth-Range-Velocity Estimation for Integrated Sensing and Communication with OFDM Waveform**|Jun Zhang et.al.|[2405.09443v1](http://arxiv.org/abs/2405.09443v1)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
@@ -5066,6 +5083,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
+|**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873v1](http://arxiv.org/abs/2405.09873v1)|**[link](https://github.com/yongsongh/irsrmamba)**|
 |**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
 |**2024-05-15**|**Large coordinate kernel attention network for lightweight image super-resolution**|Fangwei Hao et.al.|[2405.09353v1](http://arxiv.org/abs/2405.09353v1)|null|
 |**2024-05-14**|**NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution**|Yihong Chen et.al.|[2405.08423v1](http://arxiv.org/abs/2405.08423v1)|null|
@@ -5669,6 +5688,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030v1](http://arxiv.org/abs/2405.10030v1)|null|
+|**2024-05-16**|**NTIRE 2024 Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2405.09923v1](http://arxiv.org/abs/2405.09923v1)|null|
+|**2024-05-15**|**Inference in higher-order undirected graphical models and binary polynomial optimization**|Aida Khajavirad et.al.|[2405.09727v1](http://arxiv.org/abs/2405.09727v1)|null|
 |**2024-05-13**|**FRRffusion: Unveiling Authenticity with Diffusion-Based Face Retouching Reversal**|Fengchuang Xing et.al.|[2405.07582v1](http://arxiv.org/abs/2405.07582v1)|null|
 |**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663v1](http://arxiv.org/abs/2405.05663v1)|null|
 |**2024-05-07**|**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**|Jiaxin Zhang et.al.|[2405.04408v1](http://arxiv.org/abs/2405.04408v1)|**[link](https://github.com/zzzhang-jx/docres)**|
@@ -6046,6 +6068,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244v1](http://arxiv.org/abs/2405.10244v1)|**[link](https://github.com/adeandrade/research)**|
+|**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078v1](http://arxiv.org/abs/2405.10078v1)|null|
+|**2024-05-16**|**Semantic Communication via Rate Distortion Perception Bottleneck**|Zihe Zhao et.al.|[2405.09995v1](http://arxiv.org/abs/2405.09995v1)|null|
 |**2024-05-15**|**Enhancing Image Privacy in Semantic Communication over Wiretap Channels leveraging Differential Privacy**|Weixuan Chen et.al.|[2405.09234v1](http://arxiv.org/abs/2405.09234v1)|null|
 |**2024-05-14**|**A practical guide to light-sheet microscopy for nanoscale imaging: Looking beyond the cell**|Stephanie N. Kramer et.al.|[2405.08987v1](http://arxiv.org/abs/2405.08987v1)|null|
 |**2024-05-10**|**Learning A Spiking Neural Network for Efficient Image Deraining**|Tianyu Song et.al.|[2405.06277v1](http://arxiv.org/abs/2405.06277v1)|**[link](https://github.com/mingtian99/esdnet)**|
@@ -6935,6 +6960,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316v1](http://arxiv.org/abs/2405.10316v1)|null|
 |**2024-05-15**|**SOEDiff: Efficient Distillation for Small Object Editing**|Qihe Pan et.al.|[2405.09114v1](http://arxiv.org/abs/2405.09114v1)|null|
 |**2024-05-11**|**Unsupervised Density Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2405.07047v1](http://arxiv.org/abs/2405.07047v1)|null|
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598v1](http://arxiv.org/abs/2404.18598v1)|null|
