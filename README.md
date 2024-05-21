@@ -32,7 +32,7 @@
 |**2024-05-17**|**LoCI-DiffCom: Longitudinal Consistency-Informed Diffusion Model for 3D Infant Brain Image Completion**|Zihao Zhu et.al.|[2405.10691v1](http://arxiv.org/abs/2405.10691v1)|null|
 |**2024-05-17**|**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**|Tong Chen et.al.|[2405.10550v1](http://arxiv.org/abs/2405.10550v1)|**[link](https://github.com/davismeee/lightdiff)**|
 |**2024-05-17**|**ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation**|Pengzhi Li et.al.|[2405.10508v1](http://arxiv.org/abs/2405.10508v1)|null|
-|**2024-05-16**|**Text-to-Vector Generation with Neural Path Representation**|Peiying Zhang et.al.|[2405.10317v1](http://arxiv.org/abs/2405.10317v1)|null|
+|**2024-05-20**|**Text-to-Vector Generation with Neural Path Representation**|Peiying Zhang et.al.|[2405.10317v2](http://arxiv.org/abs/2405.10317v2)|null|
 |**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316v1](http://arxiv.org/abs/2405.10316v1)|null|
 |**2024-05-16**|**CAT3D: Create Anything in 3D with Multi-View Diffusion Models**|Ruiqi Gao et.al.|[2405.10314v1](http://arxiv.org/abs/2405.10314v1)|null|
 |**2024-05-16**|**Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks**|João Bordalo et.al.|[2405.10122v1](http://arxiv.org/abs/2405.10122v1)|null|
@@ -4127,7 +4127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-17**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v1](http://arxiv.org/abs/2405.10561v1)|null|
+|**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v2](http://arxiv.org/abs/2405.10561v2)|null|
 |**2024-05-16**|**RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods**|Xin Qiao et.al.|[2405.10357v1](http://arxiv.org/abs/2405.10357v1)|null|
 |**2024-05-16**|**Bilateral Event Mining and Complementary for Event Stream Super-Resolution**|Zhilin Huang et.al.|[2405.10037v1](http://arxiv.org/abs/2405.10037v1)|**[link](https://github.com/lqm26/bmcnet-esr)**|
 |**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
@@ -5091,7 +5091,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-17**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v1](http://arxiv.org/abs/2405.10561v1)|null|
+|**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v2](http://arxiv.org/abs/2405.10561v2)|null|
 |**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
 |**2024-05-16**|**IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**|Yongsong Huang et.al.|[2405.09873v1](http://arxiv.org/abs/2405.09873v1)|**[link](https://github.com/yongsongh/irsrmamba)**|
 |**2024-05-15**|**Perception- and Fidelity-aware Reduced-Reference Super-Resolution Image Quality Assessment**|Xinying Lin et.al.|[2405.09472v1](http://arxiv.org/abs/2405.09472v1)|null|
@@ -6079,7 +6079,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-17**|**GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision**|Xin Tan et.al.|[2405.10591v1](http://arxiv.org/abs/2405.10591v1)|null|
-|**2024-05-17**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v1](http://arxiv.org/abs/2405.10561v1)|null|
+|**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v2](http://arxiv.org/abs/2405.10561v2)|null|
 |**2024-05-16**|**Towards Task-Compatible Compressible Representations**|Anderson de Andrade et.al.|[2405.10244v1](http://arxiv.org/abs/2405.10244v1)|**[link](https://github.com/adeandrade/research)**|
 |**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078v1](http://arxiv.org/abs/2405.10078v1)|null|
 |**2024-05-16**|**Semantic Communication via Rate Distortion Perception Bottleneck**|Zihe Zhao et.al.|[2405.09995v1](http://arxiv.org/abs/2405.09995v1)|null|
