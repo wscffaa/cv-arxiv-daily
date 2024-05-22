@@ -5163,7 +5163,7 @@
 |**2024-04-15**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v4](http://arxiv.org/abs/2404.00722v4)|**[link](https://github.com/ming053l/drct)**|
 |**2024-03-31**|**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion**|Chunyang Bi et.al.|[2404.00661v1](http://arxiv.org/abs/2404.00661v1)|null|
 |**2024-03-30**|**Exploiting Self-Supervised Constraints in Image Super-Resolution**|Gang Wu et.al.|[2404.00260v1](http://arxiv.org/abs/2404.00260v1)|**[link](https://github.com/aitical/sscsr)**|
-|**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v1](http://arxiv.org/abs/2403.18370v1)|**[link](https://github.com/luigisigillo/shipinsight)**|
+|**2024-05-21**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370v2](http://arxiv.org/abs/2403.18370v2)|**[link](https://github.com/luigisigillo/shipinsight)**|
 |**2024-03-27**|**Super-Resolution of SOHO/MDI Magnetograms of Solar Active Regions Using SDO/HMI Data and an Attention-Aided Convolutional Neural Network**|Chunhui Xu et.al.|[2403.18302v1](http://arxiv.org/abs/2403.18302v1)|null|
 |**2024-03-26**|**Algorithmic unfolding for image reconstruction and localization problems in fluorescence microscopy**|Silvia Bonettini et.al.|[2403.17506v1](http://arxiv.org/abs/2403.17506v1)|**[link](https://github.com/danilopezzi/agd-unfolding-for-microscopy-imaging)**|
 |**2024-03-25**|**A Study in Dataset Pruning for Image Super-Resolution**|Brian B. Moser et.al.|[2403.17083v1](http://arxiv.org/abs/2403.17083v1)|null|
