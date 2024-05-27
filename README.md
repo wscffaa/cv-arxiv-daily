@@ -26,6 +26,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757v1](http://arxiv.org/abs/2405.15757v1)|null|
+|**2024-05-24**|**Taming Score-Based Diffusion Priors for Infinite-Dimensional Nonlinear Inverse Problems**|Lorenzo Baldassari et.al.|[2405.15676v1](http://arxiv.org/abs/2405.15676v1)|null|
+|**2024-05-24**|**Reducing the cost of posterior sampling in linear inverse problems via task-dependent score learning**|Fabian Schneider et.al.|[2405.15643v1](http://arxiv.org/abs/2405.15643v1)|null|
+|**2024-05-24**|**DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation**|Xiankang He et.al.|[2405.15619v1](http://arxiv.org/abs/2405.15619v1)|null|
+|**2024-05-24**|**Learning to Discretize Denoising Diffusion ODEs**|Vinh Tong et.al.|[2405.15506v1](http://arxiv.org/abs/2405.15506v1)|null|
+|**2024-05-24**|**Out of Many, One: Designing and Scaffolding Proteins at the Scale of the Structural Universe with Genie 2**|Yeqing Lin et.al.|[2405.15489v1](http://arxiv.org/abs/2405.15489v1)|null|
+|**2024-05-24**|**NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer**|Meng You et.al.|[2405.15364v1](http://arxiv.org/abs/2405.15364v1)|**[link](https://github.com/zhu-zhiyu/nvs_solver)**|
+|**2024-05-24**|**SoundLoCD: An Efficient Conditional Discrete Contrastive Latent Diffusion Model for Text-to-Sound Generation**|Xinlei Niu et.al.|[2405.15338v1](http://arxiv.org/abs/2405.15338v1)|null|
+|**2024-05-24**|**Challenges and Opportunities in 3D Content Generation**|Ke Zhao et.al.|[2405.15335v1](http://arxiv.org/abs/2405.15335v1)|null|
+|**2024-05-24**|**Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model**|Mingyang Yi et.al.|[2405.15330v1](http://arxiv.org/abs/2405.15330v1)|null|
+|**2024-05-24**|**SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**|Guibao Shen et.al.|[2405.15321v1](http://arxiv.org/abs/2405.15321v1)|null|
+|**2024-05-24**|**Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion**|Aoxue Li et.al.|[2405.15313v1](http://arxiv.org/abs/2405.15313v1)|null|
+|**2024-05-24**|**Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient**|Yongliang Wu et.al.|[2405.15304v1](http://arxiv.org/abs/2405.15304v1)|null|
+|**2024-05-24**|**StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models**|Chengming Xu et.al.|[2405.15287v1](http://arxiv.org/abs/2405.15287v1)|null|
+|**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241v1](http://arxiv.org/abs/2405.15241v1)|null|
+|**2024-05-24**|**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models**|Yimeng Zhang et.al.|[2405.15234v1](http://arxiv.org/abs/2405.15234v1)|**[link](https://github.com/optml-group/advunlearn)**|
+|**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232v1](http://arxiv.org/abs/2405.15232v1)|null|
+|**2024-05-24**|**NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation**|Vikas Thamizharasan et.al.|[2405.15217v1](http://arxiv.org/abs/2405.15217v1)|null|
+|**2024-05-24**|**ODGEN: Domain-specific Object Detection Data Generation with Diffusion Models**|Jingyuan Zhu et.al.|[2405.15199v1](http://arxiv.org/abs/2405.15199v1)|null|
+|**2024-05-24**|**Diffusion Actor-Critic with Entropy Regulator**|Yinuo Wang et.al.|[2405.15177v1](http://arxiv.org/abs/2405.15177v1)|null|
+|**2024-05-23**|**AdjointDEIS: Efficient Gradients for Diffusion Models**|Zander W. Blasingame et.al.|[2405.15020v1](http://arxiv.org/abs/2405.15020v1)|null|
+|**2024-05-23**|**CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner**|Weiyu Li et.al.|[2405.14979v1](http://arxiv.org/abs/2405.14979v1)|**[link](https://github.com/wyysf-98/craftsman)**|
+|**2024-05-23**|**SFDDM: Single-fold Distillation for Diffusion models**|Chi Hong et.al.|[2405.14961v1](http://arxiv.org/abs/2405.14961v1)|null|
+|**2024-05-23**|**PILOT: Equivariant diffusion for pocket conditioned de novo ligand generation with multi-objective guidance via importance sampling**|Julian Cremer et.al.|[2405.14925v1](http://arxiv.org/abs/2405.14925v1)|null|
 |**2024-05-24**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867v2](http://arxiv.org/abs/2405.14867v2)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864v1](http://arxiv.org/abs/2405.14864v1)|null|
 |**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861v1](http://arxiv.org/abs/2405.14861v1)|null|
@@ -4207,6 +4231,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Visible-frequency hyperbolic plasmon polaritons in a natural van der Waals crystal**|Giacomo Venturi et.al.|[2405.15420v1](http://arxiv.org/abs/2405.15420v1)|null|
+|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399v1](http://arxiv.org/abs/2405.15399v1)|null|
+|**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241v1](http://arxiv.org/abs/2405.15241v1)|null|
+|**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934v1](http://arxiv.org/abs/2405.14934v1)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Stimulated Raman-induced Beam Focusing**|Minhaeng Cho et.al.|[2405.14240v1](http://arxiv.org/abs/2405.14240v1)|null|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805v1](http://arxiv.org/abs/2405.13805v1)|null|
@@ -5178,6 +5206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934v1](http://arxiv.org/abs/2405.14934v1)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805v1](http://arxiv.org/abs/2405.13805v1)|null|
 |**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v2](http://arxiv.org/abs/2405.10561v2)|null|
@@ -5639,6 +5668,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279v1](http://arxiv.org/abs/2405.15279v1)|null|
 |**2024-04-25**|**Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation**|Huiyu Zhai et.al.|[2404.16685v1](http://arxiv.org/abs/2404.16685v1)|**[link](https://github.com/alexyangxx/mcfnet)**|
 |**2024-04-07**|**Dual-Camera Smooth Zoom on Mobile Phones**|Renlong Wu et.al.|[2404.04908v1](http://arxiv.org/abs/2404.04908v1)|null|
 |**2024-03-28**|**Taming Lookup Tables for Efficient Image Retouching**|Sidi Yang et.al.|[2403.19238v1](http://arxiv.org/abs/2403.19238v1)|**[link](https://github.com/stephen0808/icelut)**|
@@ -5787,6 +5817,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719v1](http://arxiv.org/abs/2405.15719v1)|null|
+|**2024-05-24**|**Efficient Degradation-aware Any Image Restoration**|Eduard Zamfir et.al.|[2405.15475v1](http://arxiv.org/abs/2405.15475v1)|null|
+|**2024-05-24**|**Blaze3DM: Marry Triplane Representation with Diffusion for 3D Medical Inverse Problem Solving**|Jia He et.al.|[2405.15241v1](http://arxiv.org/abs/2405.15241v1)|null|
 |**2024-05-23**|**Efficient Visual State Space Model for Image Deblurring**|Lingshun Kong et.al.|[2405.14343v1](http://arxiv.org/abs/2405.14343v1)|null|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805v1](http://arxiv.org/abs/2405.13805v1)|null|
 |**2024-05-21**|**DARK: Denoising, Amplification, Restoration Kit**|Zhuoheng Li et.al.|[2405.12891v1](http://arxiv.org/abs/2405.12891v1)|**[link](https://github.com/hollinsStuart/dark)**|
@@ -6175,6 +6208,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**A Bayesian Approach to GRAPPA Parallel FMRI Image Reconstruction Increases SNR and Power of Task Detection**|Chase J Sakitis et.al.|[2405.15003v1](http://arxiv.org/abs/2405.15003v1)|null|
 |**2024-05-22**|**Hyperspectral Image Reconstruction for Predicting Chick Embryo Mortality Towards Advancing Egg and Hatchery Industry**|Md. Toukir Ahmed et.al.|[2405.13843v1](http://arxiv.org/abs/2405.13843v1)|null|
 |**2024-05-22**|**Comparative Analysis of Hyperspectral Image Reconstruction Using Deep Learning for Agricultural and Biological Applications**|Md. Toukir Ahmed et.al.|[2405.13331v1](http://arxiv.org/abs/2405.13331v1)|null|
 |**2024-05-22**|**Analysis of reconstruction from noisy discrete generalized Radon data**|Alexander Katsevich et.al.|[2405.13269v1](http://arxiv.org/abs/2405.13269v1)|null|
@@ -7267,7 +7301,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847v1](http://arxiv.org/abs/2405.12847v1)|null|
+|**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847v1](http://arxiv.org/abs/2405.12847v1)|**[link](https://github.com/LiyangTseng/AudMem)**|
 |**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin et.al.|[2405.09470v1](http://arxiv.org/abs/2405.09470v1)|null|
 |**2024-03-20**|**On-the-fly Learning to Transfer Motion Style with Diffusion Models: A Semantic Guidance Approach**|Lei Hu et.al.|[2405.06646v1](http://arxiv.org/abs/2405.06646v1)|null|
 |**2024-05-08**|**StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer**|Zijia Wang et.al.|[2405.05027v1](http://arxiv.org/abs/2405.05027v1)|null|
@@ -7281,6 +7315,7 @@
 |**2024-04-21**|**Rethink Arbitrary Style Transfer with Transformer and Contrastive Learning**|Zhanjie Zhang et.al.|[2404.13584v1](http://arxiv.org/abs/2404.13584v1)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000v1](http://arxiv.org/abs/2404.13000v1)|null|
 |**2024-04-29**|**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt**|Zhanjie Zhang et.al.|[2404.11474v2](http://arxiv.org/abs/2404.11474v2)|**[link](https://github.com/jamie-cheung/lsast)**|
+|**2024-05-24**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967v2](http://arxiv.org/abs/2404.09967v2)|null|
 |**2024-04-15**|**Improved Object-Based Style Transfer with Single Deep Network**|Harshmohan Kulkarni et.al.|[2404.09461v1](http://arxiv.org/abs/2404.09461v1)|null|
 |**2024-04-10**|**Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer**|Yanqi Ge et.al.|[2404.06835v1](http://arxiv.org/abs/2404.06835v1)|null|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236v1](http://arxiv.org/abs/2404.05236v1)|null|
