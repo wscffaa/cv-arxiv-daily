@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867v1](http://arxiv.org/abs/2405.14867v1)|null|
+|**2024-05-24**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867v2](http://arxiv.org/abs/2405.14867v2)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864v1](http://arxiv.org/abs/2405.14864v1)|null|
 |**2024-05-23**|**Adapting to Unknown Low-Dimensional Structures in Score-Based Diffusion Models**|Gen Li et.al.|[2405.14861v1](http://arxiv.org/abs/2405.14861v1)|null|
 |**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857v1](http://arxiv.org/abs/2405.14857v1)|null|
@@ -34,21 +34,21 @@
 |**2024-05-23**|**Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer**|Shuang Wu et.al.|[2405.14832v1](http://arxiv.org/abs/2405.14832v1)|null|
 |**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828v1](http://arxiv.org/abs/2405.14828v1)|null|
 |**2024-05-23**|**PaGoDA: Progressive Growing of a One-Step Generator from a Low-Resolution Diffusion Teacher**|Dongjun Kim et.al.|[2405.14822v1](http://arxiv.org/abs/2405.14822v1)|null|
-|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|null|
+|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800v1](http://arxiv.org/abs/2405.14800v1)|null|
 |**2024-05-23**|**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing**|Ling Yang et.al.|[2405.14785v1](http://arxiv.org/abs/2405.14785v1)|null|
 |**2024-05-23**|**Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography**|Shuo Han et.al.|[2405.14770v1](http://arxiv.org/abs/2405.14770v1)|null|
 |**2024-05-23**|**RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance**|Zhicheng Sun et.al.|[2405.14677v1](http://arxiv.org/abs/2405.14677v1)|**[link](https://github.com/feifeiobama/RectifID)**|
 |**2024-05-23**|**Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models**|Jingyi Chen et.al.|[2405.14632v1](http://arxiv.org/abs/2405.14632v1)|null|
 |**2024-05-23**|**Neuroexplicit Diffusion Models for Inpainting of Optical Flow Fields**|Tom Fischer et.al.|[2405.14599v1](http://arxiv.org/abs/2405.14599v1)|null|
-|**2024-05-23**|**Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**|Shiqi Yang et.al.|[2405.14598v1](http://arxiv.org/abs/2405.14598v1)|null|
+|**2024-05-24**|**Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**|Shiqi Yang et.al.|[2405.14598v2](http://arxiv.org/abs/2405.14598v2)|null|
 |**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580v1](http://arxiv.org/abs/2405.14580v1)|null|
 |**2024-05-23**|**Regressor-free Molecule Generation to Support Drug Response Prediction**|Kun Li et.al.|[2405.14536v1](http://arxiv.org/abs/2405.14536v1)|null|
 |**2024-05-23**|**LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models**|Seyedmorteza Sadat et.al.|[2405.14477v1](http://arxiv.org/abs/2405.14477v1)|null|
 |**2024-05-23**|**TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing**|Teng Xu et.al.|[2405.14455v1](http://arxiv.org/abs/2405.14455v1)|null|
 |**2024-05-23**|**Adversarial Schrödinger Bridge Matching**|Nikita Gushchin et.al.|[2405.14449v1](http://arxiv.org/abs/2405.14449v1)|null|
 |**2024-05-23**|**Reliable Trajectory Prediction and Uncertainty Quantification with Conditioned Diffusion Models**|Marion Neumeier et.al.|[2405.14384v1](http://arxiv.org/abs/2405.14384v1)|null|
-|**2024-05-23**|**Autoregressive Image Diffusion: Generating Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327v1](http://arxiv.org/abs/2405.14327v1)|null|
+|**2024-05-24**|**Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327v2](http://arxiv.org/abs/2405.14327v2)|null|
 |**2024-05-23**|**Exposure Diffusion: HDR Image Generation by Consistent LDR denoising**|Mojtaba Bemana et.al.|[2405.14304v1](http://arxiv.org/abs/2405.14304v1)|null|
 |**2024-05-23**|**Diffusion-based Quantum Error Mitigation using Stochastic Differential Equation**|Joo Yong Shim et.al.|[2405.14283v1](http://arxiv.org/abs/2405.14283v1)|null|
 |**2024-05-23**|**Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors**|Emile Pierret et.al.|[2405.14250v1](http://arxiv.org/abs/2405.14250v1)|null|
@@ -4207,7 +4207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|null|
+|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Stimulated Raman-induced Beam Focusing**|Minhaeng Cho et.al.|[2405.14240v1](http://arxiv.org/abs/2405.14240v1)|null|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805v1](http://arxiv.org/abs/2405.13805v1)|null|
 |**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389v1](http://arxiv.org/abs/2405.13389v1)|null|
@@ -5178,7 +5178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|null|
+|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-22**|**Perceptual Fairness in Image Restoration**|Guy Ohayon et.al.|[2405.13805v1](http://arxiv.org/abs/2405.13805v1)|null|
 |**2024-05-20**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561v2](http://arxiv.org/abs/2405.10561v2)|null|
 |**2024-05-16**|**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution**|Xingjian Wang et.al.|[2405.10014v1](http://arxiv.org/abs/2405.10014v1)|null|
@@ -6801,7 +6801,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|null|
+|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802v2](http://arxiv.org/abs/2405.14802v2)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726v5](http://arxiv.org/abs/2405.01726v5)|**[link](https://github.com/lronkitty/ssumamba)**|
 |**2024-05-08**|**Investigating Self-Supervised Image Denoising with Denaturation**|Hiroki Waida et.al.|[2405.01124v2](http://arxiv.org/abs/2405.01124v2)|null|
 |**2024-04-30**|**Noise propagation and MP-PCA image denoising for high-resolution quantitative T2* and magnetic susceptibility mapping (QSM)**|Liad Doniza et.al.|[2404.19309v1](http://arxiv.org/abs/2404.19309v1)|null|
