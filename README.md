@@ -60,7 +60,7 @@
 |**2024-05-26**|**Towards Multi-Task Multi-Modal Models: A Video Generative Perspective**|Lijun Yu et.al.|[2405.16728v1](http://arxiv.org/abs/2405.16728v1)|null|
 |**2024-05-26**|**Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models**|Hanwen Liang et.al.|[2405.16645v1](http://arxiv.org/abs/2405.16645v1)|null|
 |**2024-05-26**|**A Study on Unsupervised Anomaly Detection and Defect Localization using Generative Model in Ultrasonic Non-Destructive Testing**|Yusaku Ando et.al.|[2405.16580v1](http://arxiv.org/abs/2405.16580v1)|null|
-|**2024-05-26**|**ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling**|Francesca Babiloni et.al.|[2405.16570v1](http://arxiv.org/abs/2405.16570v1)|null|
+|**2024-05-28**|**ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling**|Francesca Babiloni et.al.|[2405.16570v2](http://arxiv.org/abs/2405.16570v2)|null|
 |**2024-05-26**|**I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models**|Wenqi Ouyang et.al.|[2405.16537v1](http://arxiv.org/abs/2405.16537v1)|null|
 |**2024-05-26**|**Pruning for Robust Concept Erasing in Diffusion Models**|Tianyun Yang et.al.|[2405.16534v1](http://arxiv.org/abs/2405.16534v1)|null|
 |**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517v1](http://arxiv.org/abs/2405.16517v1)|null|
