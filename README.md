@@ -5787,7 +5787,7 @@
 |**2023-06-26**|**Video object detection for privacy-preserving patient monitoring in intensive care**|Raphael Emberger et.al.|[2306.14620v1](http://arxiv.org/abs/2306.14620v1)|**[link](https://github.com/raember/yolov5r_autodidact)**|
 |**2023-05-23**|**FlowChroma -- A Deep Recurrent Neural Network for Video Colorization**|Thejan Wijesinghe et.al.|[2305.13704v1](http://arxiv.org/abs/2305.13704v1)|null|
 |**2024-01-20**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v3](http://arxiv.org/abs/2305.10124v3)|**[link](https://github.com/omerb01/puq)**|
-|**2023-05-15**|**PLIP: Language-Image Pre-training for Person Representation Learning**|Jialong Zuo et.al.|[2305.08386v1](http://arxiv.org/abs/2305.08386v1)|**[link](https://github.com/zplusdragon/plip)**|
+|**2024-05-29**|**PLIP: Language-Image Pre-training for Person Representation Learning**|Jialong Zuo et.al.|[2305.08386v2](http://arxiv.org/abs/2305.08386v2)|**[link](https://github.com/zplusdragon/plip)**|
 |**2023-05-13**|**Temporal Consistent Automatic Video Colorization via Semantic Correspondence**|Yu Zhang et.al.|[2305.07904v1](http://arxiv.org/abs/2305.07904v1)|**[link](https://github.com/bupt-ai-cz/tcvc)**|
 |**2023-05-02**|**A new sample of transient ultraluminous X-ray sources serendipitously discovered by Swift/XRT**|Murray Brightman et.al.|[2305.01693v1](http://arxiv.org/abs/2305.01693v1)|null|
 |**2023-04-25**|**MMC: Multi-Modal Colorization of Images using Textual Descriptions**|Subhankar Ghosh et.al.|[2304.11993v2](http://arxiv.org/abs/2304.11993v2)|null|
