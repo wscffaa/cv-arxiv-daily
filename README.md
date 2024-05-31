@@ -27,7 +27,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237v1](http://arxiv.org/abs/2405.19237v1)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
-|**2024-05-29**|** $E^{3}$ Gen: Efficient, Expressive and Editable Avatars Generation**|Weitian Zhang et.al.|[2405.19203v1](http://arxiv.org/abs/2405.19203v1)|null|
+|**2024-05-30**|** $E^{3}$ Gen: Efficient, Expressive and Editable Avatars Generation**|Weitian Zhang et.al.|[2405.19203v2](http://arxiv.org/abs/2405.19203v2)|null|
 |**2024-05-29**|**Diffusion-based Dynamics Models for Long-Horizon Rollout in Offline Reinforcement Learning**|Hanye Zhao et.al.|[2405.19189v1](http://arxiv.org/abs/2405.19189v1)|null|
 |**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881v1](http://arxiv.org/abs/2405.18881v1)|null|
 |**2024-05-29**|**Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors**|Zihui Wu et.al.|[2405.18782v1](http://arxiv.org/abs/2405.18782v1)|null|
@@ -52,7 +52,7 @@
 |**2024-05-30**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873v2](http://arxiv.org/abs/2405.17873v2)|null|
 |**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842v1](http://arxiv.org/abs/2405.17842v1)|null|
 |**2024-05-28**|**LDMol: Text-Conditioned Molecule Diffusion Model Leveraging Chemically Informative Latent Space**|Jinho Chang et.al.|[2405.17829v1](http://arxiv.org/abs/2405.17829v1)|null|
-|**2024-05-28**|**Diffusion Model Patching via Mixture-of-Prompts**|Seokil Ham et.al.|[2405.17825v1](http://arxiv.org/abs/2405.17825v1)|null|
+|**2024-05-30**|**Diffusion Model Patching via Mixture-of-Prompts**|Seokil Ham et.al.|[2405.17825v2](http://arxiv.org/abs/2405.17825v2)|null|
 |**2024-05-28**|**ClavaDDPM: Multi-relational Data Synthesis with Cluster-guided Diffusion Models**|Wei Pang et.al.|[2405.17724v1](http://arxiv.org/abs/2405.17724v1)|null|
 |**2024-05-28**|**MindFormer: A Transformer Architecture for Multi-Subject Brain Decoding via fMRI**|Inhwa Han et.al.|[2405.17720v1](http://arxiv.org/abs/2405.17720v1)|null|
 |**2024-05-27**|**RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance**|Jiaojiao Fan et.al.|[2405.17661v1](http://arxiv.org/abs/2405.17661v1)|null|
