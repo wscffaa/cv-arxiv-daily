@@ -26,6 +26,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066v1](http://arxiv.org/abs/2405.21066v1)|null|
+|**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059v1](http://arxiv.org/abs/2405.21059v1)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050v1](http://arxiv.org/abs/2405.21050v1)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048v1](http://arxiv.org/abs/2405.21048v1)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|
+|**2024-05-31**|**Flow matching achieves minimax optimal convergence**|Kenji Fukumizu et.al.|[2405.20879v1](http://arxiv.org/abs/2405.20879v1)|null|
+|**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851v1](http://arxiv.org/abs/2405.20851v1)|**[link](https://github.com/megvii-research/megfaceanimate)**|
+|**2024-05-30**|**Stratified Avatar Generation from Sparse Observations**|Han Feng et.al.|[2405.20786v1](http://arxiv.org/abs/2405.20786v1)|null|
+|**2024-05-31**|**Share Your Secrets for Privacy! Confidential Forecasting with Vertical Federated Learning**|Aditya Shankar et.al.|[2405.20761v1](http://arxiv.org/abs/2405.20761v1)|**[link](https://github.com/adis98/stv)**|
+|**2024-05-31**|**Information Theoretic Text-to-Image Alignment**|Chao Wang et.al.|[2405.20759v1](http://arxiv.org/abs/2405.20759v1)|null|
+|**2024-05-31**|**Diffusion Models Are Innate One-Step Generators**|Bowen Zheng et.al.|[2405.20750v1](http://arxiv.org/abs/2405.20750v1)|**[link](https://github.com/Zyriix/GDD)**|
+|**2024-05-31**|**Unleashing the Potential of Diffusion Models for Incomplete Data Imputation**|Hengrui Zhang et.al.|[2405.20690v1](http://arxiv.org/abs/2405.20690v1)|null|
+|**2024-05-31**|**Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling**|Kidist Amde Mekonnen et.al.|[2405.20675v1](http://arxiv.org/abs/2405.20675v1)|**[link](https://github.com/kidist-amde/adv-kd)**|
+|**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674v1](http://arxiv.org/abs/2405.20674v1)|null|
+|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669v1](http://arxiv.org/abs/2405.20669v1)|null|
+|**2024-05-31**|**GenMix: Combining Generative and Mixture Data Augmentation for Medical Image Classification**|Hansang Lee et.al.|[2405.20650v1](http://arxiv.org/abs/2405.20650v1)|null|
+|**2024-05-31**|**Stochastic Optimal Control for Diffusion Bridges in Function Spaces**|Byoungwoo Park et.al.|[2405.20630v1](http://arxiv.org/abs/2405.20630v1)|null|
+|**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584v1](http://arxiv.org/abs/2405.20584v1)|null|
+|**2024-05-31**|**Diffusion Actor-Critic: Formulating Constrained Policy Iteration as Diffusion Noise Regression for Offline Reinforcement Learning**|Linjiajie Fang et.al.|[2405.20555v1](http://arxiv.org/abs/2405.20555v1)|**[link](https://github.com/Fang-Lin93/DAC)**|
+|**2024-05-30**|**Diffusion On Syntax Trees For Program Synthesis**|Shreyas Kapur et.al.|[2405.20519v1](http://arxiv.org/abs/2405.20519v1)|null|
+|**2024-05-30**|**Slight Corruption in Pre-training Data Makes Better Diffusion Models**|Hao Chen et.al.|[2405.20494v1](http://arxiv.org/abs/2405.20494v1)|null|
+|**2024-05-30**|**Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images**|Krishnakant Singh et.al.|[2405.20469v1](http://arxiv.org/abs/2405.20469v1)|null|
+|**2024-05-30**|**P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation**|Qi Zhang et.al.|[2405.20443v1](http://arxiv.org/abs/2405.20443v1)|null|
+|**2024-05-30**|**Gradient Inversion of Federated Diffusion Models**|Jiyue Huang et.al.|[2405.20380v1](http://arxiv.org/abs/2405.20380v1)|null|
 |**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343v1](http://arxiv.org/abs/2405.20343v1)|null|
 |**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334v1](http://arxiv.org/abs/2405.20334v1)|null|
 |**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325v1](http://arxiv.org/abs/2405.20325v1)|null|
@@ -4336,6 +4360,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Climate Variable Downscaling with Conditional Normalizing Flows**|Christina Winkler et.al.|[2405.20719v1](http://arxiv.org/abs/2405.20719v1)|null|
+|**2024-05-30**|**Can No-Reference Quality-Assessment Methods Serve as Perceptual Losses for Super-Resolution?**|Egor Kashkarov et.al.|[2405.20392v1](http://arxiv.org/abs/2405.20392v1)|null|
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769v1](http://arxiv.org/abs/2405.19769v1)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
 |**2024-05-30**|**MAE-GAN: A Novel Strategy for Simultaneous Super-resolution Reconstruction and Denoising of Post-stack Seismic Profile**|Wenshuo Yu et.al.|[2405.19767v1](http://arxiv.org/abs/2405.19767v1)|null|
 |**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112v1](http://arxiv.org/abs/2405.19112v1)|null|
@@ -7441,6 +7467,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851v1](http://arxiv.org/abs/2405.20851v1)|**[link](https://github.com/megvii-research/megfaceanimate)**|
+|**2024-05-31**|**Multilingual Text Style Transfer: Datasets & Models for Indian Languages**|Sourabrata Mukherjee et.al.|[2405.20805v1](http://arxiv.org/abs/2405.20805v1)|null|
+|**2024-05-30**|**SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought**|Hongyu Gong et.al.|[2405.20410v1](http://arxiv.org/abs/2405.20410v1)|null|
 |**2024-05-30**|**Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network**|Sizhe Zheng et.al.|[2405.19775v1](http://arxiv.org/abs/2405.19775v1)|null|
 |**2024-05-25**|**LEAST: "Local" text-conditioned image style transfer**|Silky Singh et.al.|[2405.16330v1](http://arxiv.org/abs/2405.16330v1)|**[link](https://github.com/silky1708/local-style-transfer)**|
 |**2024-05-21**|**A Dataset and Baselines for Measuring and Predicting the Music Piece Memorability**|Li-Yang Tseng et.al.|[2405.12847v1](http://arxiv.org/abs/2405.12847v1)|**[link](https://github.com/LiyangTseng/AudMem)**|
