@@ -59,7 +59,7 @@
 |**2024-06-04**|**The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**|Yuanhao Ban et.al.|[2406.01970v1](http://arxiv.org/abs/2406.01970v1)|null|
 |**2024-06-04**|**Plug-and-Play Diffusion Distillation**|Yi-Ting Hsiao et.al.|[2406.01954v1](http://arxiv.org/abs/2406.01954v1)|null|
 |**2024-06-04**|**Generating Synthetic Net Load Data with Physics-informed Diffusion Model**|Shaorong Zhang et.al.|[2406.01913v1](http://arxiv.org/abs/2406.01913v1)|null|
-|**2024-06-04**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900v1](http://arxiv.org/abs/2406.01900v1)|null|
+|**2024-06-06**|**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2406.01900v2](http://arxiv.org/abs/2406.01900v2)|null|
 |**2024-06-04**|**Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**|Wenzhuo Tang et.al.|[2406.01899v1](http://arxiv.org/abs/2406.01899v1)|**[link](https://github.com/wenzhuotang/uniaug)**|
 |**2024-06-04**|**MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by Adversarial Training**|Kengo Uchida et.al.|[2406.01867v1](http://arxiv.org/abs/2406.01867v1)|null|
 |**2024-06-03**|**L-MAGIC: Language Model Assisted Generation of Images with Coherence**|Zhipeng Cai et.al.|[2406.01843v1](http://arxiv.org/abs/2406.01843v1)|**[link](https://github.com/intellabs/mmpano)**|
