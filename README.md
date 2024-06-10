@@ -26,6 +26,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082v1](http://arxiv.org/abs/2406.05082v1)|null|
+|**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008v1](http://arxiv.org/abs/2406.05008v1)|null|
+|**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963v1](http://arxiv.org/abs/2406.04963v1)|**[link](https://github.com/fannie1208/glind)**|
+|**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916v1](http://arxiv.org/abs/2406.04916v1)|null|
+|**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814v1](http://arxiv.org/abs/2406.04814v1)|null|
+|**2024-06-07**|**TEDi Policy: Temporally Entangled Diffusion for Robotic Control**|Sigmund H. Høeg et.al.|[2406.04806v1](http://arxiv.org/abs/2406.04806v1)|null|
+|**2024-06-07**|**Diffusion-based Generative Image Outpainting for Recovery of FOV-Truncated CT Images**|Michelle Espranita Liman et.al.|[2406.04769v1](http://arxiv.org/abs/2406.04769v1)|null|
+|**2024-06-07**|**PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**|Eduard Poesina et.al.|[2406.04746v1](http://arxiv.org/abs/2406.04746v1)|**[link](https://github.com/eduard6421/pqpp)**|
+|**2024-06-07**|**FlowMM: Generating Materials with Riemannian Flow Matching**|Benjamin Kurt Miller et.al.|[2406.04713v1](http://arxiv.org/abs/2406.04713v1)|null|
+|**2024-06-07**|**MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models**|Sanjoy Chowdhury et.al.|[2406.04673v1](http://arxiv.org/abs/2406.04673v1)|null|
+|**2024-06-07**|**GenzIQA: Generalized Image Quality Assessment using Prompt-Guided Latent Diffusion Models**|Diptanu De et.al.|[2406.04654v1](http://arxiv.org/abs/2406.04654v1)|null|
+|**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633v1](http://arxiv.org/abs/2406.04633v1)|null|
+|**2024-06-07**|**STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting**|Zenghao Chai et.al.|[2406.04629v1](http://arxiv.org/abs/2406.04629v1)|null|
+|**2024-06-07**|**CTSyn: A Foundational Model for Cross Tabular Data Generation**|Xiaofeng Lin et.al.|[2406.04619v1](http://arxiv.org/abs/2406.04619v1)|null|
+|**2024-06-07**|**Diverse Intra- and Inter-Domain Activity Style Fusion for Cross-Person Generalization in Activity Recognition**|Junru Zhang et.al.|[2406.04609v1](http://arxiv.org/abs/2406.04609v1)|null|
+|**2024-06-06**|**Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance**|Reyhane Askari Hemmat et.al.|[2406.04551v1](http://arxiv.org/abs/2406.04551v1)|null|
+|**2024-06-06**|**Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models**|Gabriel della Maggiora et.al.|[2406.04388v1](http://arxiv.org/abs/2406.04388v1)|null|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338v2](http://arxiv.org/abs/2406.04338v2)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|null|
 |**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333v1](http://arxiv.org/abs/2406.04333v1)|**[link](https://github.com/huggingface/diffusers)**|
@@ -54,7 +71,7 @@
 |**2024-06-05**|**Text-to-Image Rectified Flow as Plug-and-Play Priors**|Xiaofeng Yang et.al.|[2406.03293v1](http://arxiv.org/abs/2406.03293v1)|**[link](https://github.com/yangxiaofeng/rectified_flow_prior)**|
 |**2024-06-05**|**Generative Diffusion Models for Fast Simulations of Particle Collisions at CERN**|Mikołaj Kita et.al.|[2406.03233v1](http://arxiv.org/abs/2406.03233v1)|null|
 |**2024-06-05**|**Searching Priors Makes Text-to-Video Synthesis Better**|Haoran Cheng et.al.|[2406.03215v1](http://arxiv.org/abs/2406.03215v1)|null|
-|**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184v1](http://arxiv.org/abs/2406.03184v1)|null|
+|**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184v1](http://arxiv.org/abs/2406.03184v1)|**[link](https://github.com/Costwen/Ouroboros3D)**|
 |**2024-06-05**|**Tiny models from tiny data: Textual and null-text inversion for few-shot distillation**|Erik Landolsi et.al.|[2406.03146v1](http://arxiv.org/abs/2406.03146v1)|**[link](https://github.com/pixwse/tiny2)**|
 |**2024-06-05**|**Floating Anchor Diffusion Model for Multi-motif Scaffolding**|Ke Liu et.al.|[2406.03141v1](http://arxiv.org/abs/2406.03141v1)|**[link](https://github.com/aim-uofa/fadiff)**|
 |**2024-06-05**|**Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis**|Juanhua Zhang et.al.|[2406.03002v1](http://arxiv.org/abs/2406.03002v1)|null|
@@ -4449,6 +4466,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822v1](http://arxiv.org/abs/2406.04822v1)|null|
+|**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542v1](http://arxiv.org/abs/2406.04542v1)|null|
 |**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099v1](http://arxiv.org/abs/2406.04099v1)|null|
 |**2024-06-06**|**Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations**|Jan Hagnberger et.al.|[2406.03919v1](http://arxiv.org/abs/2406.03919v1)|**[link](https://github.com/jhagnberger/vcnef)**|
 |**2024-06-07**|**Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge**|Nan Zhang et.al.|[2406.03799v2](http://arxiv.org/abs/2406.03799v2)|**[link](https://github.com/kaneigi/weatherproofchallenge)**|
@@ -7595,6 +7614,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**SC2: Towards Enhancing Content Preservation and Style Consistency in Long Text Style Transfer**|Jie Zhao et.al.|[2406.04578v1](http://arxiv.org/abs/2406.04578v1)|null|
 |**2024-06-05**|**Style Mixture of Experts for Expressive Text-To-Speech Synthesis**|Ahad Jawaid et.al.|[2406.03637v1](http://arxiv.org/abs/2406.03637v1)|null|
 |**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363v1](http://arxiv.org/abs/2406.03363v1)|null|
 |**2024-06-03**|**S-CycleGAN: Semantic Segmentation Enhanced CT-Ultrasound Image-to-Image Translation for Robotic Ultrasonography**|Yuhan Song et.al.|[2406.01191v1](http://arxiv.org/abs/2406.01191v1)|null|
