@@ -26,6 +26,41 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525v1](http://arxiv.org/abs/2406.06525v1)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508v1](http://arxiv.org/abs/2406.06508v1)|**[link](https://github.com/monkeyseedocg/momo-code)**|
+|**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465v1](http://arxiv.org/abs/2406.06465v1)|null|
+|**2024-06-10**|**Cometh: A continuous-time discrete-state graph diffusion model**|Antoine Siraudin et.al.|[2406.06449v1](http://arxiv.org/abs/2406.06449v1)|null|
+|**2024-06-10**|**Margin-aware Preference Optimization for Aligning Diffusion Models without Reference**|Jiwoo Hong et.al.|[2406.06424v1](http://arxiv.org/abs/2406.06424v1)|null|
+|**2024-06-10**|**Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization**|Yi Gu et.al.|[2406.06382v1](http://arxiv.org/abs/2406.06382v1)|**[link](https://github.com/yigu1008/diffusion-rpo)**|
+|**2024-06-10**|**Improving Deep Learning-based Automatic Cranial Defect Reconstruction by Heavy Data Augmentation: From Image Registration to Latent Diffusion Models**|Marek Wodzinski et.al.|[2406.06372v1](http://arxiv.org/abs/2406.06372v1)|null|
+|**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367v1](http://arxiv.org/abs/2406.06367v1)|null|
+|**2024-06-10**|**Tuning-Free Visual Customization via View Iterative Self-Attention Control**|Xiaojie Li et.al.|[2406.06258v1](http://arxiv.org/abs/2406.06258v1)|null|
+|**2024-06-10**|**Data Augmentation in Earth Observation: A Diffusion Model Approach**|Tiago Sousa et.al.|[2406.06218v1](http://arxiv.org/abs/2406.06218v1)|null|
+|**2024-06-10**|**The Effect of Training Dataset Size on Discriminative and Diffusion-Based Speech Enhancement Systems**|Philippe Gonzalez et.al.|[2406.06160v1](http://arxiv.org/abs/2406.06160v1)|null|
+|**2024-06-10**|**Thunder : Unified Regression-Diffusion Speech Enhancement with a Single Reverse Step using Brownian Bridge**|Thanapat Trachu et.al.|[2406.06139v1](http://arxiv.org/abs/2406.06139v1)|null|
+|**2024-06-10**|**DiffInject: Revisiting Debias via Synthetic Data Generation using Diffusion-based Style Injection**|Donggeun Ko et.al.|[2406.06134v1](http://arxiv.org/abs/2406.06134v1)|null|
+|**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133v1](http://arxiv.org/abs/2406.06133v1)|null|
+|**2024-06-10**|**Latent Representation Matters: Human-like Sketches in One-shot Drawing Tasks**|Victor Boutin et.al.|[2406.06079v1](http://arxiv.org/abs/2406.06079v1)|null|
+|**2024-06-10**|**Generalizable Human Gaussians from Single-View Image**|Jinnan Chen et.al.|[2406.06050v1](http://arxiv.org/abs/2406.06050v1)|**[link](https://github.com/jinnan-chen/HGM)**|
+|**2024-06-10**|**Synthesizing Efficient Data with Diffusion Models for Person Re-Identification Pre-Training**|Ke Niu et.al.|[2406.06045v1](http://arxiv.org/abs/2406.06045v1)|**[link](https://github.com/keniu042/diffusion-reid)**|
+|**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044v1](http://arxiv.org/abs/2406.06044v1)|null|
+|**2024-06-09**|**Improving Antibody Design with Force-Guided Sampling in Diffusion Models**|Paulina Kulytė et.al.|[2406.05832v1](http://arxiv.org/abs/2406.05832v1)|null|
+|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768v1](http://arxiv.org/abs/2406.05768v1)|null|
+|**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
+|**2024-06-09**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681v1](http://arxiv.org/abs/2406.05681v1)|null|
+|**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641v1](http://arxiv.org/abs/2406.05641v1)|null|
+|**2024-06-08**|**Autoregressive Diffusion Transformer for Text-to-Speech Synthesis**|Zhijun Liu et.al.|[2406.05551v1](http://arxiv.org/abs/2406.05551v1)|null|
+|**2024-06-08**|**Exploring Bridges Between Creative Coding and Visual Generative AI**|Jiaqi Wu et.al.|[2406.05508v1](http://arxiv.org/abs/2406.05508v1)|null|
+|**2024-06-08**|**Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis**|Zanlin Ni et.al.|[2406.05478v1](http://arxiv.org/abs/2406.05478v1)|null|
+|**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421v1](http://arxiv.org/abs/2406.05421v1)|null|
+|**2024-06-08**|**Mean-field Chaos Diffusion Models**|Sungwoo Park et.al.|[2406.05396v1](http://arxiv.org/abs/2406.05396v1)|null|
+|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338v1](http://arxiv.org/abs/2406.05338v1)|null|
+|**2024-06-08**|**LDM-SVC: Latent Diffusion Model Based Zero-Shot Any-to-Any Singing Voice Conversion with Singer Guidance**|Shihao Chen et.al.|[2406.05325v1](http://arxiv.org/abs/2406.05325v1)|null|
+|**2024-06-08**|**CoBL-Diffusion: Diffusion-Based Conditional Robot Planning in Dynamic Environments Using Control Barrier and Lyapunov Functions**|Kazuki Mizuta et.al.|[2406.05309v1](http://arxiv.org/abs/2406.05309v1)|null|
+|**2024-06-07**|**Modelling effects of moisture on mechanical properties of crosslinked polyurethane adhesives**|S. P. Josyula et.al.|[2406.05278v1](http://arxiv.org/abs/2406.05278v1)|null|
+|**2024-06-07**|**Efficient Differentially Private Fine-Tuning of Diffusion Models**|Jing Liu et.al.|[2406.05257v1](http://arxiv.org/abs/2406.05257v1)|null|
+|**2024-06-07**|**DiffusionPID: Interpreting Diffusion via Partial Information Decomposition**|Shaurya Dewan et.al.|[2406.05191v1](http://arxiv.org/abs/2406.05191v1)|null|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082v1](http://arxiv.org/abs/2406.05082v1)|null|
 |**2024-06-07**|**Generative diffusion models for synthetic trajectories of heavy and light particles in turbulence**|Tianyi Li et.al.|[2406.05008v1](http://arxiv.org/abs/2406.05008v1)|null|
 |**2024-06-07**|**Learning Divergence Fields for Shift-Robust Graph Representations**|Qitian Wu et.al.|[2406.04963v1](http://arxiv.org/abs/2406.04963v1)|**[link](https://github.com/fannie1208/glind)**|
@@ -4466,6 +4501,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974v1](http://arxiv.org/abs/2406.05974v1)|null|
+|**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822v1](http://arxiv.org/abs/2406.04822v1)|null|
 |**2024-06-06**|**M&M VTO: Multi-Garment Virtual Try-On and Editing**|Luyang Zhu et.al.|[2406.04542v1](http://arxiv.org/abs/2406.04542v1)|null|
 |**2024-06-06**|**Enhancing Weather Predictions: Super-Resolution via Deep Diffusion Models**|Jan Martinů et.al.|[2406.04099v1](http://arxiv.org/abs/2406.04099v1)|null|
@@ -5475,6 +5512,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240v1](http://arxiv.org/abs/2406.01240v1)|null|
 |**2024-05-29**|**Single image super-resolution based on trainable feature matching attention network**|Qizhou Chen et.al.|[2405.18872v1](http://arxiv.org/abs/2405.18872v1)|**[link](https://github.com/qizhou000/tfman)**|
 |**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261v1](http://arxiv.org/abs/2405.17261v1)|**[link](https://github.com/yandex-research/gan_vs_diff_sr)**|
@@ -6092,6 +6130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288v1](http://arxiv.org/abs/2406.05288v1)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458v1](http://arxiv.org/abs/2406.02458v1)|null|
 |**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629v1](http://arxiv.org/abs/2406.00629v1)|**[link](https://github.com/supersupercong/uhdformer)**|
@@ -6491,6 +6530,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
+|**2024-06-10**|**Quantum Sparse Coding and Decoding Based on Quantum Network**|Xun Ji et.al.|[2406.06012v1](http://arxiv.org/abs/2406.06012v1)|null|
+|**2024-06-08**|**Deep convolutional demosaicking network for multispectral polarization filter array**|Tomoharu Ishiuchi et.al.|[2406.05312v1](http://arxiv.org/abs/2406.05312v1)|null|
+|**2024-06-07**|**fastMRI Breast: A publicly available radial k-space dataset of breast dynamic contrast-enhanced MRI**|Eddy Solomon et.al.|[2406.05270v1](http://arxiv.org/abs/2406.05270v1)|null|
 |**2024-06-06**|**Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**|Chen-Yu Yen et.al.|[2406.04318v1](http://arxiv.org/abs/2406.04318v1)|null|
 |**2024-06-05**|**UnWave-Net: Unrolled Wavelet Network for Compton Tomography Image Reconstruction**|Ishak Ayad et.al.|[2406.03413v1](http://arxiv.org/abs/2406.03413v1)|null|
 |**2024-06-04**|**Event-horizon-scale Imaging of M87* under Different Assumptions via Deep Generative Image Priors**|Berthy T. Feng et.al.|[2406.02785v1](http://arxiv.org/abs/2406.02785v1)|null|
@@ -7614,6 +7657,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508v1](http://arxiv.org/abs/2406.06508v1)|**[link](https://github.com/monkeyseedocg/momo-code)**|
+|**2024-06-09**|**Are Large Language Models Actually Good at Text Style Transfer?**|Sourabrata Mukherjee et.al.|[2406.05885v1](http://arxiv.org/abs/2406.05885v1)|null|
+|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768v1](http://arxiv.org/abs/2406.05768v1)|null|
 |**2024-06-07**|**SC2: Towards Enhancing Content Preservation and Style Consistency in Long Text Style Transfer**|Jie Zhao et.al.|[2406.04578v1](http://arxiv.org/abs/2406.04578v1)|null|
 |**2024-06-05**|**Style Mixture of Experts for Expressive Text-To-Speech Synthesis**|Ahad Jawaid et.al.|[2406.03637v1](http://arxiv.org/abs/2406.03637v1)|null|
 |**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363v1](http://arxiv.org/abs/2406.03363v1)|null|
