@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**An Image is Worth 32 Tokens for Reconstruction and Generation**|Qihang Yu et.al.|[2406.07550v1](http://arxiv.org/abs/2406.07550v1)|null|
+|**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540v1](http://arxiv.org/abs/2406.07540v1)|null|
+|**2024-06-11**|**Simple and Effective Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2406.07524v1](http://arxiv.org/abs/2406.07524v1)|**[link](https://github.com/kuleshov-group/mdlm)**|
+|**2024-06-11**|**Neural Gaffer: Relighting Any Object via Diffusion**|Haian Jin et.al.|[2406.07520v1](http://arxiv.org/abs/2406.07520v1)|null|
+|**2024-06-11**|**Instant 3D Human Avatar Generation using Image Diffusion Models**|Nikos Kolotouros et.al.|[2406.07516v1](http://arxiv.org/abs/2406.07516v1)|null|
+|**2024-06-11**|**Flow Map Matching**|Nicholas M. Boffi et.al.|[2406.07507v1](http://arxiv.org/abs/2406.07507v1)|null|
+|**2024-06-11**|**GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection**|Hang Yao et.al.|[2406.07487v1](http://arxiv.org/abs/2406.07487v1)|null|
+|**2024-06-11**|**Image Neural Field Diffusion Models**|Yinbo Chen et.al.|[2406.07480v1](http://arxiv.org/abs/2406.07480v1)|null|
+|**2024-06-11**|**4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models**|Heng Yu et.al.|[2406.07472v1](http://arxiv.org/abs/2406.07472v1)|null|
+|**2024-06-11**|**Noise-robust Speech Separation with Fast Generative Correction**|Helin Wang et.al.|[2406.07461v1](http://arxiv.org/abs/2406.07461v1)|null|
+|**2024-06-11**|**DiffCom: Channel Received Signal is a Natural Condition to Guide Diffusion Posterior Sampling**|Sixian Wang et.al.|[2406.07390v1](http://arxiv.org/abs/2406.07390v1)|null|
+|**2024-06-11**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v1](http://arxiv.org/abs/2406.07255v1)|null|
+|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v1](http://arxiv.org/abs/2406.07251v1)|null|
+|**2024-06-11**|**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models**|Sooyeon Go et.al.|[2406.07008v1](http://arxiv.org/abs/2406.07008v1)|null|
+|**2024-06-11**|**DNN Partitioning, Task Offloading, and Resource Allocation in Dynamic Vehicular Networks: A Lyapunov-Guided Diffusion-Based Reinforcement Learning Approach**|Zhang Liu et.al.|[2406.06986v1](http://arxiv.org/abs/2406.06986v1)|null|
+|**2024-06-11**|**Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey**|Ping Liu et.al.|[2406.06965v1](http://arxiv.org/abs/2406.06965v1)|null|
+|**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959v1](http://arxiv.org/abs/2406.06959v1)|**[link](https://github.com/weigerzan/projdiff)**|
+|**2024-06-11**|**AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**|Zigeng Chen et.al.|[2406.06911v1](http://arxiv.org/abs/2406.06911v1)|**[link](https://github.com/czg1225/asyncdiff)**|
+|**2024-06-11**|**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation**|Yuanhao Zhai et.al.|[2406.06890v1](http://arxiv.org/abs/2406.06890v1)|null|
+|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644v1](http://arxiv.org/abs/2406.06644v1)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
 |**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525v1](http://arxiv.org/abs/2406.06525v1)|**[link](https://github.com/foundationvision/llamagen)**|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508v1](http://arxiv.org/abs/2406.06508v1)|**[link](https://github.com/monkeyseedocg/momo-code)**|
@@ -4501,6 +4521,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Image Neural Field Diffusion Models**|Yinbo Chen et.al.|[2406.07480v1](http://arxiv.org/abs/2406.07480v1)|null|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
+|**2024-06-11**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v1](http://arxiv.org/abs/2406.07255v1)|null|
+|**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649v1](http://arxiv.org/abs/2406.06649v1)|**[link](https://github.com/kai-liu001/2dquant)**|
 |**2024-06-10**|**Inter-slice Super-resolution of Magnetic Resonance Images by Pre-training and Self-supervised Fine-tuning**|Xin Wang et.al.|[2406.05974v1](http://arxiv.org/abs/2406.05974v1)|null|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-07**|**M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method**|Zhihao Li et.al.|[2406.04822v1](http://arxiv.org/abs/2406.04822v1)|null|
@@ -5512,6 +5536,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399v1](http://arxiv.org/abs/2406.07399v1)|null|
+|**2024-06-11**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v1](http://arxiv.org/abs/2406.07255v1)|null|
+|**2024-06-10**|**2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution**|Kai Liu et.al.|[2406.06649v1](http://arxiv.org/abs/2406.06649v1)|**[link](https://github.com/kai-liu001/2dquant)**|
 |**2024-06-09**|**Binarized Diffusion Model for Image Super-Resolution**|Zheng Chen et.al.|[2406.05723v1](http://arxiv.org/abs/2406.05723v1)|**[link](https://github.com/zhengchen1999/bi-diffsr)**|
 |**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240v1](http://arxiv.org/abs/2406.01240v1)|null|
 |**2024-05-29**|**Single image super-resolution based on trainable feature matching attention network**|Qizhou Chen et.al.|[2405.18872v1](http://arxiv.org/abs/2405.18872v1)|**[link](https://github.com/qizhou000/tfman)**|
@@ -6130,6 +6157,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435v1](http://arxiv.org/abs/2406.07435v1)|null|
+|**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959v1](http://arxiv.org/abs/2406.06959v1)|**[link](https://github.com/weigerzan/projdiff)**|
 |**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288v1](http://arxiv.org/abs/2406.05288v1)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458v1](http://arxiv.org/abs/2406.02458v1)|null|
@@ -6530,6 +6559,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**A directional total variation minimization algorithm for isotropic resolution in digital breast tomosynthesis**|Emil Y. Sidky et.al.|[2406.07306v1](http://arxiv.org/abs/2406.07306v1)|null|
+|**2024-06-11**|**EEG-ImageNet: An Electroencephalogram Dataset and Benchmarks with Image Visual Stimuli of Multi-Granularity Labels**|Shuqi Zhu et.al.|[2406.07151v1](http://arxiv.org/abs/2406.07151v1)|**[link](https://github.com/promise-z5q2sq/eeg-imagenet-dataset)**|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
 |**2024-06-10**|**Quantum Sparse Coding and Decoding Based on Quantum Network**|Xun Ji et.al.|[2406.06012v1](http://arxiv.org/abs/2406.06012v1)|null|
 |**2024-06-08**|**Deep convolutional demosaicking network for multispectral polarization filter array**|Tomoharu Ishiuchi et.al.|[2406.05312v1](http://arxiv.org/abs/2406.05312v1)|null|
@@ -7181,6 +7212,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions**|Alireza Afzal Aghaei et.al.|[2406.07456v1](http://arxiv.org/abs/2406.07456v1)|**[link](https://github.com/alirezaafzalaghaei/fKAN)**|
+|**2024-06-11**|**MIPI 2024 Challenge on Few-shot RAW Image Denoising: Methods and Results**|Xin Jin et.al.|[2406.07006v1](http://arxiv.org/abs/2406.07006v1)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914v1](http://arxiv.org/abs/2406.02914v1)|null|
 |**2024-06-05**|**DenoDet: Attention as Deformable Multi-Subspace Feature Denoising for Target Detection in SAR Images**|Yimian Dai et.al.|[2406.02833v1](http://arxiv.org/abs/2406.02833v1)|**[link](https://github.com/grokcv/groksar)**|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458v1](http://arxiv.org/abs/2406.02458v1)|null|
@@ -7459,6 +7492,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-08**|**Hinge-FM2I: An Approach using Image Inpainting for Interpolating Missing Data in Univariate Time Series**|Noufel Saad et.al.|[2406.06631v1](http://arxiv.org/abs/2406.06631v1)|null|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
 |**2024-06-05**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v2](http://arxiv.org/abs/2406.02347v2)|**[link](https://github.com/gojasper/flash-diffusion)**|
 |**2024-06-04**|**FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance**|Yinglong Li et.al.|[2406.02074v1](http://arxiv.org/abs/2406.02074v1)|**[link](https://github.com/dragonylee/facecom)**|
