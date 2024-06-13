@@ -38,7 +38,7 @@
 |**2024-06-11**|**Noise-robust Speech Separation with Fast Generative Correction**|Helin Wang et.al.|[2406.07461v1](http://arxiv.org/abs/2406.07461v1)|null|
 |**2024-06-11**|**DiffCom: Channel Received Signal is a Natural Condition to Guide Diffusion Posterior Sampling**|Sixian Wang et.al.|[2406.07390v1](http://arxiv.org/abs/2406.07390v1)|null|
 |**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255v2](http://arxiv.org/abs/2406.07255v2)|null|
-|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v1](http://arxiv.org/abs/2406.07251v1)|null|
+|**2024-06-12**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v2](http://arxiv.org/abs/2406.07251v2)|null|
 |**2024-06-11**|**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models**|Sooyeon Go et.al.|[2406.07008v1](http://arxiv.org/abs/2406.07008v1)|null|
 |**2024-06-11**|**DNN Partitioning, Task Offloading, and Resource Allocation in Dynamic Vehicular Networks: A Lyapunov-Guided Diffusion-Based Reinforcement Learning Approach**|Zhang Liu et.al.|[2406.06986v1](http://arxiv.org/abs/2406.06986v1)|null|
 |**2024-06-11**|**Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey**|Ping Liu et.al.|[2406.06965v1](http://arxiv.org/abs/2406.06965v1)|null|
@@ -75,7 +75,7 @@
 |**2024-06-08**|**Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis**|Zanlin Ni et.al.|[2406.05478v1](http://arxiv.org/abs/2406.05478v1)|null|
 |**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421v1](http://arxiv.org/abs/2406.05421v1)|**[link](https://github.com/Arksyd96/synthesis-with-slice-based-ldm)**|
 |**2024-06-08**|**Mean-field Chaos Diffusion Models**|Sungwoo Park et.al.|[2406.05396v1](http://arxiv.org/abs/2406.05396v1)|null|
-|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338v1](http://arxiv.org/abs/2406.05338v1)|null|
+|**2024-06-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338v2](http://arxiv.org/abs/2406.05338v2)|null|
 |**2024-06-08**|**LDM-SVC: Latent Diffusion Model Based Zero-Shot Any-to-Any Singing Voice Conversion with Singer Guidance**|Shihao Chen et.al.|[2406.05325v1](http://arxiv.org/abs/2406.05325v1)|null|
 |**2024-06-08**|**CoBL-Diffusion: Diffusion-Based Conditional Robot Planning in Dynamic Environments Using Control Barrier and Lyapunov Functions**|Kazuki Mizuta et.al.|[2406.05309v1](http://arxiv.org/abs/2406.05309v1)|null|
 |**2024-06-07**|**Modelling effects of moisture on mechanical properties of crosslinked polyurethane adhesives**|S. P. Josyula et.al.|[2406.05278v1](http://arxiv.org/abs/2406.05278v1)|null|
