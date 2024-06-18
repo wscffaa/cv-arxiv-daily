@@ -26,6 +26,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831v1](http://arxiv.org/abs/2406.11831v1)|null|
+|**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819v1](http://arxiv.org/abs/2406.11819v1)|null|
+|**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781v1](http://arxiv.org/abs/2406.11781v1)|null|
+|**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713v1](http://arxiv.org/abs/2406.11713v1)|**[link](https://github.com/thanhluantrinh/lddgan)**|
+|**2024-06-17**|**MusicScore: A Dataset for Music Score Modeling and Generation**|Yuheng Lin et.al.|[2406.11462v1](http://arxiv.org/abs/2406.11462v1)|null|
+|**2024-06-17**|**AnyTrans: Translate AnyText in the Image with Large Scale Models**|Zhipeng Qian et.al.|[2406.11432v1](http://arxiv.org/abs/2406.11432v1)|null|
+|**2024-06-17**|**DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer**|Keon Lee et.al.|[2406.11427v1](http://arxiv.org/abs/2406.11427v1)|null|
+|**2024-06-17**|**Unfolding Time: Generative Modeling for Turbulent Flows in 4D**|Abdullah Saydemir et.al.|[2406.11390v1](http://arxiv.org/abs/2406.11390v1)|null|
+|**2024-06-17**|**Diffusion Models in Low-Level Vision: A Survey**|Chunming He et.al.|[2406.11138v1](http://arxiv.org/abs/2406.11138v1)|null|
+|**2024-06-16**|**Exploiting Diffusion Prior for Out-of-Distribution Detection**|Armando Zhu et.al.|[2406.11105v1](http://arxiv.org/abs/2406.11105v1)|null|
+|**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100v1](http://arxiv.org/abs/2406.11100v1)|null|
+|**2024-06-16**|**A Bayesian Drift-Diffusion Model of Schachter-Singer's Two Factor Theory of Emotion**|Lance Ying et.al.|[2406.11086v1](http://arxiv.org/abs/2406.11086v1)|null|
+|**2024-06-16**|**ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models**|Kaifeng Gao et.al.|[2406.10981v1](http://arxiv.org/abs/2406.10981v1)|null|
+|**2024-06-16**|**Graph Neural Reaction Diffusion Models**|Moshe Eliasof et.al.|[2406.10871v1](http://arxiv.org/abs/2406.10871v1)|null|
+|**2024-06-16**|**Diffusion Model With Optimal Covariance Matching**|Zijing Ou et.al.|[2406.10808v1](http://arxiv.org/abs/2406.10808v1)|null|
+|**2024-06-16**|**Diffusion Models Are Promising for Ab Initio Structure Solutions from Nanocrystalline Powder Diffraction Data**|Gabe Guo et.al.|[2406.10796v1](http://arxiv.org/abs/2406.10796v1)|null|
+|**2024-06-15**|**Beyond the Visible: Jointly Attending to Spectral and Spatial Dimensions with HSI-Diffusion for the FINCH Spacecraft**|Ian Vyse et.al.|[2406.10724v1](http://arxiv.org/abs/2406.10724v1)|null|
+|**2024-06-15**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553v1](http://arxiv.org/abs/2406.10553v1)|null|
+|**2024-06-15**|**Self-Supervised Vision Transformer for Enhanced Virtual Clothes Try-On**|Lingxiao Lu et.al.|[2406.10539v1](http://arxiv.org/abs/2406.10539v1)|null|
+|**2024-06-15**|**Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space**|Mohamed Amine Ketata et.al.|[2406.10513v1](http://arxiv.org/abs/2406.10513v1)|null|
+|**2024-06-14**|**Consistency-diversity-realism Pareto fronts of conditional image generative models**|Pietro Astolfi et.al.|[2406.10429v1](http://arxiv.org/abs/2406.10429v1)|null|
+|**2024-06-14**|**SigDiffusions: Score-Based Diffusion Models for Long Time Series via Log-Signature Embeddings**|Barbora Barancikova et.al.|[2406.10354v1](http://arxiv.org/abs/2406.10354v1)|null|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225v1](http://arxiv.org/abs/2406.10225v1)|null|
 |**2024-06-14**|**DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction**|Bowen Song et.al.|[2406.10211v1](http://arxiv.org/abs/2406.10211v1)|null|
 |**2024-06-14**|**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**|Lital Binyamin et.al.|[2406.10210v1](http://arxiv.org/abs/2406.10210v1)|null|
@@ -4596,6 +4618,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330v1](http://arxiv.org/abs/2406.11330v1)|null|
+|**2024-06-16**|**Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution**|Cuixin Yang et.al.|[2406.10869v1](http://arxiv.org/abs/2406.10869v1)|null|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225v1](http://arxiv.org/abs/2406.10225v1)|null|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111v1](http://arxiv.org/abs/2406.10111v1)|null|
 |**2024-06-14**|**Exact Sparse Representation Recovery in Signal Demixing and Group BLASSO**|Marcello Carioni et.al.|[2406.09922v1](http://arxiv.org/abs/2406.09922v1)|null|
@@ -5622,6 +5646,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330v1](http://arxiv.org/abs/2406.11330v1)|null|
+|**2024-06-16**|**Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution**|Cuixin Yang et.al.|[2406.10869v1](http://arxiv.org/abs/2406.10869v1)|null|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225v1](http://arxiv.org/abs/2406.10225v1)|null|
 |**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168v1](http://arxiv.org/abs/2406.09168v1)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
 |**2024-06-13**|**Blind Super-Resolution via Meta-learning and Markov Chain Monte Carlo Simulation**|Jingyuan Xia et.al.|[2406.08896v1](http://arxiv.org/abs/2406.08896v1)|**[link](https://github.com/xylgroup/mlmc)**|
@@ -6100,6 +6126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-16**|**Parameter Blending for Multi-Camera Harmonization for Automotive Surround View Systems**|Yuzhuo Ren et.al.|[2406.11066v1](http://arxiv.org/abs/2406.11066v1)|null|
 |**2024-06-13**|**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior**|Baiang Li et.al.|[2406.09389v1](http://arxiv.org/abs/2406.09389v1)|null|
 |**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279v1](http://arxiv.org/abs/2405.15279v1)|null|
 |**2024-04-25**|**Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation**|Huiyu Zhai et.al.|[2404.16685v1](http://arxiv.org/abs/2404.16685v1)|**[link](https://github.com/alexyangxx/mcfnet)**|
@@ -6659,6 +6686,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837v1](http://arxiv.org/abs/2406.11837v1)|**[link](https://github.com/zh460045050/vqgan-lc)**|
+|**2024-06-17**|**RMFA-Net: A Neural ISP for Real RAW to RGB Image Reconstruction**|Fei Li et.al.|[2406.11469v1](http://arxiv.org/abs/2406.11469v1)|null|
+|**2024-06-16**|**Noise reduction in ISAR imaging of UAVs using weighted atomic norm minimization and 2D-ADMM algorithm**|Mohammad Roueinfar et.al.|[2406.10888v1](http://arxiv.org/abs/2406.10888v1)|null|
 |**2024-06-14**|**DiffusionBlend: Learning 3D Image Prior through Position-aware Diffusion Score Blending for 3D Computed Tomography Reconstruction**|Bowen Song et.al.|[2406.10211v1](http://arxiv.org/abs/2406.10211v1)|null|
 |**2024-06-14**|**A SART-Based Iterative Inversion Methodology to Infer the Solar Rotation Rate from Global Helioseismic Data**|Sylvain G. Korzennik et.al.|[2406.10183v1](http://arxiv.org/abs/2406.10183v1)|null|
 |**2024-06-14**|**Bayesian Conditioned Diffusion Models for Inverse Problems**|Alper Güngör et.al.|[2406.09768v1](http://arxiv.org/abs/2406.09768v1)|null|
@@ -7320,6 +7350,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330v1](http://arxiv.org/abs/2406.11330v1)|null|
+|**2024-06-15**|**Beyond the Visible: Jointly Attending to Spectral and Spatial Dimensions with HSI-Diffusion for the FINCH Spacecraft**|Ian Vyse et.al.|[2406.10724v1](http://arxiv.org/abs/2406.10724v1)|null|
+|**2024-06-15**|**Fast Unsupervised Tensor Restoration via Low-rank Deconvolution**|David Reixach et.al.|[2406.10679v1](http://arxiv.org/abs/2406.10679v1)|null|
 |**2024-06-13**|**Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising**|Hao Liang et.al.|[2406.08782v1](http://arxiv.org/abs/2406.08782v1)|null|
 |**2024-06-11**|**fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions**|Alireza Afzal Aghaei et.al.|[2406.07456v1](http://arxiv.org/abs/2406.07456v1)|**[link](https://github.com/alirezaafzalaghaei/fKAN)**|
 |**2024-06-11**|**MIPI 2024 Challenge on Few-shot RAW Image Denoising: Methods and Results**|Xin Jin et.al.|[2406.07006v1](http://arxiv.org/abs/2406.07006v1)|null|
@@ -7601,6 +7634,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Quaternion Generative Adversarial Neural Networks and Applications to Color Image Inpainting**|Duan Wang et.al.|[2406.11567v1](http://arxiv.org/abs/2406.11567v1)|null|
 |**2024-06-08**|**Hinge-FM2I: An Approach using Image Inpainting for Interpolating Missing Data in Univariate Time Series**|Noufel Saad et.al.|[2406.06631v1](http://arxiv.org/abs/2406.06631v1)|null|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
 |**2024-06-05**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347v2](http://arxiv.org/abs/2406.02347v2)|**[link](https://github.com/gojasper/flash-diffusion)**|
@@ -7800,6 +7834,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581v1](http://arxiv.org/abs/2406.11581v1)|null|
+|**2024-06-14**|**Out of style: Misadventures with LLMs and code style transfer**|Karl Munson et.al.|[2406.10320v1](http://arxiv.org/abs/2406.10320v1)|null|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|null|
 |**2024-06-11**|**Gene-Level Representation Learning via Interventional Style Transfer in Optical Pooled Screening**|Mahtab Bigverdi et.al.|[2406.07763v1](http://arxiv.org/abs/2406.07763v1)|null|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508v1](http://arxiv.org/abs/2406.06508v1)|**[link](https://github.com/monkeyseedocg/momo-code)**|
