@@ -43,7 +43,7 @@
 |**2024-06-16**|**Diffusion Model With Optimal Covariance Matching**|Zijing Ou et.al.|[2406.10808v1](http://arxiv.org/abs/2406.10808v1)|null|
 |**2024-06-16**|**Diffusion Models Are Promising for Ab Initio Structure Solutions from Nanocrystalline Powder Diffraction Data**|Gabe Guo et.al.|[2406.10796v1](http://arxiv.org/abs/2406.10796v1)|**[link](https://github.com/gabeguo/cdvae_xrd)**|
 |**2024-06-15**|**Beyond the Visible: Jointly Attending to Spectral and Spatial Dimensions with HSI-Diffusion for the FINCH Spacecraft**|Ian Vyse et.al.|[2406.10724v1](http://arxiv.org/abs/2406.10724v1)|**[link](https://github.com/utat-ss/FINCH-destriping)**|
-|**2024-06-15**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553v1](http://arxiv.org/abs/2406.10553v1)|null|
+|**2024-06-18**|**A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing**|Ming Meng et.al.|[2406.10553v2](http://arxiv.org/abs/2406.10553v2)|null|
 |**2024-06-15**|**Self-Supervised Vision Transformer for Enhanced Virtual Clothes Try-On**|Lingxiao Lu et.al.|[2406.10539v1](http://arxiv.org/abs/2406.10539v1)|null|
 |**2024-06-15**|**Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space**|Mohamed Amine Ketata et.al.|[2406.10513v1](http://arxiv.org/abs/2406.10513v1)|null|
 |**2024-06-14**|**Consistency-diversity-realism Pareto fronts of conditional image generative models**|Pietro Astolfi et.al.|[2406.10429v1](http://arxiv.org/abs/2406.10429v1)|null|
@@ -4651,7 +4651,7 @@
 |**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240v1](http://arxiv.org/abs/2406.01240v1)|null|
 |**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828v1](http://arxiv.org/abs/2406.00828v1)|null|
 |**2024-06-02**|**Multidimensional optical singularities and their applications**|Soon Wei Daniel Lim et.al.|[2406.00784v1](http://arxiv.org/abs/2406.00784v1)|null|
-|**2024-06-02**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v1](http://arxiv.org/abs/2406.00676v1)|null|
+|**2024-06-18**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v2](http://arxiv.org/abs/2406.00676v2)|null|
 |**2024-06-04**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609v2](http://arxiv.org/abs/2406.00609v2)|null|
 |**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446v1](http://arxiv.org/abs/2406.00446v1)|null|
 |**2024-06-01**|**SpikeMM: Flexi-Magnification of High-Speed Micro-Motions**|Baoyue Zhang et.al.|[2406.00383v1](http://arxiv.org/abs/2406.00383v1)|null|
