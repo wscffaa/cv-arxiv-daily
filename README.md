@@ -32,7 +32,7 @@
 |**2024-06-21**|**A3D: Does Diffusion Dream about 3D Alignment?**|Savva Ignatyev et.al.|[2406.15020v1](http://arxiv.org/abs/2406.15020v1)|null|
 |**2024-06-21**|**Probabilistic and Differentiable Wireless Simulation with Geometric Transformers**|Thomas Hehn et.al.|[2406.14995v1](http://arxiv.org/abs/2406.14995v1)|null|
 |**2024-06-21**|**VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation**|Zixuan Chen et.al.|[2406.14964v1](http://arxiv.org/abs/2406.14964v1)|null|
-|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v1](http://arxiv.org/abs/2406.14862v1)|null|
+|**2024-06-24**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v2](http://arxiv.org/abs/2406.14862v2)|null|
 |**2024-06-21**|**Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models**|Jie Ren et.al.|[2406.14855v1](http://arxiv.org/abs/2406.14855v1)|null|
 |**2024-06-21**|**DExter: Learning and Controlling Performance Expression with Diffusion Models**|Huan Zhang et.al.|[2406.14850v1](http://arxiv.org/abs/2406.14850v1)|null|
 |**2024-06-21**|**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning**|Xu Han et.al.|[2406.14847v1](http://arxiv.org/abs/2406.14847v1)|null|
@@ -66,12 +66,12 @@
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625v1](http://arxiv.org/abs/2406.13625v1)|null|
 |**2024-06-19**|**Image Distillation for Safe Data Sharing in Histopathology**|Zhe Li et.al.|[2406.13536v1](http://arxiv.org/abs/2406.13536v1)|null|
 |**2024-06-19**|**Multi-messenger modeling of the Monogem pulsar halo**|Youyou Li et.al.|[2406.13426v1](http://arxiv.org/abs/2406.13426v1)|null|
-|**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v1](http://arxiv.org/abs/2406.13393v1)|null|
+|**2024-06-24**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v2](http://arxiv.org/abs/2406.13393v2)|null|
 |**2024-06-19**|**ARDuP: Active Region Video Diffusion for Universal Policies**|Shuaiyi Huang et.al.|[2406.13301v1](http://arxiv.org/abs/2406.13301v1)|null|
 |**2024-06-19**|**AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models**|Ken Chen et.al.|[2406.13272v1](http://arxiv.org/abs/2406.13272v1)|null|
 |**2024-06-19**|**Self-Supervised Diffusion Model for 3-D Seismic Data Reconstruction**|Xinyang Wang et.al.|[2406.13252v1](http://arxiv.org/abs/2406.13252v1)|null|
 |**2024-06-19**|**Neural Residual Diffusion Models for Deep Scalable Vision Generation**|Zhiyuan Ma et.al.|[2406.13215v1](http://arxiv.org/abs/2406.13215v1)|null|
-|**2024-06-19**|**Surgical Triplet Recognition via Diffusion Model**|Daochang Liu et.al.|[2406.13210v1](http://arxiv.org/abs/2406.13210v1)|null|
+|**2024-06-24**|**Surgical Triplet Recognition via Diffusion Model**|Daochang Liu et.al.|[2406.13210v2](http://arxiv.org/abs/2406.13210v2)|null|
 |**2024-06-19**|**Diffusion Model-based FOD Restoration from High Distortion in dMRI**|Shuo Huang et.al.|[2406.13209v1](http://arxiv.org/abs/2406.13209v1)|null|
 |**2024-06-21**|**Conditional score-based diffusion models for solving inverse problems in mechanics**|Agnimitra Dasgupta et.al.|[2406.13154v2](http://arxiv.org/abs/2406.13154v2)|null|
 |**2024-06-19**|**MCAD: Multi-modal Conditioned Adversarial Diffusion Model for High-Quality PET Image Reconstruction**|Jiaqi Cui et.al.|[2406.13150v1](http://arxiv.org/abs/2406.13150v1)|null|
@@ -4733,7 +4733,7 @@
 |**2024-06-03**|**Arctic Sea Ice Image Super-Resolution Based on Multi-Scale Convolution and Dual-Gating Mechanism**|Zhaomin Fang et.al.|[2406.01240v1](http://arxiv.org/abs/2406.01240v1)|null|
 |**2024-06-02**|**Stealing Image-to-Image Translation Models With a Single Query**|Nurit Spingarn-Eliezer et.al.|[2406.00828v1](http://arxiv.org/abs/2406.00828v1)|null|
 |**2024-06-02**|**Multidimensional optical singularities and their applications**|Soon Wei Daniel Lim et.al.|[2406.00784v1](http://arxiv.org/abs/2406.00784v1)|null|
-|**2024-06-18**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v2](http://arxiv.org/abs/2406.00676v2)|null|
+|**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v3](http://arxiv.org/abs/2406.00676v3)|null|
 |**2024-06-04**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609v2](http://arxiv.org/abs/2406.00609v2)|null|
 |**2024-06-01**|**GLCAN: Global-Local Collaborative Auxiliary Network for Local Learning**|Feiyu Zhu et.al.|[2406.00446v1](http://arxiv.org/abs/2406.00446v1)|null|
 |**2024-06-01**|**SpikeMM: Flexi-Magnification of High-Speed Micro-Motions**|Baoyue Zhang et.al.|[2406.00383v1](http://arxiv.org/abs/2406.00383v1)|null|
@@ -7933,7 +7933,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-19**|**Tree-Sliced Wasserstein Distance on a System of Lines**|Viet-Hoang Tran et.al.|[2406.13725v1](http://arxiv.org/abs/2406.13725v1)|null|
-|**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v1](http://arxiv.org/abs/2406.13393v1)|null|
+|**2024-06-24**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v2](http://arxiv.org/abs/2406.13393v2)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395v1](http://arxiv.org/abs/2406.12395v1)|null|
 |**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581v1](http://arxiv.org/abs/2406.11581v1)|null|
 |**2024-06-14**|**Out of style: Misadventures with LLMs and code style transfer**|Karl Munson et.al.|[2406.10320v1](http://arxiv.org/abs/2406.10320v1)|null|
