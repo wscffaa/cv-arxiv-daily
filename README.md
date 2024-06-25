@@ -26,6 +26,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863v1](http://arxiv.org/abs/2406.16863v1)|**[link](https://github.com/arthur-qiu/freetraj)**|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862v1](http://arxiv.org/abs/2406.16862v1)|null|
+|**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821v1](http://arxiv.org/abs/2406.16821v1)|null|
+|**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710v1](http://arxiv.org/abs/2406.16710v1)|null|
+|**2024-06-24**|**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**|Min-Seop Kwak et.al.|[2406.16695v1](http://arxiv.org/abs/2406.16695v1)|null|
+|**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683v1](http://arxiv.org/abs/2406.16683v1)|null|
+|**2024-06-24**|**OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**|Heng Gao et.al.|[2406.16525v1](http://arxiv.org/abs/2406.16525v1)|null|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
+|**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476v1](http://arxiv.org/abs/2406.16476v1)|null|
+|**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333v1](http://arxiv.org/abs/2406.16333v1)|null|
+|**2024-06-24**|**YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals**|Sandeep Mishra et.al.|[2406.16273v1](http://arxiv.org/abs/2406.16273v1)|null|
+|**2024-06-24**|**Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**|Zhiyuan Chang et.al.|[2406.16272v1](http://arxiv.org/abs/2406.16272v1)|null|
+|**2024-06-24**|**Video-Infinity: Distributed Long Video Generation**|Zhenxiong Tan et.al.|[2406.16260v1](http://arxiv.org/abs/2406.16260v1)|null|
+|**2024-06-23**|**Provable Statistical Rates for Consistency Diffusion Models**|Zehao Dou et.al.|[2406.16213v1](http://arxiv.org/abs/2406.16213v1)|null|
+|**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129v1](http://arxiv.org/abs/2406.16129v1)|null|
+|**2024-06-23**|**Diffusion Spectral Representation for Reinforcement Learning**|Dmitry Shribak et.al.|[2406.16121v1](http://arxiv.org/abs/2406.16121v1)|null|
+|**2024-06-23**|**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**|Inès Hyeonsu Kim et.al.|[2406.16042v1](http://arxiv.org/abs/2406.16042v1)|null|
+|**2024-06-23**|**TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing**|Namjoon Suh et.al.|[2406.16028v1](http://arxiv.org/abs/2406.16028v1)|null|
+|**2024-06-22**|**PUDD: Towards Robust Multi-modal Prototype-based Deepfake Detection**|Alvaro Lopez Pellcier et.al.|[2406.15921v1](http://arxiv.org/abs/2406.15921v1)|null|
+|**2024-06-22**|**Soft Masked Mamba Diffusion Model for CT to MRI Conversion**|Zhenbin Wang et.al.|[2406.15910v1](http://arxiv.org/abs/2406.15910v1)|**[link](https://github.com/wongzbb/diffma-diffusion-mamba)**|
+|**2024-06-22**|**EmoAttack: Emotion-to-Image Diffusion Models for Emotional Backdoor Generation**|Tianyu Wei et.al.|[2406.15863v1](http://arxiv.org/abs/2406.15863v1)|null|
+|**2024-06-22**|**MVOC: a training-free multiple video object composition method with diffusion models**|Wei Wang et.al.|[2406.15829v1](http://arxiv.org/abs/2406.15829v1)|null|
+|**2024-06-22**|**PointDreamer: Zero-shot 3D Textured Mesh Reconstruction from Colored Point Cloud by 2D Inpainting**|Qiao Yu et.al.|[2406.15811v1](http://arxiv.org/abs/2406.15811v1)|**[link](https://github.com/yuqiao0303/pointdreamer)**|
+|**2024-06-22**|**Rethinking the Diffusion Models for Numerical Tabular Data Imputation from the Perspective of Wasserstein Gradient Flow**|Zhichao Chen et.al.|[2406.15762v1](http://arxiv.org/abs/2406.15762v1)|null|
+|**2024-06-22**|**Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model**|Min Zhao et.al.|[2406.15735v1](http://arxiv.org/abs/2406.15735v1)|null|
+|**2024-06-21**|**Adaptive Self-Supervised Consistency-Guided Diffusion Model for Accelerated MRI Reconstruction**|Mojtaba Safari et.al.|[2406.15656v1](http://arxiv.org/abs/2406.15656v1)|null|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331v1](http://arxiv.org/abs/2406.15331v1)|null|
 |**2024-06-21**|**You Only Acquire Sparse-channel (YOAS): A Unified Framework for Dense-channel EEG Generation**|Hongyu Chen et.al.|[2406.15269v1](http://arxiv.org/abs/2406.15269v1)|null|
 |**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219v1](http://arxiv.org/abs/2406.15219v1)|null|
@@ -4692,6 +4718,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
+|**2024-06-24**|**Suppressing Uncertainties in Degradation Estimation for Blind Super-Resolution**|Junxiong Lin et.al.|[2406.16459v1](http://arxiv.org/abs/2406.16459v1)|null|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
+|**2024-06-23**|**Mamba-based Light Field Super-Resolution with Efficient Subspace Scanning**|Ruisheng Gao et.al.|[2406.16083v1](http://arxiv.org/abs/2406.16083v1)|null|
+|**2024-06-23**|**Gridless Parameter Estimation in Partly Calibrated Rectangular Arrays**|Tianyi Liu et.al.|[2406.16041v1](http://arxiv.org/abs/2406.16041v1)|null|
+|**2024-06-23**|**Learning Accurate and Enriched Features for Stereo Image Super-Resolution**|Hu Gao et.al.|[2406.16001v1](http://arxiv.org/abs/2406.16001v1)|null|
 |**2024-06-21**|**A Generative Machine Learning Approach for Improving Precipitation from Earth System Models**|Philipp Hess et.al.|[2406.15026v1](http://arxiv.org/abs/2406.15026v1)|null|
 |**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264v1](http://arxiv.org/abs/2406.14264v1)|null|
 |**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815v1](http://arxiv.org/abs/2406.13815v1)|null|
@@ -5728,6 +5760,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
+|**2024-06-24**|**Suppressing Uncertainties in Degradation Estimation for Blind Super-Resolution**|Junxiong Lin et.al.|[2406.16459v1](http://arxiv.org/abs/2406.16459v1)|null|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
+|**2024-06-23**|**Learning Accurate and Enriched Features for Stereo Image Super-Resolution**|Hu Gao et.al.|[2406.16001v1](http://arxiv.org/abs/2406.16001v1)|null|
 |**2024-06-19**|**IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution**|Alireza Aghelan et.al.|[2406.13815v1](http://arxiv.org/abs/2406.13815v1)|null|
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625v1](http://arxiv.org/abs/2406.13625v1)|null|
 |**2024-06-18**|**LFMamba: Light Field Image Super-Resolution with State Space Model**|Wang xia et.al.|[2406.12463v1](http://arxiv.org/abs/2406.12463v1)|null|
@@ -6108,6 +6144,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
 |**2024-06-19**|**EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**|Dachun Kai et.al.|[2406.13457v1](http://arxiv.org/abs/2406.13457v1)|**[link](https://github.com/dachunkai/evtexture)**|
 |**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389v1](http://arxiv.org/abs/2405.13389v1)|null|
 |**2024-05-04**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500v2](http://arxiv.org/abs/2404.19500v2)|null|
@@ -6363,6 +6400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
 |**2024-06-22**|**Ultra-High-Definition Restoration: New Benchmarks and A Dual Interaction Prior-Driven Solution**|Liyan Wang et.al.|[2406.13607v2](http://arxiv.org/abs/2406.13607v2)|**[link](https://github.com/wlydlut/uhddip)**|
 |**2024-06-19**|**Diffusion Model-based FOD Restoration from High Distortion in dMRI**|Shuo Huang et.al.|[2406.13209v1](http://arxiv.org/abs/2406.13209v1)|null|
 |**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587v1](http://arxiv.org/abs/2406.12587v1)|null|
@@ -6775,6 +6813,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**The MRI Scanner as a Diagnostic: Image-less Active Sampling**|Yuning Du et.al.|[2406.16754v1](http://arxiv.org/abs/2406.16754v1)|null|
 |**2024-06-21**|**Stochastic Optimisation Framework using the Core Imaging Library and Synergistic Image Reconstruction Framework for PET Reconstruction**|Evangelos Papoutsellis et.al.|[2406.15159v1](http://arxiv.org/abs/2406.15159v1)|null|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436v1](http://arxiv.org/abs/2406.14436v1)|null|
 |**2024-06-20**|**Self-Supervised Pretext Tasks for Alzheimer's Disease Classification using 3D Convolutional Neural Networks on Large-Scale Synthetic Neuroimaging Dataset**|Chen Zheng et.al.|[2406.14210v1](http://arxiv.org/abs/2406.14210v1)|null|
@@ -7732,6 +7771,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-22**|**PointDreamer: Zero-shot 3D Textured Mesh Reconstruction from Colored Point Cloud by 2D Inpainting**|Qiao Yu et.al.|[2406.15811v1](http://arxiv.org/abs/2406.15811v1)|**[link](https://github.com/yuqiao0303/pointdreamer)**|
 |**2024-06-17**|**Quaternion Generative Adversarial Neural Networks and Applications to Color Image Inpainting**|Duan Wang et.al.|[2406.11567v1](http://arxiv.org/abs/2406.11567v1)|null|
 |**2024-06-08**|**Hinge-FM2I: An Approach using Image Inpainting for Interpolating Missing Data in Univariate Time Series**|Noufel Saad et.al.|[2406.06631v1](http://arxiv.org/abs/2406.06631v1)|null|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
@@ -7932,6 +7972,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**TinyStyler: Efficient Few-Shot Text Style Transfer with Authorship Embeddings**|Zachary Horvitz et.al.|[2406.15586v1](http://arxiv.org/abs/2406.15586v1)|null|
 |**2024-06-19**|**Tree-Sliced Wasserstein Distance on a System of Lines**|Viet-Hoang Tran et.al.|[2406.13725v1](http://arxiv.org/abs/2406.13725v1)|null|
 |**2024-06-24**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v2](http://arxiv.org/abs/2406.13393v2)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395v1](http://arxiv.org/abs/2406.12395v1)|null|
