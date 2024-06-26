@@ -26,6 +26,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763v1](http://arxiv.org/abs/2406.17763v1)|null|
+|**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688v1](http://arxiv.org/abs/2406.17688v1)|null|
+|**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
+|**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636v1](http://arxiv.org/abs/2406.17636v1)|null|
+|**2024-06-25**|**Diffusion-based Adversarial Purification for Intrusion Detection**|Mohamed Amine Merzouk et.al.|[2406.17606v1](http://arxiv.org/abs/2406.17606v1)|null|
+|**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|**[link](https://github.com/imlixinyang/director3d)**|
+|**2024-06-25**|**Detection of Synthetic Face Images: Accuracy, Robustness, Generalization**|Nela Petrzelkova et.al.|[2406.17547v1](http://arxiv.org/abs/2406.17547v1)|null|
+|**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541v1](http://arxiv.org/abs/2406.17541v1)|null|
+|**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462v1](http://arxiv.org/abs/2406.17462v1)|null|
+|**2024-06-25**|**SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing**|Ruihuang Li et.al.|[2406.17396v1](http://arxiv.org/abs/2406.17396v1)|null|
+|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343v1](http://arxiv.org/abs/2406.17343v1)|null|
+|**2024-06-25**|**Generative Modelling of Structurally Constrained Graphs**|Manuel Madeira et.al.|[2406.17341v1](http://arxiv.org/abs/2406.17341v1)|null|
+|**2024-06-25**|**Disentangled Motion Modeling for Video Frame Interpolation**|Jaihyun Lew et.al.|[2406.17256v1](http://arxiv.org/abs/2406.17256v1)|**[link](https://github.com/jhlew/momo)**|
+|**2024-06-25**|**Expansive Synthesis: Generating Large-Scale Datasets from Minimal Samples**|Vahid Jebraeeli et.al.|[2406.17238v1](http://arxiv.org/abs/2406.17238v1)|null|
+|**2024-06-25**|**LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing**|Aoyang Liu et.al.|[2406.17236v1](http://arxiv.org/abs/2406.17236v1)|null|
+|**2024-06-24**|**Diff3Dformer: Leveraging Slice Sequence Diffusion for Enhanced 3D CT Classification with Transformer Networks**|Zihao Jin et.al.|[2406.17173v1](http://arxiv.org/abs/2406.17173v1)|null|
+|**2024-06-24**|**Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation**|Zhenyi Liao et.al.|[2406.17100v1](http://arxiv.org/abs/2406.17100v1)|null|
+|**2024-06-23**|**On Instabilities of Unsupervised Denoising Diffusion Models in Magnetic Resonance Imaging Reconstruction**|Tianyu Han et.al.|[2406.16983v1](http://arxiv.org/abs/2406.16983v1)|null|
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863v1](http://arxiv.org/abs/2406.16863v1)|**[link](https://github.com/arthur-qiu/freetraj)**|
 |**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862v1](http://arxiv.org/abs/2406.16862v1)|null|
 |**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821v1](http://arxiv.org/abs/2406.16821v1)|null|
@@ -4718,6 +4736,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**A Near-Field Super-Resolution Network for Accelerating Antenna Characterization**|Yuchen Gu et.al.|[2406.17244v1](http://arxiv.org/abs/2406.17244v1)|null|
 |**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
 |**2024-06-24**|**Suppressing Uncertainties in Degradation Estimation for Blind Super-Resolution**|Junxiong Lin et.al.|[2406.16459v1](http://arxiv.org/abs/2406.16459v1)|null|
 |**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
@@ -6813,6 +6832,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Mask-Guided Attention U-Net for Enhanced Neonatal Brain Extraction and Image Preprocessing**|Bahram Jafrasteh et.al.|[2406.17709v1](http://arxiv.org/abs/2406.17709v1)|**[link](https://github.com/bahramjafrasteh/mga-net)**|
+|**2024-06-25**|**Sparse-view Signal-domain Photoacoustic Tomography Reconstruction Method Based on Neural Representation**|Bowei Yao et.al.|[2406.17578v1](http://arxiv.org/abs/2406.17578v1)|null|
+|**2024-06-25**|**TSynD: Targeted Synthetic Data Generation for Enhanced Medical Image Classification**|Joshua Niemeijer et.al.|[2406.17473v1](http://arxiv.org/abs/2406.17473v1)|null|
+|**2024-06-23**|**On Instabilities of Unsupervised Denoising Diffusion Models in Magnetic Resonance Imaging Reconstruction**|Tianyu Han et.al.|[2406.16983v1](http://arxiv.org/abs/2406.16983v1)|null|
 |**2024-06-24**|**The MRI Scanner as a Diagnostic: Image-less Active Sampling**|Yuning Du et.al.|[2406.16754v1](http://arxiv.org/abs/2406.16754v1)|null|
 |**2024-06-21**|**Stochastic Optimisation Framework using the Core Imaging Library and Synergistic Image Reconstruction Framework for PET Reconstruction**|Evangelos Papoutsellis et.al.|[2406.15159v1](http://arxiv.org/abs/2406.15159v1)|null|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436v1](http://arxiv.org/abs/2406.14436v1)|null|
