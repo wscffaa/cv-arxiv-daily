@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -30,9 +30,9 @@
 |**2024-06-27**|**Subtractive Training for Music Stem Insertion using Latent Diffusion Models**|Ivan Villa-Renteria et.al.|[2406.19328v1](http://arxiv.org/abs/2406.19328v1)|null|
 |**2024-06-27**|**Compositional Image Decomposition with Diffusion Models**|Jocelin Su et.al.|[2406.19298v1](http://arxiv.org/abs/2406.19298v1)|null|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030v1](http://arxiv.org/abs/2406.19030v1)|null|
-|**2024-06-27**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958v1](http://arxiv.org/abs/2406.18958v1)|null|
+|**2024-06-28**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958v2](http://arxiv.org/abs/2406.18958v2)|null|
 |**2024-06-27**|**Investigating and Defending Shortcut Learning in Personalized Diffusion Models**|Yixin Liu et.al.|[2406.18944v1](http://arxiv.org/abs/2406.18944v1)|null|
-|**2024-06-27**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893v1](http://arxiv.org/abs/2406.18893v1)|null|
+|**2024-06-28**|**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models**|Aishwarya Agarwal et.al.|[2406.18893v2](http://arxiv.org/abs/2406.18893v2)|null|
 |**2024-06-27**|**Chemical Continuous Time Random Walks under Anomalous Diffusion**|Hong Zhang et.al.|[2406.18869v1](http://arxiv.org/abs/2406.18869v1)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524v1](http://arxiv.org/abs/2406.18524v1)|null|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516v1](http://arxiv.org/abs/2406.18516v1)|**[link](https://github.com/kangliao929/noise-da)**|
@@ -42,7 +42,7 @@
 |**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330v1](http://arxiv.org/abs/2406.18330v1)|null|
 |**2024-06-26**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175v1](http://arxiv.org/abs/2406.18175v1)|**[link](https://github.com/larsdoorenbos/generate-spectra)**|
 |**2024-06-26**|**Human-Aware 3D Scene Generation with Spatially-constrained Diffusion Models**|Xiaolin Hong et.al.|[2406.18159v1](http://arxiv.org/abs/2406.18159v1)|null|
-|**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054v1](http://arxiv.org/abs/2406.18054v1)|null|
+|**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054v1](http://arxiv.org/abs/2406.18054v1)|**[link](https://github.com/qilaizhang/diffusion-ffpe)**|
 |**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763v1](http://arxiv.org/abs/2406.17763v1)|null|
 |**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688v1](http://arxiv.org/abs/2406.17688v1)|**[link](https://github.com/philippe-eecs/small-vision)**|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
@@ -67,7 +67,7 @@
 |**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710v1](http://arxiv.org/abs/2406.16710v1)|null|
 |**2024-06-24**|**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**|Min-Seop Kwak et.al.|[2406.16695v1](http://arxiv.org/abs/2406.16695v1)|null|
 |**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683v1](http://arxiv.org/abs/2406.16683v1)|**[link](https://github.com/nzilberstein/Repulsive-score-distillation-RSD-)**|
-|**2024-06-24**|**OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**|Heng Gao et.al.|[2406.16525v1](http://arxiv.org/abs/2406.16525v1)|null|
+|**2024-06-24**|**OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**|Heng Gao et.al.|[2406.16525v1](http://arxiv.org/abs/2406.16525v1)|**[link](https://github.com/henggao12/oaml)**|
 |**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477v1](http://arxiv.org/abs/2406.16477v1)|null|
 |**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476v1](http://arxiv.org/abs/2406.16476v1)|null|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333v1](http://arxiv.org/abs/2406.16333v1)|null|
@@ -4747,7 +4747,7 @@
 |**2023-02-01**|**Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport**|Alexander Tong et.al.|[2302.00482v1](http://arxiv.org/abs/2302.00482v1)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-02-01**|**Diffusion Models for High-Resolution Solar Forecasts**|Yusuke Hatanaka et.al.|[2302.00170v1](http://arxiv.org/abs/2302.00170v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Super-Resolution
 
@@ -5794,7 +5794,7 @@
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|**[link](https://github.com/yongsongh/infrared_image_sr_survey)**|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -6180,7 +6180,7 @@
 |**2022-11-03**|**HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks**|Filip Szatkowski et.al.|[2211.01839v1](http://arxiv.org/abs/2211.01839v1)|null|
 |**2022-11-17**|**Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**|Alireza Aghelan et.al.|[2211.00577v5](http://arxiv.org/abs/2211.00577v5)|null|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -6285,7 +6285,7 @@
 |**2022-01-19**|**Self-Supervised Deep Blind Video Super-Resolution**|Haoran Bai et.al.|[2201.07422v1](http://arxiv.org/abs/2201.07422v1)|**[link](https://github.com/csbhr/self-blind-vsr)**|
 |**2021-12-16**|**Stable Long-Term Recurrent Video Super-Resolution**|Benjamin Naoto Chiche et.al.|[2112.08950v1](http://arxiv.org/abs/2112.08950v1)|**[link](https://github.com/bjmch/MRVSR)**|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Image-Colorization
 
@@ -6393,7 +6393,7 @@
 |**2021-04-29**|**Thermal Infrared Image Colorization for Nighttime Driving Scenes with Top-Down Guided Attention**|Fuya Luo et.al.|[2104.14374v1](http://arxiv.org/abs/2104.14374v1)|**[link](https://github.com/FuyaLuo/PearlGAN)**|
 |**2021-04-27**|**NTIRE 2021 Depth Guided Image Relighting Challenge**|Majed El Helou et.al.|[2104.13365v1](http://arxiv.org/abs/2104.13365v1)|**[link](https://github.com/majedelhelou/VIDIT)**|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Video-Colorization
 
@@ -6436,7 +6436,7 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Image Restoration
 
@@ -6464,7 +6464,7 @@
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458v1](http://arxiv.org/abs/2406.02458v1)|null|
 |**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629v1](http://arxiv.org/abs/2406.00629v1)|**[link](https://github.com/supersupercong/uhdformer)**|
 |**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008v1](http://arxiv.org/abs/2405.20008v1)|null|
-|**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769v1](http://arxiv.org/abs/2405.19769v1)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
+|**2024-06-28**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769v2](http://arxiv.org/abs/2405.19769v2)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
 |**2024-05-29**|**Blind Image Restoration via Fast Diffusion Inversion**|Hamadi Chihaoui et.al.|[2405.19572v1](http://arxiv.org/abs/2405.19572v1)|**[link](https://github.com/hamadichihaoui/BIRD)**|
 |**2024-05-27**|**Fast Samplers for Inverse Problems in Iterative Refinement Models**|Kushagra Pandey et.al.|[2405.17673v1](http://arxiv.org/abs/2405.17673v1)|null|
 |**2024-06-04**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475v2](http://arxiv.org/abs/2405.16475v2)|null|
@@ -6853,14 +6853,14 @@
 |**2022-09-19**|**Masked Face Inpainting Through Residual Attention UNet**|Md Imran Hosen et.al.|[2209.08850v1](http://arxiv.org/abs/2209.08850v1)|**[link](https://github.com/mdhosen/mask-face-inpainting-using-residual-attention-unet)**|
 |**2022-09-17**|**Deep Plug-and-Play Prior for Hyperspectral Image Restoration**|Zeqiang Lai et.al.|[2209.08240v1](http://arxiv.org/abs/2209.08240v1)|**[link](https://github.com/zeqiang-lai/dphsir)**|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Image Reconstruction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-27**|**ALMA: a mathematics-driven approach for determining tuning parameters in generalized LASSO problems, with applications to MRI**|Gianluca Giacchi et.al.|[2406.19239v1](http://arxiv.org/abs/2406.19239v1)|null|
-|**2024-06-27**|**CMRxRecon2024: A Multi-Modality, Multi-View K-Space Dataset Boosting Universal Machine Learning for Accelerated Cardiac MRI**|Zi Wang et.al.|[2406.19043v1](http://arxiv.org/abs/2406.19043v1)|null|
+|**2024-06-27**|**CMRxRecon2024: A Multi-Modality, Multi-View K-Space Dataset Boosting Universal Machine Learning for Accelerated Cardiac MRI**|Zi Wang et.al.|[2406.19043v1](http://arxiv.org/abs/2406.19043v1)|**[link](https://github.com/cmrxrecon/cmrxrecon2024)**|
 |**2024-06-26**|**Multi-Step Reconstruction of Radio-Interferometric Images**|S. Wang et.al.|[2406.18356v1](http://arxiv.org/abs/2406.18356v1)|null|
 |**2024-06-25**|**Highly Constrained Coded Aperture Imaging Systems Design Via a Knowledge Distillation Approach**|Leon Suarez-Rodriguez et.al.|[2406.17970v1](http://arxiv.org/abs/2406.17970v1)|null|
 |**2024-06-25**|**Mask-Guided Attention U-Net for Enhanced Neonatal Brain Extraction and Image Preprocessing**|Bahram Jafrasteh et.al.|[2406.17709v1](http://arxiv.org/abs/2406.17709v1)|**[link](https://github.com/bahramjafrasteh/mga-net)**|
@@ -7533,7 +7533,7 @@
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-21**|**Unsupervised Full-color Cellular Image Reconstruction through Disordered Optical Fiber**|Xiaowen Hu et.al.|[2212.10803v1](http://arxiv.org/abs/2212.10803v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Image Denoising
 
@@ -7819,7 +7819,7 @@
 |**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2022-10-08**|**LW-ISP: A Lightweight Model with ISP and Deep Learning**|Hongyang Chen et.al.|[2210.03904v1](http://arxiv.org/abs/2210.03904v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -8020,7 +8020,7 @@
 |**2022-08-04**|**A Fractional Image Inpainting Model Using a Variant of Mumford-Shah Model**|Abdul Halim et.al.|[2208.01887v2](http://arxiv.org/abs/2208.01887v2)|null|
 |**2022-08-03**|**Learning Prior Feature and Attention Enhanced Image Inpainting**|Chenjie Cao et.al.|[2208.01837v1](http://arxiv.org/abs/2208.01837v1)|**[link](https://github.com/ewrfcas/MAE-FAR)**|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 ## Style Transfer
 
@@ -8436,7 +8436,7 @@
 |**2022-11-19**|**DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization**|Nisha Huang et.al.|[2211.10682v1](http://arxiv.org/abs/2211.10682v1)|**[link](https://github.com/haha-lisa/Diffstyler)**|
 |**2022-11-19**|**Domain-Adaptive Self-Supervised Pre-Training for Face & Body Detection in Drawings**|Barış Batuhan Topal et.al.|[2211.10641v1](http://arxiv.org/abs/2211.10641v1)|**[link](https://github.com/barisbatuhan/dass_det_inference)**|
 
-<p align=right>(<a href=#Updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
