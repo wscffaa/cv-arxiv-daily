@@ -8092,7 +8092,7 @@
 |**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067v1](http://arxiv.org/abs/2404.02067v1)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
 |**2024-04-02**|**MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages**|Daryna Dementieva et.al.|[2404.02037v1](http://arxiv.org/abs/2404.02037v1)|null|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
-|**2024-03-27**|**DiffStyler: Diffusion-based Localized Image Style Transfer**|Shaoxu Li et.al.|[2403.18461v1](http://arxiv.org/abs/2403.18461v1)|null|
+|**2024-07-02**|**DiffStyler: Diffusion-based Localized Image Style Transfer**|Shaoxu Li et.al.|[2403.18461v2](http://arxiv.org/abs/2403.18461v2)|null|
 |**2024-03-25**|**Enhancing Cross-Dataset EEG Emotion Recognition: A Novel Approach with Emotional EEG Style Transfer Network**|Yijin Zhou et.al.|[2403.16540v1](http://arxiv.org/abs/2403.16540v1)|null|
 |**2024-03-21**|**Diffusion Attack: Leveraging Stable Diffusion for Naturalistic Image Attacking**|Qianyu Guo et.al.|[2403.14778v1](http://arxiv.org/abs/2403.14778v1)|null|
 |**2024-03-21**|**Implicit Style-Content Separation using B-LoRA**|Yarden Frenkel et.al.|[2403.14572v1](http://arxiv.org/abs/2403.14572v1)|null|
