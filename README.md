@@ -61,7 +61,7 @@
 |**2024-06-30**|**Diffusion Models and Representation Learning: A Survey**|Michael Fuest et.al.|[2407.00783v1](http://arxiv.org/abs/2407.00783v1)|**[link](https://github.com/dongzhuoyao/diffusion-representation-learning-survey-taxonomy)**|
 |**2024-06-30**|**Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation**|Peng Huang et.al.|[2407.00752v1](http://arxiv.org/abs/2407.00752v1)|null|
 |**2024-06-30**|**Posterior Sampling with Denoising Oracles via Tilted Transport**|Joan Bruna et.al.|[2407.00745v1](http://arxiv.org/abs/2407.00745v1)|null|
-|**2024-06-30**|**Diffusion Models for Offline Multi-agent Reinforcement Learning with Safety Constraints**|Jianuo Huang et.al.|[2407.00741v1](http://arxiv.org/abs/2407.00741v1)|null|
+|**2024-07-03**|**Diffusion Models for Offline Multi-agent Reinforcement Learning with Safety Constraints**|Jianuo Huang et.al.|[2407.00741v2](http://arxiv.org/abs/2407.00741v2)|null|
 |**2024-06-30**|**LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation**|Mushui Liu et.al.|[2407.00737v1](http://arxiv.org/abs/2407.00737v1)|null|
 |**2024-06-30**|**Generative prediction of flow field based on the diffusion model**|Jiajun Hu et.al.|[2407.00735v1](http://arxiv.org/abs/2407.00735v1)|null|
 |**2024-06-30**|**Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models**|Sangwoong Yoon et.al.|[2407.00626v1](http://arxiv.org/abs/2407.00626v1)|null|
