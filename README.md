@@ -8133,7 +8133,7 @@
 |---|---|---|---|---|
 |**2024-07-02**|**Change My Frame: Reframing in the Wild in r/ChangeMyView**|Arturo Martínez Peguero et.al.|[2407.02637v1](http://arxiv.org/abs/2407.02637v1)|null|
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424v1](http://arxiv.org/abs/2407.02424v1)|null|
-|**2024-07-01**|**StyleShot: A Snapshot on Any Style**|Junyao Gao et.al.|[2407.01414v1](http://arxiv.org/abs/2407.01414v1)|null|
+|**2024-07-01**|**StyleShot: A Snapshot on Any Style**|Junyao Gao et.al.|[2407.01414v1](http://arxiv.org/abs/2407.01414v1)|**[link](https://github.com/open-mmlab/StyleShot)**|
 |**2024-06-30**|**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2407.00788v1](http://arxiv.org/abs/2407.00788v1)|null|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790v1](http://arxiv.org/abs/2406.18790v1)|null|
 |**2024-06-05**|**Dream-in-Style: Text-to-3D Generation using Stylized Score Distillation**|Hubert Kompanowski et.al.|[2406.18581v1](http://arxiv.org/abs/2406.18581v1)|null|
