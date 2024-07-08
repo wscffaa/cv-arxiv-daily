@@ -46,7 +46,7 @@
 |**2024-07-02**|**LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**|Jiarui Xing et.al.|[2407.02229v1](http://arxiv.org/abs/2407.02229v1)|null|
 |**2024-07-04**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158v2](http://arxiv.org/abs/2407.02158v2)|null|
 |**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143v1](http://arxiv.org/abs/2407.02143v1)|**[link](https://github.com/ChunjingXiao/CAGAD)**|
-|**2024-07-02**|**Latent Diffusion Model for Generating Ensembles of Climate Simulations**|Johannes Meuer et.al.|[2407.02070v1](http://arxiv.org/abs/2407.02070v1)|null|
+|**2024-07-04**|**Latent Diffusion Model for Generating Ensembles of Climate Simulations**|Johannes Meuer et.al.|[2407.02070v2](http://arxiv.org/abs/2407.02070v2)|null|
 |**2024-07-02**|**Accompanied Singing Voice Synthesis with Fully Text-controlled Melody**|Ruiqi Li et.al.|[2407.02049v1](http://arxiv.org/abs/2407.02049v1)|null|
 |**2024-07-02**|**ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation**|Zhiyuan Ma et.al.|[2407.02040v1](http://arxiv.org/abs/2407.02040v1)|**[link](https://github.com/theericma/scaledreamer)**|
 |**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031v1](http://arxiv.org/abs/2407.02031v1)|null|
@@ -63,7 +63,7 @@
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v1](http://arxiv.org/abs/2407.01519v1)|null|
 |**2024-07-01**|**EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning**|Jingyun Yang et.al.|[2407.01479v1](http://arxiv.org/abs/2407.01479v1)|null|
 |**2024-07-01**|**FORA: Fast-Forward Caching in Diffusion Transformer Acceleration**|Pratheba Selvaraju et.al.|[2407.01425v1](http://arxiv.org/abs/2407.01425v1)|null|
-|**2024-07-04**|**Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**|Boyuan Chen et.al.|[2407.01392v3](http://arxiv.org/abs/2407.01392v3)|null|
+|**2024-07-04**|**Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion**|Boyuan Chen et.al.|[2407.01392v3](http://arxiv.org/abs/2407.01392v3)|**[link](https://github.com/buoyancy99/diffusion-forcing)**|
 |**2024-07-01**|**Learning data efficient coarse-grained molecular dynamics from forces and noise**|Aleksander E. P. Durumeric et.al.|[2407.01286v1](http://arxiv.org/abs/2407.01286v1)|null|
 |**2024-07-01**|**Semantic-guided Adversarial Diffusion Model for Self-supervised Shadow Removal**|Ziqi Zeng et.al.|[2407.01104v1](http://arxiv.org/abs/2407.01104v1)|null|
 |**2024-07-01**|**Blind Inversion using Latent Diffusion Priors**|Weimin Bai et.al.|[2407.01027v1](http://arxiv.org/abs/2407.01027v1)|null|
