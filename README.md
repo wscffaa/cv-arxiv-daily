@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077v1](http://arxiv.org/abs/2407.07077v1)|**[link](https://github.com/haoosz/conceptexpress)**|
+|**2024-07-09**|**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**|Bowen Zhang et.al.|[2407.06938v1](http://arxiv.org/abs/2407.06938v1)|null|
+|**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937v1](http://arxiv.org/abs/2407.06937v1)|**[link](https://github.com/enderfga/humanrefiner)**|
+|**2024-07-09**|**A reaction-diffusion model for relapsing-remitting multiple sclerosis with a treatment term**|Romina Travaglini et.al.|[2407.06802v1](http://arxiv.org/abs/2407.06802v1)|null|
+|**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642v1](http://arxiv.org/abs/2407.06642v1)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
+|**2024-07-09**|**Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**|Yiran Yang et.al.|[2407.06617v1](http://arxiv.org/abs/2407.06617v1)|null|
+|**2024-07-09**|**VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving**|Yibo Liu et.al.|[2407.06516v1](http://arxiv.org/abs/2407.06516v1)|null|
+|**2024-07-09**|**Sketch-Guided Scene Image Generation**|Tianyu Zhang et.al.|[2407.06469v1](http://arxiv.org/abs/2407.06469v1)|null|
+|**2024-07-08**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[2407.06317v1](http://arxiv.org/abs/2407.06317v1)|null|
+|**2024-07-08**|**VIMI: Grounding Video Generation through Multi-modal Instruction**|Yuwei Fang et.al.|[2407.06304v1](http://arxiv.org/abs/2407.06304v1)|null|
+|**2024-07-08**|**Beyond theory driven discovery: hot random search and datum derived structures**|Chris J. Pickard et.al.|[2407.06294v1](http://arxiv.org/abs/2407.06294v1)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187v1](http://arxiv.org/abs/2407.06187v1)|null|
 |**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174v1](http://arxiv.org/abs/2407.06174v1)|null|
 |**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135v1](http://arxiv.org/abs/2407.06135v1)|**[link](https://github.com/gair-nlp/anole)**|
@@ -4871,6 +4882,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**UnmixingSR: Material-aware Network with Unsupervised Unmixing as Auxiliary Task for Hyperspectral Image Super-resolution**|Yang Yu et.al.|[2407.06525v1](http://arxiv.org/abs/2407.06525v1)|null|
+|**2024-07-08**|**Enhancing super-resolution ultrasound localisation through multi-frame deconvolution exploiting spatiotemporal coherence**|Su Yan et.al.|[2407.06373v1](http://arxiv.org/abs/2407.06373v1)|null|
 |**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079v1](http://arxiv.org/abs/2407.06079v1)|null|
 |**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993v1](http://arxiv.org/abs/2407.05993v1)|null|
 |**2024-07-08**|**Deform-Mamba Network for MRI Super-Resolution**|Zexin Ji et.al.|[2407.05969v1](http://arxiv.org/abs/2407.05969v1)|null|
@@ -5945,6 +5958,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**UnmixingSR: Material-aware Network with Unsupervised Unmixing as Auxiliary Task for Hyperspectral Image Super-resolution**|Yang Yu et.al.|[2407.06525v1](http://arxiv.org/abs/2407.06525v1)|null|
 |**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993v1](http://arxiv.org/abs/2407.05993v1)|null|
 |**2024-07-08**|**Deform-Mamba Network for MRI Super-Resolution**|Zexin Ji et.al.|[2407.05969v1](http://arxiv.org/abs/2407.05969v1)|null|
 |**2024-07-08**|**HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution**|Xiang Zhang et.al.|[2407.05878v1](http://arxiv.org/abs/2407.05878v1)|null|
@@ -6596,6 +6610,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Asymmetric Mask Scheme for Self-Supervised Real Image Denoising**|Xiangyu Liao et.al.|[2407.06514v1](http://arxiv.org/abs/2407.06514v1)|null|
 |**2024-07-07**|**Multi-scale Conditional Generative Modeling for Microscopic Image Restoration**|Luzhe Huang et.al.|[2407.05259v1](http://arxiv.org/abs/2407.05259v1)|null|
 |**2024-07-06**|**Robust Skin Color Driven Privacy Preserving Face Recognition via Function Secret Sharing**|Dong Han et.al.|[2407.05045v1](http://arxiv.org/abs/2407.05045v1)|null|
 |**2024-07-05**|**On a nonlinear nonlocal reaction-diffusion system applied to image restoration**|Yuhang Li et.al.|[2407.04347v1](http://arxiv.org/abs/2407.04347v1)|null|
@@ -7025,6 +7040,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Towards Physics-informed Cyclic Adversarial Multi-PSF Lensless Imaging**|Abeer Banerjee et.al.|[2407.06727v1](http://arxiv.org/abs/2407.06727v1)|null|
+|**2024-07-09**|**Iteratively Refined Image Reconstruction with Learned Attentive Regularizers**|Mehrsa Pourya et.al.|[2407.06608v1](http://arxiv.org/abs/2407.06608v1)|null|
 |**2024-06-15**|**Implicit Neural Representation for Videos Based on Residual Connection**|Taiga Hayami et.al.|[2407.06164v1](http://arxiv.org/abs/2407.06164v1)|null|
 |**2024-07-07**|**Imaging reconstruction method on X-ray data of CMOS polarimeter combined with coded aperture**|Tsubasa Tamba et.al.|[2407.05443v1](http://arxiv.org/abs/2407.05443v1)|null|
 |**2024-07-07**|**DM-MIMO: Diffusion Models for Robust Semantic Communications over MIMO Channels**|Yiheng Duan et.al.|[2407.05289v1](http://arxiv.org/abs/2407.05289v1)|null|
@@ -7718,6 +7735,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Efficient nonlocal linear image denoising: Bilevel optimization with Nonequispaced Fast Fourier Transform and matrix-free preconditioning**|Andrés Miniguano-Trujillo et.al.|[2407.06834v1](http://arxiv.org/abs/2407.06834v1)|null|
+|**2024-07-09**|**Asymmetric Mask Scheme for Self-Supervised Real Image Denoising**|Xiangyu Liao et.al.|[2407.06514v1](http://arxiv.org/abs/2407.06514v1)|null|
 |**2024-07-08**|**Pan-denoising: Guided Hyperspectral Image Denoising via Weighted Represent Coefficient Total Variation**|Shuang Xu et.al.|[2407.06064v1](http://arxiv.org/abs/2407.06064v1)|**[link](https://github.com/shuangxu96/pwrctv)**|
 |**2024-07-08**|**Heterogeneous window transformer for image denoising**|Chunwei Tian et.al.|[2407.05709v1](http://arxiv.org/abs/2407.05709v1)|null|
 |**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264v1](http://arxiv.org/abs/2406.14264v1)|**[link](https://github.com/meijitian/zs-denoisier-hrem)**|
@@ -8210,6 +8229,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Deep-Motion-Net: GNN-based volumetric organ shape reconstruction from single-view 2D projections**|Isuru Wijesinghe et.al.|[2407.06692v1](http://arxiv.org/abs/2407.06692v1)|null|
 |**2024-07-08**|**Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**|Zhangyang Qi et.al.|[2407.06191v1](http://arxiv.org/abs/2407.06191v1)|null|
 |**2024-05-15**|**Data-driven Nucleus Subclassification on Colon H&E using Style-transferred Digital Pathology**|Lucas W. Remedios et.al.|[2407.06116v1](http://arxiv.org/abs/2407.06116v1)|null|
 |**2024-07-08**|**Ada-adapter:Fast Few-shot Style Personlization of Diffusion Model with Pre-trained Image Encoder**|Jia Liu et.al.|[2407.05552v1](http://arxiv.org/abs/2407.05552v1)|null|
