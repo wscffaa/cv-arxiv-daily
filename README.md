@@ -26,6 +26,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966v1](http://arxiv.org/abs/2407.11966v1)|null|
+|**2024-07-16**|**Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design**|Leo Klarner et.al.|[2407.11942v1](http://arxiv.org/abs/2407.11942v1)|**[link](https://github.com/leojklarner/context-guided-diffusion)**|
+|**2024-07-16**|**Diffusion-driven self-assembly of emerin nanodomains at the nuclear envelope**|Carlos D. Alas et.al.|[2407.11758v1](http://arxiv.org/abs/2407.11758v1)|null|
+|**2024-07-16**|**Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**|Dominik Winter et.al.|[2407.11664v1](http://arxiv.org/abs/2407.11664v1)|null|
+|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652v1](http://arxiv.org/abs/2407.11652v1)|null|
+|**2024-07-16**|**Scaling Diffusion Transformers to 16 Billion Parameters**|Zhengcong Fei et.al.|[2407.11633v1](http://arxiv.org/abs/2407.11633v1)|**[link](https://github.com/feizc/dit-moe)**|
+|**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594v1](http://arxiv.org/abs/2407.11594v1)|null|
+|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585v1](http://arxiv.org/abs/2407.11585v1)|null|
+|**2024-07-16**|**UP-Diff: Latent Diffusion Model for Remote Sensing Urban Prediction**|Zeyu Wang et.al.|[2407.11578v1](http://arxiv.org/abs/2407.11578v1)|null|
+|**2024-07-16**|**TGIF: Text-Guided Inpainting Forgery Dataset**|Hannes Mareen et.al.|[2407.11566v1](http://arxiv.org/abs/2407.11566v1)|**[link](https://github.com/idlabmedia/tgif-dataset)**|
+|**2024-07-16**|**Self-Guided Generation of Minority Samples Using Diffusion Models**|Soobin Um et.al.|[2407.11555v1](http://arxiv.org/abs/2407.11555v1)|**[link](https://github.com/soobin-um/sg-minority)**|
+|**2024-07-16**|**Length-Aware Motion Synthesis via Latent Diffusion**|Alessio Sampieri et.al.|[2407.11532v1](http://arxiv.org/abs/2407.11532v1)|null|
+|**2024-07-16**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502v1](http://arxiv.org/abs/2407.11502v1)|null|
+|**2024-07-16**|**Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era**|Lei Ren et.al.|[2407.11501v1](http://arxiv.org/abs/2407.11501v1)|null|
+|**2024-07-16**|**Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**|Guowei Xu et.al.|[2407.11494v1](http://arxiv.org/abs/2407.11494v1)|**[link](https://github.com/guoweixu368/sld-hmp)**|
+|**2024-07-16**|**Isometric Representation Learning for Disentangled Latent Space of Diffusion Models**|Jaehoon Hahm et.al.|[2407.11451v1](http://arxiv.org/abs/2407.11451v1)|**[link](https://github.com/isno0907/isodiff)**|
+|**2024-07-16**|**Repurformer: Transformers for Repurposing-Aware Molecule Generation**|Changhun Lee et.al.|[2407.11439v1](http://arxiv.org/abs/2407.11439v1)|null|
+|**2024-07-16**|**CycleHOI: Improving Human-Object Interaction Detection with Cycle Consistency of Detection and Generation**|Yisen Wang et.al.|[2407.11433v1](http://arxiv.org/abs/2407.11433v1)|null|
+|**2024-07-16**|**Model Inversion Attacks Through Target-Specific Conditional Diffusion Models**|Ouxiang Li et.al.|[2407.11424v1](http://arxiv.org/abs/2407.11424v1)|null|
+|**2024-07-16**|**TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs**|Chenfan Xu et.al.|[2407.11419v1](http://arxiv.org/abs/2407.11419v1)|**[link](https://github.com/shanghaitech-impact/teethdreamer)**|
+|**2024-07-16**|**Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**|Yanqin Jiang et.al.|[2407.11398v1](http://arxiv.org/abs/2407.11398v1)|null|
+|**2024-07-16**|**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation**|Jiwook Kim et.al.|[2407.11394v1](http://arxiv.org/abs/2407.11394v1)|**[link](https://github.com/kaist-cvml-lab/DreamCatalyst)**|
+|**2024-07-16**|**Gaussian Splatting LK**|Liuyue Xie et.al.|[2407.11309v1](http://arxiv.org/abs/2407.11309v1)|null|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288v1](http://arxiv.org/abs/2407.11288v1)|null|
+|**2024-07-15**|**Stationary CT Imaging of Intracranial Hemorrhage with Diffusion Posterior Sampling Reconstruction**|Alejandro Lopez-Montes et.al.|[2407.11196v1](http://arxiv.org/abs/2407.11196v1)|null|
+|**2024-07-15**|**Integrating Amortized Inference with Diffusion Models for Learning Clean Distribution from Corrupted Images**|Yifei Wang et.al.|[2407.11162v1](http://arxiv.org/abs/2407.11162v1)|null|
+|**2024-07-15**|**Discrete generative diffusion models without stochastic differential equations: a tensor network approach**|Luke Causer et.al.|[2407.11133v1](http://arxiv.org/abs/2407.11133v1)|null|
+|**2024-07-15**|**SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation**|Sergey Skorik et.al.|[2407.11108v1](http://arxiv.org/abs/2407.11108v1)|null|
 |**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973v1](http://arxiv.org/abs/2407.10973v1)|null|
 |**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958v1](http://arxiv.org/abs/2407.10958v1)|null|
 |**2024-07-16**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v2](http://arxiv.org/abs/2407.10910v2)|**[link](https://github.com/explainableml/datadream)**|
@@ -4947,6 +4975,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Speckle-based 3D sub-diffraction imaging through a multimode fiber**|Zhouping Lyu et.al.|[2407.11796v1](http://arxiv.org/abs/2407.11796v1)|null|
+|**2024-07-16**|**Deconvolution with a Box**|Pedro Felzenszwalb et.al.|[2407.11685v1](http://arxiv.org/abs/2407.11685v1)|null|
+|**2024-07-16**|**Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations**|Yunya Gao et.al.|[2407.11381v1](http://arxiv.org/abs/2407.11381v1)|**[link](https://github.com/yunyagaotree/sam-adapter-for-refugee-dwelling-extraction)**|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288v1](http://arxiv.org/abs/2407.11288v1)|null|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|null|
 |**2024-07-15**|**Spectral Properties of Infinitely Smooth Kernel Matrices in the Single Cluster Limit, with Applications to Multivariate Super-Resolution**|Nuha Diab et.al.|[2407.10600v1](http://arxiv.org/abs/2407.10600v1)|null|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919v1](http://arxiv.org/abs/2407.09919v1)|**[link](https://github.com/shangwei5/st-avsr)**|
@@ -6035,6 +6068,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|null|
 |**2024-07-15**|**Backdoor Attacks against Image-to-Image Networks**|Wenbo Jiang et.al.|[2407.10445v1](http://arxiv.org/abs/2407.10445v1)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-12**|**Task-driven single-image super-resolution reconstruction of document scans**|Maciej Zyrek et.al.|[2407.08993v1](http://arxiv.org/abs/2407.08993v1)|null|
@@ -6698,6 +6732,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Haze-Aware Attention Network for Single-Image Dehazing**|Lihan Tong et.al.|[2407.11505v1](http://arxiv.org/abs/2407.11505v1)|null|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|null|
 |**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926v1](http://arxiv.org/abs/2407.10926v1)|null|
 |**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833v1](http://arxiv.org/abs/2407.10833v1)|null|
 |**2024-07-14**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172v1](http://arxiv.org/abs/2407.10172v1)|null|
@@ -7136,6 +7172,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**SlingBAG: Sliding ball adaptive growth algorithm with differentiable radiation enables super-efficient iterative 3D photoacoustic image reconstruction**|Shuang Li et.al.|[2407.11781v1](http://arxiv.org/abs/2407.11781v1)|null|
+|**2024-07-16**|**Cycle Contrastive Adversarial Learning for Unsupervised image Deraining**|Chen Zhao et.al.|[2407.11750v1](http://arxiv.org/abs/2407.11750v1)|null|
+|**2024-07-16**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700v1](http://arxiv.org/abs/2407.11700v1)|null|
+|**2024-07-16**|**Model Inversion Attacks Through Target-Specific Conditional Diffusion Models**|Ouxiang Li et.al.|[2407.11424v1](http://arxiv.org/abs/2407.11424v1)|null|
 |**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856v1](http://arxiv.org/abs/2407.10856v1)|null|
 |**2024-07-11**|**Semantic Feature Division Multiple Access for Multi-user Digital Interference Networks**|Shuai Ma et.al.|[2407.08424v1](http://arxiv.org/abs/2407.08424v1)|null|
 |**2024-07-10**|**Intensity-sensitive quality assessment of extended sources in astronomical images**|X. Li et.al.|[2407.07863v1](http://arxiv.org/abs/2407.07863v1)|null|
@@ -7837,6 +7877,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Novel Hybrid Integrated Pix2Pix and WGAN Model with Gradient Penalty for Binary Images Denoising**|Luca Tirel et.al.|[2407.11865v1](http://arxiv.org/abs/2407.11865v1)|null|
+|**2024-07-14**|**Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV**|Zhiwen Yang et.al.|[2407.11087v1](http://arxiv.org/abs/2407.11087v1)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509v1](http://arxiv.org/abs/2407.08509v1)|null|
 |**2024-07-11**|**ERD: Exponential Retinex decomposition based on weak space and hybrid nonconvex regularization and its denoising application**|Wenjing Lu et.al.|[2407.08498v1](http://arxiv.org/abs/2407.08498v1)|null|
