@@ -5061,7 +5061,7 @@
 |**2024-07-01**|**Broadband planar electromagnetic hyper-lens with uniform magnification in air**|Ran Sun et.al.|[2407.02532v1](http://arxiv.org/abs/2407.02532v1)|null|
 |**2024-07-04**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387v2](http://arxiv.org/abs/2407.02387v2)|**[link](https://github.com/rs-lsl/cssnet)**|
 |**2024-07-02**|**Efficient Stochastic Differential Equation for DEM Super Resolution with Void Filling**|Tongtong Zhang et.al.|[2407.01908v1](http://arxiv.org/abs/2407.01908v1)|null|
-|**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v1](http://arxiv.org/abs/2407.01519v1)|null|
+|**2024-07-19**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v2](http://arxiv.org/abs/2407.01519v2)|null|
 |**2024-07-02**|**Preserving Full Degradation Details for Blind Image Super-Resolution**|Hongda Liu et.al.|[2407.01299v2](http://arxiv.org/abs/2407.01299v2)|**[link](https://github.com/Chernobyllight/ReDSR)**|
 |**2024-07-10**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230v2](http://arxiv.org/abs/2407.01230v2)|null|
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
@@ -6805,7 +6805,7 @@
 |**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960v1](http://arxiv.org/abs/2407.01960v1)|null|
 |**2024-06-30**|**Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration**|Zenglin Shi et.al.|[2407.01636v1](http://arxiv.org/abs/2407.01636v1)|null|
 |**2024-07-01**|**Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing**|Bingliang Zhang et.al.|[2407.01521v1](http://arxiv.org/abs/2407.01521v1)|**[link](https://github.com/zhangbingliang2019/DAPS)**|
-|**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v1](http://arxiv.org/abs/2407.01519v1)|null|
+|**2024-07-19**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v2](http://arxiv.org/abs/2407.01519v2)|null|
 |**2024-07-01**|**Unrolling Plug-and-Play Gradient Graph Laplacian Regularizer for Image Restoration**|Jianghe Cai et.al.|[2407.01469v1](http://arxiv.org/abs/2407.01469v1)|null|
 |**2024-07-01**|**Blind Inversion using Latent Diffusion Priors**|Weimin Bai et.al.|[2407.01027v1](http://arxiv.org/abs/2407.01027v1)|null|
 |**2024-06-30**|**Instruct-IPT: All-in-One Image Processing Transformer via Weight Modulation**|Yuchuan Tian et.al.|[2407.00676v1](http://arxiv.org/abs/2407.00676v1)|**[link](https://github.com/huawei-noah/Pretrained-IPT)**|
