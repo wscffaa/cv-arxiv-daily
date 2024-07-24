@@ -34,7 +34,7 @@
 |**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703v1](http://arxiv.org/abs/2407.15703v1)|null|
 |**2024-07-22**|**Voltage mapping in subcellular nanodomains using electro-diffusion modeling**|Frédéric Paquin-Lefebvre et.al.|[2407.15697v1](http://arxiv.org/abs/2407.15697v1)|null|
 |**2024-07-23**|**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**|Xin Ma et.al.|[2407.15642v2](http://arxiv.org/abs/2407.15642v2)|**[link](https://github.com/maxin-cn/Cinemo)**|
-|**2024-07-22**|**A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control**|Karim Kadry et.al.|[2407.15631v1](http://arxiv.org/abs/2407.15631v1)|null|
+|**2024-07-23**|**A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control**|Karim Kadry et.al.|[2407.15631v2](http://arxiv.org/abs/2407.15631v2)|null|
 |**2024-07-22**|**StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation**|Nauman Riaz et.al.|[2407.15608v1](http://arxiv.org/abs/2407.15608v1)|null|
 |**2024-07-22**|**Discrete Flow Matching**|Itai Gat et.al.|[2407.15595v1](http://arxiv.org/abs/2407.15595v1)|null|
 |**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507v1](http://arxiv.org/abs/2407.15507v1)|null|
