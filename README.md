@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**RegionDrag: Fast Region-Based Image Editing with Diffusion Models**|Jingyi Lu et.al.|[2407.18247v1](http://arxiv.org/abs/2407.18247v1)|null|
+|**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245v1](http://arxiv.org/abs/2407.18245v1)|null|
+|**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
+|**2024-07-25**|**Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**|Jan Nikolas Morshuis et.al.|[2407.18026v1](http://arxiv.org/abs/2407.18026v1)|null|
+|**2024-07-25**|**Self-Supervision Improves Diffusion Models for Tabular Data Imputation**|Yixin Liu et.al.|[2407.18013v1](http://arxiv.org/abs/2407.18013v1)|**[link](https://github.com/yixinliu233/simpdm)**|
+|**2024-07-25**|**Lightweight Language-driven Grasp Detection using Conditional Consistency Model**|Nghia Nguyen et.al.|[2407.17967v1](http://arxiv.org/abs/2407.17967v1)|null|
+|**2024-07-25**|**ReCorD: Reasoning and Correcting Diffusion for HOI Generation**|Jian-Yu Jiang-Lin et.al.|[2407.17911v1](http://arxiv.org/abs/2407.17911v1)|null|
+|**2024-07-25**|**Amortized Posterior Sampling with Diffusion Prior Distillation**|Abbas Mammadov et.al.|[2407.17907v1](http://arxiv.org/abs/2407.17907v1)|null|
+|**2024-07-25**|**Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**|Xiaodan Xing et.al.|[2407.17882v1](http://arxiv.org/abs/2407.17882v1)|null|
+|**2024-07-25**|**DragText: Rethinking Text Embedding in Point-based Image Editing**|Gayoon Choi et.al.|[2407.17843v1](http://arxiv.org/abs/2407.17843v1)|null|
+|**2024-07-25**|**Mpox Detection Advanced: Rapid Epidemic Response Through Synthetic Data**|Yudara Kularathne et.al.|[2407.17762v1](http://arxiv.org/abs/2407.17762v1)|null|
+|**2024-07-25**|**Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics**|Naichen Shi et.al.|[2407.17720v1](http://arxiv.org/abs/2407.17720v1)|null|
+|**2024-07-24**|**Diffusion Models for Multi-Task Generative Modeling**|Changyou Chen et.al.|[2407.17571v1](http://arxiv.org/abs/2407.17571v1)|null|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470v1](http://arxiv.org/abs/2407.17470v1)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402v1](http://arxiv.org/abs/2407.17402v1)|null|
 |**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229v2](http://arxiv.org/abs/2407.17229v2)|null|
@@ -5100,6 +5113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046v1](http://arxiv.org/abs/2407.18046v1)|null|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986v1](http://arxiv.org/abs/2407.16986v1)|null|
 |**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965v1](http://arxiv.org/abs/2407.16965v1)|null|
 |**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232v1](http://arxiv.org/abs/2407.16232v1)|null|
@@ -6209,6 +6223,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046v1](http://arxiv.org/abs/2407.18046v1)|null|
 |**2024-07-23**|**Channel-Partitioned Windowed Attention And Frequency Learning for Single Image Super-Resolution**|Dinh Phu Tran et.al.|[2407.16232v1](http://arxiv.org/abs/2407.16232v1)|null|
 |**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329v1](http://arxiv.org/abs/2407.15329v1)|null|
 |**2024-07-20**|**A New Dataset and Framework for Real-World Blurred Images Super-Resolution**|Rui Qin et.al.|[2407.14880v1](http://arxiv.org/abs/2407.14880v1)|**[link](https://github.com/imalne/pbasr)**|
@@ -6883,6 +6898,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models**|Haoyu Chen et.al.|[2407.18035v1](http://arxiv.org/abs/2407.18035v1)|null|
 |**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204v1](http://arxiv.org/abs/2407.16204v1)|null|
 |**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125v1](http://arxiv.org/abs/2407.16125v1)|**[link](https://github.com/mlvlab/davi)**|
 |**2024-07-20**|**Deep Learning CT Image Restoration using System Blur and Noise Models**|Yijie Yuan et.al.|[2407.14983v1](http://arxiv.org/abs/2407.14983v1)|null|
@@ -7331,6 +7347,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement**|Shichen Qu et.al.|[2407.17705v1](http://arxiv.org/abs/2407.17705v1)|null|
+|**2024-07-24**|**Tackling the Problem of Distributional Shifts: Correcting Misspecified, High-Dimensional Data-Driven Priors for Inverse Problems**|Gabriel Missael Barco et.al.|[2407.17667v1](http://arxiv.org/abs/2407.17667v1)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402v1](http://arxiv.org/abs/2407.17402v1)|null|
 |**2024-07-24**|**SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams**|Liangyan Jiang et.al.|[2407.15708v2](http://arxiv.org/abs/2407.15708v2)|**[link](https://github.com/bupt-ai-cz/SwinSF)**|
 |**2024-07-22**|**Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models**|Feifan Zhang et.al.|[2407.15335v1](http://arxiv.org/abs/2407.15335v1)|null|
@@ -8046,6 +8064,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Learning Instance-Specific Parameters of Black-Box Models Using Differentiable Surrogates**|Arnisha Khondaker et.al.|[2407.17530v1](http://arxiv.org/abs/2407.17530v1)|null|
 |**2024-07-24**|**Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**|Sébastien Herbreteau et.al.|[2407.17399v1](http://arxiv.org/abs/2407.17399v1)|null|
 |**2024-07-23**|**Adaptive Extensions of Unbiased Risk Estimators for Unsupervised Magnetic Resonance Image Denoising**|Reeshad Khan et.al.|[2407.15799v2](http://arxiv.org/abs/2407.15799v2)|null|
 |**2024-07-19**|**Learning Firmly Nonexpansive Operators**|Kristian Bredies et.al.|[2407.14156v1](http://arxiv.org/abs/2407.14156v1)|null|
