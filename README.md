@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment**|Yuze Zheng et.al.|[2407.18854v1](http://arxiv.org/abs/2407.18854v1)|null|
+|**2024-07-26**|**Revision of calcium and scandium abundances in Am stars based on NLTE calculations and comparison with diffusion stellar evolution models**|L. I. Mashonkina et.al.|[2407.18736v1](http://arxiv.org/abs/2407.18736v1)|null|
+|**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658v1](http://arxiv.org/abs/2407.18658v1)|**[link](https://github.com/choidae1/robustify-t2i)**|
+|**2024-07-26**|**How To Segment in 3D Using 2D Models: Automated 3D Segmentation of Prostate Cancer Metastatic Lesions on PET Volumes Using Multi-Angle Maximum Intensity Projections and Diffusion Models**|Amirhosein Toosi et.al.|[2407.18555v1](http://arxiv.org/abs/2407.18555v1)|null|
+|**2024-07-26**|**Answerability Fields: Answerable Location Estimation via Diffusion Models**|Daichi Azuma et.al.|[2407.18497v1](http://arxiv.org/abs/2407.18497v1)|null|
+|**2024-07-26**|**Diffusion-Driven Semantic Communication for Generative Models with Bandwidth Constraints**|Lei Guo et.al.|[2407.18468v1](http://arxiv.org/abs/2407.18468v1)|null|
+|**2024-07-26**|**Lensless fiber endomicroscopic phase imaging with speckle-conditioned diffusion model**|Zhaoqing Chen et.al.|[2407.18456v1](http://arxiv.org/abs/2407.18456v1)|null|
+|**2024-07-25**|**Diffusion-based subsurface multiphysics monitoring and forecasting**|Xinquan Huang et.al.|[2407.18426v1](http://arxiv.org/abs/2407.18426v1)|null|
 |**2024-07-25**|**RegionDrag: Fast Region-Based Image Editing with Diffusion Models**|Jingyi Lu et.al.|[2407.18247v1](http://arxiv.org/abs/2407.18247v1)|null|
 |**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245v1](http://arxiv.org/abs/2407.18245v1)|null|
 |**2024-07-25**|**Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**|Roberto Di Via et.al.|[2407.18125v1](http://arxiv.org/abs/2407.18125v1)|null|
@@ -6898,6 +6906,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Dilated Strip Attention Network for Image Restoration**|Fangwei Hao et.al.|[2407.18613v1](http://arxiv.org/abs/2407.18613v1)|null|
 |**2024-07-25**|**RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models**|Haoyu Chen et.al.|[2407.18035v1](http://arxiv.org/abs/2407.18035v1)|null|
 |**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204v1](http://arxiv.org/abs/2407.16204v1)|null|
 |**2024-07-23**|**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems**|Sojin Lee et.al.|[2407.16125v1](http://arxiv.org/abs/2407.16125v1)|**[link](https://github.com/mlvlab/davi)**|
@@ -7347,6 +7356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Direct3γ PET: A Pipeline for Direct Three-gamma PET Image Reconstruction**|Youness Mellak et.al.|[2407.18337v1](http://arxiv.org/abs/2407.18337v1)|null|
 |**2024-07-25**|**ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement**|Shichen Qu et.al.|[2407.17705v1](http://arxiv.org/abs/2407.17705v1)|null|
 |**2024-07-24**|**Tackling the Problem of Distributional Shifts: Correcting Misspecified, High-Dimensional Data-Driven Priors for Inverse Problems**|Gabriel Missael Barco et.al.|[2407.17667v1](http://arxiv.org/abs/2407.17667v1)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402v1](http://arxiv.org/abs/2407.17402v1)|null|
@@ -8365,6 +8375,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625v1](http://arxiv.org/abs/2407.18625v1)|null|
 |**2024-07-24**|**Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model**|Lirui Zhao et.al.|[2407.16982v1](http://arxiv.org/abs/2407.16982v1)|null|
 |**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204v1](http://arxiv.org/abs/2407.16204v1)|null|
 |**2024-07-26**|**MxT: Mamba x Transformer for Image Inpainting**|Shuang Chen et.al.|[2407.16126v2](http://arxiv.org/abs/2407.16126v2)|null|
