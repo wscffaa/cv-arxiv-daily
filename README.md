@@ -32,7 +32,7 @@
 |**2024-08-02**|**CLIP4Sketch: Enhancing Sketch to Mugshot Matching through Dataset Augmentation using Diffusion Models**|Kushal Kumar Jain et.al.|[2408.01233v1](http://arxiv.org/abs/2408.01233v1)|null|
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014v1](http://arxiv.org/abs/2408.01014v1)|null|
 |**2024-08-02**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998v1](http://arxiv.org/abs/2408.00998v1)|null|
-|**2024-08-01**|**CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**|Caiwen Jiang et.al.|[2408.00938v1](http://arxiv.org/abs/2408.00938v1)|null|
+|**2024-08-05**|**CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**|Caiwen Jiang et.al.|[2408.00938v2](http://arxiv.org/abs/2408.00938v2)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766v1](http://arxiv.org/abs/2408.00766v1)|null|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|null|
 |**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735v1](http://arxiv.org/abs/2408.00735v1)|null|
@@ -47,7 +47,7 @@
 |**2024-08-01**|**ADBM: Adversarial diffusion bridge model for reliable adversarial purification**|Xiao Li et.al.|[2408.00315v1](http://arxiv.org/abs/2408.00315v1)|null|
 |**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286v1](http://arxiv.org/abs/2408.00286v1)|null|
 |**2024-08-01**|**Navigating Text-to-Image Generative Bias across Indic Languages**|Surbhi Mittal et.al.|[2408.00283v1](http://arxiv.org/abs/2408.00283v1)|null|
-|**2024-08-01**|**Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models**|Juntu Zhao et.al.|[2408.00230v1](http://arxiv.org/abs/2408.00230v1)|null|
+|**2024-08-05**|**Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models**|Juntu Zhao et.al.|[2408.00230v2](http://arxiv.org/abs/2408.00230v2)|null|
 |**2024-07-31**|**Hierarchical Conditioning of Diffusion Models Using Tree-of-Life for Studying Species Evolution**|Mridul Khurana et.al.|[2408.00160v1](http://arxiv.org/abs/2408.00160v1)|null|
 |**2024-07-31**|**Generative Learning of the Solution of Parametric Partial Differential Equations Using Guided Diffusion Models and Virtual Observations**|Han Gao et.al.|[2408.00157v1](http://arxiv.org/abs/2408.00157v1)|null|
 |**2024-07-31**|**WAS: Dataset and Methods for Artistic Text Segmentation**|Xudong Xie et.al.|[2408.00106v1](http://arxiv.org/abs/2408.00106v1)|null|
@@ -7459,7 +7459,7 @@
 |---|---|---|---|---|
 |**2024-08-02**|**3DPX: Progressive 2D-to-3D Oral Image Reconstruction with Hybrid MLP-CNN Networks**|Xiaoshuang Li et.al.|[2408.01292v1](http://arxiv.org/abs/2408.01292v1)|null|
 |**2024-08-02**|**Frame-filtered ghost imaging with a SPAD array used both as a multiple "bucket" detector and an imaging camera**|V. S. Starovoitov et.al.|[2408.01153v1](http://arxiv.org/abs/2408.01153v1)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v1](http://arxiv.org/abs/2408.00860v1)|null|
+|**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
 |**2024-08-01**|**Goal-Oriented Semantic Communication for Wireless Image Transmission via Stable Diffusion**|Nan Li et.al.|[2408.00428v1](http://arxiv.org/abs/2408.00428v1)|null|
 |**2024-07-31**|**A Plug-and-Play Method for Rare Human-Object Interactions Detection by Bridging Domain Gap**|Lijun Zhang et.al.|[2407.21438v1](http://arxiv.org/abs/2407.21438v1)|null|
 |**2024-07-30**|**S3PET: Semi-supervised Standard-dose PET Image Reconstruction via Dose-aware Token Swap**|Jiaqi Cui et.al.|[2407.20878v1](http://arxiv.org/abs/2407.20878v1)|null|
