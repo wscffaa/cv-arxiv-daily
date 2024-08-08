@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748v1](http://arxiv.org/abs/2408.03748v1)|**[link](https://github.com/lengmo1996/ECDM)**|
+|**2024-08-07**|**Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**|Markus Ditlev Sjøgren Olsen et.al.|[2408.03654v1](http://arxiv.org/abs/2408.03654v1)|null|
+|**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637v1](http://arxiv.org/abs/2408.03637v1)|null|
+|**2024-08-07**|**Dirichlet forms of diffusion processes on Thoma simplex**|Sergei Korotkikh et.al.|[2408.03553v1](http://arxiv.org/abs/2408.03553v1)|null|
+|**2024-08-06**|**Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**|Bruno Sauvalle et.al.|[2408.03433v1](http://arxiv.org/abs/2408.03433v1)|null|
+|**2024-08-06**|**Attacks and Defenses for Generative Diffusion Models: A Comprehensive Survey**|Vu Tuan Truong et.al.|[2408.03400v1](http://arxiv.org/abs/2408.03400v1)|null|
+|**2024-08-06**|**Adversarial Domain Adaptation for Cross-user Activity Recognition Using Diffusion-based Noise-centred Learning**|Xiaozhou Ye et.al.|[2408.03353v1](http://arxiv.org/abs/2408.03353v1)|null|
 |**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312v1](http://arxiv.org/abs/2408.03312v1)|null|
 |**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209v1](http://arxiv.org/abs/2408.03209v1)|null|
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
@@ -5219,6 +5226,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Underwater litter monitoring using consumer-grade aerial-aquatic speedy scanner (AASS) and deep learning based super-resolution reconstruction and detection network**|Fan Zhao et.al.|[2408.03564v1](http://arxiv.org/abs/2408.03564v1)|null|
+|**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559v1](http://arxiv.org/abs/2408.03559v1)|null|
 |**2024-08-06**|**SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention**|Shaoming Zheng et.al.|[2408.03194v1](http://arxiv.org/abs/2408.03194v1)|null|
 |**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843v1](http://arxiv.org/abs/2408.01843v1)|null|
 |**2024-08-03**|**Transformer for seismic image super-resolution**|Shiqi Dong et.al.|[2408.01695v1](http://arxiv.org/abs/2408.01695v1)|null|
@@ -7488,6 +7497,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Distillation Learning Guided by Image Reconstruction for One-Shot Medical Image Segmentation**|Feng Zhou et.al.|[2408.03616v1](http://arxiv.org/abs/2408.03616v1)|null|
+|**2024-08-07**|**Monitoring of Hermit Crabs Using drone-captured imagery and Deep Learning based Super-Resolution Reconstruction and Improved YOLOv8**|Fan Zhao et.al.|[2408.03559v1](http://arxiv.org/abs/2408.03559v1)|null|
+|**2024-08-07**|**A three-stage method for reconstructing multiple coefficients in coupled photoacoustic and diffuse optical imaging**|Yinxi Pan et.al.|[2408.03496v1](http://arxiv.org/abs/2408.03496v1)|null|
 |**2024-08-07**|**CHARA Near-Infrared Imaging of the Yellow Hypergiant Star  $ρ$  Cassiopeiae: Convection Cells and Circumstellar Envelope**|Narsireddy Anugu et.al.|[2408.02756v2](http://arxiv.org/abs/2408.02756v2)|null|
 |**2024-08-05**|**Scribble-Based Interactive Segmentation of Medical Hyperspectral Images**|Zhonghao Wang et.al.|[2408.02708v1](http://arxiv.org/abs/2408.02708v1)|null|
 |**2024-08-05**|**StoDIP: Efficient 3D MRF image reconstruction with deep image priors and stochastic iterations**|Perla Mayo et.al.|[2408.02367v1](http://arxiv.org/abs/2408.02367v1)|null|
@@ -8216,6 +8228,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563v1](http://arxiv.org/abs/2408.03563v1)|null|
+|**2024-08-06**|**Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**|Bruno Sauvalle et.al.|[2408.03433v1](http://arxiv.org/abs/2408.03433v1)|null|
 |**2024-07-29**|**An Adaptive Image-denoising Method Based on Jump Regression and Local Clustering**|Subhasish Basak et.al.|[2407.20210v1](http://arxiv.org/abs/2407.20210v1)|null|
 |**2024-07-29**|**Interpreting Low-level Vision Models with Causal Effect Maps**|Jinfan Hu et.al.|[2407.19789v1](http://arxiv.org/abs/2407.19789v1)|**[link](https://github.com/j-fhu/cem)**|
 |**2024-07-19**|**GroupCDL: Interpretable Denoising and Compressed Sensing MRI via Learned Group-Sparsity and Circulant Attention**|Nikola Janjusevic et.al.|[2407.18967v1](http://arxiv.org/abs/2407.18967v1)|null|
@@ -8520,6 +8534,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563v1](http://arxiv.org/abs/2408.03563v1)|null|
 |**2024-08-05**|**Dense Feature Interaction Network for Image Inpainting Localization**|Ye Yao et.al.|[2408.02191v1](http://arxiv.org/abs/2408.02191v1)|null|
 |**2024-08-04**|**View-consistent Object Removal in Radiance Fields**|Yiren Lu et.al.|[2408.02100v1](http://arxiv.org/abs/2408.02100v1)|null|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784v1](http://arxiv.org/abs/2407.20784v1)|null|
@@ -8738,6 +8753,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Unlocking Exocentric Video-Language Data for Egocentric Video Representation Learning**|Zi-Yi Dou et.al.|[2408.03567v1](http://arxiv.org/abs/2408.03567v1)|null|
+|**2024-08-07**|**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods**|Onkar Susladkar et.al.|[2408.03558v1](http://arxiv.org/abs/2408.03558v1)|**[link](https://github.com/onkarsus13/d2styler)**|
+|**2024-08-06**|**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning**|Zhi Chen et.al.|[2408.03355v1](http://arxiv.org/abs/2408.03355v1)|null|
 |**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209v1](http://arxiv.org/abs/2408.03209v1)|null|
 |**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827v1](http://arxiv.org/abs/2408.01827v1)|null|
 |**2024-07-31**|**Combining audio control and style transfer using latent diffusion**|Nils Demerlé et.al.|[2408.00196v1](http://arxiv.org/abs/2408.00196v1)|null|
