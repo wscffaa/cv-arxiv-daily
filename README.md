@@ -72,7 +72,7 @@
 |**2024-08-01**|**ADBM: Adversarial diffusion bridge model for reliable adversarial purification**|Xiao Li et.al.|[2408.00315v1](http://arxiv.org/abs/2408.00315v1)|null|
 |**2024-08-01**|**Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection**|Jiacheng Deng et.al.|[2408.00286v1](http://arxiv.org/abs/2408.00286v1)|null|
 |**2024-08-01**|**Navigating Text-to-Image Generative Bias across Indic Languages**|Surbhi Mittal et.al.|[2408.00283v1](http://arxiv.org/abs/2408.00283v1)|null|
-|**2024-08-05**|**Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models**|Juntu Zhao et.al.|[2408.00230v2](http://arxiv.org/abs/2408.00230v2)|null|
+|**2024-08-05**|**Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models**|Juntu Zhao et.al.|[2408.00230v2](http://arxiv.org/abs/2408.00230v2)|**[link](https://github.com/rossonerizhao/iced_coke)**|
 |**2024-07-31**|**Hierarchical Conditioning of Diffusion Models Using Tree-of-Life for Studying Species Evolution**|Mridul Khurana et.al.|[2408.00160v1](http://arxiv.org/abs/2408.00160v1)|null|
 |**2024-07-31**|**Generative Learning of the Solution of Parametric Partial Differential Equations Using Guided Diffusion Models and Virtual Observations**|Han Gao et.al.|[2408.00157v1](http://arxiv.org/abs/2408.00157v1)|null|
 |**2024-07-31**|**WAS: Dataset and Methods for Artistic Text Segmentation**|Xudong Xie et.al.|[2408.00106v1](http://arxiv.org/abs/2408.00106v1)|null|
