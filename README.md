@@ -8828,7 +8828,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-13**|**Content and Style Aware Audio-Driven Facial Animation**|Qingju Liu et.al.|[2408.07005v1](http://arxiv.org/abs/2408.07005v1)|null|
+|**2024-08-14**|**Content and Style Aware Audio-Driven Facial Animation**|Qingju Liu et.al.|[2408.07005v2](http://arxiv.org/abs/2408.07005v2)|null|
 |**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975v1](http://arxiv.org/abs/2408.06975v1)|null|
 |**2024-08-12**|**An Analysis for Image-to-Image Translation and Style Transfer**|Xiaoming Yu et.al.|[2408.06000v1](http://arxiv.org/abs/2408.06000v1)|null|
 |**2024-08-11**|**Egocentric Vision Language Planning**|Zhirui Fang et.al.|[2408.05802v1](http://arxiv.org/abs/2408.05802v1)|null|
