@@ -47,7 +47,7 @@
 |**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646v1](http://arxiv.org/abs/2408.06646v1)|null|
 |**2024-08-13**|**ViMo: Generating Motions from Casual Videos**|Liangdong Qiu et.al.|[2408.06614v1](http://arxiv.org/abs/2408.06614v1)|null|
 |**2024-08-12**|**Synthetic Photography Detection: A Visual Guidance for Identifying Synthetic Images Created by AI**|Melanie Mathys et.al.|[2408.06398v1](http://arxiv.org/abs/2408.06398v1)|null|
-|**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292v1](http://arxiv.org/abs/2408.06292v1)|**[link](https://github.com/sakanaai/ai-scientist)**|
+|**2024-08-15**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292v2](http://arxiv.org/abs/2408.06292v2)|**[link](https://github.com/sakanaai/ai-scientist)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244v1](http://arxiv.org/abs/2408.06244v1)|null|
 |**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157v1](http://arxiv.org/abs/2408.06157v1)|null|
 |**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145v1](http://arxiv.org/abs/2408.06145v1)|null|
