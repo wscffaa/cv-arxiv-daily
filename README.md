@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306v1](http://arxiv.org/abs/2408.08306v1)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252v1](http://arxiv.org/abs/2408.08252v1)|null|
+|**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184v1](http://arxiv.org/abs/2408.08184v1)|null|
+|**2024-08-15**|**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation**|Seon-Hoon Kim et.al.|[2408.07947v1](http://arxiv.org/abs/2408.07947v1)|null|
+|**2024-08-14**|**Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies**|Peiran Wang et.al.|[2408.07728v1](http://arxiv.org/abs/2408.07728v1)|null|
 |**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636v1](http://arxiv.org/abs/2408.07636v1)|null|
 |**2024-08-14**|**Anisotropic Diffusion Model of Communication in 2D Biofilm**|Yanahan Paramalingam et.al.|[2408.07626v1](http://arxiv.org/abs/2408.07626v1)|null|
 |**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541v1](http://arxiv.org/abs/2408.07541v1)|null|
@@ -6973,7 +6978,7 @@
 |**2024-06-13**|**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior**|Baiang Li et.al.|[2406.09389v1](http://arxiv.org/abs/2406.09389v1)|**[link](https://github.com/ztMotaLee/Sagiri)**|
 |**2024-05-24**|**Towards Global Optimal Visual In-Context Learning Prompt Selection**|Chengming Xu et.al.|[2405.15279v1](http://arxiv.org/abs/2405.15279v1)|null|
 |**2024-04-25**|**Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation**|Huiyu Zhai et.al.|[2404.16685v1](http://arxiv.org/abs/2404.16685v1)|**[link](https://github.com/alexyangxx/mcfnet)**|
-|**2024-08-15**|**Dual-Camera Smooth Zoom on Mobile Phones**|Renlong Wu et.al.|[2404.04908v2](http://arxiv.org/abs/2404.04908v2)|null|
+|**2024-08-15**|**Dual-Camera Smooth Zoom on Mobile Phones**|Renlong Wu et.al.|[2404.04908v2](http://arxiv.org/abs/2404.04908v2)|**[link](https://github.com/zcsrenlongz/zoomgs)**|
 |**2024-07-13**|**Taming Lookup Tables for Efficient Image Retouching**|Sidi Yang et.al.|[2403.19238v2](http://arxiv.org/abs/2403.19238v2)|**[link](https://github.com/stephen0808/icelut)**|
 |**2024-03-27**|**Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D**|Mukund Varma T et.al.|[2403.18922v1](http://arxiv.org/abs/2403.18922v1)|null|
 |**2024-03-04**|**Exploring Interactive Color Palettes for Abstraction-Driven Exploratory Image Colorization**|Xinyu Shi et.al.|[2403.02202v1](http://arxiv.org/abs/2403.02202v1)|null|
@@ -7121,6 +7126,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149v1](http://arxiv.org/abs/2408.08149v1)|null|
+|**2024-08-15**|**HAIR: Hypernetworks-based All-in-One Image Restoration**|Jin Cao et.al.|[2408.08091v1](http://arxiv.org/abs/2408.08091v1)|**[link](https://github.com/toummHus/HAIR)**|
 |**2024-08-13**|**Review Learning: Advancing All-in-One Ultra-High-Definition Image Restoration Training Method**|Xin Su et.al.|[2408.06709v1](http://arxiv.org/abs/2408.06709v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-10**|**Greedy randomized block Kaczmarz method for matrix equation AXB=C and its applications in color image restoration**|Wenli Wang et.al.|[2408.05444v1](http://arxiv.org/abs/2408.05444v1)|null|
@@ -8317,6 +8324,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Learned denoising with simulated and experimental low-dose CT data**|Maximilian B. Kiss et.al.|[2408.08115v1](http://arxiv.org/abs/2408.08115v1)|null|
+|**2024-08-15**|**Deep Joint Denoising and Detection for Enhanced Intracellular Particle Analysis**|Yao Yao et.al.|[2408.07903v1](http://arxiv.org/abs/2408.07903v1)|null|
+|**2024-07-31**|**Learned Single-Pass Multitasking Perceptual Graphics for Immersive Displays**|Doğa Yılmaz et.al.|[2408.07836v1](http://arxiv.org/abs/2408.07836v1)|null|
 |**2024-08-12**|**Image Denoising Using Green Channel Prior**|Zhaoming Kong et.al.|[2408.05923v1](http://arxiv.org/abs/2408.05923v1)|null|
 |**2024-08-11**|**TC-KANRecon: High-Quality and Accelerated MRI Reconstruction via Adaptive KAN Mechanisms and Intelligent Feature Scaling**|Ruiquan Ge et.al.|[2408.05705v1](http://arxiv.org/abs/2408.05705v1)|**[link](https://github.com/lcbkmm/tc-kanrecon)**|
 |**2024-08-11**|**Evaluating BM3D and NBNet: A Comprehensive Study of Image Denoising Across Multiple Datasets**|Ghazal Kaviani et.al.|[2408.05697v1](http://arxiv.org/abs/2408.05697v1)|null|
@@ -8626,6 +8636,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
 |**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563v1](http://arxiv.org/abs/2408.03563v1)|null|
