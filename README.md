@@ -26,6 +26,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198v1](http://arxiv.org/abs/2408.10198v1)|null|
+|**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|null|
+|**2024-08-19**|**Multi-layer diffusion model of photovoltaic installations**|Tomasz Weron et.al.|[2408.09904v1](http://arxiv.org/abs/2408.09904v1)|null|
+|**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896v1](http://arxiv.org/abs/2408.09896v1)|**[link](https://github.com/ran1812/utgdiff)**|
+|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822v1](http://arxiv.org/abs/2408.09822v1)|null|
+|**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800v1](http://arxiv.org/abs/2408.09800v1)|null|
+|**2024-08-19**|**Unsupervised Composable Representations for Audio**|Giovanni Bindi et.al.|[2408.09792v1](http://arxiv.org/abs/2408.09792v1)|null|
+|**2024-08-19**|**Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network**|Randy Harsuko et.al.|[2408.09767v1](http://arxiv.org/abs/2408.09767v1)|null|
+|**2024-08-19**|**Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering**|Ruofan Liang et.al.|[2408.09702v1](http://arxiv.org/abs/2408.09702v1)|null|
+|**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650v1](http://arxiv.org/abs/2408.09650v1)|**[link](https://github.com/eashanadhikarla/expomamba)**|
+|**2024-08-18**|**Moonshine: Distilling Game Content Generators into Steerable Generative Models**|Yuhe Nie et.al.|[2408.09594v1](http://arxiv.org/abs/2408.09594v1)|null|
+|**2024-08-18**|**Beyond Local Views: Global State Inference with Diffusion Models for Cooperative Multi-Agent Reinforcement Learning**|Zhiwei Xu et.al.|[2408.09501v1](http://arxiv.org/abs/2408.09501v1)|null|
+|**2024-08-18**|**FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model**|Ziyu Yao et.al.|[2408.09384v1](http://arxiv.org/abs/2408.09384v1)|null|
+|**2024-08-18**|**Unpaired Volumetric Harmonization of Brain MRI with Conditional Latent Diffusion**|Mengqi Wu et.al.|[2408.09315v1](http://arxiv.org/abs/2408.09315v1)|null|
+|**2024-08-17**|**RepControlNet: ControlNet Reparameterization**|Zhaoli Deng et.al.|[2408.09240v1](http://arxiv.org/abs/2408.09240v1)|null|
+|**2024-08-17**|**Are CLIP features all you need for Universal Synthetic Image Origin Attribution?**|Dario Cioni et.al.|[2408.09153v1](http://arxiv.org/abs/2408.09153v1)|**[link](https://github.com/ciodar/universalattribution)**|
+|**2024-08-17**|**Realistic Extreme Image Rescaling via Generative Latent Space Learning**|Ce Wang et.al.|[2408.09151v1](http://arxiv.org/abs/2408.09151v1)|**[link](https://github.com/wwangcece/lsbir)**|
+|**2024-08-17**|**Barbie: Text to Barbie-Style 3D Avatars**|Xiaokun Sun et.al.|[2408.09126v1](http://arxiv.org/abs/2408.09126v1)|null|
+|**2024-08-17**|**Fragment-Masked Molecular Optimization**|Kun Li et.al.|[2408.09106v1](http://arxiv.org/abs/2408.09106v1)|null|
+|**2024-08-16**|**Efficient Autoregressive Audio Modeling via Next-Scale Prediction**|Kai Qiu et.al.|[2408.09027v1](http://arxiv.org/abs/2408.09027v1)|null|
+|**2024-08-16**|**Classifier-Free Guidance is a Predictor-Corrector**|Arwen Bradley et.al.|[2408.09000v1](http://arxiv.org/abs/2408.09000v1)|null|
 |**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822v1](http://arxiv.org/abs/2408.08822v1)|null|
 |**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751v1](http://arxiv.org/abs/2408.08751v1)|null|
 |**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650v1](http://arxiv.org/abs/2408.08650v1)|null|
@@ -5308,6 +5329,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
+|**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912v1](http://arxiv.org/abs/2408.09912v1)|**[link](https://github.com/alik033/lit-net)**|
+|**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845v1](http://arxiv.org/abs/2408.09845v1)|null|
+|**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
+|**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362v1](http://arxiv.org/abs/2408.09362v1)|null|
+|**2024-08-17**|**Discovery of Limb-Brightening in the Parsec-Scale Jet of NGC 315 through Global VLBI Observations and Its Implications for Jet Models**|Jongho Park et.al.|[2408.09069v1](http://arxiv.org/abs/2408.09069v1)|null|
+|**2024-08-16**|**AI-assisted super-resolution cosmological simulations IV: An emulator for deterministic realizations**|Xiaowen Zhang et.al.|[2408.09051v1](http://arxiv.org/abs/2408.09051v1)|null|
 |**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-16**|**Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**|Kyungryun Lee et.al.|[2408.08616v1](http://arxiv.org/abs/2408.08616v1)|**[link](https://github.com/hvcl/inr-diffusion)**|
@@ -6459,6 +6487,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
+|**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
 |**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665v1](http://arxiv.org/abs/2408.08665v1)|null|
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
@@ -7150,6 +7180,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Multi-Scale Representation Learning for Image Restoration with State-Space Model**|Yuhong He et.al.|[2408.10145v1](http://arxiv.org/abs/2408.10145v1)|null|
+|**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912v1](http://arxiv.org/abs/2408.09912v1)|**[link](https://github.com/alik033/lit-net)**|
+|**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241v1](http://arxiv.org/abs/2408.09241v1)|**[link](https://github.com/linxin0/rscp2gan)**|
 |**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149v1](http://arxiv.org/abs/2408.08149v1)|null|
 |**2024-08-15**|**HAIR: Hypernetworks-based All-in-One Image Restoration**|Jin Cao et.al.|[2408.08091v1](http://arxiv.org/abs/2408.08091v1)|**[link](https://github.com/toummHus/HAIR)**|
 |**2024-08-13**|**Review Learning: Advancing All-in-One Ultra-High-Definition Image Restoration Training Method**|Xin Su et.al.|[2408.06709v1](http://arxiv.org/abs/2408.06709v1)|null|
@@ -8349,6 +8382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241v1](http://arxiv.org/abs/2408.09241v1)|**[link](https://github.com/linxin0/rscp2gan)**|
 |**2024-08-16**|**A lifted Bregman strategy for training unfolded proximal neural network Gaussian denoisers**|Xiaoyu Wang et.al.|[2408.08742v1](http://arxiv.org/abs/2408.08742v1)|null|
 |**2024-08-15**|**Learned denoising with simulated and experimental low-dose CT data**|Maximilian B. Kiss et.al.|[2408.08115v1](http://arxiv.org/abs/2408.08115v1)|null|
 |**2024-08-15**|**Deep Joint Denoising and Detection for Enhanced Intracellular Particle Analysis**|Yao Yao et.al.|[2408.07903v1](http://arxiv.org/abs/2408.07903v1)|null|
@@ -8662,6 +8696,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v1](http://arxiv.org/abs/2408.08984v1)|null|
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
