@@ -5321,7 +5321,7 @@
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968v1](http://arxiv.org/abs/2408.06968v1)|null|
 |**2024-08-12**|**Palantir: Towards Efficient Super Resolution for Ultra-high-definition Live Streaming**|Xinqi Jin et.al.|[2408.06152v1](http://arxiv.org/abs/2408.06152v1)|null|
 |**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145v1](http://arxiv.org/abs/2408.06145v1)|**[link](https://github.com/johnromanelis/spvd)**|
-|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|**[link](https://github.com/chrisdud0257/ssl)**|
+|**2024-08-19**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v2](http://arxiv.org/abs/2408.05713v2)|**[link](https://github.com/chrisdud0257/ssl)**|
 |**2024-08-10**|**Content-decoupled Contrastive Learning-based Implicit Degradation Modeling for Blind Image Super-Resolution**|Jiang Yuan et.al.|[2408.05440v1](http://arxiv.org/abs/2408.05440v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
@@ -6464,7 +6464,7 @@
 |**2024-08-15**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v2](http://arxiv.org/abs/2408.07516v2)|null|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484v1](http://arxiv.org/abs/2408.07484v1)|**[link](https://github.com/sisrformer/grformer)**|
 |**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476v1](http://arxiv.org/abs/2408.07476v1)|**[link](https://github.com/learninghx/tad-sr)**|
-|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v1](http://arxiv.org/abs/2408.05713v1)|**[link](https://github.com/chrisdud0257/ssl)**|
+|**2024-08-19**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713v2](http://arxiv.org/abs/2408.05713v2)|**[link](https://github.com/chrisdud0257/ssl)**|
 |**2024-08-10**|**Content-decoupled Contrastive Learning-based Implicit Degradation Modeling for Blind Image Super-Resolution**|Jiang Yuan et.al.|[2408.05440v1](http://arxiv.org/abs/2408.05440v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158v1](http://arxiv.org/abs/2408.04158v1)|null|
