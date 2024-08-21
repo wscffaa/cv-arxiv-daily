@@ -26,6 +26,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039v1](http://arxiv.org/abs/2408.11039v1)|null|
+|**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001v1](http://arxiv.org/abs/2408.11001v1)|null|
+|**2024-08-20**|**GreediRIS: Scalable Influence Maximization using Distributed Streaming Maximum Cover**|Reet Barik et.al.|[2408.10982v1](http://arxiv.org/abs/2408.10982v1)|null|
+|**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958v1](http://arxiv.org/abs/2408.10958v1)|null|
+|**2024-08-20**|**Large Point-to-Gaussian Model for Image-to-3D Generation**|Longfei Lu et.al.|[2408.10935v1](http://arxiv.org/abs/2408.10935v1)|null|
+|**2024-08-20**|**A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse**|Zhongliang Guo et.al.|[2408.10901v1](http://arxiv.org/abs/2408.10901v1)|null|
+|**2024-08-19**|**Harmonizing Attention: Training-free Texture-aware Geometry Transfer**|Eito Ikuta et.al.|[2408.10846v1](http://arxiv.org/abs/2408.10846v1)|null|
+|**2024-08-20**|**Hedging in Jump Diffusion Model with Transaction Costs**|Hamidreza Maleki Almani et.al.|[2408.10785v1](http://arxiv.org/abs/2408.10785v1)|null|
+|**2024-08-20**|**Generating Synthetic Fair Syntax-agnostic Data by Learning and Distilling Fair Representation**|Md Fahim Sikder et.al.|[2408.10755v1](http://arxiv.org/abs/2408.10755v1)|null|
+|**2024-08-20**|**Iterative Window Mean Filter: Thwarting Diffusion-based Adversarial Purification**|Hanrui Wang et.al.|[2408.10673v1](http://arxiv.org/abs/2408.10673v1)|null|
+|**2024-08-20**|**TextMastero: Mastering High-Quality Scene Text Editing in Diverse Languages and Styles**|Tong Wang et.al.|[2408.10623v1](http://arxiv.org/abs/2408.10623v1)|null|
+|**2024-08-20**|**Novel Change Detection Framework in Remote Sensing Imagery Using Diffusion Models and Structural Similarity Index (SSIM)**|Andrew Kiruluta et.al.|[2408.10619v1](http://arxiv.org/abs/2408.10619v1)|null|
+|**2024-08-20**|**Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models**|Cong Wan et.al.|[2408.10571v1](http://arxiv.org/abs/2408.10571v1)|null|
+|**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543v1](http://arxiv.org/abs/2408.10543v1)|null|
+|**2024-08-20**|**Generative Diffusion Models for High Dimensional Channel Estimation**|Xingyu Zhou et.al.|[2408.10501v1](http://arxiv.org/abs/2408.10501v1)|null|
+|**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283v1](http://arxiv.org/abs/2408.10283v1)|null|
+|**2024-08-16**|**Diffusion Model for Planning: A Systematic Literature Review**|Toshihide Ubukata et.al.|[2408.10266v1](http://arxiv.org/abs/2408.10266v1)|null|
 |**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198v1](http://arxiv.org/abs/2408.10198v1)|null|
 |**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|null|
 |**2024-08-19**|**Multi-layer diffusion model of photovoltaic installations**|Tomasz Weron et.al.|[2408.09904v1](http://arxiv.org/abs/2408.09904v1)|null|
@@ -5329,6 +5346,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854v1](http://arxiv.org/abs/2408.10854v1)|null|
+|**2024-08-19**|**Webcam-based Pupil Diameter Prediction Benefits from Upscaling**|Vijul Shah et.al.|[2408.10397v1](http://arxiv.org/abs/2408.10397v1)|null|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
 |**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912v1](http://arxiv.org/abs/2408.09912v1)|**[link](https://github.com/alik033/lit-net)**|
 |**2024-08-19**|**Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space**|Ruikun Li et.al.|[2408.09845v1](http://arxiv.org/abs/2408.09845v1)|null|
@@ -7647,6 +7666,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Theoretical Foundation of Black Hole Image Reconstruction using PRIMO**|Dimitrios Psaltis et.al.|[2408.10322v1](http://arxiv.org/abs/2408.10322v1)|null|
 |**2024-08-16**|**Learning A Low-Level Vision Generalist via Visual Task Prompt**|Xiangyu Chen et.al.|[2408.08601v1](http://arxiv.org/abs/2408.08601v1)|**[link](https://github.com/chxy95/genlv)**|
 |**2024-08-13**|**Efficient Deep Model-Based Optoacoustic Image Reconstruction**|Christoph Dehner et.al.|[2408.07109v1](http://arxiv.org/abs/2408.07109v1)|null|
 |**2024-08-12**|**ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**|Qiaoxin Li et.al.|[2408.06163v1](http://arxiv.org/abs/2408.06163v1)|null|
@@ -8382,6 +8402,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283v1](http://arxiv.org/abs/2408.10283v1)|null|
 |**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241v1](http://arxiv.org/abs/2408.09241v1)|**[link](https://github.com/linxin0/rscp2gan)**|
 |**2024-08-16**|**A lifted Bregman strategy for training unfolded proximal neural network Gaussian denoisers**|Xiaoyu Wang et.al.|[2408.08742v1](http://arxiv.org/abs/2408.08742v1)|null|
 |**2024-08-15**|**Learned denoising with simulated and experimental low-dose CT data**|Maximilian B. Kiss et.al.|[2408.08115v1](http://arxiv.org/abs/2408.08115v1)|null|
@@ -8919,6 +8940,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer**|Yuexing Han et.al.|[2408.10533v1](http://arxiv.org/abs/2408.10533v1)|null|
 |**2024-08-16**|**TEXTOC: Text-driven Object-Centric Style Transfer**|Jihun Park et.al.|[2408.08461v1](http://arxiv.org/abs/2408.08461v1)|null|
 |**2024-08-14**|**Content and Style Aware Audio-Driven Facial Animation**|Qingju Liu et.al.|[2408.07005v2](http://arxiv.org/abs/2408.07005v2)|null|
 |**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975v1](http://arxiv.org/abs/2408.06975v1)|null|
