@@ -26,6 +26,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810v1](http://arxiv.org/abs/2408.11810v1)|null|
+|**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785v1](http://arxiv.org/abs/2408.11785v1)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
+|**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744v1](http://arxiv.org/abs/2408.11744v1)|null|
+|**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721v1](http://arxiv.org/abs/2408.11721v1)|null|
+|**2024-08-21**|**FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting**|Liyao Jiang et.al.|[2408.11706v1](http://arxiv.org/abs/2408.11706v1)|null|
+|**2024-08-21**|**Moderate deviation principles for a reaction diffusion model in non-equilibrium**|Linjie Zhao et.al.|[2408.11633v1](http://arxiv.org/abs/2408.11633v1)|null|
+|**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485v1](http://arxiv.org/abs/2408.11485v1)|null|
+|**2024-08-21**|**Latent Feature and Attention Dual Erasure Attack against Multi-View Diffusion Models for 3D Assets Protection**|Jingwei Sun et.al.|[2408.11408v1](http://arxiv.org/abs/2408.11408v1)|null|
+|**2024-08-21**|**Video Diffusion Models are Strong Video Inpainter**|Minhyeok Lee et.al.|[2408.11402v1](http://arxiv.org/abs/2408.11402v1)|null|
+|**2024-08-21**|**Generative AI based Secure Wireless Sensing for ISAC Networks**|Jiacheng Wang et.al.|[2408.11398v1](http://arxiv.org/abs/2408.11398v1)|null|
+|**2024-08-21**|**Gender Bias Evaluation in Text-to-image Generation: A Survey**|Yankun Wu et.al.|[2408.11358v1](http://arxiv.org/abs/2408.11358v1)|null|
+|**2024-08-21**|**HumanCoser: Layered 3D Human Generation via Semantic-Aware Diffusion Model**|Yi Wang et.al.|[2408.11357v1](http://arxiv.org/abs/2408.11357v1)|null|
+|**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305v1](http://arxiv.org/abs/2408.11305v1)|**[link](https://github.com/xiangyu-mm/unifashion)**|
+|**2024-08-21**|**Taming Generative Diffusion for Universal Blind Image Restoration**|Siwei Tu et.al.|[2408.11287v1](http://arxiv.org/abs/2408.11287v1)|null|
+|**2024-08-18**|**DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization**|Pucheng Dang et.al.|[2408.11071v1](http://arxiv.org/abs/2408.11071v1)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039v1](http://arxiv.org/abs/2408.11039v1)|null|
 |**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001v1](http://arxiv.org/abs/2408.11001v1)|null|
 |**2024-08-20**|**GreediRIS: Scalable Influence Maximization using Distributed Streaming Maximum Cover**|Reet Barik et.al.|[2408.10982v1](http://arxiv.org/abs/2408.10982v1)|null|
@@ -5346,6 +5361,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
+|**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654v1](http://arxiv.org/abs/2408.11654v1)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854v1](http://arxiv.org/abs/2408.10854v1)|null|
 |**2024-08-19**|**Webcam-based Pupil Diameter Prediction Benefits from Upscaling**|Vijul Shah et.al.|[2408.10397v1](http://arxiv.org/abs/2408.10397v1)|null|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
@@ -6506,6 +6523,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|null|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-16**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v1](http://arxiv.org/abs/2408.08736v1)|null|
@@ -7155,6 +7173,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**ControlCol: Controllability in Automatic Speaker Video Colorization**|Rory Ward et.al.|[2408.11711v1](http://arxiv.org/abs/2408.11711v1)|null|
 |**2024-07-14**|**Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures**|Jiaqi He et.al.|[2407.10181v1](http://arxiv.org/abs/2407.10181v1)|**[link](https://github.com/real-hjq/ms-swd)**|
 |**2024-05-09**|**LatentColorization: Latent Diffusion-Based Speaker Video Colorization**|Rory Ward et.al.|[2405.05707v1](http://arxiv.org/abs/2405.05707v1)|null|
 |**2024-04-09**|**ColorMNet: A Memory-based Deep Spatial-Temporal Feature Propagation Network for Video Colorization**|Yixin Yang et.al.|[2404.06251v1](http://arxiv.org/abs/2404.06251v1)|**[link](https://github.com/yyang181/colormnet)**|
@@ -7199,6 +7218,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480v1](http://arxiv.org/abs/2408.11480v1)|**[link](https://github.com/qmoq/oapt)**|
+|**2024-08-21**|**Taming Generative Diffusion for Universal Blind Image Restoration**|Siwei Tu et.al.|[2408.11287v1](http://arxiv.org/abs/2408.11287v1)|null|
 |**2024-08-19**|**Multi-Scale Representation Learning for Image Restoration with State-Space Model**|Yuhong He et.al.|[2408.10145v1](http://arxiv.org/abs/2408.10145v1)|null|
 |**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912v1](http://arxiv.org/abs/2408.09912v1)|**[link](https://github.com/alik033/lit-net)**|
 |**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241v1](http://arxiv.org/abs/2408.09241v1)|**[link](https://github.com/linxin0/rscp2gan)**|
@@ -8940,6 +8961,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744v1](http://arxiv.org/abs/2408.11744v1)|null|
 |**2024-08-21**|**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer**|Yuexing Han et.al.|[2408.10533v2](http://arxiv.org/abs/2408.10533v2)|null|
 |**2024-08-16**|**TEXTOC: Text-driven Object-Centric Style Transfer**|Jihun Park et.al.|[2408.08461v1](http://arxiv.org/abs/2408.08461v1)|null|
 |**2024-08-14**|**Content and Style Aware Audio-Driven Facial Animation**|Qingju Liu et.al.|[2408.07005v2](http://arxiv.org/abs/2408.07005v2)|null|
