@@ -71,7 +71,7 @@
 |**2024-08-16**|**Sampling effects on Lasso estimation of drift functions in high-dimensional diffusion processes**|Chiara Amorino et.al.|[2408.08638v1](http://arxiv.org/abs/2408.08638v1)|null|
 |**2024-08-16**|**Generative Dataset Distillation Based on Diffusion Model**|Duo Su et.al.|[2408.08610v1](http://arxiv.org/abs/2408.08610v1)|**[link](https://github.com/guang000/banko)**|
 |**2024-08-16**|**RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**|Xiucheng Wang et.al.|[2408.08593v1](http://arxiv.org/abs/2408.08593v1)|**[link](https://github.com/unic-lab/radiodiff)**|
-|**2024-08-16**|**A New Chinese Landscape Paintings Generation Model based on Stable Diffusion using DreamBooth**|Yujia Gu et.al.|[2408.08561v1](http://arxiv.org/abs/2408.08561v1)|null|
+|**2024-08-21**|**A New Chinese Landscape Paintings Generation Model based on Stable Diffusion using DreamBooth**|Yujia Gu et.al.|[2408.08561v2](http://arxiv.org/abs/2408.08561v2)|null|
 |**2024-08-16**|**Linear combinations of latents in diffusion models: interpolation and beyond**|Erik Bodin et.al.|[2408.08558v1](http://arxiv.org/abs/2408.08558v1)|null|
 |**2024-08-16**|**Inverse design with conditional cascaded diffusion models**|Milad Habibi et.al.|[2408.08526v1](http://arxiv.org/abs/2408.08526v1)|null|
 |**2024-08-16**|**Visual-Friendly Concept Protection via Selective Adversarial Perturbations**|Xiaoyue Mi et.al.|[2408.08518v1](http://arxiv.org/abs/2408.08518v1)|**[link](https://github.com/KululuMi/VCPro)**|
