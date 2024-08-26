@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
+|**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239v1](http://arxiv.org/abs/2408.13239v1)|null|
+|**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092v1](http://arxiv.org/abs/2408.13092v1)|null|
+|**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[2408.13061v1](http://arxiv.org/abs/2408.13061v1)|null|
+|**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055v1](http://arxiv.org/abs/2408.13055v1)|null|
+|**2024-08-23**|**Adaptive complexity of log-concave sampling**|Huanjian Zhou et.al.|[2408.13045v1](http://arxiv.org/abs/2408.13045v1)|null|
+|**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005v1](http://arxiv.org/abs/2408.13005v1)|null|
+|**2024-08-23**|**Controllable Financial Market Generation with Diffusion Guided Meta Agent**|Yu-Hao Huang et.al.|[2408.12991v1](http://arxiv.org/abs/2408.12991v1)|null|
+|**2024-08-23**|**When Diffusion MRI Meets Diffusion Model: A Novel Deep Generative Model for Diffusion MRI Generation**|Xi Zhu et.al.|[2408.12897v1](http://arxiv.org/abs/2408.12897v1)|null|
+|**2024-08-22**|**Generating Realistic X-ray Scattering Images Using Stable Diffusion and Human-in-the-loop Annotations**|Zhuowen Zhao et.al.|[2408.12720v1](http://arxiv.org/abs/2408.12720v1)|**[link](https://github.com/mlexchange/mlex_scientific_txt2image)**|
+|**2024-08-22**|**Generative Diffusion Model-based Downscaling of Observed Sea Surface Height over Kuroshio Extension since 2000**|Qiuchang Han et.al.|[2408.12632v1](http://arxiv.org/abs/2408.12632v1)|null|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590v1](http://arxiv.org/abs/2408.12590v1)|null|
 |**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561v1](http://arxiv.org/abs/2408.12561v1)|**[link](https://github.com/lujiazho/ssprop)**|
 |**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528v1](http://arxiv.org/abs/2408.12528v1)|null|
@@ -5378,6 +5389,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225v1](http://arxiv.org/abs/2408.13225v1)|null|
+|**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065v1](http://arxiv.org/abs/2408.13065v1)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654v1](http://arxiv.org/abs/2408.11654v1)|null|
@@ -7707,6 +7720,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[2408.13061v1](http://arxiv.org/abs/2408.13061v1)|null|
+|**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
+|**2024-08-08**|**Semantic Communication based on Large Language Model for Underwater Image Transmission**|Weilong Chen et.al.|[2408.12616v1](http://arxiv.org/abs/2408.12616v1)|null|
 |**2024-08-21**|**Time-Evolution Images of the Hypergiant RW Cephei During the Re-brightening Phase Following the Great Dimming**|Narsireddy Anugu et.al.|[2408.11906v1](http://arxiv.org/abs/2408.11906v1)|null|
 |**2024-08-21**|**HDN:Hybrid Deep-learning and Non-line-of-sight Reconstruction Framework for Photoacoustic Brain Imaging**|Pengcheng Wan et.al.|[2408.11885v1](http://arxiv.org/abs/2408.11885v1)|null|
 |**2024-08-19**|**Theoretical Foundation of Black Hole Image Reconstruction using PRIMO**|Dimitrios Psaltis et.al.|[2408.10322v1](http://arxiv.org/abs/2408.10322v1)|null|
@@ -8445,6 +8461,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**A gradient system based on anisotropic monochrome image processing with orientation auto-adjustment**|Harbir Antil et.al.|[2408.12847v1](http://arxiv.org/abs/2408.12847v1)|null|
 |**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283v1](http://arxiv.org/abs/2408.10283v1)|null|
 |**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241v1](http://arxiv.org/abs/2408.09241v1)|**[link](https://github.com/linxin0/rscp2gan)**|
 |**2024-08-16**|**A lifted Bregman strategy for training unfolded proximal neural network Gaussian denoisers**|Xiaoyu Wang et.al.|[2408.08742v1](http://arxiv.org/abs/2408.08742v1)|null|
