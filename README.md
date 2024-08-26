@@ -7744,7 +7744,7 @@
 |**2024-07-16**|**Cycle Contrastive Adversarial Learning for Unsupervised image Deraining**|Chen Zhao et.al.|[2407.11750v1](http://arxiv.org/abs/2407.11750v1)|null|
 |**2024-07-17**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700v2](http://arxiv.org/abs/2407.11700v2)|null|
 |**2024-07-16**|**Model Inversion Attacks Through Target-Specific Conditional Diffusion Models**|Ouxiang Li et.al.|[2407.11424v1](http://arxiv.org/abs/2407.11424v1)|null|
-|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856v1](http://arxiv.org/abs/2407.10856v1)|null|
+|**2024-08-23**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856v2](http://arxiv.org/abs/2407.10856v2)|null|
 |**2024-07-11**|**Semantic Feature Division Multiple Access for Multi-user Digital Interference Networks**|Shuai Ma et.al.|[2407.08424v1](http://arxiv.org/abs/2407.08424v1)|null|
 |**2024-07-10**|**Intensity-sensitive quality assessment of extended sources in astronomical images**|X. Li et.al.|[2407.07863v1](http://arxiv.org/abs/2407.07863v1)|**[link](https://github.com/egbdfX/Intensity-sensitive-IQAs)**|
 |**2024-07-10**|**Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction**|Yumin Kim et.al.|[2407.07517v1](http://arxiv.org/abs/2407.07517v1)|null|
