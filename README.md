@@ -26,6 +26,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340v1](http://arxiv.org/abs/2408.14340v1)|**[link](https://github.com/nicolaus625/fm4music)**|
+|**2024-08-26**|**TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation**|Anh-Dzung Doan et.al.|[2408.14227v1](http://arxiv.org/abs/2408.14227v1)|null|
+|**2024-08-26**|**MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement**|Xu He et.al.|[2408.14211v1](http://arxiv.org/abs/2408.14211v1)|null|
+|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176v1](http://arxiv.org/abs/2408.14176v1)|null|
+|**2024-08-26**|**Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models**|Chaohua Shi et.al.|[2408.14135v1](http://arxiv.org/abs/2408.14135v1)|null|
+|**2024-08-26**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028v1](http://arxiv.org/abs/2408.14028v1)|null|
+|**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang et.al.|[2408.14016v1](http://arxiv.org/abs/2408.14016v1)|null|
+|**2024-08-25**|**SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2408.13893v1](http://arxiv.org/abs/2408.13893v1)|null|
+|**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
+|**2024-08-25**|**Draw Like an Artist: Complex Scene Generation with Diffusion Model via Composition, Painting, and Retouching**|Minghao Liu et.al.|[2408.13858v1](http://arxiv.org/abs/2408.13858v1)|null|
+|**2024-08-25**|**Bring the Power of Diffusion Model to Defect Detection**|Xuyi Yu et.al.|[2408.13845v1](http://arxiv.org/abs/2408.13845v1)|null|
+|**2024-08-25**|**3D-VirtFusion: Synthetic 3D Data Augmentation through Generative Diffusion Models and Controllable Editing**|Shichao Dong et.al.|[2408.13788v1](http://arxiv.org/abs/2408.13788v1)|null|
+|**2024-08-25**|**Guided and Fused: Efficient Frozen CLIP-ViT with Feature Guidance and Multi-Stage Feature Fusion for Generalizable Deepfake Detection**|Yingjian Chen et.al.|[2408.13697v1](http://arxiv.org/abs/2408.13697v1)|null|
+|**2024-08-24**|**GenCA: A Text-conditioned Generative Model for Realistic and Drivable Codec Avatars**|Keqiang Sun et.al.|[2408.13674v1](http://arxiv.org/abs/2408.13674v1)|null|
+|**2024-08-24**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623v1](http://arxiv.org/abs/2408.13623v1)|null|
+|**2024-08-24**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509v1](http://arxiv.org/abs/2408.13509v1)|null|
+|**2024-08-24**|**Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model**|Chen Rao et.al.|[2408.13459v1](http://arxiv.org/abs/2408.13459v1)|null|
+|**2024-08-24**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423v1](http://arxiv.org/abs/2408.13423v1)|null|
+|**2024-08-24**|**TVG: A Training-free Transition Video Generation Method with Diffusion Models**|Rui Zhang et.al.|[2408.13413v1](http://arxiv.org/abs/2408.13413v1)|null|
+|**2024-08-23**|**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing**|Yangyang Xu et.al.|[2408.13395v1](http://arxiv.org/abs/2408.13395v1)|null|
+|**2024-08-23**|**Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing**|Zitao Shuai et.al.|[2408.13335v1](http://arxiv.org/abs/2408.13335v1)|null|
 |**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256v1](http://arxiv.org/abs/2408.13256v1)|null|
 |**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239v1](http://arxiv.org/abs/2408.13239v1)|null|
 |**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092v1](http://arxiv.org/abs/2408.13092v1)|null|
@@ -5389,6 +5410,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244v1](http://arxiv.org/abs/2408.14244v1)|null|
+|**2024-08-26**|**Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning**|Meng Zhang et.al.|[2408.14232v1](http://arxiv.org/abs/2408.14232v1)|null|
+|**2024-08-25**|**Particle-Filtering-based Latent Diffusion for Inverse Problems**|Amir Nazemi et.al.|[2408.13868v1](http://arxiv.org/abs/2408.13868v1)|null|
+|**2024-08-25**|**FreqINR: Frequency Consistency for Implicit Neural Representation with Adaptive DCT Frequency Loss**|Meiyi Wei et.al.|[2408.13716v1](http://arxiv.org/abs/2408.13716v1)|null|
 |**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225v1](http://arxiv.org/abs/2408.13225v1)|null|
 |**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065v1](http://arxiv.org/abs/2408.13065v1)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
@@ -6983,6 +7008,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244v1](http://arxiv.org/abs/2408.14244v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
 |**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986v1](http://arxiv.org/abs/2407.16986v1)|null|
 |**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965v1](http://arxiv.org/abs/2407.16965v1)|**[link](https://github.com/fcongrui/3dattgan)**|
@@ -7720,6 +7746,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Rate-Distortion-Perception Controllable Joint Source-Channel Coding for High-Fidelity Generative Communications**|Kailin Tan et.al.|[2408.14127v1](http://arxiv.org/abs/2408.14127v1)|null|
+|**2024-08-26**|**Cross-sectional imaging of speed-of-sound distribution using photoacoustic reversal beacons**|Yang Wang et.al.|[2408.13975v1](http://arxiv.org/abs/2408.13975v1)|null|
+|**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782v1](http://arxiv.org/abs/2408.13782v1)|null|
 |**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[2408.13061v1](http://arxiv.org/abs/2408.13061v1)|null|
 |**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976v1](http://arxiv.org/abs/2408.12976v1)|null|
 |**2024-08-26**|**Semantic Communication based on Large Language Model for Underwater Image Transmission**|Weilong Chen et.al.|[2408.12616v2](http://arxiv.org/abs/2408.12616v2)|null|
@@ -9000,6 +9029,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-25**|**Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems**|Mohammad Hossein Amini et.al.|[2408.13950v1](http://arxiv.org/abs/2408.13950v1)|null|
+|**2024-08-24**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623v1](http://arxiv.org/abs/2408.13623v1)|null|
+|**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508v1](http://arxiv.org/abs/2408.13508v1)|null|
 |**2024-08-22**|**Query-Efficient Video Adversarial Attack with Stylized Logo**|Duoxun Tang et.al.|[2408.12099v1](http://arxiv.org/abs/2408.12099v1)|null|
 |**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744v1](http://arxiv.org/abs/2408.11744v1)|null|
 |**2024-08-21**|**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer**|Yuexing Han et.al.|[2408.10533v2](http://arxiv.org/abs/2408.10533v2)|null|
