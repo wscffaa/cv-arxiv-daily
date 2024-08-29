@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995v1](http://arxiv.org/abs/2408.15995v1)|null|
+|**2024-08-28**|**Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**|Shengyuan Zhang et.al.|[2408.15991v1](http://arxiv.org/abs/2408.15991v1)|**[link](https://github.com/syzhang0805/disback)**|
+|**2024-08-28**|**Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones**|Carlos Plou et.al.|[2408.15899v1](http://arxiv.org/abs/2408.15899v1)|null|
+|**2024-08-28**|**Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation**|Reid Graves et.al.|[2408.15898v1](http://arxiv.org/abs/2408.15898v1)|null|
+|**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890v1](http://arxiv.org/abs/2408.15890v1)|null|
+|**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868v1](http://arxiv.org/abs/2408.15868v1)|null|
+|**2024-08-28**|**Defending Text-to-image Diffusion Models: Surprising Efficacy of Textual Perturbations Against Backdoor Attacks**|Oscar Chew et.al.|[2408.15721v1](http://arxiv.org/abs/2408.15721v1)|null|
+|**2024-08-28**|**Synthetic Forehead-creases Biometric Generation for Reliable User Verification**|Abhishek Tandon et.al.|[2408.15693v1](http://arxiv.org/abs/2408.15693v1)|null|
+|**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660v1](http://arxiv.org/abs/2408.15660v1)|**[link](https://github.com/aimagelab/mad)**|
+|**2024-08-28**|**Grand canonical generative diffusion model for crystalline phases and grain boundaries**|Bo Lei et.al.|[2408.15601v1](http://arxiv.org/abs/2408.15601v1)|null|
+|**2024-08-28**|**MODULI: Unlocking Preference Generalization via Diffusion Models for Offline Multi-Objective Reinforcement Learning**|Yifu Yuan et.al.|[2408.15501v1](http://arxiv.org/abs/2408.15501v1)|null|
+|**2024-08-28**|**On the implementation of linear finite element method for nonlocal diffusion model over 2D domain**|Zuoqiang Shi et.al.|[2408.15472v1](http://arxiv.org/abs/2408.15472v1)|null|
+|**2024-08-28**|**Hand1000: Generating Realistic Hands from Text with Only 1,000 Images**|Haozhuo Zhang et.al.|[2408.15461v1](http://arxiv.org/abs/2408.15461v1)|null|
+|**2024-08-27**|**Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution**|Marcelo dos Santos et.al.|[2408.15386v1](http://arxiv.org/abs/2408.15386v1)|**[link](https://github.com/marcelowds/fasr)**|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241v1](http://arxiv.org/abs/2408.15241v1)|null|
 |**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239v1](http://arxiv.org/abs/2408.15239v1)|null|
 |**2024-08-27**|**Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials**|Santosh Chhetri et.al.|[2408.15157v1](http://arxiv.org/abs/2408.15157v1)|null|
@@ -60,7 +74,7 @@
 |**2024-08-25**|**Guided and Fused: Efficient Frozen CLIP-ViT with Feature Guidance and Multi-Stage Feature Fusion for Generalizable Deepfake Detection**|Yingjian Chen et.al.|[2408.13697v1](http://arxiv.org/abs/2408.13697v1)|null|
 |**2024-08-24**|**GenCA: A Text-conditioned Generative Model for Realistic and Drivable Codec Avatars**|Keqiang Sun et.al.|[2408.13674v1](http://arxiv.org/abs/2408.13674v1)|null|
 |**2024-08-27**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623v2](http://arxiv.org/abs/2408.13623v2)|null|
-|**2024-08-28**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509v2](http://arxiv.org/abs/2408.13509v2)|null|
+|**2024-08-28**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509v2](http://arxiv.org/abs/2408.13509v2)|**[link](https://github.com/yinyjin/dualanodiff)**|
 |**2024-08-24**|**Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model**|Chen Rao et.al.|[2408.13459v1](http://arxiv.org/abs/2408.13459v1)|null|
 |**2024-08-27**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423v2](http://arxiv.org/abs/2408.13423v2)|null|
 |**2024-08-24**|**TVG: A Training-free Transition Video Generation Method with Diffusion Models**|Rui Zhang et.al.|[2408.13413v1](http://arxiv.org/abs/2408.13413v1)|null|
@@ -5429,6 +5443,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution**|Marcelo dos Santos et.al.|[2408.15386v1](http://arxiv.org/abs/2408.15386v1)|**[link](https://github.com/marcelowds/fasr)**|
+|**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283v1](http://arxiv.org/abs/2408.15283v1)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
 |**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143v1](http://arxiv.org/abs/2408.15143v1)|null|
 |**2024-08-27**|**Enhancing License Plate Super-Resolution: A Layout-Aware and Character-Driven Approach**|Valfride Nascimento et.al.|[2408.15103v1](http://arxiv.org/abs/2408.15103v1)|**[link](https://github.com/valfride/lpsr-lacd)**|
@@ -5439,7 +5455,7 @@
 |**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225v1](http://arxiv.org/abs/2408.13225v1)|null|
 |**2024-08-23**|**SIMPLE: Simultaneous Multi-Plane Self-Supervised Learning for Isotropic MRI Restoration from Anisotropic Data**|Rotem Benisty et.al.|[2408.13065v1](http://arxiv.org/abs/2408.13065v1)|null|
 |**2024-08-22**|**A Unified Plug-and-Play Algorithm with Projected Landweber Operator for Split Convex Feasibility Problems**|Shuchang Zhang et.al.|[2408.12100v1](http://arxiv.org/abs/2408.12100v1)|null|
-|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|**[link](https://github.com/renyulin-f/mambacsr)**|
 |**2024-08-21**|**Quantum super-resolution microscopy by photon statistics and structured light**|Fabio Picariello et.al.|[2408.11654v1](http://arxiv.org/abs/2408.11654v1)|null|
 |**2024-08-22**|**Phase-Based Approaches for Rapid Construction of Magnetic Fields in NV Magnetometry**|Prabhat Anand et.al.|[2408.11069v2](http://arxiv.org/abs/2408.11069v2)|null|
 |**2024-08-20**|**MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling**|Zili Liu et.al.|[2408.10854v1](http://arxiv.org/abs/2408.10854v1)|null|
@@ -6602,8 +6618,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283v1](http://arxiv.org/abs/2408.15283v1)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218v1](http://arxiv.org/abs/2408.15218v1)|null|
-|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|null|
+|**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758v1](http://arxiv.org/abs/2408.11758v1)|**[link](https://github.com/renyulin-f/mambacsr)**|
 |**2024-08-19**|**ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer**|Alik Pramanick et.al.|[2408.09940v1](http://arxiv.org/abs/2408.09940v1)|**[link](https://github.com/alik033/ml-craist)**|
 |**2024-08-19**|**Implicit Grid Convolution for Multi-Scale Image Super-Resolution**|Dongheon Lee et.al.|[2408.09674v1](http://arxiv.org/abs/2408.09674v1)|**[link](https://github.com/dslisleedh/IGConv)**|
 |**2024-08-25**|**Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution**|Tianyi Xu et.al.|[2408.08736v2](http://arxiv.org/abs/2408.08736v2)|**[link](https://github.com/Tillyhere/TADT)**|
@@ -7299,6 +7316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994v1](http://arxiv.org/abs/2408.15994v1)|null|
 |**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143v1](http://arxiv.org/abs/2408.15143v1)|null|
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418v1](http://arxiv.org/abs/2408.12418v1)|**[link](https://github.com/vita-epfl/code)**|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480v1](http://arxiv.org/abs/2408.11480v1)|**[link](https://github.com/qmoq/oapt)**|
@@ -7770,6 +7788,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639v1](http://arxiv.org/abs/2408.15639v1)|null|
+|**2024-08-22**|**3D Photon Counting CT Image Super-Resolution Using Conditional Diffusion Model**|Chuang Niu et.al.|[2408.15283v1](http://arxiv.org/abs/2408.15283v1)|null|
 |**2024-08-27**|**Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**|Qiaoxin Li et.al.|[2408.14754v1](http://arxiv.org/abs/2408.14754v1)|null|
 |**2024-08-26**|**Rate-Distortion-Perception Controllable Joint Source-Channel Coding for High-Fidelity Generative Communications**|Kailin Tan et.al.|[2408.14127v1](http://arxiv.org/abs/2408.14127v1)|null|
 |**2024-08-26**|**Cross-sectional imaging of speed-of-sound distribution using photoacoustic reversal beacons**|Yang Wang et.al.|[2408.13975v1](http://arxiv.org/abs/2408.13975v1)|null|
@@ -8515,6 +8535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946v1](http://arxiv.org/abs/2408.15946v1)|null|
 |**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143v1](http://arxiv.org/abs/2408.15143v1)|null|
 |**2024-08-23**|**A gradient system based on anisotropic monochrome image processing with orientation auto-adjustment**|Harbir Antil et.al.|[2408.12847v1](http://arxiv.org/abs/2408.12847v1)|null|
 |**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283v1](http://arxiv.org/abs/2408.10283v1)|null|
@@ -9096,7 +9117,7 @@
 |**2024-07-02**|**Change My Frame: Reframing in the Wild in r/ChangeMyView**|Arturo Martínez Peguero et.al.|[2407.02637v1](http://arxiv.org/abs/2407.02637v1)|null|
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424v1](http://arxiv.org/abs/2407.02424v1)|null|
 |**2024-07-01**|**StyleShot: A Snapshot on Any Style**|Junyao Gao et.al.|[2407.01414v1](http://arxiv.org/abs/2407.01414v1)|**[link](https://github.com/open-mmlab/StyleShot)**|
-|**2024-06-30**|**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2407.00788v1](http://arxiv.org/abs/2407.00788v1)|null|
+|**2024-06-30**|**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2407.00788v1](http://arxiv.org/abs/2407.00788v1)|**[link](https://github.com/instantx-research/instantstyle-plus)**|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790v1](http://arxiv.org/abs/2406.18790v1)|null|
 |**2024-06-05**|**Dream-in-Style: Text-to-3D Generation using Stylized Score Distillation**|Hubert Kompanowski et.al.|[2406.18581v1](http://arxiv.org/abs/2406.18581v1)|null|
 |**2024-06-21**|**TinyStyler: Efficient Few-Shot Text Style Transfer with Authorship Embeddings**|Zachary Horvitz et.al.|[2406.15586v1](http://arxiv.org/abs/2406.15586v1)|null|
