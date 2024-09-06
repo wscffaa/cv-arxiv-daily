@@ -9187,7 +9187,7 @@
 |**2024-09-03**|**Pureformer-VC: Non-parallel One-Shot Voice Conversion with Pure Transformer Blocks and Triplet Discriminative Training**|Wenhan Yao et.al.|[2409.01668v1](http://arxiv.org/abs/2409.01668v1)|null|
 |**2024-09-01**|**Style Transfer: From Stitching to Neural Networks**|Xinhe Xu et.al.|[2409.00606v1](http://arxiv.org/abs/2409.00606v1)|null|
 |**2024-08-31**|**PS-StyleGAN: Illustrative Portrait Sketching using Attention-Based Style Adaptation**|Kushal Kumar Jain et.al.|[2409.00345v1](http://arxiv.org/abs/2409.00345v1)|null|
-|**2024-08-19**|**Integrating Latent Variable and Auto-Regressive Models for Goal-directed Molecule Generation**|Amina Mollaysa et.al.|[2409.00046v1](http://arxiv.org/abs/2409.00046v1)|null|
+|**2024-09-05**|**Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation**|Heath Arthur-Loui et.al.|[2409.00046v2](http://arxiv.org/abs/2409.00046v2)|null|
 |**2024-09-04**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v2](http://arxiv.org/abs/2408.16766v2)|null|
 |**2024-08-27**|**T-FAKE: Synthesizing Thermal Images for Facial Landmarking**|Philipp Flotho et.al.|[2408.15127v1](http://arxiv.org/abs/2408.15127v1)|**[link](https://github.com/phflot/tfake)**|
 |**2024-08-25**|**Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems**|Mohammad Hossein Amini et.al.|[2408.13950v1](http://arxiv.org/abs/2408.13950v1)|null|
