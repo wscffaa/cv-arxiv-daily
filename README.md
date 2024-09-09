@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429v1](http://arxiv.org/abs/2409.04429v1)|null|
+|**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424v1](http://arxiv.org/abs/2409.04424v1)|null|
+|**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339v1](http://arxiv.org/abs/2409.04339v1)|null|
+|**2024-09-06**|**Random effects estimation in a fractional diffusion model based on continuous observations**|Nesrine Chebli et.al.|[2409.04331v1](http://arxiv.org/abs/2409.04331v1)|null|
+|**2024-09-06**|**Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids**|Harish Srinivasan et.al.|[2409.04199v1](http://arxiv.org/abs/2409.04199v1)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196v1](http://arxiv.org/abs/2409.04196v1)|null|
+|**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060v1](http://arxiv.org/abs/2409.04060v1)|null|
+|**2024-09-06**|**One-Shot Diffusion Mimicker for Handwritten Text Generation**|Gang Dai et.al.|[2409.04004v1](http://arxiv.org/abs/2409.04004v1)|**[link](https://github.com/dailenson/one-dm)**|
+|**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003v1](http://arxiv.org/abs/2409.04003v1)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
+|**2024-09-05**|**Data-Efficient Generation for Dataset Distillation**|Zhe Li et.al.|[2409.03929v1](http://arxiv.org/abs/2409.03929v1)|null|
+|**2024-09-05**|**Generating High Dimensional User-Specific Wireless Channels using Diffusion Models**|Taekyun Lee et.al.|[2409.03924v1](http://arxiv.org/abs/2409.03924v1)|null|
+|**2024-09-05**|**Neural Entropy**|Akhil Premkumar et.al.|[2409.03817v1](http://arxiv.org/abs/2409.03817v1)|null|
+|**2024-09-04**|**Protecting Activity Sensing Data Privacy Using Hierarchical Information Dissociation**|Guangjing Wang et.al.|[2409.03796v1](http://arxiv.org/abs/2409.03796v1)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745v1](http://arxiv.org/abs/2409.03745v1)|null|
 |**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644v1](http://arxiv.org/abs/2409.03644v1)|null|
@@ -5526,6 +5539,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
+|**2024-09-06**|**Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable Spatial-Mode Sorter**|Itay Ozer et.al.|[2409.04323v1](http://arxiv.org/abs/2409.04323v1)|null|
+|**2024-09-06**|**EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution**|Xi Su et.al.|[2409.04050v1](http://arxiv.org/abs/2409.04050v1)|null|
 |**2024-09-05**|**Use of triplet loss for facial restoration in low-resolution images**|Sebastian Pulgar et.al.|[2409.03530v1](http://arxiv.org/abs/2409.03530v1)|null|
 |**2024-09-05**|**LMLT: Low-to-high Multi-Level Vision Transformer for Image Super-Resolution**|Jeongsoo Kim et.al.|[2409.03516v1](http://arxiv.org/abs/2409.03516v1)|**[link](https://github.com/jwgdmkj/lmlt)**|
 |**2024-09-05**|**Raw Speech Enhancement with Deep State Space Modeling**|Yan Ru Pei et.al.|[2409.03377v1](http://arxiv.org/abs/2409.03377v1)|**[link](https://github.com/Brainchip-Inc/aTENNuate)**|
@@ -6721,6 +6737,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution**|Xi Su et.al.|[2409.04050v1](http://arxiv.org/abs/2409.04050v1)|null|
 |**2024-09-05**|**LMLT: Low-to-high Multi-Level Vision Transformer for Image Super-Resolution**|Jeongsoo Kim et.al.|[2409.03516v1](http://arxiv.org/abs/2409.03516v1)|**[link](https://github.com/jwgdmkj/lmlt)**|
 |**2024-09-05**|**Perceptual-Distortion Balanced Image Super-Resolution is a Multi-Objective Optimization Problem**|Qiwen Zhu et.al.|[2409.03179v1](http://arxiv.org/abs/2409.03179v1)|**[link](https://github.com/ZhuKeven/MOBOSR)**|
 |**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574v1](http://arxiv.org/abs/2409.02574v1)|null|
@@ -7426,6 +7443,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
 |**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455v1](http://arxiv.org/abs/2409.03455v1)|null|
 |**2024-09-05**|**Multiple weather images restoration using the task transformer and adaptive mixup strategy**|Yang Wen et.al.|[2409.03249v1](http://arxiv.org/abs/2409.03249v1)|null|
 |**2024-09-05**|**Perceptual-Distortion Balanced Image Super-Resolution is a Multi-Objective Optimization Problem**|Qiwen Zhu et.al.|[2409.03179v1](http://arxiv.org/abs/2409.03179v1)|**[link](https://github.com/ZhuKeven/MOBOSR)**|
@@ -7909,6 +7927,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)**|Shen Zhao et.al.|[2409.04353v1](http://arxiv.org/abs/2409.04353v1)|null|
 |**2024-09-04**|**Fast and Accurate Collimator-Detector Response Compensation in High-Energy SPECT Imaging with 1D Convolutions and Rotations**|Lucas Polson et.al.|[2409.03100v1](http://arxiv.org/abs/2409.03100v1)|null|
 |**2024-09-04**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979v1](http://arxiv.org/abs/2409.02979v1)|null|
 |**2024-09-04**|**MaDis-Stereo: Enhanced Stereo Matching via Distilled Masked Image Modeling**|Jihye Ahn et.al.|[2409.02846v1](http://arxiv.org/abs/2409.02846v1)|null|
@@ -8986,6 +9005,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
 |**2024-08-16**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v1](http://arxiv.org/abs/2408.08984v1)|**[link](https://github.com/quaife/FDV_Data)**|
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
