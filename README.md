@@ -26,6 +26,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798v1](http://arxiv.org/abs/2409.05798v1)|null|
+|**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784v1](http://arxiv.org/abs/2409.05784v1)|null|
+|**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730v1](http://arxiv.org/abs/2409.05730v1)|null|
+|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701v1](http://arxiv.org/abs/2409.05701v1)|null|
+|**2024-09-09**|**Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for Unlearning in Diffusion Models**|Aakash Sen Sharma et.al.|[2409.05668v1](http://arxiv.org/abs/2409.05668v1)|null|
+|**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622v1](http://arxiv.org/abs/2409.05622v1)|null|
+|**2024-09-09**|**CipherDM: Secure Three-Party Inference for Diffusion Model Sampling**|Xin Zhao et.al.|[2409.05414v1](http://arxiv.org/abs/2409.05414v1)|null|
+|**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399v1](http://arxiv.org/abs/2409.05399v1)|null|
+|**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294v1](http://arxiv.org/abs/2409.05294v1)|null|
+|**2024-09-08**|**Nuclear transparencies with a two step process of the  $A(e,e'π^+)$  reactions**|Tae Keun Choi et.al.|[2409.05129v1](http://arxiv.org/abs/2409.05129v1)|null|
+|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033v1](http://arxiv.org/abs/2409.05033v1)|null|
+|**2024-09-07**|**Plug-and-Hide: Provable and Adjustable Diffusion Generative Steganography**|Jiahao Zhu et.al.|[2409.04878v1](http://arxiv.org/abs/2409.04878v1)|null|
+|**2024-09-07**|**Reward-Directed Score-Based Diffusion Models via q-Learning**|Xuefeng Gao et.al.|[2409.04832v1](http://arxiv.org/abs/2409.04832v1)|null|
+|**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801v1](http://arxiv.org/abs/2409.04801v1)|null|
+|**2024-09-07**|**Training-Free Style Consistent Image Synthesis with Condition and Mask Guidance in E-Commerce**|Guandong Li et.al.|[2409.04750v1](http://arxiv.org/abs/2409.04750v1)|null|
+|**2024-09-06**|**Thinking Outside the BBox: Unconstrained Generative Object Compositing**|Gemma Canet Tarrés et.al.|[2409.04559v1](http://arxiv.org/abs/2409.04559v1)|null|
+|**2024-09-06**|**Diff-INR: Generative Regularization for Electrical Impedance Tomography**|Bowen Tong et.al.|[2409.04494v1](http://arxiv.org/abs/2409.04494v1)|null|
 |**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429v1](http://arxiv.org/abs/2409.04429v1)|null|
 |**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424v1](http://arxiv.org/abs/2409.04424v1)|null|
 |**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339v1](http://arxiv.org/abs/2409.04339v1)|null|
@@ -5539,6 +5556,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-07**|**Single-snapshot machine learning for turbulence super resolution**|Kai Fukami et.al.|[2409.04923v1](http://arxiv.org/abs/2409.04923v1)|null|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
 |**2024-09-06**|**Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable Spatial-Mode Sorter**|Itay Ozer et.al.|[2409.04323v1](http://arxiv.org/abs/2409.04323v1)|null|
 |**2024-09-06**|**EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution**|Xi Su et.al.|[2409.04050v1](http://arxiv.org/abs/2409.04050v1)|null|
@@ -7288,6 +7306,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-08**|**Image color consistency in datasets: the Smooth-TPS3D method**|Ismael Benito-Altamirano et.al.|[2409.05159v1](http://arxiv.org/abs/2409.05159v1)|null|
 |**2024-08-19**|**PolypDB: A Curated Multi-Center Dataset for Development of AI Algorithms in Colonoscopy**|Debesh Jha et.al.|[2409.00045v1](http://arxiv.org/abs/2409.00045v1)|null|
 |**2024-08-08**|**MultiColor: Image Colorization by Learning from Multiple Color Spaces**|Xiangcheng Du et.al.|[2408.04172v1](http://arxiv.org/abs/2408.04172v1)|null|
 |**2024-06-16**|**Parameter Blending for Multi-Camera Harmonization for Automotive Surround View Systems**|Yuzhuo Ren et.al.|[2406.11066v1](http://arxiv.org/abs/2406.11066v1)|null|
@@ -7443,6 +7462,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-07**|**Power Line Aerial Image Restoration under dverse Weather: Datasets and Baselines**|Sai Yang et.al.|[2409.04812v1](http://arxiv.org/abs/2409.04812v1)|**[link](https://github.com/ntuhubin/plair-aw)**|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
 |**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455v1](http://arxiv.org/abs/2409.03455v1)|null|
 |**2024-09-05**|**Multiple weather images restoration using the task transformer and adaptive mixup strategy**|Yang Wen et.al.|[2409.03249v1](http://arxiv.org/abs/2409.03249v1)|null|
@@ -7927,6 +7947,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-07**|**Optimization-Based Image Reconstruction Regularized with Inter-Spectral Structural Similarity for Limited-Angle Dual-Energy Cone-Beam CT**|Junbo Peng et.al.|[2409.04674v1](http://arxiv.org/abs/2409.04674v1)|null|
 |**2024-09-06**|**Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)**|Shen Zhao et.al.|[2409.04353v1](http://arxiv.org/abs/2409.04353v1)|null|
 |**2024-09-04**|**Fast and Accurate Collimator-Detector Response Compensation in High-Energy SPECT Imaging with 1D Convolutions and Rotations**|Lucas Polson et.al.|[2409.03100v1](http://arxiv.org/abs/2409.03100v1)|null|
 |**2024-09-04**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979v1](http://arxiv.org/abs/2409.02979v1)|null|
@@ -8685,6 +8706,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-08**|**Physics-augmented Deep Learning with Adversarial Domain Adaptation: Applications to STM Image Denoising**|Jianxin Xie et.al.|[2409.05118v1](http://arxiv.org/abs/2409.05118v1)|null|
 |**2024-09-02**|**A Deep-Learning-Based Label-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481v2](http://arxiv.org/abs/2408.16481v2)|null|
 |**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946v1](http://arxiv.org/abs/2408.15946v1)|null|
 |**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143v1](http://arxiv.org/abs/2408.15143v1)|null|
@@ -9229,6 +9251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Decoupling Contact for Fine-Grained Motion Style Transfer**|Xiangjun Tang et.al.|[2409.05387v1](http://arxiv.org/abs/2409.05387v1)|null|
+|**2024-09-09**|**MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference**|Jiancheng Huang et.al.|[2409.05250v1](http://arxiv.org/abs/2409.05250v1)|null|
 |**2024-09-05**|**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**|Bernardo Biesseck et.al.|[2409.03600v1](http://arxiv.org/abs/2409.03600v1)|**[link](https://github.com/bovifocr/tcdiff)**|
 |**2024-09-06**|**Pureformer-VC: Non-parallel One-Shot Voice Conversion with Pure Transformer Blocks and Triplet Discriminative Training**|Wenhan Yao et.al.|[2409.01668v2](http://arxiv.org/abs/2409.01668v2)|null|
 |**2024-09-01**|**Style Transfer: From Stitching to Neural Networks**|Xinhe Xu et.al.|[2409.00606v1](http://arxiv.org/abs/2409.00606v1)|null|
