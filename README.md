@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633v1](http://arxiv.org/abs/2409.06633v1)|null|
+|**2024-09-09**|**Elucidating Optimal Reward-Diversity Tradeoffs in Text-to-Image Diffusion Models**|Rohit Jena et.al.|[2409.06493v1](http://arxiv.org/abs/2409.06493v1)|null|
+|**2024-09-10**|**Enhancing Emotional Text-to-Speech Controllability with Natural Language Guidance through Contrastive Learning and Diffusion Models**|Xin Jing et.al.|[2409.06451v1](http://arxiv.org/abs/2409.06451v1)|null|
+|**2024-09-10**|**Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition**|Junzheng Zhang et.al.|[2409.06371v1](http://arxiv.org/abs/2409.06371v1)|null|
+|**2024-09-10**|**What happens to diffusion model likelihood when your model is conditional?**|Mattias Cross et.al.|[2409.06364v1](http://arxiv.org/abs/2409.06364v1)|null|
+|**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355v1](http://arxiv.org/abs/2409.06355v1)|null|
+|**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190v1](http://arxiv.org/abs/2409.06190v1)|**[link](https://github.com/xzwy/msldm)**|
+|**2024-09-10**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189v1](http://arxiv.org/abs/2409.06189v1)|null|
+|**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183v1](http://arxiv.org/abs/2409.06183v1)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
+|**2024-09-09**|**Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer**|Michele Mancusi et.al.|[2409.06096v1](http://arxiv.org/abs/2409.06096v1)|null|
+|**2024-09-09**|**SVS-GAN: Leveraging GANs for Semantic Video Synthesis**|Khaled M. Seyam et.al.|[2409.06074v1](http://arxiv.org/abs/2409.06074v1)|null|
+|**2024-09-09**|**DiffusionPen: Towards Controlling the Style of Handwritten Text Generation**|Konstantina Nikolaidou et.al.|[2409.06065v1](http://arxiv.org/abs/2409.06065v1)|**[link](https://github.com/koninik/diffusionpen)**|
+|**2024-09-09**|**Enhanced Generative Data Augmentation for Semantic Segmentation via Stronger Guidance**|Quang-Huy Che et.al.|[2409.06002v1](http://arxiv.org/abs/2409.06002v1)|null|
+|**2024-09-09**|**CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification**|Jimeng Shi et.al.|[2409.05975v1](http://arxiv.org/abs/2409.05975v1)|**[link](https://github.com/jimengshi/codicast)**|
 |**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798v1](http://arxiv.org/abs/2409.05798v1)|null|
 |**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784v1](http://arxiv.org/abs/2409.05784v1)|null|
 |**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730v1](http://arxiv.org/abs/2409.05730v1)|null|
@@ -5556,6 +5570,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590v1](http://arxiv.org/abs/2409.06590v1)|null|
+|**2024-09-10**|**Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition**|Junzheng Zhang et.al.|[2409.06371v1](http://arxiv.org/abs/2409.06371v1)|null|
+|**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183v1](http://arxiv.org/abs/2409.06183v1)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
 |**2024-09-07**|**Single-snapshot machine learning for turbulence super resolution**|Kai Fukami et.al.|[2409.04923v1](http://arxiv.org/abs/2409.04923v1)|null|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
 |**2024-09-06**|**Adaptive Super-Resolution Imaging Without Prior Knowledge Using a Programmable Spatial-Mode Sorter**|Itay Ozer et.al.|[2409.04323v1](http://arxiv.org/abs/2409.04323v1)|null|
@@ -6755,6 +6772,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590v1](http://arxiv.org/abs/2409.06590v1)|null|
 |**2024-09-06**|**EigenSR: Eigenimage-Bridged Pre-Trained RGB Learners for Single Hyperspectral Image Super-Resolution**|Xi Su et.al.|[2409.04050v1](http://arxiv.org/abs/2409.04050v1)|null|
 |**2024-09-05**|**LMLT: Low-to-high Multi-Level Vision Transformer for Image Super-Resolution**|Jeongsoo Kim et.al.|[2409.03516v1](http://arxiv.org/abs/2409.03516v1)|**[link](https://github.com/jwgdmkj/lmlt)**|
 |**2024-09-05**|**Perceptual-Distortion Balanced Image Super-Resolution is a Multi-Objective Optimization Problem**|Qiwen Zhu et.al.|[2409.03179v1](http://arxiv.org/abs/2409.03179v1)|**[link](https://github.com/ZhuKeven/MOBOSR)**|
@@ -7462,6 +7480,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590v1](http://arxiv.org/abs/2409.06590v1)|null|
+|**2024-09-10**|**Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement**|Yang Wen et.al.|[2409.06334v1](http://arxiv.org/abs/2409.06334v1)|null|
+|**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206v1](http://arxiv.org/abs/2409.06206v1)|null|
 |**2024-09-07**|**Power Line Aerial Image Restoration under dverse Weather: Datasets and Baselines**|Sai Yang et.al.|[2409.04812v1](http://arxiv.org/abs/2409.04812v1)|**[link](https://github.com/ntuhubin/plair-aw)**|
 |**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
 |**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455v1](http://arxiv.org/abs/2409.03455v1)|null|
@@ -7947,6 +7968,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Deep kernel representations of latent space features for low-dose PET-MR imaging robust to variable dose reduction**|Cameron Dennis Pain et.al.|[2409.06198v1](http://arxiv.org/abs/2409.06198v1)|null|
 |**2024-09-07**|**Optimization-Based Image Reconstruction Regularized with Inter-Spectral Structural Similarity for Limited-Angle Dual-Energy Cone-Beam CT**|Junbo Peng et.al.|[2409.04674v1](http://arxiv.org/abs/2409.04674v1)|null|
 |**2024-09-06**|**Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)**|Shen Zhao et.al.|[2409.04353v1](http://arxiv.org/abs/2409.04353v1)|null|
 |**2024-09-04**|**Fast and Accurate Collimator-Detector Response Compensation in High-Energy SPECT Imaging with 1D Convolutions and Rotations**|Lucas Polson et.al.|[2409.03100v1](http://arxiv.org/abs/2409.03100v1)|null|
@@ -8706,6 +8728,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Constructing an Interpretable Deep Denoiser by Unrolling Graph Laplacian Regularizer**|Seyed Alireza Hosseini et.al.|[2409.06676v1](http://arxiv.org/abs/2409.06676v1)|null|
 |**2024-09-08**|**Physics-augmented Deep Learning with Adversarial Domain Adaptation: Applications to STM Image Denoising**|Jianxin Xie et.al.|[2409.05118v1](http://arxiv.org/abs/2409.05118v1)|null|
 |**2024-09-02**|**A Deep-Learning-Based Label-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481v2](http://arxiv.org/abs/2408.16481v2)|null|
 |**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946v1](http://arxiv.org/abs/2408.15946v1)|null|
