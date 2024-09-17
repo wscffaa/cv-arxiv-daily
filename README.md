@@ -9366,7 +9366,7 @@
 |**2024-09-09**|**MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference**|Jiancheng Huang et.al.|[2409.05250v1](http://arxiv.org/abs/2409.05250v1)|null|
 |**2024-09-05**|**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**|Bernardo Biesseck et.al.|[2409.03600v1](http://arxiv.org/abs/2409.03600v1)|**[link](https://github.com/bovifocr/tcdiff)**|
 |**2024-09-06**|**Pureformer-VC: Non-parallel One-Shot Voice Conversion with Pure Transformer Blocks and Triplet Discriminative Training**|Wenhan Yao et.al.|[2409.01668v2](http://arxiv.org/abs/2409.01668v2)|null|
-|**2024-09-01**|**Style Transfer: From Stitching to Neural Networks**|Xinhe Xu et.al.|[2409.00606v1](http://arxiv.org/abs/2409.00606v1)|null|
+|**2024-09-15**|**Style Transfer: From Stitching to Neural Networks**|Xinhe Xu et.al.|[2409.00606v2](http://arxiv.org/abs/2409.00606v2)|null|
 |**2024-08-31**|**PS-StyleGAN: Illustrative Portrait Sketching using Attention-Based Style Adaptation**|Kushal Kumar Jain et.al.|[2409.00345v1](http://arxiv.org/abs/2409.00345v1)|null|
 |**2024-09-06**|**Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation**|Heath Arthur-Loui et.al.|[2409.00046v3](http://arxiv.org/abs/2409.00046v3)|**[link](https://github.com/HeathArhturLouis/Rethinking-Molecular-Design-Integrating-Latent-Variable-and-Autoregressive-Models-for-Enhanced-Goal)**|
 |**2024-09-04**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v2](http://arxiv.org/abs/2408.16766v2)|null|
