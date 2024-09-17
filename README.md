@@ -26,6 +26,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494v1](http://arxiv.org/abs/2409.10494v1)|null|
+|**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476v1](http://arxiv.org/abs/2409.10476v1)|null|
+|**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473v1](http://arxiv.org/abs/2409.10473v1)|null|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385v1](http://arxiv.org/abs/2409.10385v1)|null|
+|**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353v1](http://arxiv.org/abs/2409.10353v1)|null|
+|**2024-09-16**|**Fairness, not Emotion, Drives Socioeconomic Decision Making**|Rudra Mukhopadhyay et.al.|[2409.10322v1](http://arxiv.org/abs/2409.10322v1)|null|
+|**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281v1](http://arxiv.org/abs/2409.10281v1)|null|
+|**2024-09-16**|**RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models**|Başak Melis Öcal et.al.|[2409.10180v1](http://arxiv.org/abs/2409.10180v1)|null|
+|**2024-09-16**|**PSHuman: Photorealistic Single-view Human Reconstruction using Cross-Scale Diffusion**|Peng Li et.al.|[2409.10141v1](http://arxiv.org/abs/2409.10141v1)|null|
+|**2024-09-16**|**DDoS: Diffusion Distribution Similarity for Out-of-Distribution Detection**|Kun Fang et.al.|[2409.10094v1](http://arxiv.org/abs/2409.10094v1)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090v1](http://arxiv.org/abs/2409.10090v1)|null|
+|**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089v1](http://arxiv.org/abs/2409.10089v1)|null|
+|**2024-09-16**|**StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion**|Yinghao Aaron Li et.al.|[2409.10058v1](http://arxiv.org/abs/2409.10058v1)|null|
+|**2024-09-16**|**AttnMod: Attention-Based New Art Styles**|Shih-Chieh Su et.al.|[2409.10028v1](http://arxiv.org/abs/2409.10028v1)|null|
+|**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896v1](http://arxiv.org/abs/2409.09896v1)|null|
+|**2024-09-15**|**Latent Diffusion Models for Controllable RNA Sequence Generation**|Kaixuan Huang et.al.|[2409.09828v1](http://arxiv.org/abs/2409.09828v1)|null|
+|**2024-09-15**|**E-Commerce Inpainting with Mask Guidance in Controlnet for Reducing Overcompletion**|Guandong Li et.al.|[2409.09681v1](http://arxiv.org/abs/2409.09681v1)|null|
+|**2024-09-15**|**EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models**|Yupeng Chen et.al.|[2409.09668v1](http://arxiv.org/abs/2409.09668v1)|null|
+|**2024-09-15**|**Conditional sampling within generative diffusion models**|Zheng Zhao et.al.|[2409.09650v1](http://arxiv.org/abs/2409.09650v1)|**[link](https://github.com/spdes/gdcs)**|
+|**2024-09-15**|**Extract and Diffuse: Latent Integration for Improved Diffusion-based Speech and Vocal Enhancement**|Yudong Yang et.al.|[2409.09642v1](http://arxiv.org/abs/2409.09642v1)|null|
+|**2024-09-15**|**HJ-sampler: A Bayesian sampler for inverse problems of a stochastic process by leveraging Hamilton-Jacobi PDEs and score-based generative models**|Tingwei Meng et.al.|[2409.09614v1](http://arxiv.org/abs/2409.09614v1)|null|
+|**2024-09-15**|**DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion**|Liao Shen et.al.|[2409.09605v1](http://arxiv.org/abs/2409.09605v1)|null|
+|**2024-09-15**|**Bias Begets Bias: The Impact of Biased Embeddings on Diffusion Models**|Sahil Kuchlous et.al.|[2409.09569v1](http://arxiv.org/abs/2409.09569v1)|null|
+|**2024-09-14**|**Integrating Deep Unfolding with Direct Diffusion Bridges for Computed Tomography Reconstruction**|Herman Verinaz-Jadan et.al.|[2409.09477v1](http://arxiv.org/abs/2409.09477v1)|null|
+|**2024-09-14**|**Real-world Adversarial Defense against Patch Attacks based on Diffusion Model**|Xingxing Wei et.al.|[2409.09406v1](http://arxiv.org/abs/2409.09406v1)|null|
+|**2024-09-14**|**Towards Diverse and Efficient Audio Captioning via Diffusion Models**|Manjie Xu et.al.|[2409.09401v1](http://arxiv.org/abs/2409.09401v1)|null|
+|**2024-09-14**|**Schrödinger Bridge Flow for Unpaired Data Translation**|Valentin De Bortoli et.al.|[2409.09347v1](http://arxiv.org/abs/2409.09347v1)|null|
+|**2024-09-14**|**Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation**|Changjin Han et.al.|[2409.09311v1](http://arxiv.org/abs/2409.09311v1)|null|
+|**2024-09-13**|**Adaptive Multi-Modal Control of Digital Human Hand Synthesis Using a Region-Aware Cycle Loss**|Qifan Fu et.al.|[2409.09149v1](http://arxiv.org/abs/2409.09149v1)|**[link](https://github.com/fuqifan/region-aware-cycle-loss)**|
+|**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111v1](http://arxiv.org/abs/2409.09111v1)|null|
 |**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016v1](http://arxiv.org/abs/2409.09016v1)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
 |**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947v1](http://arxiv.org/abs/2409.08947v1)|null|
 |**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917v1](http://arxiv.org/abs/2409.08917v1)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
@@ -5635,6 +5665,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101v1](http://arxiv.org/abs/2409.10101v1)|null|
+|**2024-09-15**|**Learning Two-factor Representation for Magnetic Resonance Image Super-resolution**|Weifeng Wei et.al.|[2409.09731v1](http://arxiv.org/abs/2409.09731v1)|null|
+|**2024-09-14**|**Adversarial Deep-Unfolding Network for MA-XRF Super-Resolution on Old Master Paintings Using Minimal Training Data**|Herman Verinaz-Jadan et.al.|[2409.09483v1](http://arxiv.org/abs/2409.09483v1)|null|
+|**2024-09-14**|**Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution**|Yongjoon Lee et.al.|[2409.09337v1](http://arxiv.org/abs/2409.09337v1)|null|
+|**2024-09-13**|**FB-HyDON: Parameter-Efficient Physics-Informed Operator Learning of Complex PDEs via Hypernetwork and Finite Basis Domain Decomposition**|Milad Ramezankhani et.al.|[2409.09207v1](http://arxiv.org/abs/2409.09207v1)|null|
 |**2024-09-13**|**Optically-Validated Microvascular Phantom for Super-Resolution Ultrasound Imaging**|Jaime Parra Raad et.al.|[2409.09031v1](http://arxiv.org/abs/2409.09031v1)|null|
 |**2024-09-13**|**Test-time Training for Hyperspectral Image Super-resolution**|Ke Li et.al.|[2409.08667v1](http://arxiv.org/abs/2409.08667v1)|null|
 |**2024-09-13**|**Low Complexity DoA-ToA Signature Estimation for Multi-Antenna Multi-Carrier Systems**|Chandrashekhar Rai et.al.|[2409.08650v1](http://arxiv.org/abs/2409.08650v1)|null|
@@ -6848,6 +6883,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-15**|**Learning Two-factor Representation for Magnetic Resonance Image Super-resolution**|Weifeng Wei et.al.|[2409.09731v1](http://arxiv.org/abs/2409.09731v1)|null|
 |**2024-09-13**|**Test-time Training for Hyperspectral Image Super-resolution**|Ke Li et.al.|[2409.08667v1](http://arxiv.org/abs/2409.08667v1)|null|
 |**2024-08-24**|**HSR-KAN: Efficient Hyperspectral Image Super-Resolution via Kolmogorov-Arnold Networks**|Baisong Li et.al.|[2409.06705v1](http://arxiv.org/abs/2409.06705v1)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590v1](http://arxiv.org/abs/2409.06590v1)|null|
@@ -7558,6 +7594,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353v1](http://arxiv.org/abs/2409.10353v1)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797v1](http://arxiv.org/abs/2409.07797v1)|null|
 |**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980v1](http://arxiv.org/abs/2409.06980v1)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590v1](http://arxiv.org/abs/2409.06590v1)|null|
@@ -8048,6 +8085,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**A Method for Accurate Spatial Focusing Simulation via Numerical Integration and its Application in Optoacoustic Tomography**|Maximilian Bader et.al.|[2409.10138v1](http://arxiv.org/abs/2409.10138v1)|null|
+|**2024-09-16**|**The i-TED Compton Camera Array for real-time boron imaging and determination during treatments in Boron Neutron Capture Therapy**|Pablo Torres-Sánchez et.al.|[2409.10107v1](http://arxiv.org/abs/2409.10107v1)|null|
+|**2024-09-14**|**Integrating Deep Unfolding with Direct Diffusion Bridges for Computed Tomography Reconstruction**|Herman Verinaz-Jadan et.al.|[2409.09477v1](http://arxiv.org/abs/2409.09477v1)|null|
 |**2024-09-13**|**Joint image reconstruction and segmentation of real-time cardiac MRI in free-breathing using a model based on disentangled representation learning**|Tobias Wech et.al.|[2409.08619v1](http://arxiv.org/abs/2409.08619v1)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797v1](http://arxiv.org/abs/2409.07797v1)|null|
 |**2024-09-10**|**DetailCLIP: Detail-Oriented CLIP for Fine-Grained Tasks**|Amin Karimi Monsefi et.al.|[2409.06809v1](http://arxiv.org/abs/2409.06809v1)|**[link](https://github.com/KishoreP1/DetailCLIP)**|
@@ -8812,6 +8852,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353v1](http://arxiv.org/abs/2409.10353v1)|null|
 |**2024-09-13**|**Pushing Joint Image Denoising and Classification to the Edge**|Thomas C Markhorst et.al.|[2409.08943v1](http://arxiv.org/abs/2409.08943v1)|null|
 |**2024-09-11**|**Edge Modeling Activation Free Fourier Network for Spacecraft Image Denoising**|Jingfan Yang et.al.|[2409.07067v1](http://arxiv.org/abs/2409.07067v1)|null|
 |**2024-09-10**|**Constructing an Interpretable Deep Denoiser by Unrolling Graph Laplacian Regularizer**|Seyed Alireza Hosseini et.al.|[2409.06676v1](http://arxiv.org/abs/2409.06676v1)|null|
@@ -9360,6 +9401,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385v1](http://arxiv.org/abs/2409.10385v1)|null|
+|**2024-09-14**|**Text Prompt is Not Enough: Sound Event Enhanced Prompt Adapter for Target Style Audio Generation**|Chenxu Xiong et.al.|[2409.09381v1](http://arxiv.org/abs/2409.09381v1)|null|
 |**2024-09-12**|**Learned Compression for Images and Point Clouds**|Mateen Ulhaq et.al.|[2409.08376v1](http://arxiv.org/abs/2409.08376v1)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
 |**2024-08-24**|**Gating Syn-to-Real Knowledge for Pedestrian Crossing Prediction in Safe Driving**|Jie Bai et.al.|[2409.06707v1](http://arxiv.org/abs/2409.06707v1)|null|
 |**2024-09-09**|**Decoupling Contact for Fine-Grained Motion Style Transfer**|Xiangjun Tang et.al.|[2409.05387v1](http://arxiv.org/abs/2409.05387v1)|null|
