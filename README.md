@@ -57,7 +57,7 @@
 |**2024-09-13**|**Adaptive Multi-Modal Control of Digital Human Hand Synthesis Using a Region-Aware Cycle Loss**|Qifan Fu et.al.|[2409.09149v1](http://arxiv.org/abs/2409.09149v1)|**[link](https://github.com/fuqifan/region-aware-cycle-loss)**|
 |**2024-09-13**|**Neural Message Passing Induced by Energy-Constrained Diffusion**|Qitian Wu et.al.|[2409.09111v1](http://arxiv.org/abs/2409.09111v1)|null|
 |**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016v1](http://arxiv.org/abs/2409.09016v1)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
-|**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947v1](http://arxiv.org/abs/2409.08947v1)|null|
+|**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947v2](http://arxiv.org/abs/2409.08947v2)|null|
 |**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917v1](http://arxiv.org/abs/2409.08917v1)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
 |**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906v1](http://arxiv.org/abs/2409.08906v1)|null|
 |**2024-09-13**|**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**|Carles Domingo-Enrich et.al.|[2409.08861v1](http://arxiv.org/abs/2409.08861v1)|null|
@@ -5668,7 +5668,7 @@
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101v1](http://arxiv.org/abs/2409.10101v1)|null|
 |**2024-09-15**|**Learning Two-factor Representation for Magnetic Resonance Image Super-resolution**|Weifeng Wei et.al.|[2409.09731v1](http://arxiv.org/abs/2409.09731v1)|null|
 |**2024-09-14**|**Adversarial Deep-Unfolding Network for MA-XRF Super-Resolution on Old Master Paintings Using Minimal Training Data**|Herman Verinaz-Jadan et.al.|[2409.09483v1](http://arxiv.org/abs/2409.09483v1)|null|
-|**2024-09-14**|**Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution**|Yongjoon Lee et.al.|[2409.09337v1](http://arxiv.org/abs/2409.09337v1)|null|
+|**2024-09-17**|**Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution**|Yongjoon Lee et.al.|[2409.09337v2](http://arxiv.org/abs/2409.09337v2)|null|
 |**2024-09-13**|**FB-HyDON: Parameter-Efficient Physics-Informed Operator Learning of Complex PDEs via Hypernetwork and Finite Basis Domain Decomposition**|Milad Ramezankhani et.al.|[2409.09207v1](http://arxiv.org/abs/2409.09207v1)|null|
 |**2024-09-13**|**Optically-Validated Microvascular Phantom for Super-Resolution Ultrasound Imaging**|Jaime Parra Raad et.al.|[2409.09031v1](http://arxiv.org/abs/2409.09031v1)|null|
 |**2024-09-13**|**Test-time Training for Hyperspectral Image Super-resolution**|Ke Li et.al.|[2409.08667v1](http://arxiv.org/abs/2409.08667v1)|null|
