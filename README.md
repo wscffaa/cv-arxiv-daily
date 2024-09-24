@@ -8147,7 +8147,7 @@
 |**2024-09-07**|**Optimization-Based Image Reconstruction Regularized with Inter-Spectral Structural Similarity for Limited-Angle Dual-Energy Cone-Beam CT**|Junbo Peng et.al.|[2409.04674v1](http://arxiv.org/abs/2409.04674v1)|null|
 |**2024-09-06**|**Whole Heart Perfusion with High-Multiband Simultaneous Multislice Imaging via Linear Phase Modulated Extended Field of View (SMILE)**|Shen Zhao et.al.|[2409.04353v1](http://arxiv.org/abs/2409.04353v1)|null|
 |**2024-09-04**|**Fast and Accurate Collimator-Detector Response Compensation in High-Energy SPECT Imaging with 1D Convolutions and Rotations**|Lucas Polson et.al.|[2409.03100v1](http://arxiv.org/abs/2409.03100v1)|null|
-|**2024-09-10**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979v2](http://arxiv.org/abs/2409.02979v2)|null|
+|**2024-09-21**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979v3](http://arxiv.org/abs/2409.02979v3)|null|
 |**2024-09-04**|**MaDis-Stereo: Enhanced Stereo Matching via Distilled Masked Image Modeling**|Jihye Ahn et.al.|[2409.02846v1](http://arxiv.org/abs/2409.02846v1)|null|
 |**2024-09-04**|**Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models**|Pujing Yang et.al.|[2409.02597v1](http://arxiv.org/abs/2409.02597v1)|null|
 |**2024-09-03**|**UNSURE: Unknown Noise level Stein's Unbiased Risk Estimator**|Julián Tachella et.al.|[2409.01985v1](http://arxiv.org/abs/2409.01985v1)|**[link](https://github.com/tachella/unsure)**|
