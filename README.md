@@ -9564,7 +9564,7 @@
 |---|---|---|---|---|
 |**2024-09-26**|**TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977v2](http://arxiv.org/abs/2409.15977v2)|**[link](https://github.com/AaronZ345/TCSinger)**|
 |**2024-09-24**|**AEANet: Affinity Enhanced Attentional Networks for Arbitrary Style Transfer**|Gen Li et.al.|[2409.14652v2](http://arxiv.org/abs/2409.14652v2)|null|
-|**2024-09-20**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832v1](http://arxiv.org/abs/2409.13832v1)|**[link](https://github.com/gtsinger/gtsinger)**|
+|**2024-09-26**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832v2](http://arxiv.org/abs/2409.13832v2)|**[link](https://github.com/gtsinger/gtsinger)**|
 |**2024-09-19**|**DNI: Dilutional Noise Initialization for Diffusion Video Editing**|Sunjae Yoon et.al.|[2409.13037v1](http://arxiv.org/abs/2409.13037v1)|null|
 |**2024-09-18**|**METEOR: Melody-aware Texture-controllable Symbolic Orchestral Music Generation**|Dinh-Viet-Toan Le et.al.|[2409.11753v1](http://arxiv.org/abs/2409.11753v1)|**[link](https://github.com/dinhviettoanle/meteor)**|
 |**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385v1](http://arxiv.org/abs/2409.10385v1)|**[link](https://github.com/filippobotti/mambast)**|
