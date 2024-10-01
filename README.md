@@ -7659,7 +7659,7 @@
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984v1](http://arxiv.org/abs/2311.01984v1)|null|
 |**2023-11-17**|**Single-pixel imaging based on deep learning**|Kai Song et.al.|[2310.16869v2](http://arxiv.org/abs/2310.16869v2)|null|
 |**2023-10-24**|**Nighttime Thermal Infrared Image Colorization with Feedback-based Object Appearance Learning**|Fu-Ya Luo et.al.|[2310.15688v1](http://arxiv.org/abs/2310.15688v1)|**[link](https://github.com/fuyaluo/foalgan)**|
-|**2024-03-29**|**Gromov-Wassertein-like Distances in the Gaussian Mixture Models Space**|Antoine Salmona et.al.|[2310.11256v2](http://arxiv.org/abs/2310.11256v2)|null|
+|**2024-09-30**|**Gromov-Wasserstein-like Distances in the Gaussian Mixture Models Space**|Antoine Salmona et.al.|[2310.11256v3](http://arxiv.org/abs/2310.11256v3)|null|
 |**2023-09-25**|**Incorporating Ensemble and Transfer Learning For An End-To-End Auto-Colorized Image Detection Model**|Ahmed Samir Ragab et.al.|[2309.14478v1](http://arxiv.org/abs/2309.14478v1)|null|
 |**2023-09-13**|**Hardening RGB-D Object Recognition Systems against Adversarial Patch Attacks**|Yang Zheng et.al.|[2309.07106v1](http://arxiv.org/abs/2309.07106v1)|null|
 |**2023-09-11**|**Diving into Darkness: A Dual-Modulated Framework for High-Fidelity Super-Resolution in Ultra-Dark Environments**|Jiaxin Gao et.al.|[2309.05267v1](http://arxiv.org/abs/2309.05267v1)|null|
@@ -8320,7 +8320,7 @@
 |**2024-09-21**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979v3](http://arxiv.org/abs/2409.02979v3)|null|
 |**2024-09-04**|**MaDis-Stereo: Enhanced Stereo Matching via Distilled Masked Image Modeling**|Jihye Ahn et.al.|[2409.02846v1](http://arxiv.org/abs/2409.02846v1)|null|
 |**2024-09-04**|**Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models**|Pujing Yang et.al.|[2409.02597v1](http://arxiv.org/abs/2409.02597v1)|null|
-|**2024-09-03**|**UNSURE: Unknown Noise level Stein's Unbiased Risk Estimator**|Julián Tachella et.al.|[2409.01985v1](http://arxiv.org/abs/2409.01985v1)|**[link](https://github.com/tachella/unsure)**|
+|**2024-09-30**|**UNSURE: Unknown Noise level Stein's Unbiased Risk Estimator**|Julián Tachella et.al.|[2409.01985v2](http://arxiv.org/abs/2409.01985v2)|**[link](https://github.com/tachella/unsure)**|
 |**2024-09-02**|**Nested Bregman Iterations for Decomposition Problems**|Tobias Wolf et.al.|[2409.01097v1](http://arxiv.org/abs/2409.01097v1)|null|
 |**2024-08-31**|**An Optimal Control Approach for Inverse Problems with Deep Learnable Regularizers**|Wanyu Bian et.al.|[2409.00498v1](http://arxiv.org/abs/2409.00498v1)|null|
 |**2024-08-30**|**VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**|Mouxiang Chen et.al.|[2408.17253v1](http://arxiv.org/abs/2408.17253v1)|**[link](https://github.com/keytoyze/visionts)**|
