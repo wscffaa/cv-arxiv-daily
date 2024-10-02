@@ -69,7 +69,7 @@
 |**2024-09-27**|**Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images**|Donghwan Kim et.al.|[2409.18364v1](http://arxiv.org/abs/2409.18364v1)|null|
 |**2024-09-27**|**Generative AI for fast and accurate Statistical Computation of Fluids**|Roberto Molinaro et.al.|[2409.18359v1](http://arxiv.org/abs/2409.18359v1)|null|
 |**2024-09-26**|**Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection**|Lalith Bharadwaj Baru et.al.|[2409.18301v1](http://arxiv.org/abs/2409.18301v1)|**[link](https://github.com/lalithbharadwajbaru/wavelet-clip)**|
-|**2024-09-26**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282v1](http://arxiv.org/abs/2409.18282v1)|null|
+|**2024-10-01**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282v2](http://arxiv.org/abs/2409.18282v2)|null|
 |**2024-09-26**|**Amodal Instance Segmentation with Diffusion Shape Prior Estimation**|Minh Tran et.al.|[2409.18256v1](http://arxiv.org/abs/2409.18256v1)|null|
 |**2024-09-26**|**PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models**|Kar Balan et.al.|[2409.18245v1](http://arxiv.org/abs/2409.18245v1)|null|
 |**2024-09-26**|**Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey**|Yi Zhang et.al.|[2409.18214v1](http://arxiv.org/abs/2409.18214v1)|**[link](https://github.com/wellzline/trustworthy_t2i_dms)**|
