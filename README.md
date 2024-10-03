@@ -34,7 +34,7 @@
 |**2024-09-30**|**Reaction-diffusion model for a population structured in phenotype and space I -- Criterion for persistence**|Nathanaël Boutillon et.al.|[2409.20118v1](http://arxiv.org/abs/2409.20118v1)|null|
 |**2024-09-30**|**RoCoTex: A Robust Method for Consistent Texture Synthesis with Diffusion Models**|Jangyeong Kim et.al.|[2409.19989v1](http://arxiv.org/abs/2409.19989v1)|null|
 |**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967v1](http://arxiv.org/abs/2409.19967v1)|null|
-|**2024-09-30**|**Image Copy Detection for Diffusion Models**|Wenhao Wang et.al.|[2409.19952v1](http://arxiv.org/abs/2409.19952v1)|null|
+|**2024-10-02**|**Image Copy Detection for Diffusion Models**|Wenhao Wang et.al.|[2409.19952v2](http://arxiv.org/abs/2409.19952v2)|null|
 |**2024-09-30**|**Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner**|Chenyou Fan et.al.|[2409.19949v1](http://arxiv.org/abs/2409.19949v1)|null|
 |**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911v1](http://arxiv.org/abs/2409.19911v1)|null|
 |**2024-09-30**|**GameLabel-10K: Collecting Image Preference Data Through Mobile Game Crowdsourcing**|Jonathan Zhou et.al.|[2409.19830v1](http://arxiv.org/abs/2409.19830v1)|null|
@@ -8359,7 +8359,7 @@
 |**2024-09-30**|**UNSURE: Unknown Noise level Stein's Unbiased Risk Estimator**|Julián Tachella et.al.|[2409.01985v2](http://arxiv.org/abs/2409.01985v2)|**[link](https://github.com/tachella/unsure)**|
 |**2024-09-02**|**Nested Bregman Iterations for Decomposition Problems**|Tobias Wolf et.al.|[2409.01097v1](http://arxiv.org/abs/2409.01097v1)|null|
 |**2024-08-31**|**An Optimal Control Approach for Inverse Problems with Deep Learnable Regularizers**|Wanyu Bian et.al.|[2409.00498v1](http://arxiv.org/abs/2409.00498v1)|null|
-|**2024-08-30**|**VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**|Mouxiang Chen et.al.|[2408.17253v1](http://arxiv.org/abs/2408.17253v1)|**[link](https://github.com/keytoyze/visionts)**|
+|**2024-10-02**|**VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**|Mouxiang Chen et.al.|[2408.17253v2](http://arxiv.org/abs/2408.17253v2)|**[link](https://github.com/keytoyze/visionts)**|
 |**2024-08-30**|**The MICADO first light imager for the ELT: Sparse Aperture Masks, design and simulations**|Elsa Huby et.al.|[2408.17146v1](http://arxiv.org/abs/2408.17146v1)|null|
 |**2024-08-29**|**Sparse Signal Reconstruction for Overdispersed Low-photon Count Biomedical Imaging Using  $\ell_p$  Total Variation**|Yu Lu et.al.|[2408.16622v1](http://arxiv.org/abs/2408.16622v1)|null|
 |**2024-08-28**|**Semantic and goal-oriented edge computing for satellite Earth Observation**|Beatriz Soret et.al.|[2408.15639v1](http://arxiv.org/abs/2408.15639v1)|null|
