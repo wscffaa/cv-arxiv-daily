@@ -45,7 +45,7 @@
 |**2024-10-01**|**Absorbing State Phase Transitions and Stability of Long-Range Coherence in Dissipative Quantum State Preparation**|Matthew Wampler et.al.|[2410.00819v1](http://arxiv.org/abs/2410.00819v1)|null|
 |**2024-10-01**|**Modeling Neural Switching via Drift-Diffusion Models**|Nicholas Marco et.al.|[2410.00781v1](http://arxiv.org/abs/2410.00781v1)|null|
 |**2024-10-01**|**Improved Generation of Synthetic Imaging Data Using Feature-Aligned Diffusion**|Lakshmi Nair et.al.|[2410.00731v1](http://arxiv.org/abs/2410.00731v1)|**[link](https://github.com/lnairgt/feature-aligned-diffusion)**|
-|**2024-10-01**|**NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models**|Chi-Sheng Chen et.al.|[2410.00712v1](http://arxiv.org/abs/2410.00712v1)|null|
+|**2024-10-03**|**NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models**|Chi-Sheng Chen et.al.|[2410.00712v2](http://arxiv.org/abs/2410.00712v2)|null|
 |**2024-10-02**|**Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models**|Saurav Jha et.al.|[2410.00700v2](http://arxiv.org/abs/2410.00700v2)|null|
 |**2024-10-01**|**MCGM: Mask Conditional Text-to-Image Generative Model**|Rami Skaik et.al.|[2410.00483v1](http://arxiv.org/abs/2410.00483v1)|null|
 |**2024-10-01**|**Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**|Yunnan Wang et.al.|[2410.00447v1](http://arxiv.org/abs/2410.00447v1)|null|
@@ -9520,7 +9520,7 @@
 |**2024-06-04**|**FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance**|Yinglong Li et.al.|[2406.02074v1](http://arxiv.org/abs/2406.02074v1)|**[link](https://github.com/dragonylee/facecom)**|
 |**2024-05-30**|**RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection**|Fangyi Chen et.al.|[2405.19854v1](http://arxiv.org/abs/2405.19854v1)|**[link](https://github.com/seermer/RTGen)**|
 |**2024-05-25**|**Assessing Image Inpainting via Re-Inpainting Self-Consistency Evaluation**|Tianyi Chen et.al.|[2405.16263v1](http://arxiv.org/abs/2405.16263v1)|null|
-|**2024-05-25**|**Rényi Neural Processes**|Xuesong Wang et.al.|[2405.15991v1](http://arxiv.org/abs/2405.15991v1)|null|
+|**2024-10-03**|**Rényi Neural Processes**|Xuesong Wang et.al.|[2405.15991v2](http://arxiv.org/abs/2405.15991v2)|null|
 |**2024-09-18**|**Multi-scale Semantic Prior Features Guided Deep Neural Network for Urban Street-view Image**|Jianshun Zeng et.al.|[2405.10504v2](http://arxiv.org/abs/2405.10504v2)|null|
 |**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316v1](http://arxiv.org/abs/2405.10316v1)|null|
 |**2024-07-25**|**SOEDiff: Efficient Distillation for Small Object Editing**|Yiming Wu et.al.|[2405.09114v2](http://arxiv.org/abs/2405.09114v2)|null|
@@ -9718,7 +9718,7 @@
 |**2024-09-26**|**WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians**|Dmytro Kotovenko et.al.|[2409.17917v1](http://arxiv.org/abs/2409.17917v1)|null|
 |**2024-09-25**|**Copying style, Extracting value: Illustrators' Perception of AI Style Transfer and its Impact on Creative Labor**|Julien Porquet et.al.|[2409.17410v1](http://arxiv.org/abs/2409.17410v1)|null|
 |**2024-09-25**|**Exploring synthetic data for cross-speaker style transfer in style representation based TTS**|Lucas H. Ueda et.al.|[2409.17364v1](http://arxiv.org/abs/2409.17364v1)|null|
-|**2024-09-26**|**TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977v2](http://arxiv.org/abs/2409.15977v2)|**[link](https://github.com/AaronZ345/TCSinger)**|
+|**2024-10-03**|**TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977v3](http://arxiv.org/abs/2409.15977v3)|**[link](https://github.com/AaronZ345/TCSinger)**|
 |**2024-09-24**|**AEANet: Affinity Enhanced Attentional Networks for Arbitrary Style Transfer**|Gen Li et.al.|[2409.14652v2](http://arxiv.org/abs/2409.14652v2)|null|
 |**2024-09-26**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832v2](http://arxiv.org/abs/2409.13832v2)|**[link](https://github.com/gtsinger/gtsinger)**|
 |**2024-09-19**|**DNI: Dilutional Noise Initialization for Diffusion Video Editing**|Sunjae Yoon et.al.|[2409.13037v1](http://arxiv.org/abs/2409.13037v1)|null|
