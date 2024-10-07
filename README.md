@@ -51,7 +51,7 @@
 |**2024-10-02**|**Dynamical-generative downscaling of climate model ensembles**|Ignacio Lopez-Gomez et.al.|[2410.01776v1](http://arxiv.org/abs/2410.01776v1)|null|
 |**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756v1](http://arxiv.org/abs/2410.01756v1)|**[link](https://github.com/lxa9867/imagefolder)**|
 |**2024-10-02**|**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models**|Kailai Feng et.al.|[2410.01738v1](http://arxiv.org/abs/2410.01738v1)|**[link](https://github.com/carlofkl/vitaglyph)**|
-|**2024-10-02**|**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**|Yushi Huang et.al.|[2410.01723v1](http://arxiv.org/abs/2410.01723v1)|null|
+|**2024-10-04**|**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**|Yushi Huang et.al.|[2410.01723v2](http://arxiv.org/abs/2410.01723v2)|null|
 |**2024-10-02**|**KnobGen: Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models**|Pouyan Navard et.al.|[2410.01595v1](http://arxiv.org/abs/2410.01595v1)|**[link](https://github.com/aminK8/KnobGen)**|
 |**2024-10-02**|**MM-LDM: Multi-Modal Latent Diffusion Model for Sounding Video Generation**|Mingzhen Sun et.al.|[2410.01594v1](http://arxiv.org/abs/2410.01594v1)|**[link](https://github.com/iva-mzsun/mm-ldm)**|
 |**2024-10-02**|**HRTF Estimation using a Score-based Prior**|Etienne Thuillier et.al.|[2410.01562v1](http://arxiv.org/abs/2410.01562v1)|null|
@@ -9769,7 +9769,7 @@
 |**2024-08-31**|**PS-StyleGAN: Illustrative Portrait Sketching using Attention-Based Style Adaptation**|Kushal Kumar Jain et.al.|[2409.00345v1](http://arxiv.org/abs/2409.00345v1)|null|
 |**2024-09-06**|**Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation**|Heath Arthur-Loui et.al.|[2409.00046v3](http://arxiv.org/abs/2409.00046v3)|**[link](https://github.com/HeathArhturLouis/Rethinking-Molecular-Design-Integrating-Latent-Variable-and-Autoregressive-Models-for-Enhanced-Goal)**|
 |**2024-09-04**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v2](http://arxiv.org/abs/2408.16766v2)|null|
-|**2024-08-27**|**T-FAKE: Synthesizing Thermal Images for Facial Landmarking**|Philipp Flotho et.al.|[2408.15127v1](http://arxiv.org/abs/2408.15127v1)|**[link](https://github.com/phflot/tfake)**|
+|**2024-10-04**|**T-FAKE: Synthesizing Thermal Images for Facial Landmarking**|Philipp Flotho et.al.|[2408.15127v2](http://arxiv.org/abs/2408.15127v2)|**[link](https://github.com/phflot/tfake)**|
 |**2024-08-25**|**Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems**|Mohammad Hossein Amini et.al.|[2408.13950v1](http://arxiv.org/abs/2408.13950v1)|null|
 |**2024-08-27**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623v2](http://arxiv.org/abs/2408.13623v2)|null|
 |**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508v1](http://arxiv.org/abs/2408.13508v1)|null|
