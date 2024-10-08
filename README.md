@@ -33,14 +33,14 @@
 |**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463v1](http://arxiv.org/abs/2410.03463v1)|null|
 |**2024-10-04**|**Generative Semantic Communication for Text-to-Speech Synthesis**|Jiahao Zheng et.al.|[2410.03459v1](http://arxiv.org/abs/2410.03459v1)|null|
 |**2024-10-04**|**Dynamic Diffusion Transformer**|Wangbo Zhao et.al.|[2410.03456v1](http://arxiv.org/abs/2410.03456v1)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-diffusion-transformer)**|
-|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441v1](http://arxiv.org/abs/2410.03441v1)|null|
+|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441v1](http://arxiv.org/abs/2410.03441v1)|**[link](https://github.com/GuyTevet/CLoSD)**|
 |**2024-10-04**|**The scaling behaviour of localised and extended states in one-dimensional tight-binding models with disorder**|Luca Schaefer et.al.|[2410.03405v1](http://arxiv.org/abs/2410.03405v1)|null|
 |**2024-10-04**|**Latent Abstractions in Generative Diffusion Models**|Giulio Franzese et.al.|[2410.03368v1](http://arxiv.org/abs/2410.03368v1)|null|
 |**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355v1](http://arxiv.org/abs/2410.03355v1)|null|
 |**2024-10-04**|**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization**|Zichen Miao et.al.|[2410.03190v1](http://arxiv.org/abs/2410.03190v1)|null|
 |**2024-10-04**|**Autonomous Character-Scene Interaction Synthesis from Text Instruction**|Nan Jiang et.al.|[2410.03187v1](http://arxiv.org/abs/2410.03187v1)|null|
 |**2024-10-04**|**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach**|Yaofang Liu et.al.|[2410.03160v1](http://arxiv.org/abs/2410.03160v1)|**[link](https://github.com/yaofang-liu/fvdm)**|
-|**2024-10-04**|**A Training-Free Conditional Diffusion Model for Learning Stochastic Dynamical Systems**|Yanfang Liu et.al.|[2410.03108v1](http://arxiv.org/abs/2410.03108v1)|null|
+|**2024-10-04**|**A Training-Free Conditional Diffusion Model for Learning Stochastic Dynamical Systems**|Yanfang Liu et.al.|[2410.03108v1](http://arxiv.org/abs/2410.03108v1)|**[link](https://github.com/YanfangLiu11/Conditional-Diffusion-Model-for-SDE-Learning)**|
 |**2024-10-04**|**Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing**|Ziqi Jiang et.al.|[2410.03097v1](http://arxiv.org/abs/2410.03097v1)|null|
 |**2024-10-04**|**Generative Edge Detection with Stable Diffusion**|Caixia Zhou et.al.|[2410.03080v1](http://arxiv.org/abs/2410.03080v1)|null|
 |**2024-10-04**|**Multi-Robot Motion Planning with Diffusion Models**|Yorai Shaoul et.al.|[2410.03072v1](http://arxiv.org/abs/2410.03072v1)|**[link](https://github.com/yoraish/mmd)**|
@@ -7922,10 +7922,10 @@
 |**2024-10-01**|**GLMHA A Guided Low-rank Multi-Head Self-Attention for Efficient Image Restoration and Spectral Reconstruction**|Zaid Ilyas et.al.|[2410.00380v1](http://arxiv.org/abs/2410.00380v1)|null|
 |**2024-09-30**|**A Survey on Diffusion Models for Inverse Problems**|Giannis Daras et.al.|[2410.00083v1](http://arxiv.org/abs/2410.00083v1)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197v1](http://arxiv.org/abs/2409.20197v1)|**[link](https://github.com/justones/uir-lora)**|
-|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403v1](http://arxiv.org/abs/2409.19403v1)|null|
+|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403v1](http://arxiv.org/abs/2409.19403v1)|**[link](https://github.com/dragonisss/ram)**|
 |**2024-09-26**|**Toward Efficient Deep Blind RAW Image Restoration**|Marcos V. Conde et.al.|[2409.18204v1](http://arxiv.org/abs/2409.18204v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-09-26**|**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs**|Qinpeng Cui et.al.|[2409.17778v1](http://arxiv.org/abs/2409.17778v1)|**[link](https://github.com/qinpengcui/dossr)**|
-|**2024-09-23**|**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions**|Weifeng Lin et.al.|[2409.15278v1](http://arxiv.org/abs/2409.15278v1)|**[link](https://github.com/afeng-x/pixwizard)**|
+|**2024-10-05**|**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions**|Weifeng Lin et.al.|[2409.15278v2](http://arxiv.org/abs/2409.15278v2)|**[link](https://github.com/afeng-x/pixwizard)**|
 |**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078v1](http://arxiv.org/abs/2409.12078v1)|null|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353v1](http://arxiv.org/abs/2409.10353v1)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797v1](http://arxiv.org/abs/2409.07797v1)|null|
@@ -8431,7 +8431,7 @@
 |**2024-09-30**|**Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network**|Jihwan Kim et.al.|[2409.20013v1](http://arxiv.org/abs/2409.20013v1)|null|
 |**2024-09-30**|**Fourier Domain Physics Informed Neural Network**|Jonathan Musgrave et.al.|[2409.19895v1](http://arxiv.org/abs/2409.19895v1)|null|
 |**2024-09-26**|**Photon Inhibition for Energy-Efficient Single-Photon Imaging**|Lucas J. Koerner et.al.|[2409.18337v1](http://arxiv.org/abs/2409.18337v1)|null|
-|**2024-09-26**|**PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging**|Xin Cai et.al.|[2409.17996v1](http://arxiv.org/abs/2409.17996v1)|null|
+|**2024-10-07**|**PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging**|Xin Cai et.al.|[2409.17996v2](http://arxiv.org/abs/2409.17996v2)|null|
 |**2024-09-25**|**Neural Network-Based Multimode Fiber Imaging and Characterization Under Thermal Perturbations**|Kun Wang et.al.|[2409.15797v2](http://arxiv.org/abs/2409.15797v2)|null|
 |**2024-09-24**|**Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers**|Sung Yun Lee et.al.|[2409.15784v1](http://arxiv.org/abs/2409.15784v1)|**[link](https://github.com/sungyun98/dpr)**|
 |**2024-09-23**|**Multivariate change estimation for a stochastic heat equation from local measurements**|Anton Tiepner et.al.|[2409.15059v1](http://arxiv.org/abs/2409.15059v1)|null|
