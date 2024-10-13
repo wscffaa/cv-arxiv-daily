@@ -31,7 +31,7 @@
 |**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188v1](http://arxiv.org/abs/2410.08188v1)|null|
 |**2024-10-10**|**ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**|Zitian Zhang et.al.|[2410.08168v1](http://arxiv.org/abs/2410.08168v1)|null|
 |**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159v1](http://arxiv.org/abs/2410.08159v1)|null|
-|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151v1](http://arxiv.org/abs/2410.08151v1)|null|
+|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151v1](http://arxiv.org/abs/2410.08151v1)|**[link](https://github.com/desaixie/pa_vdm)**|
 |**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134v1](http://arxiv.org/abs/2410.08134v1)|null|
 |**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074v1](http://arxiv.org/abs/2410.08074v1)|null|
 |**2024-10-10**|**LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**|Marcel Grimmer et.al.|[2410.07988v1](http://arxiv.org/abs/2410.07988v1)|**[link](https://github.com/dasec/ladimo)**|
@@ -39,10 +39,10 @@
 |**2024-10-10**|**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**|Abhishek Mandal et.al.|[2410.07884v1](http://arxiv.org/abs/2410.07884v1)|null|
 |**2024-10-10**|**FDDM: Frequency-Decomposed Diffusion Model for Rectum Cancer Dose Prediction in Radiotherapy**|Xin Liao et.al.|[2410.07876v1](http://arxiv.org/abs/2410.07876v1)|null|
 |**2024-10-10**|**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**|Songming Liu et.al.|[2410.07864v1](http://arxiv.org/abs/2410.07864v1)|null|
-|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838v1](http://arxiv.org/abs/2410.07838v1)|null|
+|**2024-10-10**|**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization**|Soobin Um et.al.|[2410.07838v1](http://arxiv.org/abs/2410.07838v1)|**[link](https://github.com/anonymous-6898/MinorityPrompt)**|
 |**2024-10-10**|**Simulating images of radio galaxies with diffusion models**|Tobias Vičánek Martínez et.al.|[2410.07794v1](http://arxiv.org/abs/2410.07794v1)|null|
 |**2024-10-10**|** $\textit{Jump Your Steps}$ : Optimizing Sampling Schedule of Discrete Diffusion Models**|Yong-Hyun Park et.al.|[2410.07761v1](http://arxiv.org/abs/2410.07761v1)|null|
-|**2024-10-10**|**Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**|Danush Kumar Venkatesh et.al.|[2410.07753v1](http://arxiv.org/abs/2410.07753v1)|null|
+|**2024-10-10**|**Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**|Danush Kumar Venkatesh et.al.|[2410.07753v1](http://arxiv.org/abs/2410.07753v1)|**[link](https://gitlab.com/nct_tso_public/muli-class-image-synthesis)**|
 |**2024-10-10**|**Flow control-oriented coherent mode prediction via Grassmann-kNN manifold learning**|Hongfu Zhang et.al.|[2410.07683v1](http://arxiv.org/abs/2410.07683v1)|null|
 |**2024-10-10**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679v1](http://arxiv.org/abs/2410.07679v1)|**[link](https://github.com/cantbebetter2/rdd)**|
 |**2024-10-10**|**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion**|Onkar Susladkar et.al.|[2410.07659v1](http://arxiv.org/abs/2410.07659v1)|null|
@@ -54,7 +54,7 @@
 |**2024-10-10**|**I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow**|Ruoyi Du et.al.|[2410.07536v1](http://arxiv.org/abs/2410.07536v1)|null|
 |**2024-10-09**|**Fast reaction limit for a Leslie-Gower model including preys, meso-predators and top-predators**|Desvillettes Laurent et.al.|[2410.07474v1](http://arxiv.org/abs/2410.07474v1)|null|
 |**2024-10-09**|**Language-Guided Joint Audio-Visual Editing via One-Shot Adaptation**|Susan Liang et.al.|[2410.07463v1](http://arxiv.org/abs/2410.07463v1)|null|
-|**2024-10-09**|**An undetectable watermark for generative image models**|Sam Gunn et.al.|[2410.07369v1](http://arxiv.org/abs/2410.07369v1)|null|
+|**2024-10-09**|**An undetectable watermark for generative image models**|Sam Gunn et.al.|[2410.07369v1](http://arxiv.org/abs/2410.07369v1)|**[link](https://github.com/xuandongzhao/prc-watermark)**|
 |**2024-10-09**|**Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow**|Fu-Yun Wang et.al.|[2410.07303v1](http://arxiv.org/abs/2410.07303v1)|**[link](https://github.com/g-u-n/rectified-diffusion)**|
 |**2024-10-09**|**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**|Gaoge Han et.al.|[2410.07296v1](http://arxiv.org/abs/2410.07296v1)|null|
 |**2024-10-09**|**BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models**|Fangyikang Wang et.al.|[2410.07273v1](http://arxiv.org/abs/2410.07273v1)|null|
@@ -8561,7 +8561,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-10**|**Methods for Few-View CT Image Reconstruction**|Kyle M. Champley et.al.|[2410.07552v1](http://arxiv.org/abs/2410.07552v1)|null|
-|**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250v1](http://arxiv.org/abs/2410.07250v1)|null|
+|**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250v1](http://arxiv.org/abs/2410.07250v1)|**[link](https://github.com/image-processing-particle-flow/project1)**|
 |**2024-10-08**|**Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**|Sha Guo et.al.|[2410.06149v1](http://arxiv.org/abs/2410.06149v1)|null|
 |**2024-10-08**|**Pinv-Recon: Generalized MR Image Reconstruction via Pseudoinversion of the Encoding Matrix**|Kylie Yeung et.al.|[2410.06129v1](http://arxiv.org/abs/2410.06129v1)|null|
 |**2024-10-07**|**Leveraging Multimodal Diffusion Models to Accelerate Imaging with Side Information**|Timofey Efimov et.al.|[2410.05143v1](http://arxiv.org/abs/2410.05143v1)|null|
@@ -9367,7 +9367,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234v1](http://arxiv.org/abs/2410.05234v1)|**[link](https://github.com/yutazhuo/diffusereg)**|
-|**2024-10-03**|**Galaxy-Galaxy Strong Lensing with U-Net (GGSL-UNet). I. Extracting 2-Dimensional Information from Multi-Band Images in Ground and Space Observations**|Fucheng Zhong et.al.|[2410.02936v1](http://arxiv.org/abs/2410.02936v1)|null|
+|**2024-10-03**|**Galaxy-Galaxy Strong Lensing with U-Net (GGSL-UNet). I. Extracting 2-Dimensional Information from Multi-Band Images in Ground and Space Observations**|Fucheng Zhong et.al.|[2410.02936v1](http://arxiv.org/abs/2410.02936v1)|**[link](https://github.com/Fucheng-Zhong/GGSL-UNet)**|
 |**2024-10-03**|**An Improved Variational Method for Image Denoising**|Jing-En Huang et.al.|[2410.02587v1](http://arxiv.org/abs/2410.02587v1)|null|
 |**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057v1](http://arxiv.org/abs/2410.02057v1)|null|
 |**2024-10-02**|**Tuning Frequency Bias of State Space Models**|Annan Yu et.al.|[2410.02035v1](http://arxiv.org/abs/2410.02035v1)|null|
@@ -9936,7 +9936,7 @@
 |---|---|---|---|---|
 |**2024-10-10**|**Moyun: A Diffusion-Based Model for Style-Specific Chinese Calligraphy Generation**|Kaiyuan Liu et.al.|[2410.07618v1](http://arxiv.org/abs/2410.07618v1)|null|
 |**2024-10-09**|**Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy**|Yuxuan Wen et.al.|[2410.07460v1](http://arxiv.org/abs/2410.07460v1)|null|
-|**2024-10-08**|**Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching**|Leonardo B. de M. M. Marques et.al.|[2410.05620v1](http://arxiv.org/abs/2410.05620v1)|null|
+|**2024-10-08**|**Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching**|Leonardo B. de M. M. Marques et.al.|[2410.05620v1](http://arxiv.org/abs/2410.05620v1)|**[link](https://github.com/olawod/freevc)**|
 |**2024-10-05**|**Noise Crystallization and Liquid Noise: Zero-shot Video Generation using Image Diffusion Models**|Muhammad Haaris Khan et.al.|[2410.05322v1](http://arxiv.org/abs/2410.05322v1)|null|
 |**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151v1](http://arxiv.org/abs/2410.05151v1)|null|
 |**2024-10-04**|**MultiVerse: Efficient and Expressive Zero-Shot Multi-Task Text-to-Speech**|Taejun Bak et.al.|[2410.03192v1](http://arxiv.org/abs/2410.03192v1)|null|
