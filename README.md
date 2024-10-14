@@ -26,6 +26,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049v1](http://arxiv.org/abs/2410.09049v1)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046v1](http://arxiv.org/abs/2410.09046v1)|null|
+|**2024-10-11**|**Semantic Score Distillation Sampling for Compositional Text-to-3D Generation**|Ling Yang et.al.|[2410.09009v1](http://arxiv.org/abs/2410.09009v1)|**[link](https://github.com/yangling0818/semanticsds-3d)**|
+|**2024-10-11**|**WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**|Hanchen Wang et.al.|[2410.09002v1](http://arxiv.org/abs/2410.09002v1)|null|
+|**2024-10-11**|**DiffPO: A causal diffusion model for learning distributions of potential outcomes**|Yuchen Ma et.al.|[2410.08924v1](http://arxiv.org/abs/2410.08924v1)|null|
+|**2024-10-11**|**Distillation of Discrete Diffusion through Dimensional Correlations**|Satoshi Hayakawa et.al.|[2410.08709v1](http://arxiv.org/abs/2410.08709v1)|null|
+|**2024-10-11**|**Gait Sequence Upsampling using Diffusion Models for single LiDAR sensors**|Jeongho Ahn et.al.|[2410.08680v1](http://arxiv.org/abs/2410.08680v1)|null|
+|**2024-10-11**|**E-Motion: Future Motion Simulation via Event Sequence Diffusion**|Song Wu et.al.|[2410.08649v1](http://arxiv.org/abs/2410.08649v1)|null|
+|**2024-10-11**|**Synth-SONAR: Sonar Image Synthesis with Enhanced Diversity and Realism via Dual Diffusion Models and GPT Prompting**|Purushothaman Natarajan et.al.|[2410.08612v1](http://arxiv.org/abs/2410.08612v1)|null|
+|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551v1](http://arxiv.org/abs/2410.08551v1)|null|
+|**2024-10-11**|**Diffusion Models Need Visual Priors for Image Generation**|Xiaoyu Yue et.al.|[2410.08531v1](http://arxiv.org/abs/2410.08531v1)|null|
+|**2024-10-11**|**AdvDiffuser: Generating Adversarial Safety-Critical Driving Scenarios via Guided Diffusion**|Yuting Xie et.al.|[2410.08453v1](http://arxiv.org/abs/2410.08453v1)|null|
+|**2024-10-11**|**Symbolic Music Generation with Fine-grained Interactive Textural Guidance**|Tingyu Zhu et.al.|[2410.08435v1](http://arxiv.org/abs/2410.08435v1)|null|
+|**2024-10-10**|**Avoiding mode collapse in diffusion models fine-tuned with reinforcement learning**|Roberto Barceló et.al.|[2410.08315v1](http://arxiv.org/abs/2410.08315v1)|null|
+|**2024-10-10**|**Dynamics of Concept Learning and Compositional Generalization**|Yongyi Yang et.al.|[2410.08309v1](http://arxiv.org/abs/2410.08309v1)|null|
+|**2024-10-10**|**Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis**|Jinbin Bai et.al.|[2410.08261v1](http://arxiv.org/abs/2410.08261v1)|null|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207v1](http://arxiv.org/abs/2410.08207v1)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192v1](http://arxiv.org/abs/2410.08192v1)|null|
 |**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188v1](http://arxiv.org/abs/2410.08188v1)|null|
@@ -6032,6 +6048,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Riemannian Gradient Descent Method to Joint Blind Super-Resolution and Demixing in ISAC**|Zeyu Xiang et.al.|[2410.08607v1](http://arxiv.org/abs/2410.08607v1)|null|
+|**2024-10-11**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534v1](http://arxiv.org/abs/2410.08534v1)|null|
 |**2024-10-10**|**TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution**|Sohwi Kim et.al.|[2410.07663v1](http://arxiv.org/abs/2410.07663v1)|null|
 |**2024-10-09**|**HFH-Font: Few-shot Chinese Font Synthesis with Higher Quality, Faster Speed, and Higher Resolution**|Hua Li et.al.|[2410.06488v1](http://arxiv.org/abs/2410.06488v1)|**[link](https://github.com/grovessss/hfh-font)**|
 |**2024-10-09**|**MaskBlur: Spatial and Angular Data Augmentation for Light Field Image Super-Resolution**|Wentao Chao et.al.|[2410.06478v1](http://arxiv.org/abs/2410.06478v1)|**[link](https://github.com/chaowentao/maskblur)**|
@@ -7770,6 +7788,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534v1](http://arxiv.org/abs/2410.08534v1)|null|
 |**2024-10-08**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799v1](http://arxiv.org/abs/2410.05799v1)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
 |**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225v1](http://arxiv.org/abs/2410.04225v1)|null|
 |**2024-10-04**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936v1](http://arxiv.org/abs/2410.03936v1)|**[link](https://github.com/Ascend-Research/Turtle)**|
@@ -8050,6 +8069,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers**|Jin Cao et.al.|[2410.08688v1](http://arxiv.org/abs/2410.08688v1)|**[link](https://github.com/toummhus/chain-of-restoration)**|
 |**2024-10-10**|**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**|Hsing-Hua Wang et.al.|[2410.08177v1](http://arxiv.org/abs/2410.08177v1)|null|
 |**2024-10-09**|**InstantIR: Blind Image Restoration with Instant Generative Reference**|Jen-Yuan Huang et.al.|[2410.06551v1](http://arxiv.org/abs/2410.06551v1)|null|
 |**2024-10-08**|**ReFIR: Grounding Large Restoration Models with Retrieval Augmentation**|Hang Guo et.al.|[2410.05601v1](http://arxiv.org/abs/2410.05601v1)|**[link](https://github.com/csguoh/refir)**|
@@ -8560,6 +8580,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Revised Point-Spread Functions for the Atmospheric Imaging Assembly onboard the Solar Dynamics Observatory**|Stefan Hofmeister et.al.|[2410.08967v1](http://arxiv.org/abs/2410.08967v1)|null|
 |**2024-10-10**|**Methods for Few-View CT Image Reconstruction**|Kyle M. Champley et.al.|[2410.07552v1](http://arxiv.org/abs/2410.07552v1)|null|
 |**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250v1](http://arxiv.org/abs/2410.07250v1)|**[link](https://github.com/image-processing-particle-flow/project1)**|
 |**2024-10-08**|**Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**|Sha Guo et.al.|[2410.06149v1](http://arxiv.org/abs/2410.06149v1)|null|
