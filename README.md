@@ -6110,7 +6110,7 @@
 |**2024-10-10**|**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution**|Jianze Li et.al.|[2410.04224v2](http://arxiv.org/abs/2410.04224v2)|**[link](https://github.com/jianzeli-114/dfosd)**|
 |**2024-10-05**|**Exploring Strengths and Weaknesses of Super-Resolution Attack in Deepfake Detection**|Davide Alessandro Coccomini et.al.|[2410.04205v1](http://arxiv.org/abs/2410.04205v1)|null|
 |**2024-10-05**|**TV-based Deep 3D Self Super-Resolution for fMRI**|Fernando Pérez-Bueno et.al.|[2410.04097v1](http://arxiv.org/abs/2410.04097v1)|null|
-|**2024-10-04**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936v1](http://arxiv.org/abs/2410.03936v1)|**[link](https://github.com/Ascend-Research/Turtle)**|
+|**2024-10-15**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936v2](http://arxiv.org/abs/2410.03936v2)|**[link](https://github.com/Ascend-Research/Turtle)**|
 |**2024-10-01**|**Resolution Enhancement of Scanning Electron Micrographs using Artificial Intelligence**|Tom Reclik et.al.|[2410.03746v1](http://arxiv.org/abs/2410.03746v1)|null|
 |**2024-10-04**|**Point-Spread-Function Engineering in MINFLUX: Optimality of Donut and Half-Moon Excitation Patterns**|Yan Liu et.al.|[2410.03349v1](http://arxiv.org/abs/2410.03349v1)|null|
 |**2024-10-04**|**Atom Camera: Super-resolution scanning microscope of a light pattern with a single ultracold atom**|Takafumi Tomita et.al.|[2410.03241v1](http://arxiv.org/abs/2410.03241v1)|null|
@@ -7843,7 +7843,7 @@
 |**2024-10-11**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534v1](http://arxiv.org/abs/2410.08534v1)|null|
 |**2024-10-12**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799v2](http://arxiv.org/abs/2410.05799v2)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
 |**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225v1](http://arxiv.org/abs/2410.04225v1)|null|
-|**2024-10-04**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936v1](http://arxiv.org/abs/2410.03936v1)|**[link](https://github.com/Ascend-Research/Turtle)**|
+|**2024-10-15**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936v2](http://arxiv.org/abs/2410.03936v2)|**[link](https://github.com/Ascend-Research/Turtle)**|
 |**2024-09-25**|**AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**|Marcos V Conde et.al.|[2409.17256v1](http://arxiv.org/abs/2409.17256v1)|null|
 |**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244v1](http://arxiv.org/abs/2408.14244v1)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205v1](http://arxiv.org/abs/2408.05205v1)|null|
@@ -8169,7 +8169,7 @@
 |**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912v1](http://arxiv.org/abs/2408.09912v1)|**[link](https://github.com/alik033/lit-net)**|
 |**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241v1](http://arxiv.org/abs/2408.09241v1)|**[link](https://github.com/linxin0/rscp2gan)**|
 |**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149v1](http://arxiv.org/abs/2408.08149v1)|null|
-|**2024-08-28**|**HAIR: Hypernetworks-based All-in-One Image Restoration**|Jin Cao et.al.|[2408.08091v2](http://arxiv.org/abs/2408.08091v2)|**[link](https://github.com/toummHus/HAIR)**|
+|**2024-10-15**|**HAIR: Hypernetworks-based All-in-One Image Restoration**|Jin Cao et.al.|[2408.08091v3](http://arxiv.org/abs/2408.08091v3)|**[link](https://github.com/toummHus/HAIR)**|
 |**2024-08-13**|**Review Learning: Advancing All-in-One Ultra-High-Definition Image Restoration Training Method**|Xin Su et.al.|[2408.06709v1](http://arxiv.org/abs/2408.06709v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-10**|**Greedy randomized block Kaczmarz method for matrix equation AXB=C and its applications in color image restoration**|Wenli Wang et.al.|[2408.05444v1](http://arxiv.org/abs/2408.05444v1)|null|
@@ -8653,7 +8653,7 @@
 |**2024-10-03**|**An Efficient Inference Frame for SMLM (Single-Molecule Localization Microscopy)**|Tingdan Luo et.al.|[2410.02314v1](http://arxiv.org/abs/2410.02314v1)|**[link](https://github.com/ltd0924/EfficiencyInferFrame)**|
 |**2024-10-03**|**SC-CDM: Enhancing Quality of Image Semantic Communication with a Compact Diffusion Model**|Kexin Zhang et.al.|[2410.02121v1](http://arxiv.org/abs/2410.02121v1)|null|
 |**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057v1](http://arxiv.org/abs/2410.02057v1)|null|
-|**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756v1](http://arxiv.org/abs/2410.01756v1)|**[link](https://github.com/lxa9867/imagefolder)**|
+|**2024-10-15**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756v2](http://arxiv.org/abs/2410.01756v2)|**[link](https://github.com/lxa9867/imagefolder)**|
 |**2024-10-02**|**Anti-biofouling Lensless Camera System with Deep Learning based Image Reconstruction**|Naoki Ide et.al.|[2410.01365v1](http://arxiv.org/abs/2410.01365v1)|null|
 |**2024-10-01**|**Basis function compression for field probe monitoring**|Paul Dubovan et.al.|[2410.00754v1](http://arxiv.org/abs/2410.00754v1)|null|
 |**2024-09-15**|**Comparing DWI image quality of deep-learning-reconstructed EPI with RESOLVE in breast lesions at 3.0T: a pilot study**|Marialena I. Tsarouchi et.al.|[2410.00018v1](http://arxiv.org/abs/2410.00018v1)|null|
