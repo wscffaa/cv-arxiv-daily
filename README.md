@@ -31,7 +31,7 @@
 |**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826v1](http://arxiv.org/abs/2410.11826v1)|**[link](https://github.com/jcopo/ContrastiveDiffusions)**|
 |**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817v1](http://arxiv.org/abs/2410.11817v1)|**[link](https://github.com/luping-liu/longalign)**|
 |**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815v1](http://arxiv.org/abs/2410.11815v1)|null|
-|**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795v1](http://arxiv.org/abs/2410.11795v1)|null|
+|**2024-10-16**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795v2](http://arxiv.org/abs/2410.11795v2)|null|
 |**2024-10-15**|**Patch-Based Diffusion Models Beat Whole-Image Models for Mismatched Distribution Inverse Problems**|Jason Hu et.al.|[2410.11730v1](http://arxiv.org/abs/2410.11730v1)|null|
 |**2024-10-15**|**DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment**|Wendi Chen et.al.|[2410.11584v1](http://arxiv.org/abs/2410.11584v1)|null|
 |**2024-10-15**|**Riemann-Liouville fractional Brownian motion with random Hurst exponent**|Hubert Woszczek et.al.|[2410.11546v1](http://arxiv.org/abs/2410.11546v1)|null|
@@ -10068,7 +10068,7 @@
 |**2024-09-25**|**Exploring synthetic data for cross-speaker style transfer in style representation based TTS**|Lucas H. Ueda et.al.|[2409.17364v1](http://arxiv.org/abs/2409.17364v1)|null|
 |**2024-10-03**|**TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control**|Yu Zhang et.al.|[2409.15977v3](http://arxiv.org/abs/2409.15977v3)|**[link](https://github.com/AaronZ345/TCSinger)**|
 |**2024-09-24**|**AEANet: Affinity Enhanced Attentional Networks for Arbitrary Style Transfer**|Gen Li et.al.|[2409.14652v2](http://arxiv.org/abs/2409.14652v2)|null|
-|**2024-09-26**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832v2](http://arxiv.org/abs/2409.13832v2)|**[link](https://github.com/gtsinger/gtsinger)**|
+|**2024-10-16**|**GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks**|Yu Zhang et.al.|[2409.13832v3](http://arxiv.org/abs/2409.13832v3)|**[link](https://github.com/gtsinger/gtsinger)**|
 |**2024-09-19**|**DNI: Dilutional Noise Initialization for Diffusion Video Editing**|Sunjae Yoon et.al.|[2409.13037v1](http://arxiv.org/abs/2409.13037v1)|null|
 |**2024-09-18**|**METEOR: Melody-aware Texture-controllable Symbolic Orchestral Music Generation**|Dinh-Viet-Toan Le et.al.|[2409.11753v1](http://arxiv.org/abs/2409.11753v1)|**[link](https://github.com/dinhviettoanle/meteor)**|
 |**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385v1](http://arxiv.org/abs/2409.10385v1)|**[link](https://github.com/filippobotti/mambast)**|
