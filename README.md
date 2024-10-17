@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777v1](http://arxiv.org/abs/2410.12777v1)|null|
+|**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761v1](http://arxiv.org/abs/2410.12761v1)|null|
+|**2024-10-16**|**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization**|Xingqi Wang et.al.|[2410.12700v1](http://arxiv.org/abs/2410.12700v1)|**[link](https://github.com/achernarwang/LiVO)**|
+|**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696v1](http://arxiv.org/abs/2410.12696v1)|null|
+|**2024-10-16**|**One Step Diffusion via Shortcut Models**|Kevin Frans et.al.|[2410.12557v1](http://arxiv.org/abs/2410.12557v1)|null|
+|**2024-10-16**|**Disentangling data distribution for Federated Learning**|Xinyuan Zhao et.al.|[2410.12530v1](http://arxiv.org/abs/2410.12530v1)|null|
+|**2024-10-16**|**Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing**|Mingce Guo et.al.|[2410.12526v1](http://arxiv.org/abs/2410.12526v1)|null|
+|**2024-10-16**|**Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective**|Yongxin Zhu et.al.|[2410.12490v1](http://arxiv.org/abs/2410.12490v1)|**[link](https://github.com/DAMO-NLP-SG/DiGIT)**|
+|**2024-10-16**|**DaDiff: Domain-aware Diffusion Model for Nighttime UAV Tracking**|Haobo Zuo et.al.|[2410.12270v1](http://arxiv.org/abs/2410.12270v1)|null|
+|**2024-10-16**|**FlashAudio: Rectified Flows for Fast and High-Fidelity Text-to-Audio Generation**|Huadai Liu et.al.|[2410.12266v1](http://arxiv.org/abs/2410.12266v1)|null|
+|**2024-10-16**|**Preference Optimization with Multi-Sample Comparisons**|Chaoqi Wang et.al.|[2410.12138v1](http://arxiv.org/abs/2410.12138v1)|null|
+|**2024-10-15**|**DDIL: Improved Diffusion Distillation With Imitation Learning**|Risheek Garrepalli et.al.|[2410.11971v1](http://arxiv.org/abs/2410.11971v1)|null|
+|**2024-10-15**|**CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning**|Qingqing Cao et.al.|[2410.11963v1](http://arxiv.org/abs/2410.11963v1)|null|
+|**2024-10-15**|**ChatHouseDiffusion: Prompt-Guided Generation and Editing of Floor Plans**|Sizhong Qin et.al.|[2410.11908v1](http://arxiv.org/abs/2410.11908v1)|**[link](https://github.com/ChatHouseDiffusion/chathousediffusion)**|
 |**2024-10-15**|**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**|Junhwa Hur et.al.|[2410.11838v1](http://arxiv.org/abs/2410.11838v1)|null|
 |**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835v1](http://arxiv.org/abs/2410.11835v1)|null|
 |**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826v1](http://arxiv.org/abs/2410.11826v1)|**[link](https://github.com/jcopo/ContrastiveDiffusions)**|
@@ -44,7 +58,7 @@
 |**2024-10-15**|**Diff-SAGe: End-to-End Spatial Audio Generation Using Diffusion Models**|Saksham Singh Kushwaha et.al.|[2410.11299v1](http://arxiv.org/abs/2410.11299v1)|null|
 |**2024-10-15**|**Shallow diffusion networks provably learn hidden low-dimensional structure**|Nicholas M. Boffi et.al.|[2410.11275v1](http://arxiv.org/abs/2410.11275v1)|null|
 |**2024-10-15**|**Learning Diffusion Model from Noisy Measurement using Principled Expectation-Maximization Method**|Weimin Bai et.al.|[2410.11241v1](http://arxiv.org/abs/2410.11241v1)|null|
-|**2024-10-15**|**DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models**|Zhengyang Yu et.al.|[2410.11208v1](http://arxiv.org/abs/2410.11208v1)|null|
+|**2024-10-15**|**DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models**|Zhengyang Yu et.al.|[2410.11208v1](http://arxiv.org/abs/2410.11208v1)|**[link](https://github.com/Dijkstra14/DreamSteerer)**|
 |**2024-10-15**|**Free Hunch: Denoiser Covariance Estimation for Diffusion Models Without Extra Costs**|Severi Rissanen et.al.|[2410.11149v1](http://arxiv.org/abs/2410.11149v1)|null|
 |**2024-10-14**|**DMDSpeech: Distilled Diffusion Model Surpassing The Teacher in Zero-shot Speech Synthesis via Direct Metric Optimization**|Yingahao Aaron Li et.al.|[2410.11097v1](http://arxiv.org/abs/2410.11097v1)|null|
 |**2024-10-14**|**Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**|Cheng Lu et.al.|[2410.11081v1](http://arxiv.org/abs/2410.11081v1)|null|
@@ -6118,9 +6132,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Transformer based super-resolution downscaling for regional reanalysis: Full domain vs tiling approaches**|Antonio Pérez et.al.|[2410.12728v1](http://arxiv.org/abs/2410.12728v1)|null|
+|**2024-10-16**|**Approximations of MINFLUX Localization Precision with Background**|Zach Marin et.al.|[2410.12427v1](http://arxiv.org/abs/2410.12427v1)|null|
+|**2024-10-16**|**Superoscillation focusing of high-order cylindrical-vector beams**|Zhongwei Jin et.al.|[2410.12335v1](http://arxiv.org/abs/2410.12335v1)|null|
 |**2024-10-15**|**Temporal resolution enhancement in Structured Illumination Microscopy using cascaded reconstruction**|Doron Shterman et.al.|[2410.11770v1](http://arxiv.org/abs/2410.11770v1)|null|
 |**2024-10-15**|**Degradation Oriented and Regularized Network for Real-World Depth Super-Resolution**|Zhengxue Wang et.al.|[2410.11666v1](http://arxiv.org/abs/2410.11666v1)|null|
-|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506v1](http://arxiv.org/abs/2410.11506v1)|null|
+|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506v1](http://arxiv.org/abs/2410.11506v1)|**[link](https://github.com/nichenxingmeng/STDAN)**|
 |**2024-10-14**|**Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution**|Junbo Qiao et.al.|[2410.10140v1](http://arxiv.org/abs/2410.10140v1)|null|
 |**2024-10-14**|**Optimizing Fingerprint-Spectrum-Based Synchronization in Integrated Sensing and Communications**|Xiao-Yang Wang et.al.|[2410.10134v1](http://arxiv.org/abs/2410.10134v1)|null|
 |**2024-10-14**|**REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**|Zhiyun Song et.al.|[2410.10097v1](http://arxiv.org/abs/2410.10097v1)|null|
@@ -6158,7 +6175,7 @@
 |**2024-09-26**|**LGFN: Lightweight Light Field Image Super-Resolution using Local Convolution Modulation and Global Attention Feature Extraction**|Zhongxin Yu et.al.|[2409.17759v1](http://arxiv.org/abs/2409.17759v1)|null|
 |**2024-09-26**|**Unifying Dimensions: A Linear Adaptive Approach to Lightweight Image Super-Resolution**|Zhenyu Hu et.al.|[2409.17597v1](http://arxiv.org/abs/2409.17597v1)|null|
 |**2024-09-26**|**Study of Subjective and Objective Quality in Super-Resolution Enhanced Broadcast Images on a Novel SR-IQA Dataset**|Yongrok Kim et.al.|[2409.17451v1](http://arxiv.org/abs/2409.17451v1)|null|
-|**2024-09-25**|**PSWF-Radon approach to reconstruction from band-limited Hankel transform**|Fedor Goncharov et.al.|[2409.17409v1](http://arxiv.org/abs/2409.17409v1)|null|
+|**2024-09-25**|**PSWF-Radon approach to reconstruction from band-limited Hankel transform**|Fedor Goncharov et.al.|[2409.17409v1](http://arxiv.org/abs/2409.17409v1)|**[link](https://github.com/fedor-goncharov/pswf-radon)**|
 |**2024-09-25**|**Implicit Neural Representations for Simultaneous Reduction and Continuous Reconstruction of Multi-Altitude Climate Data**|Alif Bin Abdul Qayyum et.al.|[2409.17367v1](http://arxiv.org/abs/2409.17367v1)|**[link](https://github.com/alifbinabdulqayyum/multi-altitude-inn)**|
 |**2024-09-25**|**AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**|Marcos V Conde et.al.|[2409.17256v1](http://arxiv.org/abs/2409.17256v1)|null|
 |**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058v1](http://arxiv.org/abs/2409.17058v1)|**[link](https://github.com/arctichare105/s3diff)**|
@@ -7868,7 +7885,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506v1](http://arxiv.org/abs/2410.11506v1)|null|
+|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506v1](http://arxiv.org/abs/2410.11506v1)|**[link](https://github.com/nichenxingmeng/STDAN)**|
 |**2024-10-11**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534v1](http://arxiv.org/abs/2410.08534v1)|null|
 |**2024-10-12**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799v2](http://arxiv.org/abs/2410.05799v2)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
 |**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225v1](http://arxiv.org/abs/2410.04225v1)|null|
@@ -8150,6 +8167,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**|Pengwei Liang et.al.|[2410.12274v1](http://arxiv.org/abs/2410.12274v1)|null|
 |**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828v1](http://arxiv.org/abs/2410.11828v1)|null|
 |**2024-10-11**|**Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers**|Jin Cao et.al.|[2410.08688v1](http://arxiv.org/abs/2410.08688v1)|**[link](https://github.com/toummhus/chain-of-restoration)**|
 |**2024-10-10**|**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**|Hsing-Hua Wang et.al.|[2410.08177v1](http://arxiv.org/abs/2410.08177v1)|null|
@@ -8662,6 +8680,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**A Primal-dual algorithm for image reconstruction with ICNNs**|Hok Shing Wong et.al.|[2410.12441v1](http://arxiv.org/abs/2410.12441v1)|null|
+|**2024-10-16**|**Two Birds with One Stone: Multi-Task Semantic Communications Systems over Relay Channel**|Yujie Cao et.al.|[2410.12302v1](http://arxiv.org/abs/2410.12302v1)|null|
 |**2024-10-15**|**Patch-Based Diffusion Models Beat Whole-Image Models for Mismatched Distribution Inverse Problems**|Jason Hu et.al.|[2410.11730v1](http://arxiv.org/abs/2410.11730v1)|null|
 |**2024-10-15**|**Cross-Dataset Generalization in Deep Learning**|Xuyu Zhang et.al.|[2410.11207v1](http://arxiv.org/abs/2410.11207v1)|null|
 |**2024-10-15**|**Deep unrolled primal dual network for TOF-PET list-mode image reconstruction**|Rui Hu et.al.|[2410.11148v1](http://arxiv.org/abs/2410.11148v1)|**[link](https://github.com/rickhh/lmpdnet)**|
@@ -9480,7 +9500,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-15**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373v1](http://arxiv.org/abs/2410.11373v1)|null|
-|**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi et.al.|[2410.10984v1](http://arxiv.org/abs/2410.10984v1)|null|
+|**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi et.al.|[2410.10984v1](http://arxiv.org/abs/2410.10984v1)|**[link](https://github.com/WaveOpt-Lab/YES-bound)**|
 |**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234v1](http://arxiv.org/abs/2410.05234v1)|**[link](https://github.com/yutazhuo/diffusereg)**|
 |**2024-10-03**|**Galaxy-Galaxy Strong Lensing with U-Net (GGSL-UNet). I. Extracting 2-Dimensional Information from Multi-Band Images in Ground and Space Observations**|Fucheng Zhong et.al.|[2410.02936v1](http://arxiv.org/abs/2410.02936v1)|**[link](https://github.com/Fucheng-Zhong/GGSL-UNet)**|
 |**2024-10-03**|**An Improved Variational Method for Image Denoising**|Jing-En Huang et.al.|[2410.02587v1](http://arxiv.org/abs/2410.02587v1)|null|
