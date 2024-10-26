@@ -8324,7 +8324,7 @@
 |---|---|---|---|---|
 |**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666v1](http://arxiv.org/abs/2410.18666v1)|**[link](https://github.com/shallowdream204/dreamclear)**|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822v1](http://arxiv.org/abs/2410.17822v1)|**[link](https://github.com/eeic-lab/dreb-net)**|
-|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809v1](http://arxiv.org/abs/2410.17809v1)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809v1](http://arxiv.org/abs/2410.17809v1)|**[link](https://github.com/Kaiwen-Zhu/AgenticIR)**|
 |**2024-10-23**|**A variational approach to nonlocal image restoration flows**|Harsh Prasad et.al.|[2410.17649v1](http://arxiv.org/abs/2410.17649v1)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521v1](http://arxiv.org/abs/2410.17521v1)|**[link](https://github.com/hust-tan/diffusionvi)**|
 |**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385v1](http://arxiv.org/abs/2410.15385v1)|**[link](https://github.com/shallowdream204/lora-ir)**|
