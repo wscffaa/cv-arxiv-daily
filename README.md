@@ -26,6 +26,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**On Inductive Biases That Enable Generalization of Diffusion Transformers**|Jie An et.al.|[2410.21273v1](http://arxiv.org/abs/2410.21273v1)|null|
+|**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257v1](http://arxiv.org/abs/2410.21257v1)|null|
+|**2024-10-28**|**On learning higher-order cumulants in diffusion models**|Gert Aarts et.al.|[2410.21212v1](http://arxiv.org/abs/2410.21212v1)|null|
+|**2024-10-28**|**Extrapolating Prospective Glaucoma Fundus Images through Diffusion Model in Irregular Longitudinal Sequences**|Zhihao Zhao et.al.|[2410.21130v1](http://arxiv.org/abs/2410.21130v1)|null|
+|**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088v1](http://arxiv.org/abs/2410.21088v1)|null|
+|**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072v1](http://arxiv.org/abs/2410.21072v1)|null|
+|**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061v1](http://arxiv.org/abs/2410.21061v1)|null|
+|**2024-10-28**|**Beyond Autoregression: Fast LLMs via Self-Distillation Through Time**|Justin Deschenaux et.al.|[2410.21035v1](http://arxiv.org/abs/2410.21035v1)|null|
+|**2024-10-28**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981v1](http://arxiv.org/abs/2410.20981v1)|null|
+|**2024-10-28**|**Attention Overlap Is Responsible for The Entity Missing Problem in Text-to-image Diffusion Models!**|Arash Marioriyad et.al.|[2410.20972v1](http://arxiv.org/abs/2410.20972v1)|null|
+|**2024-10-28**|**Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models**|Weijian Luo et.al.|[2410.20898v1](http://arxiv.org/abs/2410.20898v1)|null|
+|**2024-10-28**|**Novel Object Synthesis via Adaptive Text-Image Harmony**|Zeren Xiong et.al.|[2410.20823v1](http://arxiv.org/abs/2410.20823v1)|null|
+|**2024-10-28**|**Development of a conditional diffusion model to predict process parameters and microstructures of dendrite crystals of matrix resin based on mechanical properties**|Arisa Ikeda et.al.|[2410.20822v1](http://arxiv.org/abs/2410.20822v1)|null|
+|**2024-10-28**|**Reprogramming Pretrained Target-Specific Diffusion Models for Dual-Target Drug Design**|Xiangxin Zhou et.al.|[2410.20688v1](http://arxiv.org/abs/2410.20688v1)|null|
+|**2024-10-27**|**TabDiff: a Multi-Modal Diffusion Model for Tabular Data Generation**|Juntong Shi et.al.|[2410.20626v1](http://arxiv.org/abs/2410.20626v1)|null|
+|**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587v1](http://arxiv.org/abs/2410.20587v1)|null|
+|**2024-10-27**|**Hamiltonian Score Matching and Generative Flows**|Peter Holderrieth et.al.|[2410.20470v1](http://arxiv.org/abs/2410.20470v1)|null|
+|**2024-10-27**|**Lodge++: High-quality and Long Dance Generation with Vivid Choreography Patterns**|Ronghui Li et.al.|[2410.20389v1](http://arxiv.org/abs/2410.20389v1)|null|
+|**2024-10-27**|**Conditional GAN for Enhancing Diffusion Models in Efficient and Authentic Global Gesture Generation from Audios**|Yongkang Cheng et.al.|[2410.20359v1](http://arxiv.org/abs/2410.20359v1)|null|
+|**2024-10-26**|**MarDini: Masked Autoregressive Diffusion for Video Generation at Scale**|Haozhe Liu et.al.|[2410.20280v1](http://arxiv.org/abs/2410.20280v1)|null|
+|**2024-10-26**|**Equivariant Blurring Diffusion for Hierarchical Molecular Conformer Generation**|Jiwoong Park et.al.|[2410.20255v1](http://arxiv.org/abs/2410.20255v1)|**[link](https://github.com/shen-lab/ebd)**|
+|**2024-10-26**|**An Efficient Watermarking Method for Latent Diffusion Models via Low-Rank Adaptation**|Dongdong Lin et.al.|[2410.20202v1](http://arxiv.org/abs/2410.20202v1)|null|
+|**2024-10-26**|**Copyright-Aware Incentive Scheme for Generative Art Models Using Hierarchical Reinforcement Learning**|Zhuan Shi et.al.|[2410.20180v1](http://arxiv.org/abs/2410.20180v1)|null|
+|**2024-10-26**|**Diff-CXR: Report-to-CXR generation through a disease-knowledge enhanced diffusion model**|Peng Huang et.al.|[2410.20165v1](http://arxiv.org/abs/2410.20165v1)|null|
+|**2024-10-26**|**Prompt Diffusion Robustifies Any-Modality Prompt Learning**|Yingjun Du et.al.|[2410.20164v1](http://arxiv.org/abs/2410.20164v1)|null|
+|**2024-10-26**|**Your Image is Secretly the Last Frame of a Pseudo Video**|Wenlong Chen et.al.|[2410.20158v1](http://arxiv.org/abs/2410.20158v1)|null|
+|**2024-10-26**|**Human-Object Interaction Detection Collaborated with Large Relation-driven Diffusion Models**|Liulei Li et.al.|[2410.20155v1](http://arxiv.org/abs/2410.20155v1)|null|
+|**2024-10-26**|**Super-resolved virtual staining of label-free tissue using diffusion models**|Yijie Zhang et.al.|[2410.20073v1](http://arxiv.org/abs/2410.20073v1)|null|
+|**2024-10-26**|**SCube: Instant Large-Scale Scene Reconstruction using VoxSplats**|Xuanchi Ren et.al.|[2410.20030v1](http://arxiv.org/abs/2410.20030v1)|null|
+|**2024-10-25**|**Maximizing User Engagement in Social Networks: A Game-Theoretic Approach to Network Participation and Resource Sharing**|Ahmed Luqman et.al.|[2410.19966v1](http://arxiv.org/abs/2410.19966v1)|null|
+|**2024-10-25**|**Gravitational-Wave Parameter Estimation in non-Gaussian noise using Score-Based Likelihood Characterization**|Ronan Legin et.al.|[2410.19956v1](http://arxiv.org/abs/2410.19956v1)|null|
 |**2024-10-25**|**Adversarial Environment Design via Regret-Guided Diffusion Models**|Hojun Chung et.al.|[2410.19715v1](http://arxiv.org/abs/2410.19715v1)|null|
 |**2024-10-25**|**DiffGS: Functional Gaussian Splatting Diffusion**|Junsheng Zhou et.al.|[2410.19657v1](http://arxiv.org/abs/2410.19657v1)|null|
 |**2024-10-25**|**Diffusion models for lattice gauge field simulations**|Qianteng Zhu et.al.|[2410.19602v1](http://arxiv.org/abs/2410.19602v1)|null|
@@ -6278,6 +6309,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Super-resolution with dynamics in the loss**|Jacob Page et.al.|[2410.20884v1](http://arxiv.org/abs/2410.20884v1)|null|
+|**2024-10-11**|**Super Resolution Based on Deep Operator Networks**|Siyuan Yang et.al.|[2410.20706v1](http://arxiv.org/abs/2410.20706v1)|null|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546v1](http://arxiv.org/abs/2410.20546v1)|null|
+|**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466v1](http://arxiv.org/abs/2410.20466v1)|**[link](https://github.com/jocelyney/gdnet)**|
+|**2024-10-26**|**Super-resolved virtual staining of label-free tissue using diffusion models**|Yijie Zhang et.al.|[2410.20073v1](http://arxiv.org/abs/2410.20073v1)|null|
 |**2024-10-25**|**A Flow-based Truncated Denoising Diffusion Model for Super-resolution Magnetic Resonance Spectroscopic Imaging**|Siyuan Dong et.al.|[2410.19288v1](http://arxiv.org/abs/2410.19288v1)|null|
 |**2024-10-24**|**A Spectral-based Physics-informed Finite Operator Learning for Prediction of Mechanical Behavior of Microstructures**|Ali Harandi et.al.|[2410.19027v1](http://arxiv.org/abs/2410.19027v1)|null|
 |**2024-10-25**|**Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis**|Yanguang Zhao et.al.|[2410.18698v2](http://arxiv.org/abs/2410.18698v2)|null|
@@ -7592,6 +7628,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546v1](http://arxiv.org/abs/2410.20546v1)|null|
+|**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466v1](http://arxiv.org/abs/2410.20466v1)|**[link](https://github.com/jocelyney/gdnet)**|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966v1](http://arxiv.org/abs/2410.17966v1)|null|
 |**2024-10-23**|**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution**|Yuanting Fan et.al.|[2410.17752v1](http://arxiv.org/abs/2410.17752v1)|null|
 |**2024-10-18**|**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer**|Yuhao Wan et.al.|[2410.14279v1](http://arxiv.org/abs/2410.14279v1)|null|
@@ -8860,6 +8898,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Orbit Design for the Millimetron Space Observatory**|T. A. Syachina et.al.|[2410.20847v1](http://arxiv.org/abs/2410.20847v1)|null|
 |**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164v1](http://arxiv.org/abs/2410.19164v1)|null|
 |**2024-10-24**|**Hybrid Quantum-Classical Feature Extraction approach for Image Classification using Autoencoders and Quantum SVMs**|Donovan Slabbert et.al.|[2410.18814v1](http://arxiv.org/abs/2410.18814v1)|null|
 |**2024-10-24**|**Advancements in Image Resolution: Super-Resolution Algorithm for Enhanced EOS-06 OCM-3 Data**|Ankur Garg et.al.|[2410.18690v1](http://arxiv.org/abs/2410.18690v1)|null|
@@ -9692,6 +9731,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Primal-dual algorithm for weakly convex functions under sharpness conditions**|Ewa Bednarczuk et.al.|[2410.20977v1](http://arxiv.org/abs/2410.20977v1)|null|
 |**2024-10-24**|**WARP-LCA: Efficient Convolutional Sparse Coding with Locally Competitive Algorithm**|Geoffrey Kasenbacher et.al.|[2410.18794v1](http://arxiv.org/abs/2410.18794v1)|null|
 |**2024-10-23**|**A variational approach to nonlocal image restoration flows**|Harsh Prasad et.al.|[2410.17649v1](http://arxiv.org/abs/2410.17649v1)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521v1](http://arxiv.org/abs/2410.17521v1)|**[link](https://github.com/hust-tan/diffusionvi)**|
@@ -10269,6 +10309,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**ST-ITO: Controlling Audio Effects for Style Transfer with Inference-Time Optimization**|Christian J. Steinmetz et.al.|[2410.21233v1](http://arxiv.org/abs/2410.21233v1)|null|
+|**2024-10-28**|**Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models**|Piotr Przybyła et.al.|[2410.20940v1](http://arxiv.org/abs/2410.20940v1)|null|
+|**2024-10-27**|**Learning from Response not Preference: A Stackelberg Approach for LLM Detoxification using Non-parallel Data**|Xinhong Xie et.al.|[2410.20298v1](http://arxiv.org/abs/2410.20298v1)|**[link](https://github.com/xxxinhong/detoxification_llm)**|
+|**2024-10-26**|**Anatomical 3D Style Transfer Enabling Efficient Federated Learning with Extremely Low Communication Costs**|Yuto Shibata et.al.|[2410.20102v1](http://arxiv.org/abs/2410.20102v1)|null|
+|**2024-10-26**|**UniVST: A Unified Framework for Training-free Localized Video Style Transfer**|Quanjian Song et.al.|[2410.20084v1](http://arxiv.org/abs/2410.20084v1)|null|
+|**2024-10-26**|**3D Distance-color-coded Assessment of PCI Stent Apposition via Deep-learning-based Three-dimensional Multi-object Segmentation**|Xiaoyang Qin et.al.|[2410.20055v1](http://arxiv.org/abs/2410.20055v1)|null|
 |**2024-10-19**|**Group Diffusion Transformers are Unsupervised Multitask Learners**|Lianghua Huang et.al.|[2410.15027v1](http://arxiv.org/abs/2410.15027v1)|null|
 |**2024-10-19**|**DiffuseST: Unleashing the Capability of the Diffusion Model for Style Transfer**|Ying Hu et.al.|[2410.15007v1](http://arxiv.org/abs/2410.15007v1)|null|
 |**2024-10-23**|**From Real Artifacts to Virtual Reference: A Robust Framework for Translating Endoscopic Images**|Junyang Wu et.al.|[2410.13896v2](http://arxiv.org/abs/2410.13896v2)|null|
