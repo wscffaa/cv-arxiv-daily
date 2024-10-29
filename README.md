@@ -31,7 +31,7 @@
 |**2024-10-25**|**Diffusion models for lattice gauge field simulations**|Qianteng Zhu et.al.|[2410.19602v1](http://arxiv.org/abs/2410.19602v1)|null|
 |**2024-10-25**|**Utilizing Image Transforms and Diffusion Models for Generative Modeling of Short and Long Time Series**|Ilan Naiman et.al.|[2410.19538v1](http://arxiv.org/abs/2410.19538v1)|null|
 |**2024-10-25**|**Ensemble Data Assimilation for Particle-based Methods**|Marius Duvillard et.al.|[2410.19525v1](http://arxiv.org/abs/2410.19525v1)|null|
-|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452v1](http://arxiv.org/abs/2410.19452v1)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-28**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452v2](http://arxiv.org/abs/2410.19452v2)|**[link](https://github.com/gongzix/neuroclips)**|
 |**2024-10-25**|**Learned Reference-based Diffusion Sampling for multi-modal distributions**|Maxence Noble et.al.|[2410.19449v1](http://arxiv.org/abs/2410.19449v1)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429v1](http://arxiv.org/abs/2410.19429v1)|null|
 |**2024-10-25**|**FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**|Zhengyao Lv et.al.|[2410.19355v1](http://arxiv.org/abs/2410.19355v1)|null|
@@ -51,7 +51,7 @@
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830v1](http://arxiv.org/abs/2410.18830v1)|null|
 |**2024-10-24**|**Fast constrained sampling in pre-trained diffusion models**|Alexandros Graikos et.al.|[2410.18804v1](http://arxiv.org/abs/2410.18804v1)|null|
 |**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775v1](http://arxiv.org/abs/2410.18775v1)|**[link](https://github.com/shilin-lu/vine)**|
-|**2024-10-25**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756v2](http://arxiv.org/abs/2410.18756v2)|null|
+|**2024-10-28**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756v3](http://arxiv.org/abs/2410.18756v3)|null|
 |**2024-10-24**|**Rectified Diffusion Guidance for Conditional Generation**|Mengfei Xia et.al.|[2410.18737v1](http://arxiv.org/abs/2410.18737v1)|null|
 |**2024-10-24**|**Retrieval-Augmented Diffusion Models for Time Series Forecasting**|Jingwei Liu et.al.|[2410.18712v1](http://arxiv.org/abs/2410.18712v1)|**[link](https://github.com/stanliu96/RATD)**|
 |**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678v1](http://arxiv.org/abs/2410.18678v1)|null|
@@ -9697,7 +9697,7 @@
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521v1](http://arxiv.org/abs/2410.17521v1)|**[link](https://github.com/hust-tan/diffusionvi)**|
 |**2024-10-20**|**MedDiff-FM: A Diffusion-based Foundation Model for Versatile Medical Image Applications**|Yongrui Yu et.al.|[2410.15432v1](http://arxiv.org/abs/2410.15432v1)|null|
 |**2024-10-17**|**An Adaptive Finite Difference Method for Total Variation Minimization**|Thomas Jacumin et.al.|[2410.13608v1](http://arxiv.org/abs/2410.13608v1)|null|
-|**2024-10-15**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373v1](http://arxiv.org/abs/2410.11373v1)|null|
+|**2024-10-28**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373v2](http://arxiv.org/abs/2410.11373v2)|null|
 |**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi et.al.|[2410.10984v1](http://arxiv.org/abs/2410.10984v1)|**[link](https://github.com/WaveOpt-Lab/YES-bound)**|
 |**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234v1](http://arxiv.org/abs/2410.05234v1)|**[link](https://github.com/yutazhuo/diffusereg)**|
 |**2024-10-03**|**Galaxy-Galaxy Strong Lensing with U-Net (GGSL-UNet). I. Extracting 2-Dimensional Information from Multi-Band Images in Ground and Space Observations**|Fucheng Zhong et.al.|[2410.02936v1](http://arxiv.org/abs/2410.02936v1)|**[link](https://github.com/Fucheng-Zhong/GGSL-UNet)**|
