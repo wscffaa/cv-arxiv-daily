@@ -26,6 +26,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149v1](http://arxiv.org/abs/2410.22149v1)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
+|**2024-10-29**|**Variational inference for pile-up removal at hadron colliders with diffusion models**|Malte Algren et.al.|[2410.22074v1](http://arxiv.org/abs/2410.22074v1)|null|
+|**2024-10-29**|**Dual Conditional Diffusion Models for Sequential Recommendation**|Hongtao Huang et.al.|[2410.21967v1](http://arxiv.org/abs/2410.21967v1)|null|
+|**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966v1](http://arxiv.org/abs/2410.21966v1)|null|
+|**2024-10-29**|**CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach**|Dac Thai Nguyen et.al.|[2410.21932v1](http://arxiv.org/abs/2410.21932v1)|**[link](https://github.com/thanhhff/CPDM)**|
+|**2024-10-29**|**Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation**|Muskan Gupta et.al.|[2410.21892v1](http://arxiv.org/abs/2410.21892v1)|null|
+|**2024-10-29**|**Diffusion as Reasoning: Enhancing Object Goal Navigation with LLM-Biased Diffusion Model**|Yiming Ji et.al.|[2410.21842v1](http://arxiv.org/abs/2410.21842v1)|null|
+|**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826v1](http://arxiv.org/abs/2410.21826v1)|**[link](https://github.com/Ahn-Ssu/VCM)**|
+|**2024-10-29**|**HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion**|Yu Zeng et.al.|[2410.21789v1](http://arxiv.org/abs/2410.21789v1)|null|
+|**2024-10-29**|**DiffusionVel: Multi-Information Integrated Velocity Inversion Using Generative Diffusion Models**|Hao Zhang et.al.|[2410.21776v1](http://arxiv.org/abs/2410.21776v1)|null|
+|**2024-10-29**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759v1](http://arxiv.org/abs/2410.21759v1)|null|
+|**2024-10-29**|**DiffSTR: Controlled Diffusion Models for Scene Text Removal**|Sanhita Pathak et.al.|[2410.21721v1](http://arxiv.org/abs/2410.21721v1)|null|
+|**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708v1](http://arxiv.org/abs/2410.21708v1)|**[link](https://github.com/xiarho/madm)**|
+|**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669v1](http://arxiv.org/abs/2410.21669v1)|null|
+|**2024-10-29**|**Exploring Local Memorization in Diffusion Models via Bright Ending Attention**|Chen Chen et.al.|[2410.21665v1](http://arxiv.org/abs/2410.21665v1)|null|
+|**2024-10-29**|**Applications of the Second-Order Esscher Pricing in Risk Management**|Tahir Choulli et.al.|[2410.21649v1](http://arxiv.org/abs/2410.21649v1)|null|
+|**2024-10-29**|**RDSinger: Reference-based Diffusion Network for Singing Voice Synthesis**|Kehan Sui et.al.|[2410.21641v1](http://arxiv.org/abs/2410.21641v1)|null|
+|**2024-10-29**|**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis**|Deepak Sridhar et.al.|[2410.21638v1](http://arxiv.org/abs/2410.21638v1)|null|
+|**2024-10-29**|**OFER: Occluded Face Expression Reconstruction**|Pratheba Selvaraju et.al.|[2410.21629v1](http://arxiv.org/abs/2410.21629v1)|null|
+|**2024-10-28**|**CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation**|Claudius Krause et.al.|[2410.21611v1](http://arxiv.org/abs/2410.21611v1)|null|
+|**2024-10-28**|**Diffusion-nested Auto-Regressive Synthesis of Heterogeneous Tabular Data**|Hengrui Zhang et.al.|[2410.21523v1](http://arxiv.org/abs/2410.21523v1)|null|
+|**2024-10-28**|**Enhancing CTR Prediction in Recommendation Domain with Search Query Representation**|Yuening Wang et.al.|[2410.21487v1](http://arxiv.org/abs/2410.21487v1)|null|
+|**2024-10-28**|**AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models**|Yaopei Zeng et.al.|[2410.21471v1](http://arxiv.org/abs/2410.21471v1)|null|
+|**2024-10-28**|**Energy-Based Diffusion Language Models for Text Generation**|Minkai Xu et.al.|[2410.21357v1](http://arxiv.org/abs/2410.21357v1)|null|
+|**2024-10-28**|**Absorb & Escape: Overcoming Single Model Limitations in Generating Genomic Sequences**|Zehui Li et.al.|[2410.21345v1](http://arxiv.org/abs/2410.21345v1)|**[link](https://github.com/Zehui127/Absorb-Escape)**|
+|**2024-10-27**|**E(3)-invaraint diffusion model for pocket-aware peptide generation**|Po-Yu Liang et.al.|[2410.21335v1](http://arxiv.org/abs/2410.21335v1)|null|
 |**2024-10-28**|**On Inductive Biases That Enable Generalization of Diffusion Transformers**|Jie An et.al.|[2410.21273v1](http://arxiv.org/abs/2410.21273v1)|null|
 |**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257v1](http://arxiv.org/abs/2410.21257v1)|null|
 |**2024-10-28**|**On learning higher-order cumulants in diffusion models**|Gert Aarts et.al.|[2410.21212v1](http://arxiv.org/abs/2410.21212v1)|null|
@@ -6309,6 +6335,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826v1](http://arxiv.org/abs/2410.21826v1)|**[link](https://github.com/Ahn-Ssu/VCM)**|
+|**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653v1](http://arxiv.org/abs/2410.21653v1)|null|
+|**2024-10-28**|**Super-resolution in disordered media using neural networks**|Alexander Christie et.al.|[2410.21556v1](http://arxiv.org/abs/2410.21556v1)|null|
 |**2024-10-28**|**Super-resolution with dynamics in the loss**|Jacob Page et.al.|[2410.20884v1](http://arxiv.org/abs/2410.20884v1)|null|
 |**2024-10-11**|**Super Resolution Based on Deep Operator Networks**|Siyuan Yang et.al.|[2410.20706v1](http://arxiv.org/abs/2410.20706v1)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546v1](http://arxiv.org/abs/2410.20546v1)|null|
@@ -7628,6 +7657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653v1](http://arxiv.org/abs/2410.21653v1)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546v1](http://arxiv.org/abs/2410.20546v1)|null|
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466v1](http://arxiv.org/abs/2410.20466v1)|**[link](https://github.com/jocelyney/gdnet)**|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966v1](http://arxiv.org/abs/2410.17966v1)|null|
@@ -8898,6 +8928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643v1](http://arxiv.org/abs/2410.21643v1)|null|
 |**2024-10-28**|**Orbit Design for the Millimetron Space Observatory**|T. A. Syachina et.al.|[2410.20847v1](http://arxiv.org/abs/2410.20847v1)|null|
 |**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164v1](http://arxiv.org/abs/2410.19164v1)|null|
 |**2024-10-24**|**Hybrid Quantum-Classical Feature Extraction approach for Image Classification using Autoencoders and Quantum SVMs**|Donovan Slabbert et.al.|[2410.18814v1](http://arxiv.org/abs/2410.18814v1)|null|
@@ -10076,6 +10107,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966v1](http://arxiv.org/abs/2410.21966v1)|null|
 |**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v1](http://arxiv.org/abs/2410.14672v1)|**[link](https://github.com/haoosz/BiGR)**|
 |**2024-10-14**|**MagicEraser: Erasing Any Objects via Semantics-Aware Control**|Fan Li et.al.|[2410.10207v1](http://arxiv.org/abs/2410.10207v1)|**[link](https://github.com/lifan724/magic_eraser)**|
 |**2024-10-07**|**Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**|Jinwei Zhang et.al.|[2410.05027v1](http://arxiv.org/abs/2410.05027v1)|null|
@@ -10083,7 +10115,7 @@
 |**2024-09-29**|**Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model**|Yifan Duan et.al.|[2409.19608v1](http://arxiv.org/abs/2409.19608v1)|null|
 |**2024-09-25**|**Small metal artifact detection and inpainting in cardiac CT images**|Trevor McKeown et.al.|[2409.17342v1](http://arxiv.org/abs/2409.17342v1)|null|
 |**2024-09-25**|**Enhanced Wavelet Scattering Network for image inpainting detection**|Barglazan Adrian-Alin et.al.|[2409.17023v1](http://arxiv.org/abs/2409.17023v1)|null|
-|**2024-09-23**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677v1](http://arxiv.org/abs/2409.14677v1)|null|
+|**2024-09-23**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677v1](http://arxiv.org/abs/2409.14677v1)|**[link](https://github.com/val-iisc/Reflecting-Reality)**|
 |**2024-09-19**|**Image inpainting for corrupted images by using the semi-super resolution GAN**|Mehrshad Momen-Tayefeh et.al.|[2409.12636v1](http://arxiv.org/abs/2409.12636v1)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
 |**2024-08-16**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v1](http://arxiv.org/abs/2408.08984v1)|**[link](https://github.com/quaife/FDV_Data)**|
