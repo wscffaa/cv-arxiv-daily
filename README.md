@@ -37,15 +37,15 @@
 |**2024-10-30**|**DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes**|Jialiang Zhang et.al.|[2410.23004v1](http://arxiv.org/abs/2410.23004v1)|null|
 |**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979v1](http://arxiv.org/abs/2410.22979v1)|null|
 |**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971v1](http://arxiv.org/abs/2410.22971v1)|null|
-|**2024-10-30**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938v1](http://arxiv.org/abs/2410.22938v1)|**[link](https://github.com/lokol5579/DiffLight-release)**|
+|**2024-10-31**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938v2](http://arxiv.org/abs/2410.22938v2)|**[link](https://github.com/lokol5579/DiffLight-release)**|
 |**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901v1](http://arxiv.org/abs/2410.22901v1)|**[link](https://github.com/HelloVision/HelloMeme)**|
 |**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830v1](http://arxiv.org/abs/2410.22830v1)|null|
 |**2024-10-30**|**Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models**|Arash Marioriyad et.al.|[2410.22775v1](http://arxiv.org/abs/2410.22775v1)|null|
 |**2024-10-30**|**FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images**|Zheng Yu et.al.|[2410.22771v1](http://arxiv.org/abs/2410.22771v1)|**[link](https://github.com/thomas-wyh/fuseanypart)**|
-|**2024-10-30**|**Consistency Diffusion Bridge Models**|Guande He et.al.|[2410.22637v1](http://arxiv.org/abs/2410.22637v1)|null|
+|**2024-10-31**|**Consistency Diffusion Bridge Models**|Guande He et.al.|[2410.22637v2](http://arxiv.org/abs/2410.22637v2)|null|
 |**2024-10-29**|**Stochastic Trajectories and Spectral Boundary Conditions for Enhanced Diffusion in Immersed Boundary Problems**|Rômulo Damasclin Chaves dos Santos et.al.|[2410.22579v1](http://arxiv.org/abs/2410.22579v1)|null|
 |**2024-10-29**|**Unpicking Data at the Seams: VAEs, Disentanglement and Independent Components**|Carl Allen et.al.|[2410.22559v1](http://arxiv.org/abs/2410.22559v1)|null|
-|**2024-10-29**|**FairSkin: Fair Diffusion for Skin Disease Image Generation**|Ruichen Zhang et.al.|[2410.22551v1](http://arxiv.org/abs/2410.22551v1)|null|
+|**2024-10-31**|**FairSkin: Fair Diffusion for Skin Disease Image Generation**|Ruichen Zhang et.al.|[2410.22551v2](http://arxiv.org/abs/2410.22551v2)|null|
 |**2024-10-29**|**Embedding Watermarks in Diffusion Process for Model Intellectual Property Protection**|Jijia Yang et.al.|[2410.22445v1](http://arxiv.org/abs/2410.22445v1)|null|
 |**2024-10-29**|**Point cloud-based diffusion models for the Electron-Ion Collider**|Jack Y. Araz et.al.|[2410.22421v1](http://arxiv.org/abs/2410.22421v1)|null|
 |**2024-10-29**|**Discrete Modeling via Boundary Conditional Diffusion Processes**|Yuxuan Gu et.al.|[2410.22380v1](http://arxiv.org/abs/2410.22380v1)|null|
