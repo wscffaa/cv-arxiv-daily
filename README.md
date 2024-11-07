@@ -39,7 +39,7 @@
 |**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334v1](http://arxiv.org/abs/2411.02334v1)|null|
 |**2024-11-04**|**LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation**|Mufei Li et.al.|[2411.02322v1](http://arxiv.org/abs/2411.02322v1)|**[link](https://github.com/graph-com/layerdag)**|
 |**2024-11-05**|**Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation**|Xianghui Yang et.al.|[2411.02293v2](http://arxiv.org/abs/2411.02293v2)|null|
-|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v1](http://arxiv.org/abs/2411.02229v1)|null|
+|**2024-11-05**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v2](http://arxiv.org/abs/2411.02229v2)|null|
 |**2024-11-04**|**CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality**|Yiqin Zhao et.al.|[2411.02179v1](http://arxiv.org/abs/2411.02179v1)|null|
 |**2024-11-04**|**Model Integrity when Unlearning with T2I Diffusion Models**|Andrea Schioppa et.al.|[2411.02068v1](http://arxiv.org/abs/2411.02068v1)|null|
 |**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819v1](http://arxiv.org/abs/2411.01819v1)|null|
@@ -6476,7 +6476,7 @@
 |**2024-10-16**|**Approximations of MINFLUX Localization Precision with Background**|Zach Marin et.al.|[2410.12427v1](http://arxiv.org/abs/2410.12427v1)|null|
 |**2024-10-16**|**Superoscillation focusing of high-order cylindrical-vector beams**|Zhongwei Jin et.al.|[2410.12335v1](http://arxiv.org/abs/2410.12335v1)|null|
 |**2024-10-15**|**Temporal resolution enhancement in Structured Illumination Microscopy using cascaded reconstruction**|Doron Shterman et.al.|[2410.11770v1](http://arxiv.org/abs/2410.11770v1)|null|
-|**2024-10-30**|**Degradation Oriented and Regularized Network for Real-World Depth Super-Resolution**|Zhengxue Wang et.al.|[2410.11666v2](http://arxiv.org/abs/2410.11666v2)|**[link](https://github.com/yanzq95/dornet)**|
+|**2024-11-06**|**Degradation Oriented and Regularized Network for Blind Depth Super-Resolution**|Zhengxue Wang et.al.|[2410.11666v3](http://arxiv.org/abs/2410.11666v3)|**[link](https://github.com/yanzq95/dornet)**|
 |**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506v1](http://arxiv.org/abs/2410.11506v1)|**[link](https://github.com/nichenxingmeng/STDAN)**|
 |**2024-10-14**|**Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution**|Junbo Qiao et.al.|[2410.10140v1](http://arxiv.org/abs/2410.10140v1)|null|
 |**2024-10-14**|**Optimizing Fingerprint-Spectrum-Based Synchronization in Integrated Sensing and Communications**|Xiao-Yang Wang et.al.|[2410.10134v1](http://arxiv.org/abs/2410.10134v1)|null|
@@ -10243,7 +10243,7 @@
 |**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098v1](http://arxiv.org/abs/2411.03098v1)|null|
 |**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626v1](http://arxiv.org/abs/2411.00626v1)|**[link](https://github.com/naver-ai/zim)**|
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v1](http://arxiv.org/abs/2410.24006v1)|null|
-|**2024-10-31**|**SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation**|Aditya Agarwal et.al.|[2410.23643v1](http://arxiv.org/abs/2410.23643v1)|null|
+|**2024-11-06**|**SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation**|Aditya Agarwal et.al.|[2410.23643v2](http://arxiv.org/abs/2410.23643v2)|null|
 |**2024-11-02**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966v2](http://arxiv.org/abs/2410.21966v2)|null|
 |**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v1](http://arxiv.org/abs/2410.14672v1)|**[link](https://github.com/haoosz/BiGR)**|
 |**2024-10-14**|**MagicEraser: Erasing Any Objects via Semantics-Aware Control**|Fan Li et.al.|[2410.10207v1](http://arxiv.org/abs/2410.10207v1)|**[link](https://github.com/lifan724/magic_eraser)**|
