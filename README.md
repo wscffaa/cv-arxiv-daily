@@ -52,7 +52,7 @@
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598v1](http://arxiv.org/abs/2411.04598v1)|**[link](https://github.com/l-scofano/seeme)**|
 |**2024-11-07**|**Series-to-Series Diffusion Bridge Model**|Hao Yang et.al.|[2411.04491v1](http://arxiv.org/abs/2411.04491v1)|null|
 |**2024-11-07**|**HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images**|Zhenyue Qin et.al.|[2411.04332v1](http://arxiv.org/abs/2411.04332v1)|null|
-|**2024-11-06**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249v1](http://arxiv.org/abs/2411.04249v1)|**[link](https://github.com/sidsunny/pocoloco)**|
+|**2024-11-08**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249v2](http://arxiv.org/abs/2411.04249v2)|**[link](https://github.com/sidsunny/pocoloco)**|
 |**2024-11-06**|**Quantum Diffusion Models for Few-Shot Learning**|Ruhan Wang et.al.|[2411.04217v1](http://arxiv.org/abs/2411.04217v1)|null|
 |**2024-11-06**|**DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation**|Hao Phung et.al.|[2411.04168v1](http://arxiv.org/abs/2411.04168v1)|null|
 |**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125v1](http://arxiv.org/abs/2411.04125v1)|null|
