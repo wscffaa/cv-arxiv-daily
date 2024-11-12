@@ -26,6 +26,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233v1](http://arxiv.org/abs/2411.07233v1)|null|
+|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v1](http://arxiv.org/abs/2411.07232v1)|null|
+|**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205v1](http://arxiv.org/abs/2411.07205v1)|**[link](https://github.com/croitorualin/dlcr)**|
+|**2024-11-11**|**Crossover from inhomogeneous to homogeneous response of a resonantly driven hBN quantum emitter**|Domitille Gérard et.al.|[2411.07202v1](http://arxiv.org/abs/2411.07202v1)|null|
+|**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199v1](http://arxiv.org/abs/2411.07199v1)|null|
+|**2024-11-11**|**More Expressive Attention with Negative Weights**|Ang Lv et.al.|[2411.07176v1](http://arxiv.org/abs/2411.07176v1)|**[link](https://github.com/trestad/cogattn)**|
+|**2024-11-11**|**Edify 3D: Scalable High-Quality 3D Asset Generation**|NVIDIA et.al.|[2411.07135v1](http://arxiv.org/abs/2411.07135v1)|null|
+|**2024-11-11**|**Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models**|NVIDIA et.al.|[2411.07126v1](http://arxiv.org/abs/2411.07126v1)|null|
+|**2024-11-11**|**White-Box Diffusion Transformer for single-cell RNA-seq generation**|Zhuorui Cui et.al.|[2411.06785v1](http://arxiv.org/abs/2411.06785v1)|**[link](https://github.com/lingximamo/white-box-diffusion-transformer)**|
+|**2024-11-11**|**DiffSR: Learning Radar Reflectivity Synthesis via Diffusion Model from Satellite Observations**|Xuming He et.al.|[2411.06714v1](http://arxiv.org/abs/2411.06714v1)|null|
+|**2024-11-11**|**Layout Control and Semantic Guidance with Attention Loss Backward for T2I Diffusion Model**|Guandong Li et.al.|[2411.06692v1](http://arxiv.org/abs/2411.06692v1)|null|
+|**2024-11-11**|**SeedEdit: Align Image Re-Generation to Image Editing**|Yichun Shi et.al.|[2411.06686v1](http://arxiv.org/abs/2411.06686v1)|null|
+|**2024-11-10**|**Using Diffusion Models as Generative Replay in Continual Federated Learning -- What will Happen?**|Yongsheng Mei et.al.|[2411.06618v1](http://arxiv.org/abs/2411.06618v1)|null|
+|**2024-11-10**|**CASC: Condition-Aware Semantic Communication with Latent Diffusion Models**|Weixuan Chen et.al.|[2411.06552v1](http://arxiv.org/abs/2411.06552v1)|null|
+|**2024-11-10**|**Numerical analysis of the cross-diffusion Cahn-Hilliard model in lymphangiogenesis**|Boyi Wang et.al.|[2411.06488v1](http://arxiv.org/abs/2411.06488v1)|null|
+|**2024-11-10**|**Improved Video VAE for Latent Video Diffusion Model**|Pingyu Wu et.al.|[2411.06449v1](http://arxiv.org/abs/2411.06449v1)|null|
+|**2024-11-10**|**Detecting AutoEncoder is Enough to Catch LDM Generated Images**|Dmitry Vesnin et.al.|[2411.06441v1](http://arxiv.org/abs/2411.06441v1)|null|
+|**2024-11-10**|**PLM-Based Discrete Diffusion Language Models with Entropy-Adaptive Gibbs Sampling**|Hyukhun Koh et.al.|[2411.06438v1](http://arxiv.org/abs/2411.06438v1)|null|
+|**2024-11-09**|**Exploring Out-of-distribution Detection for Sparse-view Computed Tomography with Diffusion Models**|Ezgi Demircan-Tureyen et.al.|[2411.06308v1](http://arxiv.org/abs/2411.06308v1)|null|
+|**2024-11-09**|**Text2CAD: Text to 3D CAD Generation via Technical Drawings**|Mohsen Yavartanoo et.al.|[2411.06206v1](http://arxiv.org/abs/2411.06206v1)|null|
+|**2024-11-09**|**Scalable, Tokenization-Free Diffusion Model Architectures with Efficient Initial Convolution and Fixed-Size Reusable Structures for On-Device Image Generation**|Sanchar Palit et.al.|[2411.06119v1](http://arxiv.org/abs/2411.06119v1)|null|
+|**2024-11-07**|**Conditional Diffusion Model for Longitudinal Medical Image Generation**|Duy-Phuong Dao et.al.|[2411.05860v1](http://arxiv.org/abs/2411.05860v1)|null|
 |**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738v1](http://arxiv.org/abs/2411.05738v1)|null|
 |**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706v1](http://arxiv.org/abs/2411.05706v1)|null|
 |**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676v1](http://arxiv.org/abs/2411.05676v1)|null|
@@ -51,7 +73,7 @@
 |**2024-11-07**|**Brain Tumour Removing and Missing Modality Generation using 3D WDM**|André Ferreira et.al.|[2411.04630v1](http://arxiv.org/abs/2411.04630v1)|**[link](https://github.com/shadowtwin41/brats_2023_2024_solutions)**|
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598v1](http://arxiv.org/abs/2411.04598v1)|**[link](https://github.com/l-scofano/seeme)**|
 |**2024-11-07**|**Series-to-Series Diffusion Bridge Model**|Hao Yang et.al.|[2411.04491v1](http://arxiv.org/abs/2411.04491v1)|null|
-|**2024-11-07**|**HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images**|Zhenyue Qin et.al.|[2411.04332v1](http://arxiv.org/abs/2411.04332v1)|null|
+|**2024-11-11**|**HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images**|Zhenyue Qin et.al.|[2411.04332v2](http://arxiv.org/abs/2411.04332v2)|null|
 |**2024-11-08**|**PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing**|Siddharth Seth et.al.|[2411.04249v2](http://arxiv.org/abs/2411.04249v2)|**[link](https://github.com/sidsunny/pocoloco)**|
 |**2024-11-06**|**Quantum Diffusion Models for Few-Shot Learning**|Ruhan Wang et.al.|[2411.04217v1](http://arxiv.org/abs/2411.04217v1)|null|
 |**2024-11-06**|**DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation**|Hao Phung et.al.|[2411.04168v1](http://arxiv.org/abs/2411.04168v1)|null|
@@ -6468,6 +6490,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v1](http://arxiv.org/abs/2411.07207v1)|null|
+|**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738v1](http://arxiv.org/abs/2411.06738v1)|null|
+|**2024-11-11**|**Expansion microscopy reveals neural circuit organization in genetic animal models**|Shakila Behzadi et.al.|[2411.06676v1](http://arxiv.org/abs/2411.06676v1)|null|
+|**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442v1](http://arxiv.org/abs/2411.06442v1)|**[link](https://github.com/dmhdmhdmh/liwt)**|
+|**2024-11-10**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410v1](http://arxiv.org/abs/2411.06410v1)|null|
+|**2024-11-09**|**Quasi-Newton OMP Approach for Super-Resolution Channel Estimation and Extrapolation**|Yi Zeng et.al.|[2411.06082v1](http://arxiv.org/abs/2411.06082v1)|null|
+|**2024-11-09**|**Predicting band structures for 2D Photonic Crystals via Deep Learning**|Yueqi Wang et.al.|[2411.06063v1](http://arxiv.org/abs/2411.06063v1)|null|
+|**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993v1](http://arxiv.org/abs/2411.05993v1)|null|
 |**2024-11-08**|**WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning**|Xiangyu Zhao et.al.|[2411.05420v1](http://arxiv.org/abs/2411.05420v1)|null|
 |**2024-11-08**|**Electro-diffusive modeling and the role of spine geometry on action potential propagation in neurons**|Rahul Gulati et.al.|[2411.05329v1](http://arxiv.org/abs/2411.05329v1)|null|
 |**2024-11-07**|**Reducing data resolution for better super-resolution: Reconstructing turbulent flows from noisy observation**|Kyongmin Yeo et.al.|[2411.05240v1](http://arxiv.org/abs/2411.05240v1)|null|
@@ -8279,6 +8309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738v1](http://arxiv.org/abs/2411.06738v1)|null|
 |**2024-10-22**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152v2](http://arxiv.org/abs/2410.16152v2)|null|
 |**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506v1](http://arxiv.org/abs/2410.11506v1)|**[link](https://github.com/nichenxingmeng/STDAN)**|
 |**2024-10-20**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534v2](http://arxiv.org/abs/2410.08534v2)|null|
@@ -8564,6 +8595,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893v1](http://arxiv.org/abs/2411.06893v1)|null|
+|**2024-11-10**|**Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration**|Chen Wu et.al.|[2411.06456v1](http://arxiv.org/abs/2411.06456v1)|null|
+|**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993v1](http://arxiv.org/abs/2411.05993v1)|null|
 |**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656v1](http://arxiv.org/abs/2411.01656v1)|**[link](https://github.com/xl-tang3/DA-RCOT)**|
 |**2024-10-31**|**Aquatic-GS: A Hybrid 3D Representation for Underwater Scenes**|Shaohua Liu et.al.|[2411.00239v1](http://arxiv.org/abs/2411.00239v1)|null|
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187v1](http://arxiv.org/abs/2410.24187v1)|**[link](https://github.com/vita-group/chasing-better-dips)**|
@@ -9090,6 +9124,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Accelerating Low-field MRI: Compressed Sensing and AI for fast noise-robust imaging**|Efrat Shimron et.al.|[2411.06704v1](http://arxiv.org/abs/2411.06704v1)|null|
+|**2024-11-11**|**SeedEdit: Align Image Re-Generation to Image Editing**|Yichun Shi et.al.|[2411.06686v1](http://arxiv.org/abs/2411.06686v1)|null|
+|**2024-11-10**|**CASC: Condition-Aware Semantic Communication with Latent Diffusion Models**|Weixuan Chen et.al.|[2411.06552v1](http://arxiv.org/abs/2411.06552v1)|null|
+|**2024-11-10**|**Deep Learning in Classical X-ray Ghost Imaging for Dose Reduction**|Yiyue Huang et.al.|[2411.06340v1](http://arxiv.org/abs/2411.06340v1)|null|
+|**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993v1](http://arxiv.org/abs/2411.05993v1)|null|
 |**2024-11-08**|**Sketched Equivariant Imaging Regularization and Deep Internal Learning for Inverse Problems**|Guixian Xu et.al.|[2411.05771v1](http://arxiv.org/abs/2411.05771v1)|null|
 |**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995v1](http://arxiv.org/abs/2411.04995v1)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706v1](http://arxiv.org/abs/2411.04706v1)|null|
@@ -9944,6 +9983,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884v1](http://arxiv.org/abs/2411.05884v1)|null|
 |**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302v1](http://arxiv.org/abs/2411.05302v1)|null|
 |**2024-11-06**|**ADMIRE: a locally adaptive single-image, non-uniformity correction and denoising algorithm: application to uncooled IR camera**|Yohann Tendero et.al.|[2411.03615v1](http://arxiv.org/abs/2411.03615v1)|null|
 |**2024-11-03**|**Adaptive Domain Learning for Cross-domain Image Denoising**|Zian Qian et.al.|[2411.01472v1](http://arxiv.org/abs/2411.01472v1)|null|
@@ -10295,6 +10335,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-10**|**SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM**|Shuang Chen et.al.|[2411.06318v1](http://arxiv.org/abs/2411.06318v1)|**[link](https://github.com/chrischen1023/sem-net)**|
 |**2024-11-08**|**Image inpainting enhancement by replacing the original mask with a self-attended region from the input image**|Kourosh Kiani et.al.|[2411.05705v1](http://arxiv.org/abs/2411.05705v1)|null|
 |**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098v1](http://arxiv.org/abs/2411.03098v1)|null|
 |**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626v1](http://arxiv.org/abs/2411.00626v1)|**[link](https://github.com/naver-ai/zim)**|
@@ -10534,6 +10575,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**An Interpretable X-ray Style Transfer via Trainable Local Laplacian Filter**|Dominik Eckert et.al.|[2411.07072v1](http://arxiv.org/abs/2411.07072v1)|null|
+|**2024-11-10**|**Diff-MSTC: A Mixing Style Transfer Prototype for Cubase**|Soumya Sai Vanka et.al.|[2411.06576v1](http://arxiv.org/abs/2411.06576v1)|null|
 |**2024-10-17**|**Optimal Transport Maps are Good Voice Converters**|Arip Asadulaev et.al.|[2411.02402v1](http://arxiv.org/abs/2411.02402v1)|null|
 |**2024-11-02**|**AquaFuse: Waterbody Fusion for Physics Guided View Synthesis of Underwater Scenes**|Md Abu Bakr Siddique et.al.|[2411.01119v1](http://arxiv.org/abs/2411.01119v1)|null|
 |**2024-11-01**|**NCST: Neural-based Color Style Transfer for Video Retouching**|Xintao Jiang et.al.|[2411.00335v1](http://arxiv.org/abs/2411.00335v1)|null|
