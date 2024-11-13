@@ -26,6 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v1](http://arxiv.org/abs/2411.08034v1)|null|
+|**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033v1](http://arxiv.org/abs/2411.08033v1)|null|
+|**2024-11-12**|**Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules**|Binxu Wang et.al.|[2411.07873v1](http://arxiv.org/abs/2411.07873v1)|null|
+|**2024-11-12**|**Novel View Synthesis with Pixel-Space Diffusion Models**|Noam Elata et.al.|[2411.07765v1](http://arxiv.org/abs/2411.07765v1)|null|
+|**2024-11-12**|**Nanosecond nanothermometry in an electron microscope**|Florian Castioni et.al.|[2411.07764v1](http://arxiv.org/abs/2411.07764v1)|null|
+|**2024-11-12**|**Leveraging Previous Steps: A Training-free Fast Solver for Flow Diffusion**|Kaiyu Song et.al.|[2411.07627v1](http://arxiv.org/abs/2411.07627v1)|null|
+|**2024-11-12**|**Unraveling the Connections between Flow Matching and Diffusion Probabilistic Models in Training-free Conditional Generation**|Kaiyu Song et.al.|[2411.07625v1](http://arxiv.org/abs/2411.07625v1)|null|
+|**2024-11-12**|**Harmonizing Pixels and Melodies: Maestro-Guided Film Score Generation and Composition Style Transfer**|F. Qi et.al.|[2411.07539v1](http://arxiv.org/abs/2411.07539v1)|null|
+|**2024-11-12**|**FM-TS: Flow Matching for Time Series Generation**|Yang Hu et.al.|[2411.07506v1](http://arxiv.org/abs/2411.07506v1)|**[link](https://github.com/unites-lab/fmts)**|
+|**2024-11-12**|**Semi-Truths: A Large-Scale Dataset of AI-Augmented Images for Evaluating Robustness of AI-Generated Image detectors**|Anisha Pal et.al.|[2411.07472v1](http://arxiv.org/abs/2411.07472v1)|**[link](https://github.com/j-kruk/semitruths)**|
+|**2024-11-12**|**Tracing the Roots: Leveraging Temporal Dynamics in Diffusion Trajectories for Origin Attribution**|Andreas Floros et.al.|[2411.07449v1](http://arxiv.org/abs/2411.07449v1)|null|
+|**2024-11-12**|**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**|Yuanbo Wen et.al.|[2411.07445v1](http://arxiv.org/abs/2411.07445v1)|null|
 |**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233v1](http://arxiv.org/abs/2411.07233v1)|null|
 |**2024-11-12**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v2](http://arxiv.org/abs/2411.07232v2)|null|
 |**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205v1](http://arxiv.org/abs/2411.07205v1)|**[link](https://github.com/croitorualin/dlcr)**|
@@ -6490,6 +6502,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752v1](http://arxiv.org/abs/2411.07752v1)|null|
+|**2024-11-12**|**LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2411.07750v1](http://arxiv.org/abs/2411.07750v1)|null|
+|**2024-11-12**|**Numerical Homogenization by Continuous Super-Resolution**|Zhi-Song Liu et.al.|[2411.07576v1](http://arxiv.org/abs/2411.07576v1)|null|
+|**2024-11-11**|**Evaluating Detection Thresholds: The Impact of False Positives and Negatives on Super-Resolution Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2411.07426v1](http://arxiv.org/abs/2411.07426v1)|null|
+|**2024-11-11**|**Ensemble Learning for Microbubble Localization in Super-Resolution Ultrasound**|Sepideh K. Gharamaleki et.al.|[2411.07376v1](http://arxiv.org/abs/2411.07376v1)|null|
+|**2024-11-11**|**AEROMamba: An efficient architecture for audio super-resolution using generative adversarial networks and state space models**|Wallace Abreu et.al.|[2411.07364v1](http://arxiv.org/abs/2411.07364v1)|null|
 |**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v1](http://arxiv.org/abs/2411.07207v1)|null|
 |**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738v1](http://arxiv.org/abs/2411.06738v1)|null|
 |**2024-11-11**|**Expansion microscopy reveals neural circuit organization in genetic animal models**|Shakila Behzadi et.al.|[2411.06676v1](http://arxiv.org/abs/2411.06676v1)|null|
@@ -7840,6 +7858,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752v1](http://arxiv.org/abs/2411.07752v1)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706v1](http://arxiv.org/abs/2411.04706v1)|null|
 |**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653v1](http://arxiv.org/abs/2410.21653v1)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546v1](http://arxiv.org/abs/2410.20546v1)|**[link](https://github.com/idiosyncracies/Sebica)**|
@@ -8595,6 +8614,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Joint multi-dimensional dynamic attention and transformer for general image restoration**|Huan Zhang et.al.|[2411.07893v1](http://arxiv.org/abs/2411.07893v1)|**[link](https://github.com/house-yuyu/mdda-former)**|
+|**2024-11-12**|**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**|Yuanbo Wen et.al.|[2411.07445v1](http://arxiv.org/abs/2411.07445v1)|null|
 |**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893v1](http://arxiv.org/abs/2411.06893v1)|null|
 |**2024-11-10**|**Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration**|Chen Wu et.al.|[2411.06456v1](http://arxiv.org/abs/2411.06456v1)|null|
 |**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993v1](http://arxiv.org/abs/2411.05993v1)|null|
@@ -9124,6 +9145,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**A computer-vision aided Compton-imaging system for radioactive waste characterization and decommissioning of nuclear power plants**|Victor Babiano-Suarez et.al.|[2411.07996v1](http://arxiv.org/abs/2411.07996v1)|null|
+|**2024-11-12**|**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**|Yuanbo Wen et.al.|[2411.07445v1](http://arxiv.org/abs/2411.07445v1)|null|
+|**2024-11-08**|**Synergistic PET/CT Reconstruction Using a Joint Generative Model**|Noel Jeffrey Pinton et.al.|[2411.07339v1](http://arxiv.org/abs/2411.07339v1)|null|
 |**2024-11-11**|**Accelerating Low-field MRI: Compressed Sensing and AI for fast noise-robust imaging**|Efrat Shimron et.al.|[2411.06704v1](http://arxiv.org/abs/2411.06704v1)|null|
 |**2024-11-11**|**SeedEdit: Align Image Re-Generation to Image Editing**|Yichun Shi et.al.|[2411.06686v1](http://arxiv.org/abs/2411.06686v1)|null|
 |**2024-11-10**|**CASC: Condition-Aware Semantic Communication with Latent Diffusion Models**|Weixuan Chen et.al.|[2411.06552v1](http://arxiv.org/abs/2411.06552v1)|null|
@@ -9983,6 +10007,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930v1](http://arxiv.org/abs/2411.07930v1)|null|
 |**2024-11-08**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884v1](http://arxiv.org/abs/2411.05884v1)|null|
 |**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302v1](http://arxiv.org/abs/2411.05302v1)|null|
 |**2024-11-06**|**ADMIRE: a locally adaptive single-image, non-uniformity correction and denoising algorithm: application to uncooled IR camera**|Yohann Tendero et.al.|[2411.03615v1](http://arxiv.org/abs/2411.03615v1)|null|
@@ -10575,6 +10600,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Artistic Neural Style Transfer Algorithms with Activation Smoothing**|Xiangtian Li et.al.|[2411.08014v1](http://arxiv.org/abs/2411.08014v1)|null|
+|**2024-11-12**|**Harmonizing Pixels and Melodies: Maestro-Guided Film Score Generation and Composition Style Transfer**|F. Qi et.al.|[2411.07539v1](http://arxiv.org/abs/2411.07539v1)|null|
 |**2024-11-11**|**An Interpretable X-ray Style Transfer via Trainable Local Laplacian Filter**|Dominik Eckert et.al.|[2411.07072v1](http://arxiv.org/abs/2411.07072v1)|null|
 |**2024-11-10**|**Diff-MSTC: A Mixing Style Transfer Prototype for Cubase**|Soumya Sai Vanka et.al.|[2411.06576v1](http://arxiv.org/abs/2411.06576v1)|null|
 |**2024-10-17**|**Optimal Transport Maps are Good Voice Converters**|Arip Asadulaev et.al.|[2411.02402v1](http://arxiv.org/abs/2411.02402v1)|null|
