@@ -27,7 +27,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233v1](http://arxiv.org/abs/2411.07233v1)|null|
-|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v1](http://arxiv.org/abs/2411.07232v1)|null|
+|**2024-11-12**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v2](http://arxiv.org/abs/2411.07232v2)|null|
 |**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205v1](http://arxiv.org/abs/2411.07205v1)|**[link](https://github.com/croitorualin/dlcr)**|
 |**2024-11-11**|**Crossover from inhomogeneous to homogeneous response of a resonantly driven hBN quantum emitter**|Domitille Gérard et.al.|[2411.07202v1](http://arxiv.org/abs/2411.07202v1)|null|
 |**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199v1](http://arxiv.org/abs/2411.07199v1)|null|
@@ -6504,7 +6504,7 @@
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706v1](http://arxiv.org/abs/2411.04706v1)|null|
 |**2024-11-06**|**"Super-resolution" holographic optical tweezers array**|Keisuke Nishimura et.al.|[2411.03564v1](http://arxiv.org/abs/2411.03564v1)|null|
 |**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505v1](http://arxiv.org/abs/2411.03505v1)|**[link](https://github.com/visionresearchlab/synthset)**|
-|**2024-11-05**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239v1](http://arxiv.org/abs/2411.03239v1)|null|
+|**2024-11-12**|**Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution**|Huan Zheng et.al.|[2411.03239v2](http://arxiv.org/abs/2411.03239v2)|null|
 |**2024-11-05**|**Applications of Automatic Differentiation in Image Registration**|Warin Watson et.al.|[2411.02806v1](http://arxiv.org/abs/2411.02806v1)|**[link](https://github.com/wdwatson2/ImgRegPytorchProject)**|
 |**2024-11-05**|**Super-resolution generalized eigenvalue method with truly sub-Nyquist sampling**|Baoguo Liu et.al.|[2411.02700v1](http://arxiv.org/abs/2411.02700v1)|null|
 |**2024-11-01**|**Strongly Topology-preserving GNNs for Brain Graph Super-resolution**|Pragya Singh et.al.|[2411.02525v1](http://arxiv.org/abs/2411.02525v1)|null|
@@ -10602,7 +10602,7 @@
 |**2024-10-05**|**Noise Crystallization and Liquid Noise: Zero-shot Video Generation using Image Diffusion Models**|Muhammad Haaris Khan et.al.|[2410.05322v1](http://arxiv.org/abs/2410.05322v1)|null|
 |**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151v1](http://arxiv.org/abs/2410.05151v1)|null|
 |**2024-10-04**|**MultiVerse: Efficient and Expressive Zero-Shot Multi-Task Text-to-Speech**|Taejun Bak et.al.|[2410.03192v1](http://arxiv.org/abs/2410.03192v1)|null|
-|**2024-10-04**|**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization**|Zichen Miao et.al.|[2410.03190v1](http://arxiv.org/abs/2410.03190v1)|null|
+|**2024-11-12**|**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization**|Zichen Miao et.al.|[2410.03190v2](http://arxiv.org/abs/2410.03190v2)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021v1](http://arxiv.org/abs/2410.03021v1)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
 |**2024-10-02**|**Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer**|Kento Masui et.al.|[2410.01366v1](http://arxiv.org/abs/2410.01366v1)|null|
 |**2024-10-01**|**Style-Specific Neurons for Steering LLMs in Text Style Transfer**|Wen Lai et.al.|[2410.00593v1](http://arxiv.org/abs/2410.00593v1)|**[link](https://github.com/wenlai-lavine/sneuron-tst)**|
@@ -10622,7 +10622,7 @@
 |**2024-09-09**|**MRStyle: A Unified Framework for Color Style Transfer with Multi-Modality Reference**|Jiancheng Huang et.al.|[2409.05250v1](http://arxiv.org/abs/2409.05250v1)|null|
 |**2024-09-05**|**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**|Bernardo Biesseck et.al.|[2409.03600v1](http://arxiv.org/abs/2409.03600v1)|**[link](https://github.com/bovifocr/tcdiff)**|
 |**2024-09-06**|**Pureformer-VC: Non-parallel One-Shot Voice Conversion with Pure Transformer Blocks and Triplet Discriminative Training**|Wenhan Yao et.al.|[2409.01668v2](http://arxiv.org/abs/2409.01668v2)|null|
-|**2024-09-15**|**Style Transfer: From Stitching to Neural Networks**|Xinhe Xu et.al.|[2409.00606v2](http://arxiv.org/abs/2409.00606v2)|null|
+|**2024-11-12**|**Style Transfer: From Stitching to Neural Networks**|Xinhe Xu et.al.|[2409.00606v3](http://arxiv.org/abs/2409.00606v3)|null|
 |**2024-08-31**|**PS-StyleGAN: Illustrative Portrait Sketching using Attention-Based Style Adaptation**|Kushal Kumar Jain et.al.|[2409.00345v1](http://arxiv.org/abs/2409.00345v1)|null|
 |**2024-09-06**|**Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation**|Heath Arthur-Loui et.al.|[2409.00046v3](http://arxiv.org/abs/2409.00046v3)|**[link](https://github.com/HeathArhturLouis/Rethinking-Molecular-Design-Integrating-Latent-Variable-and-Autoregressive-Models-for-Enhanced-Goal)**|
 |**2024-09-04**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766v2](http://arxiv.org/abs/2408.16766v2)|null|
