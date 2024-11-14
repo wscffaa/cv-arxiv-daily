@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v1](http://arxiv.org/abs/2411.08034v1)|null|
+|**2024-11-13**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v2](http://arxiv.org/abs/2411.08034v2)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033v1](http://arxiv.org/abs/2411.08033v1)|null|
 |**2024-11-12**|**Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules**|Binxu Wang et.al.|[2411.07873v1](http://arxiv.org/abs/2411.07873v1)|null|
 |**2024-11-12**|**Novel View Synthesis with Pixel-Space Diffusion Models**|Noam Elata et.al.|[2411.07765v1](http://arxiv.org/abs/2411.07765v1)|null|
@@ -6508,7 +6508,7 @@
 |**2024-11-11**|**Evaluating Detection Thresholds: The Impact of False Positives and Negatives on Super-Resolution Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2411.07426v1](http://arxiv.org/abs/2411.07426v1)|null|
 |**2024-11-11**|**Ensemble Learning for Microbubble Localization in Super-Resolution Ultrasound**|Sepideh K. Gharamaleki et.al.|[2411.07376v1](http://arxiv.org/abs/2411.07376v1)|null|
 |**2024-11-11**|**AEROMamba: An efficient architecture for audio super-resolution using generative adversarial networks and state space models**|Wallace Abreu et.al.|[2411.07364v1](http://arxiv.org/abs/2411.07364v1)|null|
-|**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v1](http://arxiv.org/abs/2411.07207v1)|null|
+|**2024-11-13**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207v2](http://arxiv.org/abs/2411.07207v2)|null|
 |**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738v1](http://arxiv.org/abs/2411.06738v1)|null|
 |**2024-11-11**|**Expansion microscopy reveals neural circuit organization in genetic animal models**|Shakila Behzadi et.al.|[2411.06676v1](http://arxiv.org/abs/2411.06676v1)|null|
 |**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442v1](http://arxiv.org/abs/2411.06442v1)|**[link](https://github.com/dmhdmhdmh/liwt)**|
