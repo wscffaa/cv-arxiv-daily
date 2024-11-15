@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502v1](http://arxiv.org/abs/2411.09502v1)|null|
+|**2024-11-14**|**DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**|Junjie Zhou et.al.|[2411.09451v1](http://arxiv.org/abs/2411.09451v1)|null|
+|**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449v1](http://arxiv.org/abs/2411.09449v1)|null|
+|**2024-11-12**|**Mediffusion: Joint Diffusion for Self-Explainable Semi-Supervised Classification and Medical Image Generation**|Joanna Kaleta et.al.|[2411.09434v1](http://arxiv.org/abs/2411.09434v1)|null|
+|**2024-11-14**|**A survey of probabilistic generative frameworks for molecular simulations**|Richard John et.al.|[2411.09388v1](http://arxiv.org/abs/2411.09388v1)|null|
+|**2024-11-14**|**EEG-Based Speech Decoding: A Novel Approach Using Multi-Kernel Ensemble Diffusion Models**|Soowon Kim et.al.|[2411.09302v1](http://arxiv.org/abs/2411.09302v1)|null|
+|**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174v1](http://arxiv.org/abs/2411.09174v1)|null|
+|**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153v1](http://arxiv.org/abs/2411.09153v1)|null|
+|**2024-11-14**|**General linear threshold models with application to influence maximization**|Alexander Kagan et.al.|[2411.09100v1](http://arxiv.org/abs/2411.09100v1)|null|
+|**2024-11-13**|**Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples**|Noël Vouitsis et.al.|[2411.08954v1](http://arxiv.org/abs/2411.08954v1)|**[link](https://github.com/layer6ai-labs/direct-cms)**|
+|**2024-11-12**|**Structured Pattern Expansion with Diffusion Models**|Marzia Riso et.al.|[2411.08930v1](http://arxiv.org/abs/2411.08930v1)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|null|
 |**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832v1](http://arxiv.org/abs/2411.08832v1)|null|
 |**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642v1](http://arxiv.org/abs/2411.08642v1)|null|
@@ -6514,6 +6525,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v1](http://arxiv.org/abs/2411.09512v1)|null|
+|**2024-11-14**|**ISAC Super-Resolution Receiver via Lifted Atomic Norm Minimization**|Iman Valiulahi et.al.|[2411.09495v1](http://arxiv.org/abs/2411.09495v1)|null|
+|**2024-11-14**|**Evaluation of RIS-Enabled B5G/6G Indoor Positioning and Mapping using Ray Tracing Models**|Dimitris Kompostiotis et.al.|[2411.09440v1](http://arxiv.org/abs/2411.09440v1)|null|
+|**2024-11-14**|**LLV-FSR: Exploiting Large Language-Vision Prior for Face Super-resolution**|Chenyang Wang et.al.|[2411.09293v1](http://arxiv.org/abs/2411.09293v1)|null|
+|**2024-11-14**|**Performance Boundaries and Tradeoffs in Super-Resolution Imaging Technologies for Space Targets**|XiaoLe He et.al.|[2411.09155v1](http://arxiv.org/abs/2411.09155v1)|null|
+|**2024-10-28**|**Deep Learning-Based CKM Construction with Image Super-Resolution**|Shiyu Wang et.al.|[2411.08887v1](http://arxiv.org/abs/2411.08887v1)|null|
 |**2024-11-12**|**On Adapting Randomized Nyström Preconditioners to Accelerate Variational Image Reconstruction**|Tao Hong et.al.|[2411.08178v1](http://arxiv.org/abs/2411.08178v1)|null|
 |**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752v1](http://arxiv.org/abs/2411.07752v1)|null|
 |**2024-11-12**|**LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2411.07750v1](http://arxiv.org/abs/2411.07750v1)|null|
@@ -6544,7 +6561,7 @@
 |**2024-11-01**|**A Robust Super-Resolution Classifier by Nonlinear Optics**|Ishan Darji et.al.|[2411.00953v1](http://arxiv.org/abs/2411.00953v1)|**[link](https://github.com/idarji-stevens-edu/NL-Spade)**|
 |**2024-10-31**|**Blind Time-of-Flight Imaging: Sparse Deconvolution on the Continuum with Unknown Kernels**|Ruiming Guo et.al.|[2411.00893v1](http://arxiv.org/abs/2411.00893v1)|null|
 |**2024-11-01**|**Constrained Diffusion Implicit Models**|Vivek Jayaram et.al.|[2411.00359v1](http://arxiv.org/abs/2411.00359v1)|null|
-|**2024-11-14**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v2](http://arxiv.org/abs/2410.24006v2)|null|
+|**2024-11-14**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v2](http://arxiv.org/abs/2410.24006v2)|**[link](https://github.com/jasonfu1998/diffpad)**|
 |**2024-10-29**|**Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images**|Vishal Dubey et.al.|[2410.23898v1](http://arxiv.org/abs/2410.23898v1)|null|
 |**2024-10-30**|**Enhancing Image Resolution: A Simulation Study and Sensitivity Analysis of System Parameters for Resourcesat-3S/3SA**|Ankur Garg et.al.|[2410.23319v1](http://arxiv.org/abs/2410.23319v1)|null|
 |**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959v1](http://arxiv.org/abs/2410.22959v1)|**[link](https://github.com/sunshangquan/EnsIR)**|
@@ -7871,6 +7888,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Deep Learning-Based CKM Construction with Image Super-Resolution**|Shiyu Wang et.al.|[2411.08887v1](http://arxiv.org/abs/2411.08887v1)|null|
 |**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752v1](http://arxiv.org/abs/2411.07752v1)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706v1](http://arxiv.org/abs/2411.04706v1)|null|
 |**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653v1](http://arxiv.org/abs/2410.21653v1)|null|
@@ -9158,6 +9176,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Orthogonal Linear Array based Product Beamforming for Real Time Underwater 3D Acoustical Imaging**|Mimisha M Menakath et.al.|[2411.09197v1](http://arxiv.org/abs/2411.09197v1)|null|
+|**2024-11-13**|**Computed tomography using meta-optics**|Maksym Zhelyeznuyakov et.al.|[2411.08995v1](http://arxiv.org/abs/2411.08995v1)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|null|
 |**2024-11-12**|**On Adapting Randomized Nyström Preconditioners to Accelerate Variational Image Reconstruction**|Tao Hong et.al.|[2411.08178v1](http://arxiv.org/abs/2411.08178v1)|null|
 |**2024-11-12**|**TomoGRAF: A Robust and Generalizable Reconstruction Network for Single-View Computed Tomography**|Di Xu et.al.|[2411.08158v1](http://arxiv.org/abs/2411.08158v1)|null|
@@ -10023,6 +10043,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v1](http://arxiv.org/abs/2411.09512v1)|null|
 |**2024-11-13**|**Dynamic Thresholding Algorithm with Memory for Linear Inverse Problems**|Zhong-Feng Sun et.al.|[2411.08284v1](http://arxiv.org/abs/2411.08284v1)|null|
 |**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930v1](http://arxiv.org/abs/2411.07930v1)|null|
 |**2024-11-08**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884v1](http://arxiv.org/abs/2411.05884v1)|null|
@@ -10381,7 +10402,7 @@
 |**2024-11-08**|**Image inpainting enhancement by replacing the original mask with a self-attended region from the input image**|Kourosh Kiani et.al.|[2411.05705v1](http://arxiv.org/abs/2411.05705v1)|null|
 |**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098v1](http://arxiv.org/abs/2411.03098v1)|null|
 |**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626v1](http://arxiv.org/abs/2411.00626v1)|**[link](https://github.com/naver-ai/zim)**|
-|**2024-11-14**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v2](http://arxiv.org/abs/2410.24006v2)|null|
+|**2024-11-14**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v2](http://arxiv.org/abs/2410.24006v2)|**[link](https://github.com/jasonfu1998/diffpad)**|
 |**2024-11-06**|**SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation**|Aditya Agarwal et.al.|[2410.23643v2](http://arxiv.org/abs/2410.23643v2)|null|
 |**2024-11-02**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966v2](http://arxiv.org/abs/2410.21966v2)|null|
 |**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v1](http://arxiv.org/abs/2410.14672v1)|**[link](https://github.com/haoosz/BiGR)**|
