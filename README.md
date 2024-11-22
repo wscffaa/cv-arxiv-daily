@@ -41,7 +41,7 @@
 |**2024-11-19**|**Stylecodes: Encoding Stylistic Information For Image Generation**|Ciara Rowles et.al.|[2411.12811v1](http://arxiv.org/abs/2411.12811v1)|**[link](https://github.com/ciarastrawberry/stylecodes)**|
 |**2024-11-18**|**Decoupling Training-Free Guided Diffusion by ADMM**|Youyuan Zhang et.al.|[2411.12773v1](http://arxiv.org/abs/2411.12773v1)|null|
 |**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663v1](http://arxiv.org/abs/2411.12663v1)|**[link](https://github.com/davidpicard/homm)**|
-|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641v1](http://arxiv.org/abs/2411.12641v1)|null|
+|**2024-11-21**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641v2](http://arxiv.org/abs/2411.12641v2)|null|
 |**2024-11-19**|**Data Pruning in Generative Diffusion Models**|Rania Briq et.al.|[2411.12523v1](http://arxiv.org/abs/2411.12523v1)|null|
 |**2024-11-19**|**Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models**|Jun Xiao et.al.|[2411.12450v1](http://arxiv.org/abs/2411.12450v1)|null|
 |**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389v1](http://arxiv.org/abs/2411.12389v1)|null|
@@ -53,7 +53,7 @@
 |**2024-11-19**|**Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models**|Shuntaro Okada et.al.|[2411.12188v1](http://arxiv.org/abs/2411.12188v1)|null|
 |**2024-11-19**|**Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing**|Haiping Ma et.al.|[2411.12182v1](http://arxiv.org/abs/2411.12182v1)|**[link](https://github.com/bimk/intelligent-education)**|
 |**2024-11-19**|**Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques**|Mahmut S. Gokmen et.al.|[2411.12181v1](http://arxiv.org/abs/2411.12181v1)|null|
-|**2024-11-18**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089v1](http://arxiv.org/abs/2411.12089v1)|null|
+|**2024-11-21**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089v2](http://arxiv.org/abs/2411.12089v2)|null|
 |**2024-11-18**|**Just Leaf It: Accelerating Diffusion Classifiers with Hierarchical Class Pruning**|Arundhati S. Shanbhag et.al.|[2411.12073v1](http://arxiv.org/abs/2411.12073v1)|**[link](https://github.com/arus23/hierarchical_diffusion_classifier)**|
 |**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072v1](http://arxiv.org/abs/2411.12072v1)|**[link](https://github.com/Brian-Moser/zido)**|
 |**2024-11-18**|**Medical Video Generation for Disease Progression Simulation**|Xu Cao et.al.|[2411.11943v1](http://arxiv.org/abs/2411.11943v1)|null|
@@ -6618,7 +6618,7 @@
 |**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072v1](http://arxiv.org/abs/2411.12072v1)|**[link](https://github.com/Brian-Moser/zido)**|
 |**2024-11-16**|** $\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906v1](http://arxiv.org/abs/2411.11906v1)|null|
 |**2024-11-17**|**Low-Complexity Algorithms for Multichannel Spectral Super-Resolution**|Xunmeng Wu et.al.|[2411.10938v1](http://arxiv.org/abs/2411.10938v1)|null|
-|**2024-11-16**|**Unveiling Hidden Details: A RAW Data-Enhanced Paradigm for Real-World Super-Resolution**|Long Peng et.al.|[2411.10798v1](http://arxiv.org/abs/2411.10798v1)|null|
+|**2024-11-21**|**Unveiling Hidden Details: A RAW Data-Enhanced Paradigm for Real-World Super-Resolution**|Long Peng et.al.|[2411.10798v2](http://arxiv.org/abs/2411.10798v2)|null|
 |**2024-11-11**|**Efficient Denoising Method to Improve The Resolution of Satellite Images**|Jhanavi Hegde et.al.|[2411.10476v1](http://arxiv.org/abs/2411.10476v1)|null|
 |**2024-11-15**|**Experimental demonstration of Tessellation Structured Illumination Microscopy**|Doron Shterman et.al.|[2411.10405v1](http://arxiv.org/abs/2411.10405v1)|null|
 |**2024-11-15**|**A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift**|Sanath Budakegowdanadoddi Nagaraju et.al.|[2411.10231v1](http://arxiv.org/abs/2411.10231v1)|null|
@@ -7992,7 +7992,7 @@
 |**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383v1](http://arxiv.org/abs/2411.13383v1)|null|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530v1](http://arxiv.org/abs/2411.12530v1)|**[link](https://github.com/hey-it-s-me/corple)**|
 |**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072v1](http://arxiv.org/abs/2411.12072v1)|**[link](https://github.com/Brian-Moser/zido)**|
-|**2024-11-16**|**Unveiling Hidden Details: A RAW Data-Enhanced Paradigm for Real-World Super-Resolution**|Long Peng et.al.|[2411.10798v1](http://arxiv.org/abs/2411.10798v1)|null|
+|**2024-11-21**|**Unveiling Hidden Details: A RAW Data-Enhanced Paradigm for Real-World Super-Resolution**|Long Peng et.al.|[2411.10798v2](http://arxiv.org/abs/2411.10798v2)|null|
 |**2024-11-15**|**A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift**|Sanath Budakegowdanadoddi Nagaraju et.al.|[2411.10231v1](http://arxiv.org/abs/2411.10231v1)|null|
 |**2024-10-28**|**Deep Learning-Based CKM Construction with Image Super-Resolution**|Shiyu Wang et.al.|[2411.08887v1](http://arxiv.org/abs/2411.08887v1)|null|
 |**2024-11-12**|**ALANINE: A Novel Decentralized Personalized Federated Learning For Heterogeneous LEO Satellite Constellation**|Liang Zhao et.al.|[2411.07752v1](http://arxiv.org/abs/2411.07752v1)|null|
