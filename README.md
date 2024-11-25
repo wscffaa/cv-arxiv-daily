@@ -26,6 +26,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139v1](http://arxiv.org/abs/2411.15139v1)|**[link](https://github.com/hustvl/diffusiondrive)**|
+|**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138v1](http://arxiv.org/abs/2411.15138v1)|null|
+|**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
+|**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084v1](http://arxiv.org/abs/2411.15084v1)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
+|**2024-11-22**|**The 1D nonlocal Fisher-KPP equation with a top hat kernel. Part 3. The effect of perturbations in the kernel**|David John Needham et.al.|[2411.15054v1](http://arxiv.org/abs/2411.15054v1)|null|
+|**2024-11-22**|**FloAt: Flow Warping of Self-Attention for Clothing Animation Generation**|Swasti Shreya Mishra et.al.|[2411.15028v1](http://arxiv.org/abs/2411.15028v1)|null|
+|**2024-11-22**|**Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation**|Huy Le et.al.|[2411.14913v1](http://arxiv.org/abs/2411.14913v1)|null|
+|**2024-11-22**|**Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation**|Dingyuan Shi et.al.|[2411.14871v1](http://arxiv.org/abs/2411.14871v1)|null|
+|**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863v1](http://arxiv.org/abs/2411.14863v1)|null|
+|**2024-11-22**|**Style-Friendly SNR Sampler for Style-Driven Generation**|Jooyoung Choi et.al.|[2411.14793v1](http://arxiv.org/abs/2411.14793v1)|null|
+|**2024-11-22**|**FastGrasp: Efficient Grasp Synthesis with Diffusion**|Xiaofei Wu et.al.|[2411.14786v1](http://arxiv.org/abs/2411.14786v1)|null|
+|**2024-11-22**|**Kolmogorov Modes and Linear Response of Jump-Diffusion Models: Applications to Stochastic Excitation of the ENSO Recharge Oscillator**|Mickaël D. Chekroun et.al.|[2411.14769v1](http://arxiv.org/abs/2411.14769v1)|null|
+|**2024-11-22**|**Measurement of the dynamic charge susceptibility near the charge density wave transition in ErTe $_3$ **|Dipanjan Chaudhuri et.al.|[2411.14746v1](http://arxiv.org/abs/2411.14746v1)|null|
+|**2024-11-22**|**TEXGen: a Generative Diffusion Model for Mesh Textures**|Xin Yu et.al.|[2411.14740v1](http://arxiv.org/abs/2411.14740v1)|**[link](https://github.com/CVMI-Lab/TEXGen)**|
+|**2024-11-22**|**AI Tailoring: Evaluating Influence of Image Features on Fashion Product Popularity**|Xiaomin Li et.al.|[2411.14737v1](http://arxiv.org/abs/2411.14737v1)|null|
+|**2024-11-22**|**Any-to-3D Generation via Hybrid Diffusion Supervision**|Yijun Fan et.al.|[2411.14715v1](http://arxiv.org/abs/2411.14715v1)|null|
+|**2024-11-22**|**TrojanEdit: Backdooring Text-Based Image Editing Models**|Ji Guo et.al.|[2411.14681v1](http://arxiv.org/abs/2411.14681v1)|null|
+|**2024-11-22**|**Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings**|Pura Peetathawatchai et.al.|[2411.14639v1](http://arxiv.org/abs/2411.14639v1)|null|
+|**2024-11-21**|**Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models**|Hamidreza Dastmalchi et.al.|[2411.14495v1](http://arxiv.org/abs/2411.14495v1)|**[link](https://github.com/hamidreza-dastmalchi/3dd-tta)**|
 |**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430v1](http://arxiv.org/abs/2411.14430v1)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384v1](http://arxiv.org/abs/2411.14384v1)|null|
 |**2024-11-21**|**CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields**|Xin-Yang Liu et.al.|[2411.14378v1](http://arxiv.org/abs/2411.14378v1)|null|
@@ -9305,6 +9324,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Fast High-Quality Enhanced Imaging Algorithm for Layered Dielectric Targets Based on MMW MIMO-SAR System**|Xu Chen et.al.|[2411.14837v1](http://arxiv.org/abs/2411.14837v1)|null|
+|**2024-11-21**|**ACE-Net: AutofoCus-Enhanced Convolutional Network for Field Imperfection Estimation with application to high b-value spiral Diffusion MRI**|Mengze Gao et.al.|[2411.14630v1](http://arxiv.org/abs/2411.14630v1)|null|
 |**2024-11-20**|**Quantum-Brain: Quantum-Inspired Neural Network Approach to Vision-Brain Understanding**|Hoang-Quan Nguyen et.al.|[2411.13378v1](http://arxiv.org/abs/2411.13378v1)|null|
 |**2024-11-20**|**Attentive Contextual Attention for Cloud Removal**|Wenli Huang et.al.|[2411.13042v1](http://arxiv.org/abs/2411.13042v1)|**[link](https://github.com/huangwenwenlili/aca-crnet)**|
 |**2024-11-20**|**Training Physics-Driven Deep Learning Reconstruction without Raw Data Access for Equitable Fast MRI**|Yaşar Utku Alçalar et.al.|[2411.13022v1](http://arxiv.org/abs/2411.13022v1)|null|
@@ -10788,6 +10809,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings**|Pura Peetathawatchai et.al.|[2411.14639v1](http://arxiv.org/abs/2411.14639v1)|null|
 |**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405v1](http://arxiv.org/abs/2411.13405v1)|null|
 |**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832v1](http://arxiv.org/abs/2411.12832v1)|**[link](https://github.com/adobe-research/domain-expansion)**|
 |**2024-11-15**|**Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning**|Yushen Zuo et.al.|[2411.10130v1](http://arxiv.org/abs/2411.10130v1)|null|
