@@ -50,7 +50,7 @@
 |**2024-11-20**|**CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models**|Naen Xu et.al.|[2411.13144v1](http://arxiv.org/abs/2411.13144v1)|null|
 |**2024-11-20**|**Virtual Staining of Label-Free Tissue in Imaging Mass Spectrometry**|Yijie Zhang et.al.|[2411.13120v1](http://arxiv.org/abs/2411.13120v1)|null|
 |**2024-11-19**|**Breaking the wire: the impact of critical length on melting pathways in silver nanowires**|Kannan M Ridings et.al.|[2411.12891v1](http://arxiv.org/abs/2411.12891v1)|null|
-|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872v1](http://arxiv.org/abs/2411.12872v1)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
+|**2024-11-22**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnet et.al.|[2411.12872v2](http://arxiv.org/abs/2411.12872v2)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
 |**2024-11-19**|**CDI: Copyrighted Data Identification in Diffusion Models**|Jan Dubiński et.al.|[2411.12858v1](http://arxiv.org/abs/2411.12858v1)|null|
 |**2024-11-19**|**Towards motion from video diffusion models**|Paul Janson et.al.|[2411.12831v1](http://arxiv.org/abs/2411.12831v1)|null|
 |**2024-11-19**|**Stylecodes: Encoding Stylistic Information For Image Generation**|Ciara Rowles et.al.|[2411.12811v1](http://arxiv.org/abs/2411.12811v1)|**[link](https://github.com/ciarastrawberry/stylecodes)**|
@@ -9333,7 +9333,7 @@
 |**2024-11-10**|**CASC: Condition-Aware Semantic Communication with Latent Diffusion Models**|Weixuan Chen et.al.|[2411.06552v1](http://arxiv.org/abs/2411.06552v1)|null|
 |**2024-11-10**|**Deep Learning in Classical X-ray Ghost Imaging for Dose Reduction**|Yiyue Huang et.al.|[2411.06340v1](http://arxiv.org/abs/2411.06340v1)|null|
 |**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993v1](http://arxiv.org/abs/2411.05993v1)|null|
-|**2024-11-08**|**Sketched Equivariant Imaging Regularization and Deep Internal Learning for Inverse Problems**|Guixian Xu et.al.|[2411.05771v1](http://arxiv.org/abs/2411.05771v1)|null|
+|**2024-11-22**|**Sketched Equivariant Imaging Regularization and Deep Internal Learning for Inverse Problems**|Guixian Xu et.al.|[2411.05771v2](http://arxiv.org/abs/2411.05771v2)|null|
 |**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995v1](http://arxiv.org/abs/2411.04995v1)|null|
 |**2024-11-07**|**ESC-MISR: Enhancing Spatial Correlations for Multi-Image Super-Resolution in Remote Sensing**|Zhihui Zhang et.al.|[2411.04706v1](http://arxiv.org/abs/2411.04706v1)|null|
 |**2024-11-07**|**Bayesian reconstruction of sparse raster-scanned mid-infrared optoacoustic signals enables fast, label-free chemical microscopy**|Constantin Berger et.al.|[2411.04648v1](http://arxiv.org/abs/2411.04648v1)|null|
