@@ -26,6 +26,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683v1](http://arxiv.org/abs/2411.16683v1)|null|
+|**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668v1](http://arxiv.org/abs/2411.16668v1)|null|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629v1](http://arxiv.org/abs/2411.16629v1)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602v1](http://arxiv.org/abs/2411.16602v1)|null|
+|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598v1](http://arxiv.org/abs/2411.16598v1)|null|
+|**2024-11-25**|**Rethinking Diffusion for Text-Driven Human Motion Generation**|Zichong Meng et.al.|[2411.16575v1](http://arxiv.org/abs/2411.16575v1)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550v1](http://arxiv.org/abs/2411.16550v1)|null|
+|**2024-11-25**|**ADOBI: Adaptive Diffusion Bridge For Blind Inverse Problems with Application to MRI Reconstruction**|Yuyang Hu et.al.|[2411.16535v1](http://arxiv.org/abs/2411.16535v1)|null|
+|**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503v1](http://arxiv.org/abs/2411.16503v1)|null|
+|**2024-11-25**|**Model-based reinforcement corrosion prediction: Continuous calibration with Bayesian optimization and corrosion wire sensor data**|A. Potnis et.al.|[2411.16447v1](http://arxiv.org/abs/2411.16447v1)|null|
+|**2024-11-25**|**Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack**|Xide Xu et.al.|[2411.16437v1](http://arxiv.org/abs/2411.16437v1)|null|
+|**2024-11-25**|**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing**|Kaifeng Gao et.al.|[2411.16375v1](http://arxiv.org/abs/2411.16375v1)|**[link](https://github.com/dawn-lx/causalcache-vdm)**|
+|**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318v1](http://arxiv.org/abs/2411.16318v1)|**[link](https://github.com/lehduong/onediffusion)**|
+|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308v1](http://arxiv.org/abs/2411.16308v1)|null|
+|**2024-11-25**|**DiffDesign: Controllable Diffusion with Meta Prior for Efficient Interior Design Generation**|Yuxuan Yang et.al.|[2411.16301v1](http://arxiv.org/abs/2411.16301v1)|null|
+|**2024-11-25**|**SMGDiff: Soccer Motion Generation using diffusion probabilistic models**|Hongdi Yang et.al.|[2411.16216v1](http://arxiv.org/abs/2411.16216v1)|null|
+|**2024-11-25**|**Fancy123: One Image to High-Quality 3D Mesh Generation via Plug-and-Play Deformation**|Qiao Yu et.al.|[2411.16185v1](http://arxiv.org/abs/2411.16185v1)|null|
+|**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171v1](http://arxiv.org/abs/2411.16171v1)|**[link](https://github.com/mischad/beyondfid)**|
+|**2024-11-25**|**Text-to-Image Synthesis: A Decade Survey**|Nonghai Zhang et.al.|[2411.16164v1](http://arxiv.org/abs/2411.16164v1)|null|
+|**2024-11-25**|**MVGenMaster: Scaling Multi-View Generation from Any Image via 3D Priors Enhanced Diffusion Model**|Chenjie Cao et.al.|[2411.16157v1](http://arxiv.org/abs/2411.16157v1)|**[link](https://github.com/ewrfcas/mvgenmaster)**|
+|**2024-11-25**|**Boosting 3D Object Generation through PBR Materials**|Yitong Wang et.al.|[2411.16080v1](http://arxiv.org/abs/2411.16080v1)|null|
+|**2024-11-25**|**Debiasing Classifiers by Amplifying Bias with Latent Diffusion and Large Language Models**|Donggeun Ko et.al.|[2411.16079v1](http://arxiv.org/abs/2411.16079v1)|null|
+|**2024-11-25**|**Geometry Distributions**|Biao Zhang et.al.|[2411.16076v1](http://arxiv.org/abs/2411.16076v1)|null|
+|**2024-11-24**|**Enhancing Quantum Diffusion Models with Pairwise Bell State Entanglement**|Shivalee Shah et.al.|[2411.15973v1](http://arxiv.org/abs/2411.15973v1)|null|
+|**2024-11-24**|**Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors**|Soumava Paul et.al.|[2411.15966v1](http://arxiv.org/abs/2411.15966v1)|null|
+|**2024-11-24**|**A Training-Free Approach for Music Style Transfer with Latent Diffusion Models**|Sooyoung Kim et.al.|[2411.15913v1](http://arxiv.org/abs/2411.15913v1)|null|
+|**2024-11-24**|**Bimanual Grasp Synthesis for Dexterous Robot Hands**|Yanming Shao et.al.|[2411.15903v1](http://arxiv.org/abs/2411.15903v1)|null|
+|**2024-11-24**|**PanoLlama: Generating Endless and Coherent Panoramas with Next-Token-Prediction LLMs**|Teng Zhou et.al.|[2411.15867v1](http://arxiv.org/abs/2411.15867v1)|**[link](https://github.com/0606zt/panollama)**|
+|**2024-11-24**|**Generalizable Single-view Object Pose Estimation by Two-side Generating and Matching**|Yujing Sun et.al.|[2411.15860v1](http://arxiv.org/abs/2411.15860v1)|**[link](https://github.com/scy639/gen2sm)**|
+|**2024-11-24**|**Efficient Multi-user Offloading of Personalized Diffusion Models: A DRL-Convex Hybrid Solution**|Wanting Yang et.al.|[2411.15781v1](http://arxiv.org/abs/2411.15781v1)|null|
+|**2024-11-24**|**DynamicAvatars: Accurate Dynamic Facial Avatars Reconstruction and Precise Editing with Diffusion Models**|Yangyang Qian et.al.|[2411.15732v1](http://arxiv.org/abs/2411.15732v1)|null|
+|**2024-11-24**|**Fixing the Perspective: A Critical Examination of Zero-1-to-3**|Jack Yu et.al.|[2411.15706v1](http://arxiv.org/abs/2411.15706v1)|null|
+|**2024-11-23**|**An adversarial feature learning based semantic communication method for Human 3D Reconstruction**|Shaojiang Liu et.al.|[2411.15595v1](http://arxiv.org/abs/2411.15595v1)|null|
+|**2024-11-23**|**TKG-DM: Training-free Chroma Key Content Generation Diffusion Model**|Ryugo Morita et.al.|[2411.15580v1](http://arxiv.org/abs/2411.15580v1)|null|
+|**2024-11-23**|**NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation**|Menglin Zhang et.al.|[2411.15551v1](http://arxiv.org/abs/2411.15551v1)|null|
+|**2024-11-23**|**Optical-Flow Guided Prompt Optimization for Coherent Video Generation**|Hyelin Nam et.al.|[2411.15540v1](http://arxiv.org/abs/2411.15540v1)|null|
+|**2024-11-23**|**MUNBa: Machine Unlearning via Nash Bargaining**|Jing Wu et.al.|[2411.15537v1](http://arxiv.org/abs/2411.15537v1)|null|
+|**2024-11-23**|**When Image Generation Goes Wrong: A Safety Analysis of Stable Diffusion Models**|Matthias Schneider et.al.|[2411.15516v1](http://arxiv.org/abs/2411.15516v1)|null|
+|**2024-11-23**|**Automatic Evaluation for Text-to-image Generation: Task-decomposed Framework, Distilled Training, and Meta-evaluation Benchmark**|Rong-Cheng Tu et.al.|[2411.15488v1](http://arxiv.org/abs/2411.15488v1)|null|
+|**2024-11-23**|**ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with Temporal Guidance**|Haijie Yang et.al.|[2411.15436v1](http://arxiv.org/abs/2411.15436v1)|null|
+|**2024-11-23**|**LDM-Morph: Latent diffusion model guided deformable image registration**|Jiong Wu et.al.|[2411.15426v1](http://arxiv.org/abs/2411.15426v1)|**[link](https://github.com/wujiong-hub/ldm-morph)**|
+|**2024-11-23**|**Gradient-Free Classifier Guidance for Diffusion Model Sampling**|Rahul Shenoy et.al.|[2411.15393v1](http://arxiv.org/abs/2411.15393v1)|null|
+|**2024-11-22**|**DiffServe: Efficiently Serving Text-to-Image Diffusion Models with Query-Aware Model Scaling**|Sohaib Ahmad et.al.|[2411.15381v1](http://arxiv.org/abs/2411.15381v1)|null|
+|**2024-11-22**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367v1](http://arxiv.org/abs/2411.15367v1)|null|
+|**2024-11-22**|**Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration**|Darshan Thaker et.al.|[2411.15295v1](http://arxiv.org/abs/2411.15295v1)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139v1](http://arxiv.org/abs/2411.15139v1)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138v1](http://arxiv.org/abs/2411.15138v1)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
@@ -6643,6 +6688,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**EPS: Efficient Patch Sampling for Video Overfitting in Deep Super-Resolution Model Training**|Yiying Wei et.al.|[2411.16312v1](http://arxiv.org/abs/2411.16312v1)|null|
+|**2024-11-25**|**High-Resolution Be Aware! Improving the Self-Supervised Real-World Super-Resolution**|Yuehan Zhang et.al.|[2411.16175v1](http://arxiv.org/abs/2411.16175v1)|null|
+|**2024-11-23**|**FFT-Enhanced Low-Complexity Near-Field Super-Resolution Sensing**|Yuxiao Wu et.al.|[2411.15532v1](http://arxiv.org/abs/2411.15532v1)|null|
 |**2024-11-21**|**UPdec-Webb: A Dataset for Coaddition of JWST NIRCam Images**|Lei Wang et.al.|[2411.13891v1](http://arxiv.org/abs/2411.13891v1)|null|
 |**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548v1](http://arxiv.org/abs/2411.13548v1)|null|
 |**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383v1](http://arxiv.org/abs/2411.13383v1)|null|
@@ -8787,6 +8835,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding**|Yubin Gu et.al.|[2411.16217v1](http://arxiv.org/abs/2411.16217v1)|null|
+|**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172v1](http://arxiv.org/abs/2411.16172v1)|null|
+|**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922v1](http://arxiv.org/abs/2411.15922v1)|null|
+|**2024-11-24**|**LTCF-Net: A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restoration**|Gaojing Zhang et.al.|[2411.15740v1](http://arxiv.org/abs/2411.15740v1)|null|
+|**2024-11-22**|**Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration**|Darshan Thaker et.al.|[2411.15295v1](http://arxiv.org/abs/2411.15295v1)|null|
+|**2024-11-22**|**MambaIRv2: Attentive State Space Restoration**|Hang Guo et.al.|[2411.15269v1](http://arxiv.org/abs/2411.15269v1)|**[link](https://github.com/csguoh/mambair)**|
 |**2024-11-20**|**Analysis and Synthesis Denoisers for Forward-Backward Plug-and-Play Algorithms**|Matthieu Kowalski et.al.|[2411.13276v1](http://arxiv.org/abs/2411.13276v1)|null|
 |**2024-11-19**|**Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models**|Jun Xiao et.al.|[2411.12450v1](http://arxiv.org/abs/2411.12450v1)|null|
 |**2024-11-19**|**Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images**|Zheng Gong et.al.|[2411.12278v1](http://arxiv.org/abs/2411.12278v1)|null|
@@ -9324,6 +9378,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629v1](http://arxiv.org/abs/2411.16629v1)|null|
+|**2024-11-25**|**AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy**|Katharina Bendig et.al.|[2411.16440v1](http://arxiv.org/abs/2411.16440v1)|**[link](https://github.com/dfki-av/anonynoise)**|
+|**2024-11-25**|**QUBO Refinement: Achieving Superior Precision through Iterative Quantum Formulation with Limited Qubits**|Hyunju Lee et.al.|[2411.16138v1](http://arxiv.org/abs/2411.16138v1)|null|
+|**2024-11-23**|**SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving**|Su Sun et.al.|[2411.15482v1](http://arxiv.org/abs/2411.15482v1)|null|
+|**2024-11-08**|**Using Spatial Diffusions for Optoacoustic Tomography Image Reconstruction**|Martin G. Gonzalez et.al.|[2411.15156v1](http://arxiv.org/abs/2411.15156v1)|null|
 |**2024-11-22**|**Fast High-Quality Enhanced Imaging Algorithm for Layered Dielectric Targets Based on MMW MIMO-SAR System**|Xu Chen et.al.|[2411.14837v1](http://arxiv.org/abs/2411.14837v1)|null|
 |**2024-11-21**|**ACE-Net: AutofoCus-Enhanced Convolutional Network for Field Imperfection Estimation with application to high b-value spiral Diffusion MRI**|Mengze Gao et.al.|[2411.14630v1](http://arxiv.org/abs/2411.14630v1)|null|
 |**2024-11-20**|**Quantum-Brain: Quantum-Inspired Neural Network Approach to Vision-Brain Understanding**|Hoang-Quan Nguyen et.al.|[2411.13378v1](http://arxiv.org/abs/2411.13378v1)|null|
@@ -10809,6 +10868,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Synthesising Handwritten Music with GANs: A Comprehensive Evaluation of CycleWGAN, ProGAN, and DCGAN**|Elona Shatri et.al.|[2411.16405v1](http://arxiv.org/abs/2411.16405v1)|null|
+|**2024-11-24**|**CNNs for Style Transfer of Digital to Film Photography**|Pierre Mackenzie et.al.|[2411.15967v1](http://arxiv.org/abs/2411.15967v1)|null|
+|**2024-11-24**|**A Training-Free Approach for Music Style Transfer with Latent Diffusion Models**|Sooyoung Kim et.al.|[2411.15913v1](http://arxiv.org/abs/2411.15913v1)|null|
 |**2024-11-22**|**Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings**|Pura Peetathawatchai et.al.|[2411.14639v1](http://arxiv.org/abs/2411.14639v1)|null|
 |**2024-11-20**|**On the Way to LLM Personalization: Learning to Remember User Conversations**|Lucie Charlotte Magister et.al.|[2411.13405v1](http://arxiv.org/abs/2411.13405v1)|null|
 |**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832v1](http://arxiv.org/abs/2411.12832v1)|**[link](https://github.com/adobe-research/domain-expansion)**|
