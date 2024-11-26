@@ -70,7 +70,7 @@
 |**2024-11-20**|**Virtual Staining of Label-Free Tissue in Imaging Mass Spectrometry**|Yijie Zhang et.al.|[2411.13120v1](http://arxiv.org/abs/2411.13120v1)|null|
 |**2024-11-19**|**Breaking the wire: the impact of critical length on melting pathways in silver nanowires**|Kannan M Ridings et.al.|[2411.12891v1](http://arxiv.org/abs/2411.12891v1)|null|
 |**2024-11-22**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnet et.al.|[2411.12872v2](http://arxiv.org/abs/2411.12872v2)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
-|**2024-11-19**|**CDI: Copyrighted Data Identification in Diffusion Models**|Jan Dubiński et.al.|[2411.12858v1](http://arxiv.org/abs/2411.12858v1)|null|
+|**2024-11-24**|**CDI: Copyrighted Data Identification in Diffusion Models**|Jan Dubiński et.al.|[2411.12858v2](http://arxiv.org/abs/2411.12858v2)|null|
 |**2024-11-19**|**Towards motion from video diffusion models**|Paul Janson et.al.|[2411.12831v1](http://arxiv.org/abs/2411.12831v1)|null|
 |**2024-11-19**|**Stylecodes: Encoding Stylistic Information For Image Generation**|Ciara Rowles et.al.|[2411.12811v1](http://arxiv.org/abs/2411.12811v1)|**[link](https://github.com/ciarastrawberry/stylecodes)**|
 |**2024-11-18**|**Decoupling Training-Free Guided Diffusion by ADMM**|Youyuan Zhang et.al.|[2411.12773v1](http://arxiv.org/abs/2411.12773v1)|null|
@@ -6677,7 +6677,7 @@
 |**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738v1](http://arxiv.org/abs/2411.06738v1)|null|
 |**2024-11-11**|**Expansion microscopy reveals neural circuit organization in genetic animal models**|Shakila Behzadi et.al.|[2411.06676v1](http://arxiv.org/abs/2411.06676v1)|null|
 |**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442v1](http://arxiv.org/abs/2411.06442v1)|**[link](https://github.com/dmhdmhdmh/liwt)**|
-|**2024-11-10**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410v1](http://arxiv.org/abs/2411.06410v1)|null|
+|**2024-11-23**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410v2](http://arxiv.org/abs/2411.06410v2)|null|
 |**2024-11-09**|**Quasi-Newton OMP Approach for Super-Resolution Channel Estimation and Extrapolation**|Yi Zeng et.al.|[2411.06082v1](http://arxiv.org/abs/2411.06082v1)|null|
 |**2024-11-09**|**Predicting band structures for 2D Photonic Crystals via Deep Learning**|Yueqi Wang et.al.|[2411.06063v1](http://arxiv.org/abs/2411.06063v1)|null|
 |**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993v1](http://arxiv.org/abs/2411.05993v1)|null|
@@ -8802,7 +8802,7 @@
 |**2024-10-31**|**Aquatic-GS: A Hybrid 3D Representation for Underwater Scenes**|Shaohua Liu et.al.|[2411.00239v1](http://arxiv.org/abs/2411.00239v1)|null|
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187v1](http://arxiv.org/abs/2410.24187v1)|**[link](https://github.com/vita-group/chasing-better-dips)**|
 |**2024-10-31**|**Cycle-Constrained Adversarial Denoising Convolutional Network for PET Image Denoising: Multi-Dimensional Validation on Large Datasets with Reader Study and Real Low-Dose Data**|Yucun Hou et.al.|[2410.23628v1](http://arxiv.org/abs/2410.23628v1)|null|
-|**2024-10-31**|**MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction**|Ziqi Gao et.al.|[2410.23577v1](http://arxiv.org/abs/2410.23577v1)|**[link](https://github.com/z7gao/msglance)**|
+|**2024-11-23**|**MS-Glance: Bio-Insipred Non-semantic Context Vectors and their Applications in Supervising Image Reconstruction**|Ziqi Gao et.al.|[2410.23577v2](http://arxiv.org/abs/2410.23577v2)|**[link](https://github.com/z7gao/msglance)**|
 |**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959v1](http://arxiv.org/abs/2410.22959v1)|**[link](https://github.com/sunshangquan/EnsIR)**|
 |**2024-10-29**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666v2](http://arxiv.org/abs/2410.18666v2)|**[link](https://github.com/shallowdream204/dreamclear)**|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822v1](http://arxiv.org/abs/2410.17822v1)|**[link](https://github.com/eeic-lab/dreb-net)**|
@@ -9361,7 +9361,7 @@
 |**2024-11-06**|**Sub-DM:Subspace Diffusion Model with Orthogonal Decomposition for MRI Reconstruction**|Yu Guan et.al.|[2411.03758v1](http://arxiv.org/abs/2411.03758v1)|null|
 |**2024-11-05**|**Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising**|Tao Huang et.al.|[2411.03053v1](http://arxiv.org/abs/2411.03053v1)|null|
 |**2024-11-05**|**Advances in Photoacoustic Imaging Reconstruction and Quantitative Analysis for Biomedical Applications**|Lei Wang et.al.|[2411.02843v1](http://arxiv.org/abs/2411.02843v1)|null|
-|**2024-11-18**|**Masked Autoencoders are Parameter-Efficient Federated Continual Learners**|Yuchen He et.al.|[2411.01916v2](http://arxiv.org/abs/2411.01916v2)|**[link](https://github.com/ycheoo/pmae)**|
+|**2024-11-24**|**Masked Autoencoders are Parameter-Efficient Federated Continual Learners**|Yuchen He et.al.|[2411.01916v3](http://arxiv.org/abs/2411.01916v3)|**[link](https://github.com/ycheoo/pmae)**|
 |**2024-11-04**|**IRS-Enhanced Secure Semantic Communication Networks: Cross-Layer and Context-Awared Resource Allocation**|Lingyi Wang et.al.|[2411.01821v1](http://arxiv.org/abs/2411.01821v1)|null|
 |**2024-11-02**|**HIP: Hierarchical Point Modeling and Pre-training for Visual Information Extraction**|Rujiao Long et.al.|[2411.01139v1](http://arxiv.org/abs/2411.01139v1)|null|
 |**2024-11-01**|**On the Strong Convexity of PnP Regularization Using Linear Denoisers**|Arghya Sinha et.al.|[2411.01027v1](http://arxiv.org/abs/2411.01027v1)|**[link](https://github.com/arghyasinha/PnP-StrongConvexity)**|
@@ -9370,7 +9370,7 @@
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187v1](http://arxiv.org/abs/2410.24187v1)|**[link](https://github.com/vita-group/chasing-better-dips)**|
 |**2024-10-31**|**Denoising Diffusion Models for Anomaly Localization in Medical Images**|Cosmin I. Bercea et.al.|[2410.23834v1](http://arxiv.org/abs/2410.23834v1)|null|
 |**2024-10-31**|**Cycle-Constrained Adversarial Denoising Convolutional Network for PET Image Denoising: Multi-Dimensional Validation on Large Datasets with Reader Study and Real Low-Dose Data**|Yucun Hou et.al.|[2410.23628v1](http://arxiv.org/abs/2410.23628v1)|null|
-|**2024-10-31**|**MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction**|Ziqi Gao et.al.|[2410.23577v1](http://arxiv.org/abs/2410.23577v1)|**[link](https://github.com/z7gao/msglance)**|
+|**2024-11-23**|**MS-Glance: Bio-Insipred Non-semantic Context Vectors and their Applications in Supervising Image Reconstruction**|Ziqi Gao et.al.|[2410.23577v2](http://arxiv.org/abs/2410.23577v2)|**[link](https://github.com/z7gao/msglance)**|
 |**2024-10-30**|**Plug-and-play superiorization**|Jon Henshaw et.al.|[2410.23401v1](http://arxiv.org/abs/2410.23401v1)|null|
 |**2024-10-29**|**Improved Patch Denoising Diffusion Probabilistic Models for Magnetic Resonance Fingerprinting**|Perla Mayo et.al.|[2410.23318v1](http://arxiv.org/abs/2410.23318v1)|null|
 |**2024-10-30**|**Uncertainty quantification for fast reconstruction methods using augmented equivariant bootstrap: Application to radio interferometry**|Mostafa Cherif et.al.|[2410.23178v1](http://arxiv.org/abs/2410.23178v1)|null|
