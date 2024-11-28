@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-27**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v2](http://arxiv.org/abs/2411.17697v2)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
 |**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696v1](http://arxiv.org/abs/2411.17696v1)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687v1](http://arxiv.org/abs/2411.17687v1)|null|
 |**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616v1](http://arxiv.org/abs/2411.17616v1)|**[link](https://github.com/opensparsellms/skip-dit)**|
@@ -50,12 +50,12 @@
 |**2024-11-26**|**TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On**|Zhenchen Wan et.al.|[2411.17017v1](http://arxiv.org/abs/2411.17017v1)|null|
 |**2024-11-25**|**Generative vs. Predictive Models in Massive MIMO Channel Prediction**|Ju-Hyung Lee et.al.|[2411.16971v1](http://arxiv.org/abs/2411.16971v1)|null|
 |**2024-11-25**|**ZoomLDM: Latent Diffusion Model for multi-scale image generation**|Srikar Yellapragada et.al.|[2411.16969v1](http://arxiv.org/abs/2411.16969v1)|null|
-|**2024-11-25**|**MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**|Yuming Feng et.al.|[2411.16964v1](http://arxiv.org/abs/2411.16964v1)|null|
+|**2024-11-27**|**MotionWavelet: Human Motion Prediction via Wavelet Manifold Learning**|Yuming Feng et.al.|[2411.16964v2](http://arxiv.org/abs/2411.16964v2)|null|
 |**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832v1](http://arxiv.org/abs/2411.16832v1)|null|
 |**2024-11-25**|**Pathways on the Image Manifold: Image Editing via Video Generation**|Noam Rotstein et.al.|[2411.16819v1](http://arxiv.org/abs/2411.16819v1)|null|
 |**2024-11-25**|**Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation**|Shengeng Tang et.al.|[2411.16810v1](http://arxiv.org/abs/2411.16810v1)|null|
 |**2024-11-25**|**Controllable Human Image Generation with Personalized Multi-Garments**|Yisol Choi et.al.|[2411.16801v1](http://arxiv.org/abs/2411.16801v1)|null|
-|**2024-11-25**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800v1](http://arxiv.org/abs/2411.16800v1)|null|
+|**2024-11-27**|**Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2411.16800v2](http://arxiv.org/abs/2411.16800v2)|null|
 |**2024-11-25**|**From Diffusion to Resolution: Leveraging 2D Diffusion Models for 3D Super-Resolution Task**|Bohao Chen et.al.|[2411.16792v1](http://arxiv.org/abs/2411.16792v1)|null|
 |**2024-11-25**|**Staleness-Centric Optimizations for Efficient Diffusion MoE Inference**|Jiajun Luo et.al.|[2411.16786v1](http://arxiv.org/abs/2411.16786v1)|null|
 |**2024-11-25**|**CoCoNO: Attention Contrast-and-Complete for Initial Noise Optimization in Text-to-Image Synthesis**|Aravindan Sundaram et.al.|[2411.16783v1](http://arxiv.org/abs/2411.16783v1)|null|
@@ -72,7 +72,7 @@
 |**2024-11-25**|**Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack**|Xide Xu et.al.|[2411.16437v1](http://arxiv.org/abs/2411.16437v1)|null|
 |**2024-11-25**|**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing**|Kaifeng Gao et.al.|[2411.16375v1](http://arxiv.org/abs/2411.16375v1)|**[link](https://github.com/dawn-lx/causalcache-vdm)**|
 |**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318v1](http://arxiv.org/abs/2411.16318v1)|**[link](https://github.com/lehduong/onediffusion)**|
-|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308v1](http://arxiv.org/abs/2411.16308v1)|null|
+|**2024-11-27**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308v2](http://arxiv.org/abs/2411.16308v2)|**[link](https://github.com/qwtforgithub/cdsegnet)**|
 |**2024-11-25**|**DiffDesign: Controllable Diffusion with Meta Prior for Efficient Interior Design Generation**|Yuxuan Yang et.al.|[2411.16301v1](http://arxiv.org/abs/2411.16301v1)|null|
 |**2024-11-25**|**SMGDiff: Soccer Motion Generation using diffusion probabilistic models**|Hongdi Yang et.al.|[2411.16216v1](http://arxiv.org/abs/2411.16216v1)|null|
 |**2024-11-25**|**Fancy123: One Image to High-Quality 3D Mesh Generation via Plug-and-Play Deformation**|Qiao Yu et.al.|[2411.16185v1](http://arxiv.org/abs/2411.16185v1)|null|
@@ -8920,7 +8920,7 @@
 |**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811v1](http://arxiv.org/abs/2410.04811v1)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-06**|**SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems**|Ismail Alkhouri et.al.|[2410.04479v1](http://arxiv.org/abs/2410.04479v1)|**[link](https://github.com/sjames40/SITCOM)**|
 |**2024-10-05**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161v1](http://arxiv.org/abs/2410.04161v1)|null|
-|**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463v1](http://arxiv.org/abs/2410.03463v1)|null|
+|**2024-11-26**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463v2](http://arxiv.org/abs/2410.03463v2)|null|
 |**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423v1](http://arxiv.org/abs/2410.02423v1)|**[link](https://github.com/annegnx/PnP-Flow)**|
 |**2024-10-02**|**Posterior sampling via Langevin dynamics based on generative priors**|Vishal Purohit et.al.|[2410.02078v1](http://arxiv.org/abs/2410.02078v1)|null|
 |**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099v1](http://arxiv.org/abs/2410.01099v1)|null|
