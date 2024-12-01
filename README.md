@@ -8915,7 +8915,7 @@
 |**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814v1](http://arxiv.org/abs/2411.17814v1)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687v1](http://arxiv.org/abs/2411.17687v1)|null|
 |**2024-11-26**|**Puzzle Similarity: A Perceptually-guided No-Reference Metric for Artifact Detection in 3D Scene Reconstructions**|Nicolai Hermann et.al.|[2411.17489v1](http://arxiv.org/abs/2411.17489v1)|null|
-|**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226v1](http://arxiv.org/abs/2411.17226v1)|null|
+|**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226v1](http://arxiv.org/abs/2411.17226v1)|**[link](https://github.com/taco-group/mwformer)**|
 |**2024-11-23**|**Gradient-Guided Parameter Mask for Multi-Scenario Image Restoration Under Adverse Weather**|Jilong Guo et.al.|[2411.16739v1](http://arxiv.org/abs/2411.16739v1)|**[link](https://github.com/aierlab/multitask)**|
 |**2024-11-25**|**Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding**|Yubin Gu et.al.|[2411.16217v1](http://arxiv.org/abs/2411.16217v1)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172v1](http://arxiv.org/abs/2411.16172v1)|null|
