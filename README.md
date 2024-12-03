@@ -32,17 +32,17 @@
 |**2024-11-29**|**Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**|Wenyi Mo et.al.|[2411.19652v1](http://arxiv.org/abs/2411.19652v1)|**[link](https://github.com/mowenyii/uniform-attention-maps)**|
 |**2024-11-29**|**Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook**|Florinel-Alin Croitoru et.al.|[2411.19537v1](http://arxiv.org/abs/2411.19537v1)|**[link](https://github.com/croitorualin/biodeep)**|
 |**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509v1](http://arxiv.org/abs/2411.19509v1)|null|
-|**2024-11-29**|**Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach**|Xinyu Yuan et.al.|[2411.19493v1](http://arxiv.org/abs/2411.19493v1)|null|
+|**2024-11-29**|**Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach**|Xinyu Yuan et.al.|[2411.19493v1](http://arxiv.org/abs/2411.19493v1)|**[link](https://github.com/Y-debug-sys/DTM)**|
 |**2024-11-28**|**DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models**|Shwetha Ram et.al.|[2411.19390v1](http://arxiv.org/abs/2411.19390v1)|null|
 |**2024-11-28**|**Enhancing Sketch Animation: Text-to-Video Diffusion Models with Temporal Consistency and Rigidity Constraints**|Gaurav Rai et.al.|[2411.19381v1](http://arxiv.org/abs/2411.19381v1)|null|
 |**2024-11-28**|**Towards a Mechanistic Explanation of Diffusion Model Generalization**|Matthew Niedoba et.al.|[2411.19339v1](http://arxiv.org/abs/2411.19339v1)|null|
 |**2024-11-28**|**Trajectory Attention for Fine-grained Video Motion Control**|Zeqi Xiao et.al.|[2411.19324v1](http://arxiv.org/abs/2411.19324v1)|null|
 |**2024-11-28**|**Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention**|Huiguo He et.al.|[2411.19261v1](http://arxiv.org/abs/2411.19261v1)|null|
-|**2024-11-28**|**Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes**|Thomas Wimmer et.al.|[2411.19233v1](http://arxiv.org/abs/2411.19233v1)|null|
+|**2024-11-28**|**Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes**|Thomas Wimmer et.al.|[2411.19233v1](http://arxiv.org/abs/2411.19233v1)|**[link](https://github.com/wimmerth/gaussians2life)**|
 |**2024-11-28**|**Z-STAR+: A Zero-shot Style Transfer Method via Adjusting Style Distribution**|Yingying Deng et.al.|[2411.19231v1](http://arxiv.org/abs/2411.19231v1)|null|
 |**2024-11-28**|**Video Depth without Video Models**|Bingxin Ke et.al.|[2411.19189v1](http://arxiv.org/abs/2411.19189v1)|null|
 |**2024-11-28**|**SOWing Information: Cultivating Contextual Coherence with MLLMs in Image Generation**|Yuhan Pei et.al.|[2411.19182v1](http://arxiv.org/abs/2411.19182v1)|null|
-|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158v1](http://arxiv.org/abs/2411.19158v1)|null|
+|**2024-11-28**|**Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions**|Alessio Spagnoletti et.al.|[2411.19158v1](http://arxiv.org/abs/2411.19158v1)|**[link](https://github.com/astrodeepnet/diffusion4astro)**|
 |**2024-11-28**|**Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**|Feng Liu et.al.|[2411.19108v1](http://arxiv.org/abs/2411.19108v1)|null|
 |**2024-11-28**|**I Dream My Painting: Connecting MLLMs and Diffusion Models via Prompt Generation for Text-Guided Multi-Mask Inpainting**|Nicola Fanelli et.al.|[2411.19050v1](http://arxiv.org/abs/2411.19050v1)|**[link](https://github.com/cilabuniba/i-dream-my-painting)**|
 |**2024-11-28**|**3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes**|Tejaswini Medi et.al.|[2411.19037v1](http://arxiv.org/abs/2411.19037v1)|null|
@@ -51,10 +51,10 @@
 |**2024-11-28**|**Data Augmentation with Diffusion Models for Colon Polyp Localization on the Low Data Regime: How much real data is enough?**|Adrian Tormos et.al.|[2411.18926v1](http://arxiv.org/abs/2411.18926v1)|null|
 |**2024-12-02**|**CoDiff-VC: A Codec-Assisted Diffusion Model for Zero-shot Voice Conversion**|Yuke Li et.al.|[2411.18918v2](http://arxiv.org/abs/2411.18918v2)|null|
 |**2024-11-27**|**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution**|Junyang Chen et.al.|[2411.18824v1](http://arxiv.org/abs/2411.18824v1)|null|
-|**2024-11-27**|**Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds**|Shuangqi Li et.al.|[2411.18810v1](http://arxiv.org/abs/2411.18810v1)|null|
+|**2024-12-02**|**Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds**|Shuangqi Li et.al.|[2411.18810v2](http://arxiv.org/abs/2411.18810v2)|null|
 |**2024-11-27**|**Lifting Motion to the 3D World via 2D Diffusion**|Jiaman Li et.al.|[2411.18808v1](http://arxiv.org/abs/2411.18808v1)|null|
-|**2024-11-27**|**Random Walks with Tweedie: A Unified Framework for Diffusion Models**|Chicago Y. Park et.al.|[2411.18702v1](http://arxiv.org/abs/2411.18702v1)|null|
-|**2024-11-27**|**MatchDiffusion: Training-free Generation of Match-cuts**|Alejandro Pardo et.al.|[2411.18677v1](http://arxiv.org/abs/2411.18677v1)|null|
+|**2024-11-27**|**Random Walks with Tweedie: A Unified Framework for Diffusion Models**|Chicago Y. Park et.al.|[2411.18702v1](http://arxiv.org/abs/2411.18702v1)|**[link](https://github.com/wustl-cig/randomwalk_diffusion)**|
+|**2024-11-27**|**MatchDiffusion: Training-free Generation of Match-cuts**|Alejandro Pardo et.al.|[2411.18677v1](http://arxiv.org/abs/2411.18677v1)|**[link](https://github.com/PardoAlejo/MatchDiffusion)**|
 |**2024-11-27**|**SpotLight: Shadow-Guided Object Relighting via Diffusion**|Frédéric Fortier-Chouinard et.al.|[2411.18665v1](http://arxiv.org/abs/2411.18665v1)|null|
 |**2024-11-27**|**Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling**|Junha Hyung et.al.|[2411.18664v1](http://arxiv.org/abs/2411.18664v1)|null|
 |**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662v1](http://arxiv.org/abs/2411.18662v1)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
@@ -6782,7 +6782,7 @@
 |**2024-11-28**|**Stochastic Frequency Fluctuation Super-Resolution Imaging**|Yifan Chen et.al.|[2411.19369v1](http://arxiv.org/abs/2411.19369v1)|null|
 |**2024-11-27**|**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution**|Junyang Chen et.al.|[2411.18824v1](http://arxiv.org/abs/2411.18824v1)|null|
 |**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662v1](http://arxiv.org/abs/2411.18662v1)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
-|**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372v1](http://arxiv.org/abs/2411.18372v1)|null|
+|**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372v1](http://arxiv.org/abs/2411.18372v1)|**[link](https://github.com/shimamohammadi/LBPS-EIC)**|
 |**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263v1](http://arxiv.org/abs/2411.18263v1)|null|
 |**2024-12-01**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003v2](http://arxiv.org/abs/2411.18003v2)|null|
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980v1](http://arxiv.org/abs/2411.17980v1)|**[link](https://github.com/boa2004plaust/vimd)**|
@@ -8201,7 +8201,7 @@
 |**2024-10-14**|**Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution**|Junbo Qiao et.al.|[2410.10140v1](http://arxiv.org/abs/2410.10140v1)|null|
 |**2024-10-13**|**HASN: Hybrid Attention Separable Network for Efficient Image Super-resolution**|Weifeng Cao et.al.|[2410.09844v1](http://arxiv.org/abs/2410.09844v1)|**[link](https://github.com/nathan66666/hasn)**|
 |**2024-10-09**|**MaskBlur: Spatial and Angular Data Augmentation for Light Field Image Super-Resolution**|Wentao Chao et.al.|[2410.06478v1](http://arxiv.org/abs/2410.06478v1)|**[link](https://github.com/chaowentao/maskblur)**|
-|**2024-10-07**|**Enhanced Super-Resolution Training via Mimicked Alignment for Real-World Scenes**|Omar Elezabi et.al.|[2410.05410v1](http://arxiv.org/abs/2410.05410v1)|null|
+|**2024-10-07**|**Enhanced Super-Resolution Training via Mimicked Alignment for Real-World Scenes**|Omar Elezabi et.al.|[2410.05410v1](http://arxiv.org/abs/2410.05410v1)|**[link](https://github.com/omaralezaby/mimicked_ali)**|
 |**2024-10-10**|**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution**|Jianze Li et.al.|[2410.04224v2](http://arxiv.org/abs/2410.04224v2)|**[link](https://github.com/jianzeli-114/dfosd)**|
 |**2024-10-02**|**Stochastic Deep Restoration Priors for Imaging Inverse Problems**|Yuyang Hu et.al.|[2410.02057v1](http://arxiv.org/abs/2410.02057v1)|null|
 |**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589v1](http://arxiv.org/abs/2409.19589v1)|**[link](https://github.com/kunncheng/dit-sr)**|
@@ -10401,7 +10401,7 @@
 |**2024-11-11**|**Efficient Denoising Method to Improve The Resolution of Satellite Images**|Jhanavi Hegde et.al.|[2411.10476v1](http://arxiv.org/abs/2411.10476v1)|null|
 |**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v1](http://arxiv.org/abs/2411.09512v1)|null|
 |**2024-11-13**|**Dynamic Thresholding Algorithm with Memory for Linear Inverse Problems**|Zhong-Feng Sun et.al.|[2411.08284v1](http://arxiv.org/abs/2411.08284v1)|null|
-|**2024-11-29**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930v2](http://arxiv.org/abs/2411.07930v2)|null|
+|**2024-11-29**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930v2](http://arxiv.org/abs/2411.07930v2)|**[link](https://github.com/zy2219105/ct-mamba)**|
 |**2024-11-08**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884v1](http://arxiv.org/abs/2411.05884v1)|null|
 |**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302v1](http://arxiv.org/abs/2411.05302v1)|null|
 |**2024-11-06**|**ADMIRE: a locally adaptive single-image, non-uniformity correction and denoising algorithm: application to uncooled IR camera**|Yohann Tendero et.al.|[2411.03615v1](http://arxiv.org/abs/2411.03615v1)|null|
