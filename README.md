@@ -32,7 +32,7 @@
 |**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448v1](http://arxiv.org/abs/2412.04448v1)|null|
 |**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446v1](http://arxiv.org/abs/2412.04446v1)|null|
 |**2024-12-05**|**Learning Artistic Signatures: Symmetry Discovery and Style Transfer**|Emma Finn et.al.|[2412.04441v1](http://arxiv.org/abs/2412.04441v1)|null|
-|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432v1](http://arxiv.org/abs/2412.04432v1)|null|
+|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432v1](http://arxiv.org/abs/2412.04432v1)|**[link](https://github.com/tencentarc/divot)**|
 |**2024-12-05**|**Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**|Jian Han et.al.|[2412.04431v1](http://arxiv.org/abs/2412.04431v1)|null|
 |**2024-12-05**|**Reversible molecular simulation for training classical and machine learning force fields**|Joe G Greener et.al.|[2412.04374v1](http://arxiv.org/abs/2412.04374v1)|null|
 |**2024-12-05**|**ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation**|Dayoung Gong et.al.|[2412.04353v1](http://arxiv.org/abs/2412.04353v1)|null|
@@ -49,11 +49,11 @@
 |**2024-12-05**|**Local Curvature Smoothing with Stein's Identity for Efficient Score Matching**|Genki Osada et.al.|[2412.03962v1](http://arxiv.org/abs/2412.03962v1)|null|
 |**2024-12-05**|**Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through Measurements Optimization**|Tianyu Chen et.al.|[2412.03941v1](http://arxiv.org/abs/2412.03941v1)|null|
 |**2024-12-05**|**A Noise is Worth Diffusion Guidance**|Donghoon Ahn et.al.|[2412.03895v1](http://arxiv.org/abs/2412.03895v1)|null|
-|**2024-12-05**|**DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism**|Sudha Krishnamurthy et.al.|[2412.03878v1](http://arxiv.org/abs/2412.03878v1)|null|
+|**2024-12-05**|**DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism**|Sudha Krishnamurthy et.al.|[2412.03878v1](http://arxiv.org/abs/2412.03878v1)|**[link](https://github.com/athenas-lab/diffsign)**|
 |**2024-12-05**|**Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization**|Jiangweizhi Peng et.al.|[2412.03876v1](http://arxiv.org/abs/2412.03876v1)|null|
 |**2024-12-05**|**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**|Hui Zhang et.al.|[2412.03859v1](http://arxiv.org/abs/2412.03859v1)|null|
 |**2024-12-05**|**EditScout: Locating Forged Regions from Diffusion-based Edited Images with Multimodal LLM**|Quang Nguyen et.al.|[2412.03809v1](http://arxiv.org/abs/2412.03809v1)|null|
-|**2024-12-04**|**Diffusion in Zero-Shot Learning for Environmental Audio**|Ysobel Sims et.al.|[2412.03771v1](http://arxiv.org/abs/2412.03771v1)|null|
+|**2024-12-04**|**Diffusion in Zero-Shot Learning for Environmental Audio**|Ysobel Sims et.al.|[2412.03771v1](http://arxiv.org/abs/2412.03771v1)|**[link](https://github.com/ysims/zerodiffusion)**|
 |**2024-12-04**|**Thermodynamic Fidelity of Generative Models for Ising System**|Brian H. Lee et.al.|[2412.03764v1](http://arxiv.org/abs/2412.03764v1)|null|
 |**2024-12-04**|**Multi-view Image Diffusion via Coordinate Noise and Fourier Attention**|Justin Theiss et.al.|[2412.03756v1](http://arxiv.org/abs/2412.03756v1)|null|
 |**2024-12-04**|**Sprite Sheet Diffusion: Generate Game Character for Animation**|Cheng-An Hsieh et.al.|[2412.03685v1](http://arxiv.org/abs/2412.03685v1)|null|
@@ -6906,7 +6906,7 @@
 |**2024-12-03**|**CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution**|Jikai Wang et.al.|[2412.02234v1](http://arxiv.org/abs/2412.02234v1)|null|
 |**2024-12-02**|**SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics**|Qingtian Zhu et.al.|[2412.01124v1](http://arxiv.org/abs/2412.01124v1)|null|
 |**2024-12-03**|**VISION-XL: High Definition Video Inverse Problem Solver using Latent Image Diffusion Models**|Taesung Kwon et.al.|[2412.00156v2](http://arxiv.org/abs/2412.00156v2)|null|
-|**2024-11-28**|**Auto-Encoded Supervision for Perceptual Image Super-Resolution**|MinKyu Lee et.al.|[2412.00124v1](http://arxiv.org/abs/2412.00124v1)|null|
+|**2024-11-28**|**Auto-Encoded Supervision for Perceptual Image Super-Resolution**|MinKyu Lee et.al.|[2412.00124v1](http://arxiv.org/abs/2412.00124v1)|**[link](https://github.com/2minkyulee/aesop-auto-encoded-supervision-for-perceptual-image-super-resolution)**|
 |**2024-11-28**|**Stochastic Frequency Fluctuation Super-Resolution Imaging**|Yifan Chen et.al.|[2411.19369v1](http://arxiv.org/abs/2411.19369v1)|null|
 |**2024-11-27**|**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution**|Junyang Chen et.al.|[2411.18824v1](http://arxiv.org/abs/2411.18824v1)|null|
 |**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662v1](http://arxiv.org/abs/2411.18662v1)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
@@ -8312,7 +8312,7 @@
 |**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960v1](http://arxiv.org/abs/2412.02960v1)|null|
 |**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597v1](http://arxiv.org/abs/2412.02597v1)|null|
 |**2024-12-03**|**CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution**|Jikai Wang et.al.|[2412.02234v1](http://arxiv.org/abs/2412.02234v1)|null|
-|**2024-11-28**|**Auto-Encoded Supervision for Perceptual Image Super-Resolution**|MinKyu Lee et.al.|[2412.00124v1](http://arxiv.org/abs/2412.00124v1)|null|
+|**2024-11-28**|**Auto-Encoded Supervision for Perceptual Image Super-Resolution**|MinKyu Lee et.al.|[2412.00124v1](http://arxiv.org/abs/2412.00124v1)|**[link](https://github.com/2minkyulee/aesop-auto-encoded-supervision-for-perceptual-image-super-resolution)**|
 |**2024-11-27**|**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution**|Junyang Chen et.al.|[2411.18824v1](http://arxiv.org/abs/2411.18824v1)|null|
 |**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662v1](http://arxiv.org/abs/2411.18662v1)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
 |**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263v1](http://arxiv.org/abs/2411.18263v1)|null|
@@ -9089,7 +9089,7 @@
 |**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841v1](http://arxiv.org/abs/2412.03841v1)|null|
 |**2024-12-05**|**Exploring Real&Synthetic Dataset and Linear Attention in Image Restoration**|Yuzhen Du et.al.|[2412.03814v1](http://arxiv.org/abs/2412.03814v1)|null|
 |**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960v1](http://arxiv.org/abs/2412.02960v1)|null|
-|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045v1](http://arxiv.org/abs/2412.02045v1)|null|
+|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045v1](http://arxiv.org/abs/2412.02045v1)|**[link](https://github.com/cristianvega1995/Relaxed-and-Inertial-Nonlinear-Forward-Backward-with-Momentum)**|
 |**2024-12-02**|**Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond**|MD Raqib Khan et.al.|[2412.01456v1](http://arxiv.org/abs/2412.01456v1)|**[link](https://github.com/Mdraqibkhan/Phaseformer)**|
 |**2024-12-02**|**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**|Hao Li et.al.|[2412.01427v1](http://arxiv.org/abs/2412.01427v1)|null|
 |**2024-12-01**|**Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration**|Haoze Sun et.al.|[2412.00878v1](http://arxiv.org/abs/2412.00878v1)|null|
@@ -10926,7 +10926,7 @@
 |**2024-12-05**|**Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting**|Guangben Lu et.al.|[2412.03812v1](http://arxiv.org/abs/2412.03812v1)|null|
 |**2024-12-03**|**Diffusion Models with Anisotropic Gaussian Splatting for Image Inpainting**|Jacob Fein-Ashley et.al.|[2412.01682v2](http://arxiv.org/abs/2412.01682v2)|**[link](https://github.com/jacobfa/splatting)**|
 |**2024-12-02**|**PainterNet: Adaptive Image Inpainting with Actual-Token Attention and Diverse Mask Control**|Ruichen Wang et.al.|[2412.01223v1](http://arxiv.org/abs/2412.01223v1)|null|
-|**2024-12-02**|**Improving Detail in Pluralistic Image Inpainting with Feature Dequantization**|Kyungri Park et.al.|[2412.01046v1](http://arxiv.org/abs/2412.01046v1)|null|
+|**2024-12-02**|**Improving Detail in Pluralistic Image Inpainting with Feature Dequantization**|Kyungri Park et.al.|[2412.01046v1](http://arxiv.org/abs/2412.01046v1)|**[link](https://github.com/hyudsl/FDM)**|
 |**2024-11-30**|**Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects**|Amir Barda et.al.|[2412.00518v1](http://arxiv.org/abs/2412.00518v1)|null|
 |**2024-11-28**|**VIPaint: Image Inpainting with Pre-Trained Diffusion Models via Variational Inference**|Sakshi Agarwal et.al.|[2411.18929v1](http://arxiv.org/abs/2411.18929v1)|null|
 |**2024-11-26**|**DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting**|Yicheng Yang et.al.|[2411.17223v1](http://arxiv.org/abs/2411.17223v1)|**[link](https://github.com/mycfhs/dreammix)**|
@@ -11179,7 +11179,7 @@
 |**2024-12-05**|**D-LORD for Motion Stylization**|Meenakshi Gupta et.al.|[2412.04097v1](http://arxiv.org/abs/2412.04097v1)|null|
 |**2024-12-05**|**INRetouch: Context Aware Implicit Neural Representation for Photography Retouching**|Omar Elezabi et.al.|[2412.03848v1](http://arxiv.org/abs/2412.03848v1)|null|
 |**2024-12-04**|**Style3D: Attention-guided Multi-view Style Transfer for 3D Object Generation**|Bingjie Song et.al.|[2412.03571v1](http://arxiv.org/abs/2412.03571v1)|null|
-|**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371v1](http://arxiv.org/abs/2412.03371v1)|null|
+|**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371v1](http://arxiv.org/abs/2412.03371v1)|**[link](https://github.com/JianlingWANG2021/SGSST)**|
 |**2024-12-03**|**GIST: Towards Photorealistic Style Transfer via Multiscale Geometric Representations**|Renan A. Rojas-Gomez et.al.|[2412.02214v1](http://arxiv.org/abs/2412.02214v1)|null|
 |**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
 |**2024-11-28**|**Face2QR: A Unified Framework for Aesthetic, Face-Preserving, and Scannable QR Code Generation**|Xuehao Cui et.al.|[2411.19246v1](http://arxiv.org/abs/2411.19246v1)|null|
