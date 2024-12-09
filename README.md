@@ -46,7 +46,7 @@
 |**2024-12-05**|**Understanding Memorization in Generative Models via Sharpness in Probability Landscapes**|Dongjae Jeon et.al.|[2412.04140v1](http://arxiv.org/abs/2412.04140v1)|null|
 |**2024-12-05**|**Compositional Generative Multiphysics and Multi-component Simulation**|Tao Zhang et.al.|[2412.04134v1](http://arxiv.org/abs/2412.04134v1)|**[link](https://github.com/AI4Science-WestlakeU/MultiSimDiff)**|
 |**2024-12-05**|**IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation**|Sejong Yang et.al.|[2412.04000v1](http://arxiv.org/abs/2412.04000v1)|null|
-|**2024-12-05**|**Local Curvature Smoothing with Stein's Identity for Efficient Score Matching**|Genki Osada et.al.|[2412.03962v1](http://arxiv.org/abs/2412.03962v1)|null|
+|**2024-12-06**|**Local Curvature Smoothing with Stein's Identity for Efficient Score Matching**|Genki Osada et.al.|[2412.03962v2](http://arxiv.org/abs/2412.03962v2)|null|
 |**2024-12-05**|**Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through Measurements Optimization**|Tianyu Chen et.al.|[2412.03941v1](http://arxiv.org/abs/2412.03941v1)|null|
 |**2024-12-05**|**A Noise is Worth Diffusion Guidance**|Donghoon Ahn et.al.|[2412.03895v1](http://arxiv.org/abs/2412.03895v1)|null|
 |**2024-12-05**|**DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism**|Sudha Krishnamurthy et.al.|[2412.03878v1](http://arxiv.org/abs/2412.03878v1)|**[link](https://github.com/athenas-lab/diffsign)**|
@@ -60,7 +60,7 @@
 |**2024-12-04**|**DiffuPT: Class Imbalance Mitigation for Glaucoma Detection via Diffusion Based Generation and Model Pretraining**|Youssof Nawar et.al.|[2412.03629v1](http://arxiv.org/abs/2412.03629v1)|null|
 |**2024-12-04**|**Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression**|Feiran You et.al.|[2412.03621v1](http://arxiv.org/abs/2412.03621v1)|null|
 |**2024-12-04**|**MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**|Zehuan Huang et.al.|[2412.03558v1](http://arxiv.org/abs/2412.03558v1)|null|
-|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517v1](http://arxiv.org/abs/2412.03517v1)|null|
+|**2024-12-06**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517v2](http://arxiv.org/abs/2412.03517v2)|null|
 |**2024-12-04**|**Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion**|Shengyuan Zhang et.al.|[2412.03515v1](http://arxiv.org/abs/2412.03515v1)|**[link](https://github.com/happyw1nd/scorelidar)**|
 |**2024-12-04**|**CleanDIFT: Diffusion Features without Noise**|Nick Stracke et.al.|[2412.03439v1](http://arxiv.org/abs/2412.03439v1)|**[link](https://github.com/CompVis/cleandift)**|
 |**2024-12-04**|**SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model**|Yan Li et.al.|[2412.03430v1](http://arxiv.org/abs/2412.03430v1)|null|
@@ -9092,7 +9092,7 @@
 |**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045v1](http://arxiv.org/abs/2412.02045v1)|**[link](https://github.com/cristianvega1995/Relaxed-and-Inertial-Nonlinear-Forward-Backward-with-Momentum)**|
 |**2024-12-02**|**Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond**|MD Raqib Khan et.al.|[2412.01456v1](http://arxiv.org/abs/2412.01456v1)|**[link](https://github.com/Mdraqibkhan/Phaseformer)**|
 |**2024-12-02**|**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**|Hao Li et.al.|[2412.01427v1](http://arxiv.org/abs/2412.01427v1)|null|
-|**2024-12-01**|**Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration**|Haoze Sun et.al.|[2412.00878v1](http://arxiv.org/abs/2412.00878v1)|null|
+|**2024-12-06**|**Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration**|Haoze Sun et.al.|[2412.00878v2](http://arxiv.org/abs/2412.00878v2)|null|
 |**2024-11-30**|**Blind Inverse Problem Solving Made Easy by Text-to-Image Latent Diffusion**|Michail Dontas et.al.|[2412.00557v1](http://arxiv.org/abs/2412.00557v1)|null|
 |**2024-11-27**|**Hierarchical Information Flow for Generalized Efficient Image Restoration**|Yawei Li et.al.|[2411.18588v1](http://arxiv.org/abs/2411.18588v1)|null|
 |**2024-11-27**|**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**|Eduard Zamfir et.al.|[2411.18466v1](http://arxiv.org/abs/2411.18466v1)|null|
@@ -11215,7 +11215,7 @@
 |**2024-10-17**|**An Active Learning Framework for Inclusive Generation by Large Language Models**|Sabit Hassan et.al.|[2410.13641v1](http://arxiv.org/abs/2410.13641v1)|null|
 |**2024-10-14**|**4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting**|Wanlin Liang et.al.|[2410.10412v1](http://arxiv.org/abs/2410.10412v1)|null|
 |**2024-10-13**|**TextMaster: Universal Controllable Text Edit**|Aoqiang Wang et.al.|[2410.09879v1](http://arxiv.org/abs/2410.09879v1)|null|
-|**2024-10-12**|**Bridging Text and Image for Artist Style Transfer via Contrastive Learning**|Zhi-Song Liu et.al.|[2410.09566v1](http://arxiv.org/abs/2410.09566v1)|null|
+|**2024-12-06**|**Bridging Text and Image for Artist Style Transfer via Contrastive Learning**|Zhi-Song Liu et.al.|[2410.09566v2](http://arxiv.org/abs/2410.09566v2)|null|
 |**2024-10-10**|**Moyun: A Diffusion-Based Model for Style-Specific Chinese Calligraphy Generation**|Kaiyuan Liu et.al.|[2410.07618v1](http://arxiv.org/abs/2410.07618v1)|null|
 |**2024-10-09**|**Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy**|Yuxuan Wen et.al.|[2410.07460v1](http://arxiv.org/abs/2410.07460v1)|**[link](https://github.com/Yuxuan-Wen/Sim2real-Guidewire-Seg)**|
 |**2024-10-08**|**Improving Data Augmentation-based Cross-Speaker Style Transfer for TTS with Singing Voice, Style Filtering, and F0 Matching**|Leonardo B. de M. M. Marques et.al.|[2410.05620v1](http://arxiv.org/abs/2410.05620v1)|**[link](https://github.com/olawod/freevc)**|
