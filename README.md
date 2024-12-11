@@ -26,12 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v1](http://arxiv.org/abs/2412.06787v1)|**[link](https://github.com/CompVis/mask)**|
+|**2024-12-10**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v2](http://arxiv.org/abs/2412.06787v2)|**[link](https://github.com/CompVis/mask)**|
 |**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785v1](http://arxiv.org/abs/2412.06785v1)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
 |**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780v1](http://arxiv.org/abs/2412.06780v1)|null|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774v1](http://arxiv.org/abs/2412.06774v1)|null|
 |**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753v1](http://arxiv.org/abs/2412.06753v1)|null|
-|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742v1](http://arxiv.org/abs/2412.06742v1)|null|
+|**2024-12-10**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742v2](http://arxiv.org/abs/2412.06742v2)|null|
 |**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|null|
 |**2024-12-09**|**You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale**|Baorui Ma et.al.|[2412.06699v1](http://arxiv.org/abs/2412.06699v1)|null|
 |**2024-12-09**|**Gen-3Diffusion: Realistic Image-to-3D Generation via 2D & 3D Diffusion Synergy**|Yuxuan Xue et.al.|[2412.06698v1](http://arxiv.org/abs/2412.06698v1)|null|
@@ -39,7 +39,7 @@
 |**2024-12-09**|**Efficiency Meets Fidelity: A Novel Quantization Framework for Stable Diffusion**|Shuaiting Li et.al.|[2412.06661v1](http://arxiv.org/abs/2412.06661v1)|null|
 |**2024-12-09**|**MVReward: Better Aligning and Evaluating Multi-View Diffusion Models with Human Preferences**|Weitao Wang et.al.|[2412.06614v1](http://arxiv.org/abs/2412.06614v1)|null|
 |**2024-12-09**|**Diffusion on the circle and a stochastic correlation model**|Sourav Majumdar et.al.|[2412.06343v1](http://arxiv.org/abs/2412.06343v1)|null|
-|**2024-12-09**|**Normalizing Flows are Capable Generative Models**|Shuangfei Zhai et.al.|[2412.06329v1](http://arxiv.org/abs/2412.06329v1)|**[link](https://github.com/apple/ml-tarflow)**|
+|**2024-12-10**|**Normalizing Flows are Capable Generative Models**|Shuangfei Zhai et.al.|[2412.06329v2](http://arxiv.org/abs/2412.06329v2)|**[link](https://github.com/apple/ml-tarflow)**|
 |**2024-12-09**|**See Further When Clear: Curriculum Consistency Model**|Yunpeng Liu et.al.|[2412.06295v1](http://arxiv.org/abs/2412.06295v1)|null|
 |**2024-12-09**|**No Annotations for Object Detection in Art through Stable Diffusion**|Patrick Ramos et.al.|[2412.06286v1](http://arxiv.org/abs/2412.06286v1)|**[link](https://github.com/patrick-john-ramos/nada)**|
 |**2024-12-09**|**Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction**|Dongxu Wei et.al.|[2412.06273v1](http://arxiv.org/abs/2412.06273v1)|null|
@@ -49,7 +49,7 @@
 |**2024-12-09**|**SGIA: Enhancing Fine-Grained Visual Classification with Sequence Generative Image Augmentation**|Qiyu Liao et.al.|[2412.06138v1](http://arxiv.org/abs/2412.06138v1)|null|
 |**2024-12-08**|**GraPE: A Generate-Plan-Edit Framework for Compositional T2I Synthesis**|Ashish Goswami et.al.|[2412.06089v1](http://arxiv.org/abs/2412.06089v1)|null|
 |**2024-12-08**|**Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training**|Zhenghong Zhou et.al.|[2412.06029v1](http://arxiv.org/abs/2412.06029v1)|null|
-|**2024-12-08**|**Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation**|Hyeonho Jeong et.al.|[2412.06016v1](http://arxiv.org/abs/2412.06016v1)|null|
+|**2024-12-10**|**Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation**|Hyeonho Jeong et.al.|[2412.06016v2](http://arxiv.org/abs/2412.06016v2)|null|
 |**2024-12-08**|**TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model**|Meilong Xu et.al.|[2412.06011v1](http://arxiv.org/abs/2412.06011v1)|null|
 |**2024-12-08**|**Nested Diffusion Models Using Hierarchical Latent Priors**|Xiao Zhang et.al.|[2412.05984v1](http://arxiv.org/abs/2412.05984v1)|null|
 |**2024-12-08**|**Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation**|Yiren Song et.al.|[2412.05980v1](http://arxiv.org/abs/2412.05980v1)|null|
@@ -60,7 +60,7 @@
 |**2024-12-08**|**Self-Guidance: Boosting Flow and Diffusion Generation on Their Own**|Tiancheng Li et.al.|[2412.05827v1](http://arxiv.org/abs/2412.05827v1)|null|
 |**2024-12-08**|**On Diffusion Posterior Sampling via Sequential Monte Carlo for Zero-Shot Scaffolding of Protein Motifs**|James Matthew Young et.al.|[2412.05788v1](http://arxiv.org/abs/2412.05788v1)|**[link](https://github.com/matsagad/mres-project)**|
 |**2024-12-08**|**Open-Source Acceleration of Stable-Diffusion.cpp**|Jingxu Ng et.al.|[2412.05781v1](http://arxiv.org/abs/2412.05781v1)|**[link](https://github.com/sealailab/stable-diffusion-cpp)**|
-|**2024-12-08**|**BudgetFusion: Perceptually-Guided Adaptive Diffusion Models**|Qinchan et.al.|[2412.05780v1](http://arxiv.org/abs/2412.05780v1)|null|
+|**2024-12-10**|**BudgetFusion: Perceptually-Guided Adaptive Diffusion Models**|Qinchan Li et.al.|[2412.05780v2](http://arxiv.org/abs/2412.05780v2)|null|
 |**2024-12-07**|**Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent**|Ziyuan Qin et.al.|[2412.05722v1](http://arxiv.org/abs/2412.05722v1)|null|
 |**2024-12-07**|**Combining Genre Classification and Harmonic-Percussive Features with Diffusion Models for Music-Video Generation**|Leonardo Pina et.al.|[2412.05694v1](http://arxiv.org/abs/2412.05694v1)|null|
 |**2024-12-07**|**Remix-DiT: Mixing Diffusion Transformers for Multi-Expert Denoising**|Gongfan Fang et.al.|[2412.05628v1](http://arxiv.org/abs/2412.05628v1)|null|
@@ -6982,7 +6982,7 @@
 |**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662v1](http://arxiv.org/abs/2411.18662v1)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
 |**2024-11-27**|**Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment**|Shima Mohammadi et.al.|[2411.18372v1](http://arxiv.org/abs/2411.18372v1)|**[link](https://github.com/shimamohammadi/LBPS-EIC)**|
 |**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263v1](http://arxiv.org/abs/2411.18263v1)|null|
-|**2024-12-01**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003v2](http://arxiv.org/abs/2411.18003v2)|null|
+|**2024-12-10**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003v3](http://arxiv.org/abs/2411.18003v3)|null|
 |**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980v1](http://arxiv.org/abs/2411.17980v1)|**[link](https://github.com/boa2004plaust/vimd)**|
 |**2024-11-26**|**Perceptually Optimized Super Resolution**|Volodymyr Karpenko et.al.|[2411.17513v1](http://arxiv.org/abs/2411.17513v1)|null|
 |**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214v1](http://arxiv.org/abs/2411.17214v1)|null|
@@ -8386,7 +8386,7 @@
 |**2024-11-27**|**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution**|Junyang Chen et.al.|[2411.18824v1](http://arxiv.org/abs/2411.18824v1)|null|
 |**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662v1](http://arxiv.org/abs/2411.18662v1)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
 |**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263v1](http://arxiv.org/abs/2411.18263v1)|null|
-|**2024-12-01**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003v2](http://arxiv.org/abs/2411.18003v2)|null|
+|**2024-12-10**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003v3](http://arxiv.org/abs/2411.18003v3)|null|
 |**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214v1](http://arxiv.org/abs/2411.17214v1)|null|
 |**2024-12-03**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106v3](http://arxiv.org/abs/2411.17106v3)|**[link](https://github.com/libozhu03/passionsr)**|
 |**2024-11-25**|**From Diffusion to Resolution: Leveraging 2D Diffusion Models for 3D Super-Resolution Task**|Bohao Chen et.al.|[2411.16792v1](http://arxiv.org/abs/2411.16792v1)|null|
