@@ -26,6 +26,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642v1](http://arxiv.org/abs/2412.08642v1)|null|
+|**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|null|
+|**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573v1](http://arxiv.org/abs/2412.08573v1)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
+|**2024-12-11**|**Learning Flow Fields in Attention for Controllable Person Image Generation**|Zijian Zhou et.al.|[2412.08486v1](http://arxiv.org/abs/2412.08486v1)|**[link](https://github.com/franciszzj/leffa)**|
+|**2024-12-11**|**InvDiff: Invariant Guidance for Bias Mitigation in Diffusion Models**|Min Hou et.al.|[2412.08480v1](http://arxiv.org/abs/2412.08480v1)|**[link](https://github.com/hundredl/invdiff)**|
+|**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464v1](http://arxiv.org/abs/2412.08464v1)|null|
+|**2024-12-11**|**Reliable Uncertainty Quantification for Fiber Orientation in Composite Molding Processes using Multilevel Polynomial Surrogates**|Stjepan Salatovic et.al.|[2412.08459v1](http://arxiv.org/abs/2412.08459v1)|null|
+|**2024-12-11**|**Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**|Songchun Zhang et.al.|[2412.08412v1](http://arxiv.org/abs/2412.08412v1)|null|
+|**2024-12-11**|**Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**|Joao Carvalho et.al.|[2412.08398v1](http://arxiv.org/abs/2412.08398v1)|null|
+|**2024-12-11**|**Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion**|Jisheng Chu et.al.|[2412.08326v1](http://arxiv.org/abs/2412.08326v1)|null|
+|**2024-12-11**|**GDSG: Graph Diffusion-based Solution Generation for Optimization Problems in MEC Networks**|Ruihuai Liang et.al.|[2412.08296v1](http://arxiv.org/abs/2412.08296v1)|**[link](https://github.com/qiyu3816/gdsg)**|
+|**2024-12-11**|**Self-Refining Diffusion Samplers: Enabling Parallelization via Parareal Iterations**|Nikil Roashan Selvam et.al.|[2412.08292v1](http://arxiv.org/abs/2412.08292v1)|null|
+|**2024-12-11**|**Toward Near-Globally Optimal Nonlinear Model Predictive Control via Diffusion Models**|Tzu-Yuan Huang et.al.|[2412.08278v1](http://arxiv.org/abs/2412.08278v1)|null|
+|**2024-12-11**|**Unicorn: Unified Neural Image Compression with One Number Reconstruction**|Qi Zheng et.al.|[2412.08210v1](http://arxiv.org/abs/2412.08210v1)|null|
+|**2024-12-11**|**LatentSpeech: Latent Diffusion for Text-To-Speech Generation**|Haowei Lou et.al.|[2412.08117v1](http://arxiv.org/abs/2412.08117v1)|null|
+|**2024-12-11**|**DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**|Jaeho Moon et.al.|[2412.08116v1](http://arxiv.org/abs/2412.08116v1)|null|
+|**2024-12-10**|**Diffusion-Based Attention Warping for Consistent 3D Scene Editing**|Eyal Gomel et.al.|[2412.07984v1](http://arxiv.org/abs/2412.07984v1)|null|
+|**2024-12-10**|**Non-Normal Diffusion Models**|Henry Li et.al.|[2412.07935v1](http://arxiv.org/abs/2412.07935v1)|null|
+|**2024-12-10**|**Score Change of Variables**|Stephen Robbins et.al.|[2412.07904v1](http://arxiv.org/abs/2412.07904v1)|null|
+|**2024-12-10**|**Score-Optimal Diffusion Schedules**|Christopher Williams et.al.|[2412.07877v1](http://arxiv.org/abs/2412.07877v1)|null|
+|**2024-12-09**|**Boosting Alignment for Post-Unlearning Text-to-Image Generative Models**|Myeongseob Ko et.al.|[2412.07808v1](http://arxiv.org/abs/2412.07808v1)|**[link](https://github.com/reds-lab/restricted_gradient_diversity_unlearning)**|
 |**2024-12-10**|**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**|Zhen Liu et.al.|[2412.07775v1](http://arxiv.org/abs/2412.07775v1)|null|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772v1](http://arxiv.org/abs/2412.07772v1)|null|
 |**2024-12-10**|**Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds**|Xiaoyu Xiang et.al.|[2412.07766v1](http://arxiv.org/abs/2412.07766v1)|null|
@@ -6979,6 +7000,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Fair Primal Dual Splitting Method for Image Inverse Problems**|Yunfei Qu et.al.|[2412.08613v1](http://arxiv.org/abs/2412.08613v1)|null|
+|**2024-12-11**|**Efficient estimation of error bounds for quantum multiparametric imaging with constraints**|Alexander Mikhalychev et.al.|[2412.08199v1](http://arxiv.org/abs/2412.08199v1)|null|
+|**2024-12-11**|**Statistical Downscaling via High-Dimensional Distribution Matching with Generative Models**|Zhong Yi Wan et.al.|[2412.08079v1](http://arxiv.org/abs/2412.08079v1)|null|
 |**2024-12-10**|**MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution**|Yuchun He et.al.|[2412.07222v1](http://arxiv.org/abs/2412.07222v1)|null|
 |**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195v1](http://arxiv.org/abs/2412.07195v1)|null|
 |**2024-12-10**|**Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors**|Jiangang Wang et.al.|[2412.07152v1](http://arxiv.org/abs/2412.07152v1)|null|
@@ -9191,6 +9215,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm**|Marien Renaud et.al.|[2412.08262v1](http://arxiv.org/abs/2412.08262v1)|null|
 |**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256v1](http://arxiv.org/abs/2412.07256v1)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
 |**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225v1](http://arxiv.org/abs/2412.07225v1)|null|
 |**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195v1](http://arxiv.org/abs/2412.07195v1)|null|
@@ -9762,6 +9787,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Benchmarking learned algorithms for computed tomography image reconstruction tasks**|Maximilian B. Kiss et.al.|[2412.08350v1](http://arxiv.org/abs/2412.08350v1)|null|
+|**2024-12-10**|**Graph convolutional networks enable fast hemorrhagic stroke monitoring with electrical impedance tomography**|J. Toivanen et.al.|[2412.07888v1](http://arxiv.org/abs/2412.07888v1)|null|
 |**2024-12-10**|**Closed-Form Approximation of the Total Variation Proximal Operator**|Edward P. Chandler et.al.|[2412.07718v1](http://arxiv.org/abs/2412.07718v1)|null|
 |**2024-12-11**|**Direct Low-Dose CT Image Reconstruction on GPU using Out-Of-Core: Precision and Quality Study**|M. Chillarón et.al.|[2412.07631v2](http://arxiv.org/abs/2412.07631v2)|null|
 |**2024-12-10**|**Image Reconstruction in Cone Beam Computed Tomography Using Controlled Gradient Sparsity**|Alexander Meaney et.al.|[2412.07465v1](http://arxiv.org/abs/2412.07465v1)|null|
@@ -10687,6 +10714,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Fair Primal Dual Splitting Method for Image Inverse Problems**|Yunfei Qu et.al.|[2412.08613v1](http://arxiv.org/abs/2412.08613v1)|null|
+|**2024-12-11**|**A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis**|Nguyen Van Doan et.al.|[2412.08489v1](http://arxiv.org/abs/2412.08489v1)|null|
 |**2024-12-10**|**Closed-Form Approximation of the Total Variation Proximal Operator**|Edward P. Chandler et.al.|[2412.07718v1](http://arxiv.org/abs/2412.07718v1)|null|
 |**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195v1](http://arxiv.org/abs/2412.07195v1)|null|
 |**2024-12-09**|**A CT Image Denoising Method Based on Projection Domain Feature**|Mengyu Sun et.al.|[2412.06135v1](http://arxiv.org/abs/2412.06135v1)|null|
@@ -11055,6 +11084,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**AsyncDSB: Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting**|Zihao Han et.al.|[2412.08149v1](http://arxiv.org/abs/2412.08149v1)|null|
 |**2024-12-10**|**Moderating the Generalization of Score-based Generative Model**|Wan Jiang et.al.|[2412.07229v1](http://arxiv.org/abs/2412.07229v1)|null|
 |**2024-12-09**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041v1](http://arxiv.org/abs/2412.07041v1)|null|
 |**2024-12-08**|**3D-Consistent Image Inpainting with Diffusion Models**|Leonid Antsfeld et.al.|[2412.05881v1](http://arxiv.org/abs/2412.05881v1)|null|
@@ -11309,6 +11339,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements**|Mingkun Lei et.al.|[2412.08503v1](http://arxiv.org/abs/2412.08503v1)|null|
 |**2024-12-10**|**StyleMaster: Stylize Your Video with Artistic Generation and Translation**|Zixuan Ye et.al.|[2412.07744v1](http://arxiv.org/abs/2412.07744v1)|null|
 |**2024-12-10**|**StyleMark: A Robust Watermarking Method for Art Style Images Against Black-Box Arbitrary Style Transfer**|Yunming Zhang et.al.|[2412.07129v1](http://arxiv.org/abs/2412.07129v1)|null|
 |**2024-12-04**|**The Role of Text-to-Image Models in Advanced Style Transfer Applications: A Case Study with DALL-E 3**|Ebubechukwu Ike et.al.|[2412.05325v1](http://arxiv.org/abs/2412.05325v1)|null|
