@@ -29,11 +29,11 @@
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642v1](http://arxiv.org/abs/2412.08642v1)|null|
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|**[link](https://github.com/huawei-lin/DMin)**|
 |**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573v1](http://arxiv.org/abs/2412.08573v1)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
-|**2024-12-11**|**Learning Flow Fields in Attention for Controllable Person Image Generation**|Zijian Zhou et.al.|[2412.08486v1](http://arxiv.org/abs/2412.08486v1)|**[link](https://github.com/franciszzj/leffa)**|
+|**2024-12-12**|**Learning Flow Fields in Attention for Controllable Person Image Generation**|Zijian Zhou et.al.|[2412.08486v2](http://arxiv.org/abs/2412.08486v2)|**[link](https://github.com/franciszzj/leffa)**|
 |**2024-12-11**|**InvDiff: Invariant Guidance for Bias Mitigation in Diffusion Models**|Min Hou et.al.|[2412.08480v1](http://arxiv.org/abs/2412.08480v1)|**[link](https://github.com/hundredl/invdiff)**|
 |**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464v1](http://arxiv.org/abs/2412.08464v1)|null|
 |**2024-12-11**|**Reliable Uncertainty Quantification for Fiber Orientation in Composite Molding Processes using Multilevel Polynomial Surrogates**|Stjepan Salatovic et.al.|[2412.08459v1](http://arxiv.org/abs/2412.08459v1)|null|
-|**2024-12-11**|**Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**|Songchun Zhang et.al.|[2412.08412v1](http://arxiv.org/abs/2412.08412v1)|null|
+|**2024-12-12**|**Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**|Songchun Zhang et.al.|[2412.08412v2](http://arxiv.org/abs/2412.08412v2)|null|
 |**2024-12-11**|**Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**|Joao Carvalho et.al.|[2412.08398v1](http://arxiv.org/abs/2412.08398v1)|null|
 |**2024-12-11**|**Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion**|Jisheng Chu et.al.|[2412.08326v1](http://arxiv.org/abs/2412.08326v1)|null|
 |**2024-12-11**|**GDSG: Graph Diffusion-based Solution Generation for Optimization Problems in MEC Networks**|Ruihuai Liang et.al.|[2412.08296v1](http://arxiv.org/abs/2412.08296v1)|**[link](https://github.com/qiyu3816/gdsg)**|
@@ -58,7 +58,7 @@
 |**2024-12-11**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590v2](http://arxiv.org/abs/2412.07590v2)|**[link](https://github.com/medcx/PFAD)**|
 |**2024-12-10**|**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation**|Jianzong Wu et.al.|[2412.07589v1](http://arxiv.org/abs/2412.07589v1)|null|
 |**2024-12-10**|**Mobile Video Diffusion**|Haitam Ben Yahia et.al.|[2412.07583v1](http://arxiv.org/abs/2412.07583v1)|null|
-|**2024-12-10**|**Parallel simulation for sampling under isoperimetry and score-based diffusion models**|Huanjian Zhou et.al.|[2412.07435v1](http://arxiv.org/abs/2412.07435v1)|null|
+|**2024-12-12**|**Parallel simulation for sampling under isoperimetry and score-based diffusion models**|Huanjian Zhou et.al.|[2412.07435v2](http://arxiv.org/abs/2412.07435v2)|null|
 |**2024-12-10**|**Non-Progressive Influence Maximization in Dynamic Social Networks**|Yunming Hui et.al.|[2412.07402v1](http://arxiv.org/abs/2412.07402v1)|null|
 |**2024-12-10**|**Fusion Embedding for Pose-Guided Person Image Synthesis with Diffusion Model**|Donghwna Lee et.al.|[2412.07333v1](http://arxiv.org/abs/2412.07333v1)|null|
 |**2024-12-10**|**AppGen: Mobility-aware App Usage Behavior Generation for Mobile Users**|Zihan Huang et.al.|[2412.07267v1](http://arxiv.org/abs/2412.07267v1)|null|
@@ -7001,7 +7001,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-11**|**Fair Primal Dual Splitting Method for Image Inverse Problems**|Yunfei Qu et.al.|[2412.08613v1](http://arxiv.org/abs/2412.08613v1)|null|
-|**2024-12-11**|**Efficient estimation of error bounds for quantum multiparametric imaging with constraints**|Alexander Mikhalychev et.al.|[2412.08199v1](http://arxiv.org/abs/2412.08199v1)|null|
+|**2024-12-12**|**Efficient estimation of error bounds for quantum multiparametric imaging with constraints**|Alexander Mikhalychev et.al.|[2412.08199v2](http://arxiv.org/abs/2412.08199v2)|null|
 |**2024-12-11**|**Statistical Downscaling via High-Dimensional Distribution Matching with Generative Models**|Zhong Yi Wan et.al.|[2412.08079v1](http://arxiv.org/abs/2412.08079v1)|null|
 |**2024-12-10**|**MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution**|Yuchun He et.al.|[2412.07222v1](http://arxiv.org/abs/2412.07222v1)|null|
 |**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195v1](http://arxiv.org/abs/2412.07195v1)|null|
@@ -9794,7 +9794,7 @@
 |**2024-12-10**|**Image Reconstruction in Cone Beam Computed Tomography Using Controlled Gradient Sparsity**|Alexander Meaney et.al.|[2412.07465v1](http://arxiv.org/abs/2412.07465v1)|null|
 |**2024-12-10**|**MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution**|Yuchun He et.al.|[2412.07222v1](http://arxiv.org/abs/2412.07222v1)|null|
 |**2024-12-10**|**Semantic Communications for Digital Signals via Carrier Images**|Zhigang Yan et.al.|[2412.07173v1](http://arxiv.org/abs/2412.07173v1)|null|
-|**2024-12-09**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041v1](http://arxiv.org/abs/2412.07041v1)|**[link](https://github.com/MengyingLei/GLSKF)**|
+|**2024-12-11**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041v2](http://arxiv.org/abs/2412.07041v2)|**[link](https://github.com/MengyingLei/GLSKF)**|
 |**2024-12-09**|**Dazzle: Oversampled Image Reconstruction and Difference-Imaging Photometry for the Nancy Grace Roman Space Telescope**|Michael D Albrow et.al.|[2412.06905v1](http://arxiv.org/abs/2412.06905v1)|null|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774v1](http://arxiv.org/abs/2412.06774v1)|null|
 |**2024-12-09**|**Diff5T: Benchmarking Human Brain Diffusion MRI with an Extensive 5.0 Tesla K-Space and Spatial Dataset**|Shanshan Wang et.al.|[2412.06666v1](http://arxiv.org/abs/2412.06666v1)|null|
@@ -11086,7 +11086,7 @@
 |---|---|---|---|---|
 |**2024-12-11**|**AsyncDSB: Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting**|Zihao Han et.al.|[2412.08149v1](http://arxiv.org/abs/2412.08149v1)|null|
 |**2024-12-10**|**Moderating the Generalization of Score-based Generative Model**|Wan Jiang et.al.|[2412.07229v1](http://arxiv.org/abs/2412.07229v1)|null|
-|**2024-12-09**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041v1](http://arxiv.org/abs/2412.07041v1)|**[link](https://github.com/MengyingLei/GLSKF)**|
+|**2024-12-11**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041v2](http://arxiv.org/abs/2412.07041v2)|**[link](https://github.com/MengyingLei/GLSKF)**|
 |**2024-12-08**|**3D-Consistent Image Inpainting with Diffusion Models**|Leonid Antsfeld et.al.|[2412.05881v1](http://arxiv.org/abs/2412.05881v1)|null|
 |**2024-12-05**|**Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting**|Guangben Lu et.al.|[2412.03812v1](http://arxiv.org/abs/2412.03812v1)|null|
 |**2024-12-03**|**Diffusion Models with Anisotropic Gaussian Splatting for Image Inpainting**|Jacob Fein-Ashley et.al.|[2412.01682v2](http://arxiv.org/abs/2412.01682v2)|**[link](https://github.com/jacobfa/splatting)**|
@@ -11116,7 +11116,7 @@
 |**2024-09-23**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677v1](http://arxiv.org/abs/2409.14677v1)|**[link](https://github.com/val-iisc/Reflecting-Reality)**|
 |**2024-09-19**|**Image inpainting for corrupted images by using the semi-super resolution GAN**|Mehrshad Momen-Tayefeh et.al.|[2409.12636v1](http://arxiv.org/abs/2409.12636v1)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
-|**2024-08-16**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v1](http://arxiv.org/abs/2408.08984v1)|**[link](https://github.com/quaife/FDV_Data)**|
+|**2024-12-12**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v2](http://arxiv.org/abs/2408.08984v2)|**[link](https://github.com/quaife/FDV_Data)**|
 |**2024-08-15**|**Single-image coherent reconstruction of objects and humans**|Sarthak Batra et.al.|[2408.08086v1](http://arxiv.org/abs/2408.08086v1)|null|
 |**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429v1](http://arxiv.org/abs/2408.06429v1)|null|
 |**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962v1](http://arxiv.org/abs/2408.04962v1)|null|
