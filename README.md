@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156v1](http://arxiv.org/abs/2412.16156v1)|**[link](https://github.com/ssundaram21/personalized-rep)**|
+|**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121v1](http://arxiv.org/abs/2412.16121v1)|null|
+|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083v1](http://arxiv.org/abs/2412.16083v1)|null|
+|**2024-12-20**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050v1](http://arxiv.org/abs/2412.16050v1)|null|
+|**2024-12-20**|**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**|Jiadong Pan et.al.|[2412.16039v1](http://arxiv.org/abs/2412.16039v1)|null|
+|**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853v1](http://arxiv.org/abs/2412.15853v1)|null|
+|**2024-12-20**|**Electromagnetic particle-in-cell modeling of an electron cyclotron resonance plasma discharge in hydrogen**|D. Eremin et.al.|[2412.15802v1](http://arxiv.org/abs/2412.15802v1)|null|
+|**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798v1](http://arxiv.org/abs/2412.15798v1)|null|
+|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673v1](http://arxiv.org/abs/2412.15673v1)|null|
+|**2024-12-20**|**BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models**|Yifei Sun et.al.|[2412.15670v1](http://arxiv.org/abs/2412.15670v1)|null|
+|**2024-12-20**|**SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control**|Xiaohan Zhang et.al.|[2412.15664v1](http://arxiv.org/abs/2412.15664v1)|null|
+|**2024-12-20**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646v1](http://arxiv.org/abs/2412.15646v1)|**[link](https://github.com/rongpiking/customttt)**|
+|**2024-12-20**|**Score-based Generative Diffusion Models for Social Recommendations**|Chengyi Liu et.al.|[2412.15579v1](http://arxiv.org/abs/2412.15579v1)|**[link](https://github.com/anonymous-coderepository/score-based-generative-diffusion-models-for-social-recommendations-sgsr)**|
+|**2024-12-20**|**DefFiller: Mask-Conditioned Diffusion for Salient Steel Surface Defect Generation**|Yichun Tai et.al.|[2412.15570v1](http://arxiv.org/abs/2412.15570v1)|**[link](https://github.com/cc-t/deffiller)**|
+|**2024-12-20**|**ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model**|Qi Zang et.al.|[2412.15541v1](http://arxiv.org/abs/2412.15541v1)|**[link](https://github.com/dzhaoxd/changediff)**|
+|**2024-12-20**|**Stylish and Functional: Guided Interpolation Subject to Physical Constraints**|Yan-Ying Chen et.al.|[2412.15507v1](http://arxiv.org/abs/2412.15507v1)|null|
+|**2024-12-20**|**GCA-3D: Towards Generalized and Consistent Domain Adaptation of 3D Generators**|Hengjia Li et.al.|[2412.15491v1](http://arxiv.org/abs/2412.15491v1)|null|
+|**2024-12-19**|**Spatiotemporally Coherent Probabilistic Generation of Weather from Climate**|Jonathan Schmidt et.al.|[2412.15361v1](http://arxiv.org/abs/2412.15361v1)|**[link](https://github.com/schmidtjonathan/climate2weather)**|
+|**2024-12-19**|**Dataset Augmentation by Mixing Visual Concepts**|Abdullah Al Rahat et.al.|[2412.15358v1](http://arxiv.org/abs/2412.15358v1)|null|
+|**2024-12-19**|**Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models**|Reza Shirkavand et.al.|[2412.15341v1](http://arxiv.org/abs/2412.15341v1)|null|
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214v1](http://arxiv.org/abs/2412.15214v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
 |**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211v1](http://arxiv.org/abs/2412.15211v1)|null|
@@ -7180,6 +7200,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
 |**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150v1](http://arxiv.org/abs/2412.14150v1)|null|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070v1](http://arxiv.org/abs/2412.13070v1)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
@@ -8626,6 +8647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609v1](http://arxiv.org/abs/2412.11609v1)|null|
 |**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v2](http://arxiv.org/abs/2412.11525v2)|null|
@@ -9256,6 +9278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Efficient Neural Network Encoding for 3D Color Lookup Tables**|Vahid Zehtab et.al.|[2412.15438v1](http://arxiv.org/abs/2412.15438v1)|**[link](https://github.com/vahidzee/ennelut)**|
 |**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815v1](http://arxiv.org/abs/2412.11815v1)|null|
 |**2024-12-12**|**Structurally Consistent MRI Colorization using Cross-modal Fusion Learning**|Mayuri Mathur et.al.|[2412.10452v1](http://arxiv.org/abs/2412.10452v1)|null|
 |**2024-11-22**|**Detecting Visual Triggers in Cannabis Imagery: A CLIP-Based Multi-Labeling Framework with Local-Global Aggregation**|Linqi Lu et.al.|[2412.08648v1](http://arxiv.org/abs/2412.08648v1)|null|
@@ -9426,10 +9449,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
+|**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845v1](http://arxiv.org/abs/2412.15845v1)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630v1](http://arxiv.org/abs/2412.14630v1)|null|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327v1](http://arxiv.org/abs/2412.14327v1)|null|
 |**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220v1](http://arxiv.org/abs/2412.14220v1)|**[link](https://github.com/tranleanh/dpte-net)**|
-|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443v1](http://arxiv.org/abs/2412.13443v1)|null|
+|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443v1](http://arxiv.org/abs/2412.13443v1)|**[link](https://github.com/cidautai/darkir)**|
 |**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550v1](http://arxiv.org/abs/2412.12550v1)|null|
 |**2024-12-15**|**Towards Context-aware Convolutional Network for Image Restoration**|Fangwei Hao et.al.|[2412.11008v1](http://arxiv.org/abs/2412.11008v1)|null|
 |**2024-12-14**|**Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation, Spatial Purification, and Scale Diversification**|Yucong Meng et.al.|[2412.10776v1](http://arxiv.org/abs/2412.10776v1)|null|
@@ -10010,6 +10035,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Local analysis of iterative reconstruction from discrete generalized Radon transform data in the plane**|Alexander Katsevich et.al.|[2412.15910v1](http://arxiv.org/abs/2412.15910v1)|null|
 |**2024-12-19**|**Preventing Local Pitfalls in Vector Quantization via Optimal Transport**|Borui Zhang et.al.|[2412.15195v1](http://arxiv.org/abs/2412.15195v1)|**[link](https://github.com/zbr17/OptVQ)**|
 |**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803v1](http://arxiv.org/abs/2412.14803v1)|null|
 |**2024-12-18**|**Plug-and-Play Tri-Branch Invertible Block for Image Rescaling**|Jingwei Bao et.al.|[2412.13508v1](http://arxiv.org/abs/2412.13508v1)|null|
@@ -10956,6 +10982,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845v1](http://arxiv.org/abs/2412.15845v1)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327v1](http://arxiv.org/abs/2412.14327v1)|null|
 |**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156v1](http://arxiv.org/abs/2412.13156v1)|null|
 |**2024-12-17**|**Linear Convergence of Resolvent Splitting with Minimal Lifting and its Application to a Primal-Dual Algorithm**|Farhana A. Simi et.al.|[2412.12607v1](http://arxiv.org/abs/2412.12607v1)|null|
@@ -11591,6 +11618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models**|Reza Shirkavand et.al.|[2412.15341v1](http://arxiv.org/abs/2412.15341v1)|null|
 |**2024-12-16**|**Multilingual and Explainable Text Detoxification with Parallel Corpora**|Daryna Dementieva et.al.|[2412.11691v1](http://arxiv.org/abs/2412.11691v1)|**[link](https://github.com/textdetox/multilingual_explainable_paradetox)**|
 |**2024-12-15**|**Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion**|Bing Xiong et.al.|[2412.11106v1](http://arxiv.org/abs/2412.11106v1)|**[link](https://github.com/DianaNerualNetwork/StainPromptInversion)**|
 |**2024-12-17**|**ProxyLLM : LLM-Driven Framework for Customer Support Through Text-Style Transfer**|Sehyeong Jo et.al.|[2412.09916v2](http://arxiv.org/abs/2412.09916v2)|**[link](https://github.com/sayjoupstack/Proxy-LLM)**|
