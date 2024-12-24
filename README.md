@@ -7207,7 +7207,7 @@
 |**2024-12-17**|**Super-Resolving Normalising Flows for Lattice Field Theories**|Marc Bauer et.al.|[2412.12842v1](http://arxiv.org/abs/2412.12842v1)|null|
 |**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680v1](http://arxiv.org/abs/2412.11680v1)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609v1](http://arxiv.org/abs/2412.11609v1)|null|
-|**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v2](http://arxiv.org/abs/2412.11525v2)|null|
+|**2024-12-21**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v3](http://arxiv.org/abs/2412.11525v3)|null|
 |**2024-12-16**|**Block-Based Multi-Scale Image Rescaling**|Jian Li et.al.|[2412.11468v1](http://arxiv.org/abs/2412.11468v1)|null|
 |**2024-12-16**|**Quantization of Climate Change Impacts on Renewable Energy Generation Capacity: A Super-Resolution Recurrent Diffusion Model**|Xiaochong Dong et.al.|[2412.11399v1](http://arxiv.org/abs/2412.11399v1)|null|
 |**2024-12-18**|**A Staged Deep Learning Approach to Spatial Refinement in 3D Temporal Atmospheric Transport**|M. Giselle Fernández-Godino et.al.|[2412.10945v2](http://arxiv.org/abs/2412.10945v2)|null|
@@ -8650,7 +8650,7 @@
 |**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609v1](http://arxiv.org/abs/2412.11609v1)|null|
-|**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v2](http://arxiv.org/abs/2412.11525v2)|null|
+|**2024-12-21**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v3](http://arxiv.org/abs/2412.11525v3)|null|
 |**2024-12-13**|**A Single-Frame and Multi-Frame Cascaded Image Super-Resolution Method**|Jing Sun et.al.|[2412.09846v1](http://arxiv.org/abs/2412.09846v1)|null|
 |**2024-12-13**|**Super-Resolution for Remote Sensing Imagery via the Coupling of a Variational Model and Deep Learning**|Jing Sun et.al.|[2412.09841v1](http://arxiv.org/abs/2412.09841v1)|null|
 |**2024-12-11**|**RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution**|Xuhan Sheng et.al.|[2412.09646v1](http://arxiv.org/abs/2412.09646v1)|null|
@@ -9153,7 +9153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v2](http://arxiv.org/abs/2412.11525v2)|null|
+|**2024-12-21**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v3](http://arxiv.org/abs/2412.11525v3)|null|
 |**2024-12-12**|**A Plug-and-Play Algorithm for 3D Video Super-Resolution of Single-Photon LiDAR data**|Alice Ruget et.al.|[2412.09427v1](http://arxiv.org/abs/2412.09427v1)|null|
 |**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362v1](http://arxiv.org/abs/2411.13362v1)|null|
 |**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738v1](http://arxiv.org/abs/2411.06738v1)|null|
