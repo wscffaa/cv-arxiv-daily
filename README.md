@@ -26,6 +26,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608v1](http://arxiv.org/abs/2412.18608v1)|null|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607v1](http://arxiv.org/abs/2412.18607v1)|null|
+|**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604v1](http://arxiv.org/abs/2412.18604v1)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597v1](http://arxiv.org/abs/2412.18597v1)|**[link](https://github.com/tencentarc/ditctrl)**|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596v1](http://arxiv.org/abs/2412.18596v1)|null|
+|**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584v1](http://arxiv.org/abs/2412.18584v1)|null|
+|**2024-12-24**|**3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement**|Yihang Luo et.al.|[2412.18565v1](http://arxiv.org/abs/2412.18565v1)|null|
+|**2024-12-24**|**Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models**|Qice Qin et.al.|[2412.18421v1](http://arxiv.org/abs/2412.18421v1)|null|
+|**2024-12-24**|**Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**|Shihang Xu et.al.|[2412.18414v1](http://arxiv.org/abs/2412.18414v1)|null|
+|**2024-12-24**|**FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**|Jaechul Roh et.al.|[2412.18302v1](http://arxiv.org/abs/2412.18302v1)|null|
+|**2024-12-24**|**GDM4MMIMO: Generative Diffusion Models for Massive MIMO Communications**|Zhenzhou Jin et.al.|[2412.18281v1](http://arxiv.org/abs/2412.18281v1)|null|
+|**2024-12-24**|**Schödinger Bridge Type Diffusion Models as an Extension of Variational Autoencoders**|Kentaro Kaba et.al.|[2412.18237v1](http://arxiv.org/abs/2412.18237v1)|null|
+|**2024-12-24**|**Expand VSR Benchmark for VLLM to Expertize in Spatial Rules**|Peijin Xie et.al.|[2412.18224v1](http://arxiv.org/abs/2412.18224v1)|**[link](https://github.com/peijin360/vsre)**|
+|**2024-12-24**|**Accelerating AIGC Services with Latent Action Diffusion Scheduling in Edge Networks**|Changfu Xu et.al.|[2412.18212v1](http://arxiv.org/abs/2412.18212v1)|**[link](https://github.com/changfuxu/dedgeai)**|
+|**2024-12-24**|**Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity, and Convergence**|Yinbin Han et.al.|[2412.18164v1](http://arxiv.org/abs/2412.18164v1)|null|
+|**2024-12-24**|**Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction**|Xiao Guo et.al.|[2412.18149v1](http://arxiv.org/abs/2412.18149v1)|null|
+|**2024-12-24**|**Ensuring Consistency for In-Image Translation**|Chengpeng Fu et.al.|[2412.18139v1](http://arxiv.org/abs/2412.18139v1)|null|
+|**2024-12-23**|**Multi-Agent Path Finding in Continuous Spaces with Projected Diffusion Models**|Jinhao Liang et.al.|[2412.17993v1](http://arxiv.org/abs/2412.17993v1)|null|
+|**2024-12-23**|**Causal Composition Diffusion Model for Closed-loop Traffic Generation**|Haohong Lin et.al.|[2412.17920v1](http://arxiv.org/abs/2412.17920v1)|null|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
 |**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780v1](http://arxiv.org/abs/2412.17780v1)|null|
 |**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762v1](http://arxiv.org/abs/2412.17762v1)|null|
@@ -9489,10 +9508,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459v1](http://arxiv.org/abs/2412.18459v1)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
+|**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276v1](http://arxiv.org/abs/2412.18276v1)|null|
 |**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672v1](http://arxiv.org/abs/2412.16672v1)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845v1](http://arxiv.org/abs/2412.15845v1)|**[link](https://github.com/12138-chr/mtair)**|
-|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630v1](http://arxiv.org/abs/2412.14630v1)|null|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630v1](http://arxiv.org/abs/2412.14630v1)|**[link](https://github.com/hejh8/cyclerdm)**|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327v1](http://arxiv.org/abs/2412.14327v1)|null|
 |**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220v1](http://arxiv.org/abs/2412.14220v1)|**[link](https://github.com/tranleanh/dpte-net)**|
 |**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443v1](http://arxiv.org/abs/2412.13443v1)|**[link](https://github.com/cidautai/darkir)**|
@@ -10076,6 +10097,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Hyperbolic Chamfer Distance for Point Cloud Completion and Beyond**|Fangzhou Lin et.al.|[2412.17951v1](http://arxiv.org/abs/2412.17951v1)|null|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
 |**2024-12-22**|**Deep Joint Source Channel Coding for Secure End-to-End Image Transmission**|Mehdi Letafati et.al.|[2412.17110v1](http://arxiv.org/abs/2412.17110v1)|null|
 |**2024-12-22**|**A Conditional Diffusion Model for Electrical Impedance Tomography Image Reconstruction**|Shuaikai Shi et.al.|[2412.16979v1](http://arxiv.org/abs/2412.16979v1)|**[link](https://github.com/shuaikaishi/cdeit)**|
