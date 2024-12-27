@@ -9510,7 +9510,7 @@
 |---|---|---|---|---|
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459v1](http://arxiv.org/abs/2412.18459v1)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
 |**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276v1](http://arxiv.org/abs/2412.18276v1)|null|
-|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672v1](http://arxiv.org/abs/2412.16672v1)|null|
+|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672v1](http://arxiv.org/abs/2412.16672v1)|**[link](https://github.com/qiujumin/OE-GAN)**|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845v1](http://arxiv.org/abs/2412.15845v1)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630v1](http://arxiv.org/abs/2412.14630v1)|**[link](https://github.com/hejh8/cyclerdm)**|
