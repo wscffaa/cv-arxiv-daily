@@ -50,7 +50,7 @@
 |**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762v1](http://arxiv.org/abs/2412.17762v1)|null|
 |**2024-12-23**|**A Bias-Free Training Paradigm for More General AI-generated Image Detection**|Fabrizio Guillaro et.al.|[2412.17671v1](http://arxiv.org/abs/2412.17671v1)|null|
 |**2024-12-23**|**Benchmarking Generative AI Models for Deep Learning Test Input Generation**|Maryam et.al.|[2412.17652v1](http://arxiv.org/abs/2412.17652v1)|**[link](https://github.com/maryammaryam877/genai_tigs)**|
-|**2024-12-23**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644v1](http://arxiv.org/abs/2412.17644v1)|null|
+|**2024-12-25**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644v2](http://arxiv.org/abs/2412.17644v2)|null|
 |**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544v1](http://arxiv.org/abs/2412.17544v1)|null|
 |**2024-12-23**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522v1](http://arxiv.org/abs/2412.17522v1)|null|
 |**2024-12-23**|**Heterogeneous carrying capacities and global extinction in metapopulations**|Jakub Hesoun et.al.|[2412.17461v1](http://arxiv.org/abs/2412.17461v1)|null|
@@ -61,7 +61,7 @@
 |**2024-12-23**|**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory**|Xingyao Li et.al.|[2412.17254v1](http://arxiv.org/abs/2412.17254v1)|null|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226v1](http://arxiv.org/abs/2412.17226v1)|null|
 |**2024-12-23**|**CharGen: High Accurate Character-Level Visual Text Generation Model with MultiModal Encoder**|Lichen Ma et.al.|[2412.17225v1](http://arxiv.org/abs/2412.17225v1)|null|
-|**2024-12-23**|**Discriminative Image Generation with Diffusion Models for Zero-Shot Learning**|Dingjie Fu et.al.|[2412.17219v1](http://arxiv.org/abs/2412.17219v1)|null|
+|**2024-12-25**|**Discriminative Image Generation with Diffusion Models for Zero-Shot Learning**|Dingjie Fu et.al.|[2412.17219v2](http://arxiv.org/abs/2412.17219v2)|null|
 |**2024-12-22**|**Generative Diffusion Modeling: A Practical Handbook**|Zihan Ding et.al.|[2412.17162v1](http://arxiv.org/abs/2412.17162v1)|null|
 |**2024-12-22**|**Similarity Trajectories: Linking Sampling Process to Artifacts in Diffusion-Generated Images**|Dennis Menn et.al.|[2412.17109v1](http://arxiv.org/abs/2412.17109v1)|null|
 |**2024-12-22**|**Adapting Image-to-Video Diffusion Models for Large-Motion Frame Interpolation**|Luoxu Jin et.al.|[2412.17042v1](http://arxiv.org/abs/2412.17042v1)|null|
@@ -10133,7 +10133,7 @@
 |**2024-12-09**|**Dazzle: Oversampled Image Reconstruction and Difference-Imaging Photometry for the Nancy Grace Roman Space Telescope**|Michael D Albrow et.al.|[2412.06905v1](http://arxiv.org/abs/2412.06905v1)|null|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774v1](http://arxiv.org/abs/2412.06774v1)|null|
 |**2024-12-09**|**Diff5T: Benchmarking Human Brain Diffusion MRI with an Extensive 5.0 Tesla K-Space and Spatial Dataset**|Shanshan Wang et.al.|[2412.06666v1](http://arxiv.org/abs/2412.06666v1)|null|
-|**2024-12-06**|**Reconstructing Quantitative Cerebral Perfusion Images Directly From Measured Sinogram Data Acquired Using C-arm Cone-Beam CT**|Haotian Zhao et.al.|[2412.05084v1](http://arxiv.org/abs/2412.05084v1)|null|
+|**2024-12-25**|**Reconstructing Quantitative Cerebral Perfusion Images Directly From Measured Sinogram Data Acquired Using C-arm Cone-Beam CT**|Haotian Zhao et.al.|[2412.05084v2](http://arxiv.org/abs/2412.05084v2)|null|
 |**2024-12-05**|**Likelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction**|George Webber et.al.|[2412.04339v1](http://arxiv.org/abs/2412.04339v1)|null|
 |**2024-12-05**|**Multi-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction**|George Webber et.al.|[2412.04324v1](http://arxiv.org/abs/2412.04324v1)|null|
 |**2024-12-05**|**Generative-Model-Based Fully 3D PET Image Reconstruction by Conditional Diffusion Sampling**|George Webber et.al.|[2412.04319v1](http://arxiv.org/abs/2412.04319v1)|null|
