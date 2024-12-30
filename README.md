@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645v1](http://arxiv.org/abs/2412.19645v1)|null|
+|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535v1](http://arxiv.org/abs/2412.19535v1)|null|
+|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500v1](http://arxiv.org/abs/2412.19500v1)|null|
+|**2024-12-27**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489v1](http://arxiv.org/abs/2412.19489v1)|null|
+|**2024-12-27**|**DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**|Yiyuan Liang et.al.|[2412.19458v1](http://arxiv.org/abs/2412.19458v1)|null|
+|**2024-12-27**|**Multi-scale Latent Point Consistency Models for 3D Shape Generation**|Bi'an Du et.al.|[2412.19413v1](http://arxiv.org/abs/2412.19413v1)|null|
+|**2024-12-27**|**A Generalized Einstein Relation for Markovian Friction Coefficients from Molecular Trajectories**|J. M. Hall et.al.|[2412.19398v1](http://arxiv.org/abs/2412.19398v1)|null|
+|**2024-12-26**|**6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**|Nabo He et.al.|[2412.19243v1](http://arxiv.org/abs/2412.19243v1)|null|
+|**2024-12-26**|**Mask Approximation Net: Merging Feature Extraction and Distribution Learning for Remote Sensing Change Captioning**|Dongwei Sun et.al.|[2412.19179v1](http://arxiv.org/abs/2412.19179v1)|null|
+|**2024-12-26**|**Improving Generative Pre-Training: An In-depth Study of Masked Image Modeling and Denoising Models**|Hyesong Choi et.al.|[2412.19104v1](http://arxiv.org/abs/2412.19104v1)|null|
+|**2024-12-26**|**Mask Factory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation**|Haotian Qian et.al.|[2412.19080v1](http://arxiv.org/abs/2412.19080v1)|null|
+|**2024-12-26**|**Hierarchical Multi-agent Meta-Reinforcement Learning for Cross-channel Bidding**|Shenghong He et.al.|[2412.19064v1](http://arxiv.org/abs/2412.19064v1)|null|
+|**2024-12-25**|**UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation**|Lunhao Duan et.al.|[2412.18928v1](http://arxiv.org/abs/2412.18928v1)|null|
+|**2024-12-25**|**EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation**|Carl Qi et.al.|[2412.18907v1](http://arxiv.org/abs/2412.18907v1)|null|
+|**2024-12-25**|**DiFiC: Your Diffusion Model Holds the Secret to Fine-Grained Clustering**|Ruohong Yang et.al.|[2412.18838v1](http://arxiv.org/abs/2412.18838v1)|null|
+|**2024-12-25**|**DebiasDiff: Debiasing Text-to-image Diffusion Models with Self-discovering Latent Attribute Directions**|Yilei Jiang et.al.|[2412.18810v1](http://arxiv.org/abs/2412.18810v1)|null|
+|**2024-12-25**|**DRDM: A Disentangled Representations Diffusion Model for Synthesizing Realistic Person Images**|Enbo Huang et.al.|[2412.18797v1](http://arxiv.org/abs/2412.18797v1)|null|
+|**2024-12-25**|**Elucidating Flow Matching ODE Dynamics with respect to Data Geometries**|Gal Mishne et.al.|[2412.18730v1](http://arxiv.org/abs/2412.18730v1)|null|
+|**2024-12-25**|**MRI Reconstruction with Regularized 3D Diffusion Model (R3DM)**|Arya Bangun et.al.|[2412.18723v1](http://arxiv.org/abs/2412.18723v1)|null|
+|**2024-12-24**|**Video Is Worth a Thousand Images: Exploring the Latest Trends in Long Video Generation**|Faraz Waseem et.al.|[2412.18688v1](http://arxiv.org/abs/2412.18688v1)|null|
 |**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608v1](http://arxiv.org/abs/2412.18608v1)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607v1](http://arxiv.org/abs/2412.18607v1)|null|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604v1](http://arxiv.org/abs/2412.18604v1)|null|
@@ -7253,6 +7273,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553v1](http://arxiv.org/abs/2412.19553v1)|null|
+|**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996v1](http://arxiv.org/abs/2412.18996v1)|null|
+|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933v1](http://arxiv.org/abs/2412.18933v1)|null|
 |**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211v1](http://arxiv.org/abs/2412.17211v1)|null|
 |**2024-12-22**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184v1](http://arxiv.org/abs/2412.17184v1)|null|
 |**2024-12-22**|**Massively Multiplexed Wide-field Photon Correlation Sensing**|Shay Elmalem et.al.|[2412.16914v1](http://arxiv.org/abs/2412.16914v1)|null|
@@ -8706,6 +8729,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553v1](http://arxiv.org/abs/2412.19553v1)|null|
 |**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609v1](http://arxiv.org/abs/2412.11609v1)|null|
@@ -9508,6 +9532,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Generative Adversarial Network on Motion-Blur Image Restoration**|Zhengdong Li et.al.|[2412.19479v1](http://arxiv.org/abs/2412.19479v1)|null|
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459v1](http://arxiv.org/abs/2412.18459v1)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
 |**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276v1](http://arxiv.org/abs/2412.18276v1)|null|
 |**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672v1](http://arxiv.org/abs/2412.16672v1)|**[link](https://github.com/qiujumin/OE-GAN)**|
@@ -10097,6 +10122,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
+|**2024-12-24**|**Pruning Unrolled Networks (PUN) at Initialization for MRI Reconstruction Improves Generalization**|Shijun Liang et.al.|[2412.18668v1](http://arxiv.org/abs/2412.18668v1)|null|
 |**2024-12-23**|**Hyperbolic Chamfer Distance for Point Cloud Completion and Beyond**|Fangzhou Lin et.al.|[2412.17951v1](http://arxiv.org/abs/2412.17951v1)|null|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
 |**2024-12-22**|**Deep Joint Source Channel Coding for Secure End-to-End Image Transmission**|Mehdi Letafati et.al.|[2412.17110v1](http://arxiv.org/abs/2412.17110v1)|null|
@@ -11430,6 +11457,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-25**|**MGAN-CRCM: A Novel Multiple Generative Adversarial Network and Coarse-Refinement Based Cognizant Method for Image Inpainting**|Nafiz Al Asad et.al.|[2412.19000v1](http://arxiv.org/abs/2412.19000v1)|null|
 |**2024-12-16**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316v2](http://arxiv.org/abs/2412.10316v2)|null|
 |**2024-12-19**|**RAD: Region-Aware Diffusion Models for Image Inpainting**|Sora Kim et.al.|[2412.09191v3](http://arxiv.org/abs/2412.09191v3)|null|
 |**2024-12-11**|**AsyncDSB: Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting**|Zihao Han et.al.|[2412.08149v1](http://arxiv.org/abs/2412.08149v1)|null|
@@ -11687,6 +11715,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535v1](http://arxiv.org/abs/2412.19535v1)|null|
+|**2024-12-26**|**Multi-Attribute Constraint Satisfaction via Language Model Rewriting**|Ashutosh Baheti et.al.|[2412.19198v1](http://arxiv.org/abs/2412.19198v1)|null|
+|**2024-12-25**|**Single Trajectory Distillation for Accelerating Image and Video Style Transfer**|Sijie Xu et.al.|[2412.18945v1](http://arxiv.org/abs/2412.18945v1)|null|
 |**2024-12-22**|**Style Transfer Dataset: What Makes A Good Stylization?**|Victor Kitov et.al.|[2412.17139v1](http://arxiv.org/abs/2412.17139v1)|null|
 |**2024-12-21**|**Enhancing Nighttime Vehicle Detection with Day-to-Night Style Transfer and Labeling-Free Augmentation**|Yunxiang Yang et.al.|[2412.16478v1](http://arxiv.org/abs/2412.16478v1)|null|
 |**2024-12-19**|**Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models**|Reza Shirkavand et.al.|[2412.15341v1](http://arxiv.org/abs/2412.15341v1)|null|
