@@ -26,6 +26,40 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117v1](http://arxiv.org/abs/2412.21117v1)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082v1](http://arxiv.org/abs/2412.21082v1)|null|
+|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079v1](http://arxiv.org/abs/2412.21079v1)|**[link](https://github.com/ezioby/edicho)**|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-30**|**E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**|Zhiyu Tan et.al.|[2412.21044v1](http://arxiv.org/abs/2412.21044v1)|null|
+|**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042v1](http://arxiv.org/abs/2412.21042v1)|**[link](https://github.com/longlongaaago/vspbfr)**|
+|**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984v1](http://arxiv.org/abs/2412.20984v1)|null|
+|**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936v1](http://arxiv.org/abs/2412.20936v1)|null|
+|**2024-12-30**|**DDIM sampling for Generative AIBIM, a faster intelligent structural design framework**|Zhili He et.al.|[2412.20899v1](http://arxiv.org/abs/2412.20899v1)|null|
+|**2024-12-30**|**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control**|Shaojin Wu et.al.|[2412.20800v1](http://arxiv.org/abs/2412.20800v1)|**[link](https://github.com/fenfenfenfan/VMix)**|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718v1](http://arxiv.org/abs/2412.20718v1)|null|
+|**2024-12-30**|**HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images**|Sungik Choi et.al.|[2412.20704v1](http://arxiv.org/abs/2412.20704v1)|null|
+|**2024-12-30**|**Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model**|Yonghao Zhang et.al.|[2412.20657v1](http://arxiv.org/abs/2412.20657v1)|null|
+|**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651v1](http://arxiv.org/abs/2412.20651v1)|null|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596v1](http://arxiv.org/abs/2412.20596v1)|null|
+|**2024-12-29**|**Testing and Improving the Robustness of Amortized Bayesian Inference for Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|null|
+|**2024-12-29**|**Derivations of Animal Movement Models with Explicit Memory**|Tianxu Wang et.al.|[2412.20568v1](http://arxiv.org/abs/2412.20568v1)|null|
+|**2024-12-29**|**DPBridge: Latent Diffusion Bridge for Dense Prediction**|Haorui Ji et.al.|[2412.20506v1](http://arxiv.org/abs/2412.20506v1)|null|
+|**2024-12-29**|**Single-image reflection removal via self-supervised diffusion models**|Zhengyang Lu et.al.|[2412.20466v1](http://arxiv.org/abs/2412.20466v1)|null|
+|**2024-12-29**|**Image Augmentation Agent for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.20439v1](http://arxiv.org/abs/2412.20439v1)|null|
+|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422v1](http://arxiv.org/abs/2412.20422v1)|null|
+|**2024-12-29**|**Diff4MMLiTS: Advanced Multimodal Liver Tumor Segmentation via Diffusion-Based Image Synthesis and Alignment**|Shiyun Chen et.al.|[2412.20418v1](http://arxiv.org/abs/2412.20418v1)|null|
+|**2024-12-29**|**EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers**|Daiheng Gao et.al.|[2412.20413v1](http://arxiv.org/abs/2412.20413v1)|null|
+|**2024-12-29**|**FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation**|Yan Luo et.al.|[2412.20374v1](http://arxiv.org/abs/2412.20374v1)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdiffusion)**|
+|**2024-12-28**|**An analytic theory of creativity in convolutional diffusion models**|Mason Kamb et.al.|[2412.20292v1](http://arxiv.org/abs/2412.20292v1)|null|
+|**2024-12-28**|**Multi-Modality Driven LoRA for Adverse Condition Depth Estimation**|Guanglei Yang et.al.|[2412.20162v1](http://arxiv.org/abs/2412.20162v1)|null|
+|**2024-12-28**|**SyncDiff: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis**|Wenkun He et.al.|[2412.20104v1](http://arxiv.org/abs/2412.20104v1)|null|
+|**2024-12-28**|**Parameter spaces for cross-diffusive-driven instability in a reaction-diffusion system on an annular domain**|Gulsemay Yigit et.al.|[2412.20097v1](http://arxiv.org/abs/2412.20097v1)|null|
+|**2024-12-28**|**MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion**|Zechao Zhan et.al.|[2412.20062v1](http://arxiv.org/abs/2412.20062v1)|null|
+|**2024-12-28**|**Enhancing Diffusion Models for Inverse Problems with Covariance-Aware Posterior Sampling**|Shayan Mohajer Hamidi et.al.|[2412.20045v1](http://arxiv.org/abs/2412.20045v1)|null|
+|**2024-12-28**|**An Ordinary Differential Equation Sampler with Stochastic Start for Diffusion Bridge Models**|Yuang Wang et.al.|[2412.19992v1](http://arxiv.org/abs/2412.19992v1)|null|
+|**2024-12-27**|**Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models**|J. Carvalho et.al.|[2412.19948v1](http://arxiv.org/abs/2412.19948v1)|null|
+|**2024-12-27**|**Chemotaxis and Reactions in Anomalous Diffusion Dynamics**|Crystianne L. De Andrade et.al.|[2412.19940v1](http://arxiv.org/abs/2412.19940v1)|null|
+|**2024-12-27**|**Data-Free Group-Wise Fully Quantized Winograd Convolution via Learnable Scales**|Shuokai Pan et.al.|[2412.19867v1](http://arxiv.org/abs/2412.19867v1)|null|
 |**2024-12-30**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645v2](http://arxiv.org/abs/2412.19645v2)|null|
 |**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535v1](http://arxiv.org/abs/2412.19535v1)|null|
 |**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500v1](http://arxiv.org/abs/2412.19500v1)|null|
@@ -7273,6 +7307,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596v1](http://arxiv.org/abs/2412.20596v1)|null|
+|**2024-12-28**|**Continuous and Reversible Electrical Tuning of Fluorescent Decay Rate via Fano Resonance**|Emre Ozan Polat et.al.|[2412.20199v1](http://arxiv.org/abs/2412.20199v1)|null|
+|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066v1](http://arxiv.org/abs/2412.20066v1)|null|
+|**2024-12-28**|**Enhancing Diffusion Models for Inverse Problems with Covariance-Aware Posterior Sampling**|Shayan Mohajer Hamidi et.al.|[2412.20045v1](http://arxiv.org/abs/2412.20045v1)|null|
+|**2024-12-28**|**An Ordinary Differential Equation Sampler with Stochastic Start for Diffusion Bridge Models**|Yuang Wang et.al.|[2412.19992v1](http://arxiv.org/abs/2412.19992v1)|null|
+|**2024-12-27**|**Modeling Continuous Spatial-temporal Dynamics of Turbulent Flow with Test-time Refinement**|Shengyu Chen et.al.|[2412.19927v1](http://arxiv.org/abs/2412.19927v1)|null|
+|**2024-12-27**|**YOLO-MST: Multiscale deep learning method for infrared small target detection based on super-resolution and YOLO**|Taoran Yue et.al.|[2412.19878v1](http://arxiv.org/abs/2412.19878v1)|null|
 |**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553v1](http://arxiv.org/abs/2412.19553v1)|null|
 |**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996v1](http://arxiv.org/abs/2412.18996v1)|null|
 |**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933v1](http://arxiv.org/abs/2412.18933v1)|null|
@@ -8729,6 +8770,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596v1](http://arxiv.org/abs/2412.20596v1)|null|
+|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066v1](http://arxiv.org/abs/2412.20066v1)|null|
+|**2024-12-27**|**YOLO-MST: Multiscale deep learning method for infrared small target detection based on super-resolution and YOLO**|Taoran Yue et.al.|[2412.19878v1](http://arxiv.org/abs/2412.19878v1)|null|
 |**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553v1](http://arxiv.org/abs/2412.19553v1)|null|
 |**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
@@ -9532,6 +9576,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596v1](http://arxiv.org/abs/2412.20596v1)|null|
+|**2024-12-28**|**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**|Jingbo Lin et.al.|[2412.20157v1](http://arxiv.org/abs/2412.20157v1)|**[link](https://github.com/mrluin/unirestorer)**|
+|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066v1](http://arxiv.org/abs/2412.20066v1)|null|
+|**2024-12-28**|**An Ordinary Differential Equation Sampler with Stochastic Start for Diffusion Bridge Models**|Yuang Wang et.al.|[2412.19992v1](http://arxiv.org/abs/2412.19992v1)|null|
 |**2024-12-27**|**Generative Adversarial Network on Motion-Blur Image Restoration**|Zhengdong Li et.al.|[2412.19479v1](http://arxiv.org/abs/2412.19479v1)|null|
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459v1](http://arxiv.org/abs/2412.18459v1)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
 |**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276v1](http://arxiv.org/abs/2412.18276v1)|null|
@@ -10122,6 +10171,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-28**|**FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training**|Jiale Huang et.al.|[2412.19997v1](http://arxiv.org/abs/2412.19997v1)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
 |**2024-12-24**|**Pruning Unrolled Networks (PUN) at Initialization for MRI Reconstruction Improves Generalization**|Shijun Liang et.al.|[2412.18668v1](http://arxiv.org/abs/2412.18668v1)|null|
 |**2024-12-23**|**Hyperbolic Chamfer Distance for Point Cloud Completion and Beyond**|Fangzhou Lin et.al.|[2412.17951v1](http://arxiv.org/abs/2412.17951v1)|null|
@@ -11715,6 +11766,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-25**|**Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation**|Nadav Z. Cohen et.al.|[2412.19853v1](http://arxiv.org/abs/2412.19853v1)|null|
 |**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535v1](http://arxiv.org/abs/2412.19535v1)|null|
 |**2024-12-26**|**Multi-Attribute Constraint Satisfaction via Language Model Rewriting**|Ashutosh Baheti et.al.|[2412.19198v1](http://arxiv.org/abs/2412.19198v1)|null|
 |**2024-12-25**|**Single Trajectory Distillation for Accelerating Image and Video Style Transfer**|Sijie Xu et.al.|[2412.18945v1](http://arxiv.org/abs/2412.18945v1)|null|
