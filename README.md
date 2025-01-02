@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,21 +27,21 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117v1](http://arxiv.org/abs/2412.21117v1)|null|
-|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082v1](http://arxiv.org/abs/2412.21082v1)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082v1](http://arxiv.org/abs/2412.21082v1)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|
 |**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079v1](http://arxiv.org/abs/2412.21079v1)|**[link](https://github.com/ezioby/edicho)**|
-|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|**[link](https://github.com/siywang541/Varformer)**|
 |**2024-12-30**|**E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**|Zhiyu Tan et.al.|[2412.21044v1](http://arxiv.org/abs/2412.21044v1)|null|
 |**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042v1](http://arxiv.org/abs/2412.21042v1)|**[link](https://github.com/longlongaaago/vspbfr)**|
 |**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984v1](http://arxiv.org/abs/2412.20984v1)|null|
 |**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936v1](http://arxiv.org/abs/2412.20936v1)|null|
 |**2024-12-30**|**DDIM sampling for Generative AIBIM, a faster intelligent structural design framework**|Zhili He et.al.|[2412.20899v1](http://arxiv.org/abs/2412.20899v1)|null|
 |**2024-12-30**|**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control**|Shaojin Wu et.al.|[2412.20800v1](http://arxiv.org/abs/2412.20800v1)|**[link](https://github.com/fenfenfenfan/VMix)**|
-|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718v1](http://arxiv.org/abs/2412.20718v1)|null|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718v1](http://arxiv.org/abs/2412.20718v1)|**[link](https://github.com/BeiiiY/M3oralBench)**|
 |**2024-12-30**|**HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images**|Sungik Choi et.al.|[2412.20704v1](http://arxiv.org/abs/2412.20704v1)|null|
 |**2024-12-30**|**Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model**|Yonghao Zhang et.al.|[2412.20657v1](http://arxiv.org/abs/2412.20657v1)|null|
 |**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651v1](http://arxiv.org/abs/2412.20651v1)|null|
 |**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596v1](http://arxiv.org/abs/2412.20596v1)|null|
-|**2024-12-29**|**Testing and Improving the Robustness of Amortized Bayesian Inference for Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|null|
+|**2024-12-29**|**Testing and Improving the Robustness of Amortized Bayesian Inference for Cognitive Models**|Yufei Wu et.al.|[2412.20586v1](http://arxiv.org/abs/2412.20586v1)|**[link](https://github.com/yufeiwu1011/Robust-Amortized-Bayesian-Inference)**|
 |**2024-12-29**|**Derivations of Animal Movement Models with Explicit Memory**|Tianxu Wang et.al.|[2412.20568v1](http://arxiv.org/abs/2412.20568v1)|null|
 |**2024-12-29**|**DPBridge: Latent Diffusion Bridge for Dense Prediction**|Haorui Ji et.al.|[2412.20506v1](http://arxiv.org/abs/2412.20506v1)|null|
 |**2024-12-29**|**Single-image reflection removal via self-supervised diffusion models**|Zhengyang Lu et.al.|[2412.20466v1](http://arxiv.org/abs/2412.20466v1)|null|
@@ -62,9 +62,9 @@
 |**2024-12-27**|**Data-Free Group-Wise Fully Quantized Winograd Convolution via Learnable Scales**|Shuokai Pan et.al.|[2412.19867v1](http://arxiv.org/abs/2412.19867v1)|null|
 |**2024-12-30**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645v2](http://arxiv.org/abs/2412.19645v2)|null|
 |**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535v1](http://arxiv.org/abs/2412.19535v1)|null|
-|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500v1](http://arxiv.org/abs/2412.19500v1)|null|
+|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500v1](http://arxiv.org/abs/2412.19500v1)|**[link](https://github.com/acrobot-buaa/robotdiffuse)**|
 |**2024-12-27**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489v1](http://arxiv.org/abs/2412.19489v1)|null|
-|**2024-12-30**|**DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**|Yiyuan Liang et.al.|[2412.19458v2](http://arxiv.org/abs/2412.19458v2)|null|
+|**2024-12-30**|**DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**|Yiyuan Liang et.al.|[2412.19458v2](http://arxiv.org/abs/2412.19458v2)|**[link](https://github.com/yvanliang/DriveEditor)**|
 |**2024-12-27**|**Multi-scale Latent Point Consistency Models for 3D Shape Generation**|Bi'an Du et.al.|[2412.19413v1](http://arxiv.org/abs/2412.19413v1)|null|
 |**2024-12-27**|**A Generalized Einstein Relation for Markovian Friction Coefficients from Molecular Trajectories**|J. M. Hall et.al.|[2412.19398v1](http://arxiv.org/abs/2412.19398v1)|null|
 |**2024-12-26**|**6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**|Nabo He et.al.|[2412.19243v1](http://arxiv.org/abs/2412.19243v1)|null|
@@ -7301,7 +7301,7 @@
 |**2023-02-01**|**Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport**|Alexander Tong et.al.|[2302.00482v1](http://arxiv.org/abs/2302.00482v1)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-02-01**|**Diffusion Models for High-Resolution Solar Forecasts**|Yusuke Hatanaka et.al.|[2302.00170v1](http://arxiv.org/abs/2302.00170v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Super-Resolution
 
@@ -7316,7 +7316,7 @@
 |**2024-12-27**|**YOLO-MST: Multiscale deep learning method for infrared small target detection based on super-resolution and YOLO**|Taoran Yue et.al.|[2412.19878v1](http://arxiv.org/abs/2412.19878v1)|null|
 |**2024-12-27**|**Structural Similarity in Deep Features: Image Quality Assessment Robust to Geometrically Disparate Reference**|Keke Zhang et.al.|[2412.19553v1](http://arxiv.org/abs/2412.19553v1)|null|
 |**2024-12-25**|**WaveDiffUR: A diffusion SDE-based solver for ultra magnification super-resolution in remote sensing images**|Yue Shi et.al.|[2412.18996v1](http://arxiv.org/abs/2412.18996v1)|null|
-|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933v1](http://arxiv.org/abs/2412.18933v1)|null|
+|**2024-12-25**|**TINQ: Temporal Inconsistency Guided Blind Video Quality Assessment**|Yixiao Li et.al.|[2412.18933v1](http://arxiv.org/abs/2412.18933v1)|**[link](https://github.com/lighting-yxli/tinq)**|
 |**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211v1](http://arxiv.org/abs/2412.17211v1)|null|
 |**2024-12-22**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184v1](http://arxiv.org/abs/2412.17184v1)|null|
 |**2024-12-22**|**Massively Multiplexed Wide-field Photon Correlation Sensing**|Shay Elmalem et.al.|[2412.16914v1](http://arxiv.org/abs/2412.16914v1)|null|
@@ -8764,7 +8764,7 @@
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|**[link](https://github.com/yongsongh/infrared_image_sr_survey)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Image-Super-Resolution
 
@@ -9274,7 +9274,7 @@
 |**2022-11-03**|**HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks**|Filip Szatkowski et.al.|[2211.01839v1](http://arxiv.org/abs/2211.01839v1)|null|
 |**2022-11-17**|**Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**|Alireza Aghelan et.al.|[2211.00577v5](http://arxiv.org/abs/2211.00577v5)|null|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Video-Super-Resolution
 
@@ -9399,7 +9399,7 @@
 |**2022-01-19**|**Self-Supervised Deep Blind Video Super-Resolution**|Haoran Bai et.al.|[2201.07422v1](http://arxiv.org/abs/2201.07422v1)|**[link](https://github.com/csbhr/self-blind-vsr)**|
 |**2021-12-16**|**Stable Long-Term Recurrent Video Super-Resolution**|Benjamin Naoto Chiche et.al.|[2112.08950v1](http://arxiv.org/abs/2112.08950v1)|**[link](https://github.com/bjmch/MRVSR)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Image-Colorization
 
@@ -9521,7 +9521,7 @@
 |**2021-04-29**|**Thermal Infrared Image Colorization for Nighttime Driving Scenes with Top-Down Guided Attention**|Fuya Luo et.al.|[2104.14374v1](http://arxiv.org/abs/2104.14374v1)|**[link](https://github.com/FuyaLuo/PearlGAN)**|
 |**2021-04-27**|**NTIRE 2021 Depth Guided Image Relighting Challenge**|Majed El Helou et.al.|[2104.13365v1](http://arxiv.org/abs/2104.13365v1)|**[link](https://github.com/majedelhelou/VIDIT)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Video-Colorization
 
@@ -9570,13 +9570,13 @@
 |**2015-11-20**|**Deep End2End Voxel2Voxel Prediction**|Du Tran et.al.|[1511.06681v1](http://arxiv.org/abs/1511.06681v1)|null|
 |**2010-01-12**|**A Topological derivative based image segmentation for sign language recognition system using isotropic filter**|M. Krishnaveni et.al.|[1001.1968v1](http://arxiv.org/abs/1001.1968v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Image Restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|**[link](https://github.com/siywang541/Varformer)**|
 |**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596v1](http://arxiv.org/abs/2412.20596v1)|null|
 |**2024-12-28**|**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**|Jingbo Lin et.al.|[2412.20157v1](http://arxiv.org/abs/2412.20157v1)|**[link](https://github.com/mrluin/unirestorer)**|
 |**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066v1](http://arxiv.org/abs/2412.20066v1)|null|
@@ -10165,13 +10165,13 @@
 |**2022-09-19**|**Masked Face Inpainting Through Residual Attention UNet**|Md Imran Hosen et.al.|[2209.08850v1](http://arxiv.org/abs/2209.08850v1)|**[link](https://github.com/mdhosen/mask-face-inpainting-using-residual-attention-unet)**|
 |**2022-09-17**|**Deep Plug-and-Play Prior for Hyperspectral Image Restoration**|Zeqiang Lai et.al.|[2209.08240v1](http://arxiv.org/abs/2209.08240v1)|**[link](https://github.com/zeqiang-lai/dphsir)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Image Reconstruction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|null|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|**[link](https://github.com/siywang541/Varformer)**|
 |**2024-12-28**|**FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training**|Jiale Huang et.al.|[2412.19997v1](http://arxiv.org/abs/2412.19997v1)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
 |**2024-12-24**|**Pruning Unrolled Networks (PUN) at Initialization for MRI Reconstruction Improves Generalization**|Shijun Liang et.al.|[2412.18668v1](http://arxiv.org/abs/2412.18668v1)|null|
@@ -11121,7 +11121,7 @@
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-21**|**Unsupervised Full-color Cellular Image Reconstruction through Disordered Optical Fiber**|Xiaowen Hu et.al.|[2212.10803v1](http://arxiv.org/abs/2212.10803v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Image Denoising
 
@@ -11502,7 +11502,7 @@
 |**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2022-10-08**|**LW-ISP: A Lightweight Model with ISP and Deep Learning**|Hongyang Chen et.al.|[2210.03904v1](http://arxiv.org/abs/2210.03904v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Image Inpainting
 
@@ -11760,7 +11760,7 @@
 |**2022-08-04**|**A Fractional Image Inpainting Model Using a Variant of Mumford-Shah Model**|Abdul Halim et.al.|[2208.01887v2](http://arxiv.org/abs/2208.01887v2)|null|
 |**2022-08-03**|**Learning Prior Feature and Attention Enhanced Image Inpainting**|Chenjie Cao et.al.|[2208.01837v1](http://arxiv.org/abs/2208.01837v1)|**[link](https://github.com/ewrfcas/MAE-FAR)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 ## Style Transfer
 
@@ -12305,7 +12305,7 @@
 |**2022-11-19**|**DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization**|Nisha Huang et.al.|[2211.10682v1](http://arxiv.org/abs/2211.10682v1)|**[link](https://github.com/haha-lisa/Diffstyler)**|
 |**2022-11-19**|**Domain-Adaptive Self-Supervised Pre-Training for Face & Body Detection in Drawings**|Barış Batuhan Topal et.al.|[2211.10641v1](http://arxiv.org/abs/2211.10641v1)|**[link](https://github.com/barisbatuhan/dass_det_inference)**|
 
-<p align=right>(<a href=#Updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
