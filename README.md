@@ -10187,7 +10187,7 @@
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070v1](http://arxiv.org/abs/2412.13070v1)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
 |**2024-12-17**|**Accelerating lensed quasars discovery and modeling with physics-informed variational autoencoders**|Irham T. Andika et.al.|[2412.12709v1](http://arxiv.org/abs/2412.12709v1)|null|
 |**2024-12-16**|**Comparison of three reconstruction algorithms for low-dose phase-contrast computed tomography of the breast with synchrotron radiation**|Sandro Donato et.al.|[2412.11641v1](http://arxiv.org/abs/2412.11641v1)|null|
-|**2024-12-15**|**Interface and spectrum multiplexing Ptychographic reflection microscopy**|Yun Gao et.al.|[2412.11247v1](http://arxiv.org/abs/2412.11247v1)|null|
+|**2024-12-31**|**Interface and spectrum multiplexing ptychographic reflection microscopy**|Yun Gao et.al.|[2412.11247v2](http://arxiv.org/abs/2412.11247v2)|null|
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210v1](http://arxiv.org/abs/2412.11210v1)|**[link](https://github.com/fengyi233/ViPOcc)**|
 |**2024-12-15**|**OTLRM: Orthogonal Learning-based Low-Rank Metric for Multi-Dimensional Inverse Problems**|Xiangming Wang et.al.|[2412.11165v1](http://arxiv.org/abs/2412.11165v1)|**[link](https://github.com/xianggkl/otlrm)**|
 |**2024-12-14**|**Integrating Generative and Physics-Based Models for Ptychographic Imaging with Uncertainty Quantification**|Canberk Ekmekci et.al.|[2412.10882v1](http://arxiv.org/abs/2412.10882v1)|null|
