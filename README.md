@@ -29,7 +29,7 @@
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
 |**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423v1](http://arxiv.org/abs/2501.01423v1)|**[link](https://github.com/hustvl/LightningDiT)**|
 |**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368v1](http://arxiv.org/abs/2501.01368v1)|null|
-|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223v1](http://arxiv.org/abs/2501.01223v1)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223v2](http://arxiv.org/abs/2501.01223v2)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
 |**2025-01-02**|**Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission**|Maojun Zhang et.al.|[2501.01138v1](http://arxiv.org/abs/2501.01138v1)|null|
 |**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097v1](http://arxiv.org/abs/2501.01097v1)|null|
 |**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066v1](http://arxiv.org/abs/2501.01066v1)|null|
