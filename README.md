@@ -51,7 +51,7 @@
 |**2024-12-31**|**SoundBrush: Sound as a Brush for Visual Scene Editing**|Kim Sung-Bin et.al.|[2501.00645v1](http://arxiv.org/abs/2501.00645v1)|null|
 |**2024-12-31**|**Flash-Split: 2D Reflection Removal with Flash Cues and Latent Diffusion Separation**|Tianfu Wang et.al.|[2501.00637v1](http://arxiv.org/abs/2501.00637v1)|null|
 |**2024-12-31**|**DiC: Rethinking Conv3x3 Designs in Diffusion Models**|Yuchuan Tian et.al.|[2501.00603v1](http://arxiv.org/abs/2501.00603v1)|null|
-|**2024-12-31**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601v1](http://arxiv.org/abs/2501.00601v1)|null|
+|**2025-01-03**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601v2](http://arxiv.org/abs/2501.00601v2)|null|
 |**2024-12-31**|**Polynomial time sampling from log-smooth distributions in fixed dimension under semi-log-concavity of the forward diffusion with application to strongly dissipative distributions**|Adrien Vacher et.al.|[2501.00565v1](http://arxiv.org/abs/2501.00565v1)|null|
 |**2024-12-31**|**Score-Based Metropolis-Hastings Algorithms**|Ahmed Aloui et.al.|[2501.00467v1](http://arxiv.org/abs/2501.00467v1)|null|
 |**2024-12-31**|**SAT-LDM: Provably Generalizable Image Watermarking for Latent Diffusion Models with Self-Augmented Training**|Lu Zhang et.al.|[2501.00463v1](http://arxiv.org/abs/2501.00463v1)|null|
@@ -9460,7 +9460,7 @@
 |**2024-10-07**|**Transforming Color: A Novel Image Colorization Method**|Hamza Shafiq et.al.|[2410.04799v1](http://arxiv.org/abs/2410.04799v1)|null|
 |**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021v1](http://arxiv.org/abs/2410.03021v1)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
 |**2024-09-08**|**Image color consistency in datasets: the Smooth-TPS3D method**|Ismael Benito-Altamirano et.al.|[2409.05159v1](http://arxiv.org/abs/2409.05159v1)|null|
-|**2024-08-19**|**PolypDB: A Curated Multi-Center Dataset for Development of AI Algorithms in Colonoscopy**|Debesh Jha et.al.|[2409.00045v1](http://arxiv.org/abs/2409.00045v1)|null|
+|**2025-01-03**|**PolypDB: A Curated Multi-Center Dataset for Development of AI Algorithms in Colonoscopy**|Debesh Jha et.al.|[2409.00045v2](http://arxiv.org/abs/2409.00045v2)|null|
 |**2024-08-08**|**MultiColor: Image Colorization by Learning from Multiple Color Spaces**|Xiangcheng Du et.al.|[2408.04172v1](http://arxiv.org/abs/2408.04172v1)|null|
 |**2024-06-16**|**Parameter Blending for Multi-Camera Harmonization for Automotive Surround View Systems**|Yuzhuo Ren et.al.|[2406.11066v1](http://arxiv.org/abs/2406.11066v1)|null|
 |**2024-06-13**|**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior**|Baiang Li et.al.|[2406.09389v1](http://arxiv.org/abs/2406.09389v1)|**[link](https://github.com/ztMotaLee/Sagiri)**|
@@ -11587,7 +11587,7 @@
 |**2024-11-14**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v2](http://arxiv.org/abs/2410.24006v2)|**[link](https://github.com/jasonfu1998/diffpad)**|
 |**2024-11-06**|**SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation**|Aditya Agarwal et.al.|[2410.23643v2](http://arxiv.org/abs/2410.23643v2)|null|
 |**2024-11-02**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966v2](http://arxiv.org/abs/2410.21966v2)|null|
-|**2024-12-17**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v2](http://arxiv.org/abs/2410.14672v2)|**[link](https://github.com/haoosz/BiGR)**|
+|**2025-01-05**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v3](http://arxiv.org/abs/2410.14672v3)|**[link](https://github.com/haoosz/BiGR)**|
 |**2024-10-14**|**MagicEraser: Erasing Any Objects via Semantics-Aware Control**|Fan Li et.al.|[2410.10207v1](http://arxiv.org/abs/2410.10207v1)|**[link](https://github.com/lifan724/magic_eraser)**|
 |**2024-10-07**|**Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**|Jinwei Zhang et.al.|[2410.05027v1](http://arxiv.org/abs/2410.05027v1)|null|
 |**2024-10-03**|**Task-Decoupled Image Inpainting Framework for Class-specific Object Remover**|Changsuk Oh et.al.|[2410.02894v1](http://arxiv.org/abs/2410.02894v1)|null|
