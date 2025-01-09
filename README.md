@@ -7389,7 +7389,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-07**|**Illuminating extracellular vesicles biology with super resolution microscopy: Insights into morphology and composition**|Lucile Alexandre et.al.|[2501.03713v1](http://arxiv.org/abs/2501.03713v1)|null|
+|**2025-01-08**|**Illuminating extracellular vesicles biology with super resolution microscopy: Insights into morphology and composition**|Lucile Alexandre et.al.|[2501.03713v2](http://arxiv.org/abs/2501.03713v2)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002v1](http://arxiv.org/abs/2501.03002v1)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976v1](http://arxiv.org/abs/2501.02976v1)|null|
 |**2025-01-06**|**Conditional Mutual Information Based Diffusion Posterior Sampling for Solving Inverse Problems**|Shayan Mohajer Hamidi et.al.|[2501.02880v1](http://arxiv.org/abs/2501.02880v1)|null|
@@ -7397,7 +7397,7 @@
 |**2025-01-03**|**Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing**|Po-Wei Tang et.al.|[2501.01924v1](http://arxiv.org/abs/2501.01924v1)|null|
 |**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773v1](http://arxiv.org/abs/2501.01773v1)|null|
 |**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723v1](http://arxiv.org/abs/2501.01723v1)|null|
-|**2025-01-02**|**Embedding Similarity Guided License Plate Super Resolution**|Abderrezzaq Sendjasni et.al.|[2501.01483v1](http://arxiv.org/abs/2501.01483v1)|null|
+|**2025-01-08**|**Embedding Similarity Guided License Plate Super Resolution**|Abderrezzaq Sendjasni et.al.|[2501.01483v2](http://arxiv.org/abs/2501.01483v2)|null|
 |**2025-01-07**|**GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution**|Qiwei Zhu et.al.|[2501.01460v2](http://arxiv.org/abs/2501.01460v2)|null|
 |**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596v1](http://arxiv.org/abs/2412.20596v1)|null|
 |**2024-12-28**|**Continuous and Reversible Electrical Tuning of Fluorescent Decay Rate via Fano Resonance**|Emre Ozan Polat et.al.|[2412.20199v1](http://arxiv.org/abs/2412.20199v1)|null|
