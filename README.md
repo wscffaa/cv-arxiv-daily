@@ -26,6 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699v1](http://arxiv.org/abs/2501.04699v1)|null|
+|**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698v1](http://arxiv.org/abs/2501.04698v1)|null|
+|**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689v1](http://arxiv.org/abs/2501.04689v1)|null|
+|**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641v1](http://arxiv.org/abs/2501.04641v1)|**[link](https://github.com/willcai7/multimodal-ghm)**|
+|**2025-01-08**|**Disentangled Clothed Avatar Generation with Layered Representation**|Weitian Zhang et.al.|[2501.04631v1](http://arxiv.org/abs/2501.04631v1)|null|
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v1](http://arxiv.org/abs/2501.04614v1)|null|
+|**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|null|
+|**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416v1](http://arxiv.org/abs/2501.04416v1)|null|
+|**2025-01-08**|**Edit as You See: Image-guided Video Editing via Masked Motion Modeling**|Zhi-Lin Huang et.al.|[2501.04325v1](http://arxiv.org/abs/2501.04325v1)|null|
+|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304v1](http://arxiv.org/abs/2501.04304v1)|null|
+|**2025-01-08**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284v1](http://arxiv.org/abs/2501.04284v1)|null|
+|**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256v1](http://arxiv.org/abs/2501.04256v1)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
 |**2025-01-07**|**Stabilising effect of generic anomalous diffusion independent of the Rayleigh number**|Antonio Barletta et.al.|[2501.03990v1](http://arxiv.org/abs/2501.03990v1)|null|
 |**2025-01-07**|**A precise asymptotic analysis of learning diffusion models: theory and insights**|Hugo Cui et.al.|[2501.03937v1](http://arxiv.org/abs/2501.03937v1)|null|
@@ -7389,6 +7401,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305v1](http://arxiv.org/abs/2501.04305v1)|null|
 |**2025-01-08**|**Illuminating extracellular vesicles biology with super resolution microscopy: Insights into morphology and composition**|Lucile Alexandre et.al.|[2501.03713v2](http://arxiv.org/abs/2501.03713v2)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002v1](http://arxiv.org/abs/2501.03002v1)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976v1](http://arxiv.org/abs/2501.02976v1)|null|
@@ -9672,6 +9685,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486v1](http://arxiv.org/abs/2501.04486v1)|**[link](https://github.com/fvl2020/mb-taylorformerv2)**|
+|**2025-01-07**|**Fixed Points of Deep Neural Networks: Emergence, Stability, and Applications**|L. Berlyand et.al.|[2501.04182v1](http://arxiv.org/abs/2501.04182v1)|null|
 |**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002v1](http://arxiv.org/abs/2501.03002v1)|null|
 |**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701v1](http://arxiv.org/abs/2501.02701v1)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
@@ -10270,6 +10285,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Rethinking High-speed Image Reconstruction Framework with Spike Camera**|Kang Chen et.al.|[2501.04477v1](http://arxiv.org/abs/2501.04477v1)|**[link](https://github.com/chenkang455/spikeclip)**|
 |**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang et.al.|[2501.03874v1](http://arxiv.org/abs/2501.03874v1)|null|
 |**2025-01-07**|**Experimental realization of scanning quantum microscopy**|V. F. Gili et.al.|[2501.03617v1](http://arxiv.org/abs/2501.03617v1)|null|
 |**2025-01-06**|**A Self-supervised Diffusion Bridge for MRI Reconstruction**|Harry Gao et.al.|[2501.03430v1](http://arxiv.org/abs/2501.03430v1)|null|
@@ -11885,6 +11901,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**|Uri Berger et.al.|[2501.04513v1](http://arxiv.org/abs/2501.04513v1)|null|
 |**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
 |**2025-01-06**|**DarkFarseer: Inductive Spatio-temporal Kriging via Hidden Style Enhancement and Sparsity-Noise Mitigation**|Zhuoxuan Liang et.al.|[2501.02808v1](http://arxiv.org/abs/2501.02808v1)|null|
 |**2025-01-03**|**ArtCrafter: Text-Image Aligning Style Transfer via Embedding Reframing**|Nisha Huang et.al.|[2501.02064v1](http://arxiv.org/abs/2501.02064v1)|null|
