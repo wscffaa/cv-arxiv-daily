@@ -31,18 +31,18 @@
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689v1](http://arxiv.org/abs/2501.04689v1)|null|
 |**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641v1](http://arxiv.org/abs/2501.04641v1)|**[link](https://github.com/willcai7/multimodal-ghm)**|
 |**2025-01-08**|**Disentangled Clothed Avatar Generation with Layered Representation**|Weitian Zhang et.al.|[2501.04631v1](http://arxiv.org/abs/2501.04631v1)|null|
-|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v1](http://arxiv.org/abs/2501.04614v1)|null|
+|**2025-01-09**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
 |**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|null|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416v1](http://arxiv.org/abs/2501.04416v1)|null|
 |**2025-01-08**|**Edit as You See: Image-guided Video Editing via Masked Motion Modeling**|Zhi-Lin Huang et.al.|[2501.04325v1](http://arxiv.org/abs/2501.04325v1)|null|
 |**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304v1](http://arxiv.org/abs/2501.04304v1)|null|
-|**2025-01-08**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284v1](http://arxiv.org/abs/2501.04284v1)|null|
+|**2025-01-09**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284v2](http://arxiv.org/abs/2501.04284v2)|**[link](https://github.com/dohunlee1/contextmri)**|
 |**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256v1](http://arxiv.org/abs/2501.04256v1)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992v1](http://arxiv.org/abs/2501.03992v1)|null|
 |**2025-01-07**|**Stabilising effect of generic anomalous diffusion independent of the Rayleigh number**|Antonio Barletta et.al.|[2501.03990v1](http://arxiv.org/abs/2501.03990v1)|null|
 |**2025-01-07**|**A precise asymptotic analysis of learning diffusion models: theory and insights**|Hugo Cui et.al.|[2501.03937v1](http://arxiv.org/abs/2501.03937v1)|null|
 |**2025-01-07**|**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers**|Yuechen Zhang et.al.|[2501.03931v1](http://arxiv.org/abs/2501.03931v1)|**[link](https://github.com/dvlab-research/magicmirror)**|
-|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847v1](http://arxiv.org/abs/2501.03847v1)|**[link](https://github.com/igl-hkust/diffusionasshader)**|
+|**2025-01-09**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847v2](http://arxiv.org/abs/2501.03847v2)|**[link](https://github.com/igl-hkust/diffusionasshader)**|
 |**2025-01-07**|**Impact of diffusion mechanisms on persistence and spreading**|Nathanaël Boutillon et.al.|[2501.03816v1](http://arxiv.org/abs/2501.03816v1)|null|
 |**2025-01-07**|**Mixing by Internal Gravity Waves in Stars: Assessing Numerical Simulations Against Theory**|Jack Morton et.al.|[2501.03796v1](http://arxiv.org/abs/2501.03796v1)|null|
 |**2025-01-07**|**Exploring Molecule Generation Using Latent Space Graph Diffusion**|Prashanth Pombala et.al.|[2501.03696v1](http://arxiv.org/abs/2501.03696v1)|**[link](https://github.com/prashanth-pombala/molecule-generation-using-latent-space-graph-diffusion)**|
@@ -11265,7 +11265,7 @@
 |**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156v1](http://arxiv.org/abs/2412.13156v1)|null|
 |**2024-12-17**|**Linear Convergence of Resolvent Splitting with Minimal Lifting and its Application to a Primal-Dual Algorithm**|Farhana A. Simi et.al.|[2412.12607v1](http://arxiv.org/abs/2412.12607v1)|null|
 |**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049v1](http://arxiv.org/abs/2412.12049v1)|null|
-|**2024-12-23**|**Probability-Informed Machine Learning**|Mohsen Rashki et.al.|[2412.11526v2](http://arxiv.org/abs/2412.11526v2)|null|
+|**2025-01-09**|**Probabilities-Informed Machine Learning**|Mohsen Rashki et.al.|[2412.11526v3](http://arxiv.org/abs/2412.11526v3)|null|
 |**2024-12-15**|**OTLRM: Orthogonal Learning-based Low-Rank Metric for Multi-Dimensional Inverse Problems**|Xiangming Wang et.al.|[2412.11165v1](http://arxiv.org/abs/2412.11165v1)|**[link](https://github.com/xianggkl/otlrm)**|
 |**2024-12-14**|**LAN: Learning to Adapt Noise for Image Denoising**|Changjin Kim et.al.|[2412.10651v1](http://arxiv.org/abs/2412.10651v1)|**[link](https://github.com/chjinny/LAN)**|
 |**2024-12-13**|**FM2S: Self-Supervised Fluorescence Microscopy Denoising With Single Noisy Image**|Jizhihui Liu et.al.|[2412.10031v1](http://arxiv.org/abs/2412.10031v1)|**[link](https://github.com/danielement321/fm2s)**|
