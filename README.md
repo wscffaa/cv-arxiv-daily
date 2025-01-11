@@ -10317,7 +10317,7 @@
 |**2025-01-06**|**CAT: Content-Adaptive Image Tokenization**|Junhong Shen et.al.|[2501.03120v1](http://arxiv.org/abs/2501.03120v1)|null|
 |**2025-01-06**|**Inverse receptive field attention for naturalistic image reconstruction from the brain**|Lynn Le et.al.|[2501.03051v1](http://arxiv.org/abs/2501.03051v1)|**[link](https://github.com/neuralcodinglab/irfa)**|
 |**2025-01-06**|**A Trust-Guided Approach to MR Image Reconstruction with Side Information**|Arda Atalık et.al.|[2501.03021v1](http://arxiv.org/abs/2501.03021v1)|null|
-|**2025-01-05**|**Decoding fMRI Data into Captions using Prefix Language Modeling**|Vyacheslav Shen et.al.|[2501.02570v1](http://arxiv.org/abs/2501.02570v1)|null|
+|**2025-01-05**|**Decoding fMRI Data into Captions using Prefix Language Modeling**|Vyacheslav Shen et.al.|[2501.02570v1](http://arxiv.org/abs/2501.02570v1)|**[link](https://github.com/slavaheroes/brain-captioning-with-gpt2)**|
 |**2025-01-05**|**IRIS: A Bayesian Approach for Image Reconstruction in Radio Interferometry with expressive Score-Based priors**|Noé Dia et.al.|[2501.02473v1](http://arxiv.org/abs/2501.02473v1)|**[link](https://github.com/enceladecandy/iris)**|
 |**2025-01-04**|**Phase Retrieval by Quaternionic Reweighted Amplitude Flow on Image Reconstruction**|Ren Hu et.al.|[2501.02180v1](http://arxiv.org/abs/2501.02180v1)|null|
 |**2025-01-02**|**An unsupervised method for MRI recovery: Deep image prior with structured sparsity**|Muhammad Ahmad Sultan et.al.|[2501.01482v1](http://arxiv.org/abs/2501.01482v1)|null|
