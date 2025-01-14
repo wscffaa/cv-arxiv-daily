@@ -7440,7 +7440,7 @@
 |**2025-01-09**|**Bit-depth color recovery via off-the-shelf super-resolution models**|Xuanshuo Fu et.al.|[2501.05611v1](http://arxiv.org/abs/2501.05611v1)|null|
 |**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154v1](http://arxiv.org/abs/2501.05154v1)|null|
 |**2025-01-09**|**FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**|Jun-Hak Yun et.al.|[2501.04926v1](http://arxiv.org/abs/2501.04926v1)|null|
-|**2025-01-08**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305v1](http://arxiv.org/abs/2501.04305v1)|null|
+|**2025-01-11**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305v2](http://arxiv.org/abs/2501.04305v2)|null|
 |**2025-01-08**|**Illuminating extracellular vesicles biology with super resolution microscopy: Insights into morphology and composition**|Lucile Alexandre et.al.|[2501.03713v2](http://arxiv.org/abs/2501.03713v2)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002v1](http://arxiv.org/abs/2501.03002v1)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976v1](http://arxiv.org/abs/2501.02976v1)|null|
@@ -9741,7 +9741,7 @@
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459v1](http://arxiv.org/abs/2412.18459v1)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
 |**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276v1](http://arxiv.org/abs/2412.18276v1)|null|
 |**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672v1](http://arxiv.org/abs/2412.16672v1)|**[link](https://github.com/qiujumin/OE-GAN)**|
-|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v1](http://arxiv.org/abs/2412.15890v1)|null|
+|**2025-01-11**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890v2](http://arxiv.org/abs/2412.15890v2)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845v1](http://arxiv.org/abs/2412.15845v1)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630v1](http://arxiv.org/abs/2412.14630v1)|**[link](https://github.com/hejh8/cyclerdm)**|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327v1](http://arxiv.org/abs/2412.14327v1)|null|
@@ -10330,7 +10330,7 @@
 |**2025-01-10**|**FIRM: Federated Image Reconstruction using Multimodal Tomographic Data**|Geunyeong Byeon et.al.|[2501.05642v1](http://arxiv.org/abs/2501.05642v1)|null|
 |**2025-01-09**|**Learned Discrepancy Reconstruction and Benchmark Dataset for Magnetic Particle Imaging**|Meira Iske et.al.|[2501.05583v1](http://arxiv.org/abs/2501.05583v1)|null|
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265v1](http://arxiv.org/abs/2501.05265v1)|null|
-|**2025-01-09**|**RadioTransformer: Accurate Radio Map Construction and Coverage Prediction**|Yuxuan Li et.al.|[2501.05190v1](http://arxiv.org/abs/2501.05190v1)|null|
+|**2025-01-11**|**RMTransformer: Accurate Radio Map Construction and Coverage Prediction**|Yuxuan Li et.al.|[2501.05190v2](http://arxiv.org/abs/2501.05190v2)|null|
 |**2025-01-08**|**Rethinking High-speed Image Reconstruction Framework with Spike Camera**|Kang Chen et.al.|[2501.04477v1](http://arxiv.org/abs/2501.04477v1)|**[link](https://github.com/chenkang455/spikeclip)**|
 |**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang et.al.|[2501.03874v1](http://arxiv.org/abs/2501.03874v1)|null|
 |**2025-01-07**|**Experimental realization of scanning quantum microscopy**|V. F. Gili et.al.|[2501.03617v1](http://arxiv.org/abs/2501.03617v1)|null|
@@ -10346,7 +10346,7 @@
 |**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013v1](http://arxiv.org/abs/2501.01013v1)|null|
 |**2024-12-10**|**Model-Driven Deep Neural Network for Enhanced AoA Estimation Using 5G gNB**|Shengheng Liu et.al.|[2501.00009v1](http://arxiv.org/abs/2501.00009v1)|null|
 |**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|**[link](https://github.com/siywang541/Varformer)**|
-|**2024-12-28**|**FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training**|Jiale Huang et.al.|[2412.19997v1](http://arxiv.org/abs/2412.19997v1)|null|
+|**2025-01-12**|**FashionFAE: Fine-grained Attributes Enhanced Fashion Vision-Language Pre-training**|Jiale Huang et.al.|[2412.19997v2](http://arxiv.org/abs/2412.19997v2)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483v1](http://arxiv.org/abs/2412.19483v1)|null|
 |**2024-12-24**|**Pruning Unrolled Networks (PUN) at Initialization for MRI Reconstruction Improves Generalization**|Shijun Liang et.al.|[2412.18668v1](http://arxiv.org/abs/2412.18668v1)|null|
 |**2024-12-23**|**Hyperbolic Chamfer Distance for Point Cloud Completion and Beyond**|Fangzhou Lin et.al.|[2412.17951v1](http://arxiv.org/abs/2412.17951v1)|null|
@@ -11302,7 +11302,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-02**|**InDeed: Interpretable image deep decomposition with guaranteed generalizability**|Sihan Wang et.al.|[2501.01127v1](http://arxiv.org/abs/2501.01127v1)|null|
-|**2025-01-01**|**Diffusion Prism: Enhancing Diversity and Morphology Consistency in Mask-to-Image Diffusion**|Hao Wang et.al.|[2501.00944v1](http://arxiv.org/abs/2501.00944v1)|null|
+|**2025-01-11**|**Diffusion Prism: Enhancing Diversity and Morphology Consistency in Mask-to-Image Diffusion**|Hao Wang et.al.|[2501.00944v2](http://arxiv.org/abs/2501.00944v2)|null|
 |**2024-12-31**|**An efficient unsupervised classification model for galaxy morphology: Voting clustering based on coding from ConvNeXt large model**|Guanwen Fang et.al.|[2501.00380v1](http://arxiv.org/abs/2501.00380v1)|**[link](https://github.com/ydai-astro/eUML)**|
 |**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645v1](http://arxiv.org/abs/2412.16645v1)|null|
 |**2024-12-21**|**Positive2Negative: Breaking the Information-Lossy Barrier in Self-Supervised Single Image Denoising**|Tong Li et.al.|[2412.16460v1](http://arxiv.org/abs/2412.16460v1)|null|
