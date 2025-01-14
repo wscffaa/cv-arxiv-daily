@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563v1](http://arxiv.org/abs/2501.07563v1)|null|
+|**2025-01-13**|**Confident Pseudo-labeled Diffusion Augmentation for Canine Cardiomegaly Detection**|Shiman Zhang et.al.|[2501.07533v1](http://arxiv.org/abs/2501.07533v1)|**[link](https://github.com/shira7z/cda)**|
+|**2025-01-13**|**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**|Tharun Anand et.al.|[2501.07530v1](http://arxiv.org/abs/2501.07530v1)|null|
+|**2025-01-13**|**PrecipDiff: Leveraging image diffusion models to enhance satellite-based precipitation observations**|Ting-Yu Dai et.al.|[2501.07447v1](http://arxiv.org/abs/2501.07447v1)|null|
+|**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
+|**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397v1](http://arxiv.org/abs/2501.07397v1)|null|
+|**2025-01-13**|**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction**|Lukas Glaszner et.al.|[2501.07376v1](http://arxiv.org/abs/2501.07376v1)|null|
+|**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260v1](http://arxiv.org/abs/2501.07260v1)|**[link](https://github.com/xrkong/skimba)**|
+|**2025-01-13**|**D3MES: Diffusion Transformer with multihead equivariant self-attention for 3D molecule generation**|Zhejun Zhang et.al.|[2501.07077v1](http://arxiv.org/abs/2501.07077v1)|**[link](https://github.com/physilearn/d3mes)**|
+|**2025-01-13**|**Erasing Noise in Signal Detection with Diffusion Model: From Theory to Application**|Xiucheng Wang et.al.|[2501.07030v1](http://arxiv.org/abs/2501.07030v1)|null|
+|**2025-01-13**|**Global Search for Optimal Low Thrust Spacecraft Trajectories using Diffusion Models and the Indirect Method**|Jannik Graebner et.al.|[2501.07005v1](http://arxiv.org/abs/2501.07005v1)|null|
+|**2025-01-13**|**Likelihood Training of Cascaded Diffusion Models via Hierarchical Volume-preserving Maps**|Henry Li et.al.|[2501.06999v1](http://arxiv.org/abs/2501.06999v1)|**[link](https://github.com/lihenryhfl/pcdm)**|
+|**2025-01-12**|**A General Framework for Inference-time Scaling and Steering of Diffusion Models**|Raghav Singhal et.al.|[2501.06848v1](http://arxiv.org/abs/2501.06848v1)|**[link](https://github.com/zacharyhorvitz/fk-diffusion-steering)**|
+|**2025-01-12**|**ODPG: Outfitting Diffusion with Pose Guided Condition**|Seohyun Lee et.al.|[2501.06769v1](http://arxiv.org/abs/2501.06769v1)|null|
+|**2025-01-12**|**Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models**|Michael Toker et.al.|[2501.06751v1](http://arxiv.org/abs/2501.06751v1)|null|
+|**2025-01-12**|**DRDT3: Diffusion-Refined Decision Test-Time Training Model**|Xingshuai Huang et.al.|[2501.06718v1](http://arxiv.org/abs/2501.06718v1)|null|
+|**2025-01-11**|**Personalized Preference Fine-tuning of Diffusion Models**|Meihua Dang et.al.|[2501.06655v1](http://arxiv.org/abs/2501.06655v1)|null|
+|**2025-01-11**|**Boundary-enhanced time series data imputation with long-term dependency diffusion models**|Chunjing Xiao et.al.|[2501.06585v1](http://arxiv.org/abs/2501.06585v1)|null|
+|**2025-01-11**|**A Diffusive Data Augmentation Framework for Reconstruction of Complex Network Evolutionary History**|En Xu et.al.|[2501.06485v1](http://arxiv.org/abs/2501.06485v1)|null|
+|**2025-01-10**|**MEt3R: Measuring Multi-View Consistency in Generated Images**|Mohammad Asim et.al.|[2501.06336v1](http://arxiv.org/abs/2501.06336v1)|null|
 |**2025-01-10**|**From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training**|Julius Berner et.al.|[2501.06148v1](http://arxiv.org/abs/2501.06148v1)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
 |**2025-01-10**|**Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**|Cecilia Curreli et.al.|[2501.06035v1](http://arxiv.org/abs/2501.06035v1)|null|
 |**2025-01-10**|**CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**|Stefan Popov et.al.|[2501.06006v1](http://arxiv.org/abs/2501.06006v1)|null|
@@ -49,12 +69,12 @@
 |**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403v1](http://arxiv.org/abs/2501.05403v1)|null|
 |**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370v1](http://arxiv.org/abs/2501.05370v1)|null|
 |**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359v1](http://arxiv.org/abs/2501.05359v1)|null|
-|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226v1](http://arxiv.org/abs/2501.05226v1)|null|
+|**2025-01-13**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226v2](http://arxiv.org/abs/2501.05226v2)|null|
 |**2025-01-10**|**FaceMe: Robust Blind Face Restoration with Personal Identification**|Siyu Liu et.al.|[2501.05177v2](http://arxiv.org/abs/2501.05177v2)|null|
 |**2025-01-09**|**EquiBoost: An Equivariant Boosting Approach to Molecular Conformation Generation**|Yixuan Yang et.al.|[2501.05109v1](http://arxiv.org/abs/2501.05109v1)|null|
 |**2025-01-09**|**Recovery of activation propagation and self-sustained oscillation abilities in stroke brain networks**|Yingpeng Liu et.al.|[2501.05099v1](http://arxiv.org/abs/2501.05099v1)|null|
 |**2025-01-10**|**ResPanDiff: Diffusion Model for Pansharpening by Inferring Residual Inference**|Shiqi Cao et.al.|[2501.05091v2](http://arxiv.org/abs/2501.05091v2)|null|
-|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068v1](http://arxiv.org/abs/2501.05068v1)|**[link](https://github.com/hanshounsu/d3rm)**|
+|**2025-01-13**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068v2](http://arxiv.org/abs/2501.05068v2)|**[link](https://github.com/hanshounsu/d3rm)**|
 |**2025-01-09**|**On a reaction-diffusion virus model with general boundary conditions in heterogeneous environments**|Mingxin Wang et.al.|[2501.04992v1](http://arxiv.org/abs/2501.04992v1)|null|
 |**2025-01-09**|**FLowHigh: Towards Efficient and High-Quality Audio Super-Resolution with Single-Step Flow Matching**|Jun-Hak Yun et.al.|[2501.04926v1](http://arxiv.org/abs/2501.04926v1)|null|
 |**2025-01-08**|**Geophysical inverse problems with measurement-guided diffusion models**|Matteo Ravasi et.al.|[2501.04881v1](http://arxiv.org/abs/2501.04881v1)|null|
@@ -7436,6 +7456,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
+|**2025-01-12**|**Super-Resolution of 3D Micro-CT Images Using Generative Adversarial Networks: Enhancing Resolution and Segmentation Accuracy**|Evgeny Ugolkov et.al.|[2501.06939v1](http://arxiv.org/abs/2501.06939v1)|**[link](https://github.com/evgenyugolkov/8x_super-resolution)**|
+|**2025-01-12**|**Real-Time Neural-Enhancement for Online Cloud Gaming**|Shan Jiang et.al.|[2501.06880v1](http://arxiv.org/abs/2501.06880v1)|null|
+|**2025-01-12**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838v1](http://arxiv.org/abs/2501.06838v1)|null|
+|**2025-01-12**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770v1](http://arxiv.org/abs/2501.06770v1)|null|
+|**2025-01-12**|**Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution**|Ashitha Mudraje et.al.|[2501.06720v1](http://arxiv.org/abs/2501.06720v1)|null|
 |**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777v1](http://arxiv.org/abs/2501.05777v1)|**[link](https://github.com/lycexe/structsr)**|
 |**2025-01-09**|**Bit-depth color recovery via off-the-shelf super-resolution models**|Xuanshuo Fu et.al.|[2501.05611v1](http://arxiv.org/abs/2501.05611v1)|null|
 |**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154v1](http://arxiv.org/abs/2501.05154v1)|null|
@@ -8914,6 +8940,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
+|**2025-01-12**|**Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution**|Ashitha Mudraje et.al.|[2501.06720v1](http://arxiv.org/abs/2501.06720v1)|null|
 |**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777v1](http://arxiv.org/abs/2501.05777v1)|**[link](https://github.com/lycexe/structsr)**|
 |**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154v1](http://arxiv.org/abs/2501.05154v1)|null|
 |**2025-01-07**|**GDSR: Global-Detail Integration through Dual-Branch Network with Wavelet Losses for Remote Sensing Image Super-Resolution**|Qiwei Zhu et.al.|[2501.01460v2](http://arxiv.org/abs/2501.01460v2)|null|
@@ -10327,6 +10355,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction**|Lukas Glaszner et.al.|[2501.07376v1](http://arxiv.org/abs/2501.07376v1)|null|
+|**2025-01-12**|**Comparison of Autoencoders for tokenization of ASL datasets**|Vouk Praun-Petrovic et.al.|[2501.06942v1](http://arxiv.org/abs/2501.06942v1)|null|
+|**2025-01-12**|**UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior**|Minglong Xue et.al.|[2501.06818v1](http://arxiv.org/abs/2501.06818v1)|**[link](https://github.com/fan-pixel/ur2p-dehaze)**|
+|**2025-01-09**|**Quantum Down Sampling Filter for Variational Auto-encoder**|Farina Riaz et.al.|[2501.06259v1](http://arxiv.org/abs/2501.06259v1)|null|
 |**2025-01-10**|**FIRM: Federated Image Reconstruction using Multimodal Tomographic Data**|Geunyeong Byeon et.al.|[2501.05642v1](http://arxiv.org/abs/2501.05642v1)|null|
 |**2025-01-09**|**Learned Discrepancy Reconstruction and Benchmark Dataset for Magnetic Particle Imaging**|Meira Iske et.al.|[2501.05583v1](http://arxiv.org/abs/2501.05583v1)|null|
 |**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265v1](http://arxiv.org/abs/2501.05265v1)|null|
@@ -11685,6 +11717,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397v1](http://arxiv.org/abs/2501.07397v1)|null|
 |**2025-01-06**|**InpDiffusion: Image Inpainting Localization via Conditional Diffusion Models**|Kai Wang et.al.|[2501.02816v1](http://arxiv.org/abs/2501.02816v1)|null|
 |**2025-01-04**|**CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models**|Kuan-Hung Liu et.al.|[2501.02355v1](http://arxiv.org/abs/2501.02355v1)|null|
 |**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097v1](http://arxiv.org/abs/2501.01097v1)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
