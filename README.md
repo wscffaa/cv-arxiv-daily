@@ -26,6 +26,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333v1](http://arxiv.org/abs/2501.08333v1)|null|
+|**2025-01-14**|**MangaNinja: Line Art Colorization with Precise Reference Following**|Zhiheng Liu et.al.|[2501.08332v1](http://arxiv.org/abs/2501.08332v1)|null|
+|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331v1](http://arxiv.org/abs/2501.08331v1)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
+|**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325v1](http://arxiv.org/abs/2501.08325v1)|null|
+|**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316v1](http://arxiv.org/abs/2501.08316v1)|null|
+|**2025-01-14**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295v1](http://arxiv.org/abs/2501.08295v1)|null|
+|**2025-01-14**|**Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints**|Jonathan Nöther et.al.|[2501.08246v1](http://arxiv.org/abs/2501.08246v1)|null|
+|**2025-01-14**|**FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors**|Yabo Zhang et.al.|[2501.08225v1](http://arxiv.org/abs/2501.08225v1)|**[link](https://github.com/ybybzhang/framepainter)**|
+|**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180v1](http://arxiv.org/abs/2501.08180v1)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
+|**2025-01-14**|**Decision Transformers for RIS-Assisted Systems with Diffusion Model-Based Channel Acquisition**|Jie Zhang et.al.|[2501.08007v1](http://arxiv.org/abs/2501.08007v1)|null|
+|**2025-01-14**|**GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Representation and Diffusion Generation**|Shengyin Sun et.al.|[2501.08001v1](http://arxiv.org/abs/2501.08001v1)|**[link](https://github.com/sunshy-1/gdiffretro)**|
+|**2025-01-14**|**VENOM: Text-driven Unrestricted Adversarial Example Generation with Diffusion Models**|Hui Kuurila-Zhang et.al.|[2501.07922v1](http://arxiv.org/abs/2501.07922v1)|**[link](https://github.com/huizhg/VENOM)**|
+|**2025-01-14**|**Advanced representation learning for flow field analysis and reconstruction**|Yikai Wang et.al.|[2501.07835v1](http://arxiv.org/abs/2501.07835v1)|null|
+|**2025-01-14**|**Symmetry-Aware Generative Modeling through Learned Canonicalization**|Kusha Sareen et.al.|[2501.07773v1](http://arxiv.org/abs/2501.07773v1)|null|
+|**2025-01-14**|**On the Statistical Capacity of Deep Generative Models**|Edric Tam et.al.|[2501.07763v1](http://arxiv.org/abs/2501.07763v1)|**[link](https://github.com/edrictam/generative_capacity)**|
+|**2025-01-13**|**Concentration of Measure for Distributions Generated via Diffusion Models**|Reza Ghane et.al.|[2501.07741v1](http://arxiv.org/abs/2501.07741v1)|null|
+|**2025-01-13**|**BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations**|Weixi Feng et.al.|[2501.07647v1](http://arxiv.org/abs/2501.07647v1)|null|
 |**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563v1](http://arxiv.org/abs/2501.07563v1)|null|
 |**2025-01-13**|**Confident Pseudo-labeled Diffusion Augmentation for Canine Cardiomegaly Detection**|Shiman Zhang et.al.|[2501.07533v1](http://arxiv.org/abs/2501.07533v1)|**[link](https://github.com/shira7z/cda)**|
 |**2025-01-13**|**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**|Tharun Anand et.al.|[2501.07530v1](http://arxiv.org/abs/2501.07530v1)|null|
@@ -7456,6 +7473,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Bridge-SR: Schrödinger Bridge for Efficient SR**|Chang Li et.al.|[2501.07897v1](http://arxiv.org/abs/2501.07897v1)|null|
+|**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855v1](http://arxiv.org/abs/2501.07855v1)|null|
+|**2025-01-14**|**Advanced representation learning for flow field analysis and reconstruction**|Yikai Wang et.al.|[2501.07835v1](http://arxiv.org/abs/2501.07835v1)|null|
+|**2025-01-13**|**C2PD: Continuity-Constrained Pixelwise Deformation for Guided Depth Super-Resolution**|Jiahui Kang et.al.|[2501.07688v1](http://arxiv.org/abs/2501.07688v1)|**[link](https://github.com/amhamster/c2pd)**|
 |**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
 |**2025-01-12**|**Super-Resolution of 3D Micro-CT Images Using Generative Adversarial Networks: Enhancing Resolution and Segmentation Accuracy**|Evgeny Ugolkov et.al.|[2501.06939v1](http://arxiv.org/abs/2501.06939v1)|**[link](https://github.com/evgenyugolkov/8x_super-resolution)**|
 |**2025-01-12**|**Real-Time Neural-Enhancement for Online Cloud Gaming**|Shan Jiang et.al.|[2501.06880v1](http://arxiv.org/abs/2501.06880v1)|null|
@@ -8940,6 +8961,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855v1](http://arxiv.org/abs/2501.07855v1)|null|
 |**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
 |**2025-01-12**|**Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution**|Ashitha Mudraje et.al.|[2501.06720v1](http://arxiv.org/abs/2501.06720v1)|null|
 |**2025-01-10**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777v1](http://arxiv.org/abs/2501.05777v1)|**[link](https://github.com/lycexe/structsr)**|
@@ -10355,6 +10377,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation**|Ziheng Zhang et.al.|[2501.07850v1](http://arxiv.org/abs/2501.07850v1)|null|
 |**2025-01-13**|**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction**|Lukas Glaszner et.al.|[2501.07376v1](http://arxiv.org/abs/2501.07376v1)|null|
 |**2025-01-12**|**Comparison of Autoencoders for tokenization of ASL datasets**|Vouk Praun-Petrovic et.al.|[2501.06942v1](http://arxiv.org/abs/2501.06942v1)|null|
 |**2025-01-12**|**UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior**|Minglong Xue et.al.|[2501.06818v1](http://arxiv.org/abs/2501.06818v1)|**[link](https://github.com/fan-pixel/ur2p-dehaze)**|
@@ -11333,6 +11356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901v1](http://arxiv.org/abs/2501.07901v1)|null|
 |**2025-01-02**|**InDeed: Interpretable image deep decomposition with guaranteed generalizability**|Sihan Wang et.al.|[2501.01127v1](http://arxiv.org/abs/2501.01127v1)|null|
 |**2025-01-11**|**Diffusion Prism: Enhancing Diversity and Morphology Consistency in Mask-to-Image Diffusion**|Hao Wang et.al.|[2501.00944v2](http://arxiv.org/abs/2501.00944v2)|null|
 |**2024-12-31**|**An efficient unsupervised classification model for galaxy morphology: Voting clustering based on coding from ConvNeXt large model**|Guanwen Fang et.al.|[2501.00380v1](http://arxiv.org/abs/2501.00380v1)|**[link](https://github.com/ydai-astro/eUML)**|
