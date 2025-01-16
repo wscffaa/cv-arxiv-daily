@@ -55,7 +55,7 @@
 |**2025-01-13**|**Erasing Noise in Signal Detection with Diffusion Model: From Theory to Application**|Xiucheng Wang et.al.|[2501.07030v1](http://arxiv.org/abs/2501.07030v1)|null|
 |**2025-01-13**|**Global Search for Optimal Low Thrust Spacecraft Trajectories using Diffusion Models and the Indirect Method**|Jannik Graebner et.al.|[2501.07005v1](http://arxiv.org/abs/2501.07005v1)|null|
 |**2025-01-13**|**Likelihood Training of Cascaded Diffusion Models via Hierarchical Volume-preserving Maps**|Henry Li et.al.|[2501.06999v1](http://arxiv.org/abs/2501.06999v1)|**[link](https://github.com/lihenryhfl/pcdm)**|
-|**2025-01-12**|**A General Framework for Inference-time Scaling and Steering of Diffusion Models**|Raghav Singhal et.al.|[2501.06848v1](http://arxiv.org/abs/2501.06848v1)|**[link](https://github.com/zacharyhorvitz/fk-diffusion-steering)**|
+|**2025-01-15**|**A General Framework for Inference-time Scaling and Steering of Diffusion Models**|Raghav Singhal et.al.|[2501.06848v2](http://arxiv.org/abs/2501.06848v2)|**[link](https://github.com/zacharyhorvitz/fk-diffusion-steering)**|
 |**2025-01-12**|**ODPG: Outfitting Diffusion with Pose Guided Condition**|Seohyun Lee et.al.|[2501.06769v1](http://arxiv.org/abs/2501.06769v1)|null|
 |**2025-01-12**|**Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models**|Michael Toker et.al.|[2501.06751v1](http://arxiv.org/abs/2501.06751v1)|null|
 |**2025-01-12**|**DRDT3: Diffusion-Refined Decision Test-Time Training Model**|Xingshuai Huang et.al.|[2501.06718v1](http://arxiv.org/abs/2501.06718v1)|null|
@@ -7516,7 +7516,7 @@
 |**2024-12-21**|**Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution**|Jiarui Yang et.al.|[2412.16552v1](http://arxiv.org/abs/2412.16552v1)|**[link](https://github.com/jerryyann/dpi)**|
 |**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
-|**2024-12-18**|**Super-Resolution Generative Adversarial Network for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150v1](http://arxiv.org/abs/2412.14150v1)|null|
+|**2025-01-15**|**ZipGAN: Super-Resolution-based Generative Adversarial Network Framework for Data Compression of Direct Numerical Simulations**|Ludovico Nista et.al.|[2412.14150v2](http://arxiv.org/abs/2412.14150v2)|null|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070v1](http://arxiv.org/abs/2412.13070v1)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
 |**2024-12-17**|**Super-Resolving Normalising Flows for Lattice Field Theories**|Marc Bauer et.al.|[2412.12842v1](http://arxiv.org/abs/2412.12842v1)|null|
 |**2024-12-16**|**EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera**|Zheng Fang et.al.|[2412.11680v1](http://arxiv.org/abs/2412.11680v1)|null|
