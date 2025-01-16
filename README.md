@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008v1](http://arxiv.org/abs/2501.09008v1)|null|
+|**2025-01-15**|**RepVideo: Rethinking Cross-Layer Representation for Video Generation**|Chenyang Si et.al.|[2501.08994v1](http://arxiv.org/abs/2501.08994v1)|null|
+|**2025-01-15**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819v1](http://arxiv.org/abs/2501.08819v1)|**[link](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**|
+|**2025-01-15**|**Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models**|Zerui Tao et.al.|[2501.08727v1](http://arxiv.org/abs/2501.08727v1)|null|
+|**2025-01-15**|**FlexiClip: Locality-Preserving Free-Form Character Animation**|Anant Khandelwal et.al.|[2501.08676v1](http://arxiv.org/abs/2501.08676v1)|null|
+|**2025-01-15**|**TimeFlow: Longitudinal Brain Image Registration and Aging Progression Analysis**|Bailiang Jian et.al.|[2501.08667v1](http://arxiv.org/abs/2501.08667v1)|null|
+|**2025-01-15**|**Product of Gaussian Mixture Diffusion Model for non-linear MRI Inversion**|Laurenz Nagler et.al.|[2501.08662v1](http://arxiv.org/abs/2501.08662v1)|null|
+|**2025-01-15**|**Joint Learning of Depth and Appearance for Portrait Image Animation**|Xinya Ji et.al.|[2501.08649v1](http://arxiv.org/abs/2501.08649v1)|null|
+|**2025-01-15**|**Watermarking in Diffusion Model: Gaussian Shading with Exact Diffusion Inversion via Coupled Transformations (EDICT)**|Krishna Panthi et.al.|[2501.08604v1](http://arxiv.org/abs/2501.08604v1)|null|
+|**2025-01-15**|**DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors**|Runqi Wang et.al.|[2501.08553v1](http://arxiv.org/abs/2501.08553v1)|null|
+|**2025-01-14**|**Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models**|Weichen Fan et.al.|[2501.08453v1](http://arxiv.org/abs/2501.08453v1)|null|
 |**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333v1](http://arxiv.org/abs/2501.08333v1)|null|
 |**2025-01-14**|**MangaNinja: Line Art Colorization with Precise Reference Following**|Zhiheng Liu et.al.|[2501.08332v1](http://arxiv.org/abs/2501.08332v1)|null|
 |**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331v1](http://arxiv.org/abs/2501.08331v1)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
@@ -7473,6 +7484,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819v1](http://arxiv.org/abs/2501.08819v1)|**[link](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**|
+|**2025-01-15**|**Deep learning for temporal super-resolution 4D Flow MRI**|Pia Callmer et.al.|[2501.08780v1](http://arxiv.org/abs/2501.08780v1)|null|
 |**2025-01-14**|**Bridge-SR: Schrödinger Bridge for Efficient SR**|Chang Li et.al.|[2501.07897v1](http://arxiv.org/abs/2501.07897v1)|null|
 |**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855v1](http://arxiv.org/abs/2501.07855v1)|null|
 |**2025-01-14**|**Advanced representation learning for flow field analysis and reconstruction**|Yikai Wang et.al.|[2501.07835v1](http://arxiv.org/abs/2501.07835v1)|null|
@@ -9779,7 +9792,7 @@
 |**2025-01-08**|**Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration**|Laibin Chang et.al.|[2501.04740v1](http://arxiv.org/abs/2501.04740v1)|null|
 |**2025-01-08**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486v1](http://arxiv.org/abs/2501.04486v1)|**[link](https://github.com/fvl2020/mb-taylorformerv2)**|
 |**2025-01-07**|**Fixed Points of Deep Neural Networks: Emergence, Stability, and Applications**|L. Berlyand et.al.|[2501.04182v1](http://arxiv.org/abs/2501.04182v1)|null|
-|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|null|
+|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780v1](http://arxiv.org/abs/2501.03780v1)|**[link](https://github.com/mdi-tokyotech/convergent_primal-dual_plug-and-play_image_restoration_a_general_algorithm_and_applications)**|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002v1](http://arxiv.org/abs/2501.03002v1)|null|
 |**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701v1](http://arxiv.org/abs/2501.02701v1)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
 |**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063v1](http://arxiv.org/abs/2412.21063v1)|**[link](https://github.com/siywang541/Varformer)**|
@@ -10377,6 +10390,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Product of Gaussian Mixture Diffusion Model for non-linear MRI Inversion**|Laurenz Nagler et.al.|[2501.08662v1](http://arxiv.org/abs/2501.08662v1)|null|
 |**2025-01-14**|**An Intra- and Cross-frame Topological Consistency Scheme for Semi-supervised Atherosclerotic Coronary Plaque Segmentation**|Ziheng Zhang et.al.|[2501.07850v1](http://arxiv.org/abs/2501.07850v1)|null|
 |**2025-01-13**|**Bigger Isn't Always Better: Towards a General Prior for Medical Image Reconstruction**|Lukas Glaszner et.al.|[2501.07376v1](http://arxiv.org/abs/2501.07376v1)|null|
 |**2025-01-12**|**Comparison of Autoencoders for tokenization of ASL datasets**|Vouk Praun-Petrovic et.al.|[2501.06942v1](http://arxiv.org/abs/2501.06942v1)|null|
@@ -11741,6 +11755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Stability and convergence of relaxed scalar auxiliary variable schemes for Cahn-Hilliard systems with bounded mass source**|Kei Fong Lam et.al.|[2501.08543v1](http://arxiv.org/abs/2501.08543v1)|null|
 |**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397v1](http://arxiv.org/abs/2501.07397v1)|null|
 |**2025-01-06**|**InpDiffusion: Image Inpainting Localization via Conditional Diffusion Models**|Kai Wang et.al.|[2501.02816v1](http://arxiv.org/abs/2501.02816v1)|null|
 |**2025-01-04**|**CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models**|Kuan-Hung Liu et.al.|[2501.02355v1](http://arxiv.org/abs/2501.02355v1)|null|
@@ -12004,6 +12019,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012v1](http://arxiv.org/abs/2501.09012v1)|**[link](https://github.com/songrise/mllm4art)**|
 |**2025-01-07**|**Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**|Rancy Chepchirchir et.al.|[2501.04734v1](http://arxiv.org/abs/2501.04734v1)|**[link](https://github.com/CAMERA-MRI/SPARK2023/tree/main/SPARK_BTS_KIFARU)**|
 |**2025-01-08**|**Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**|Uri Berger et.al.|[2501.04513v1](http://arxiv.org/abs/2501.04513v1)|null|
 |**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875v1](http://arxiv.org/abs/2501.03875v1)|null|
