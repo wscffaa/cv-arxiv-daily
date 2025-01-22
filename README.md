@@ -27,7 +27,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325v1](http://arxiv.org/abs/2501.10325v1)|null|
-|**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v1](http://arxiv.org/abs/2501.10110v1)|null|
+|**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v2](http://arxiv.org/abs/2501.10110v2)|null|
 |**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052v1](http://arxiv.org/abs/2501.10052v1)|null|
 |**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018v1](http://arxiv.org/abs/2501.10018v1)|null|
 |**2025-01-17**|**Enhancing Crash Frequency Modeling Based on Augmented Multi-Type Data by Hybrid VAE-Diffusion-Based Generative Neural Networks**|Junlan Chen et.al.|[2501.10017v1](http://arxiv.org/abs/2501.10017v1)|null|
@@ -7508,7 +7508,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325v1](http://arxiv.org/abs/2501.10325v1)|null|
-|**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v1](http://arxiv.org/abs/2501.10110v1)|null|
+|**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v2](http://arxiv.org/abs/2501.10110v2)|null|
 |**2025-01-17**|**HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution**|Shengkui Zhao et.al.|[2501.10045v1](http://arxiv.org/abs/2501.10045v1)|**[link](https://github.com/modelscope/ClearerVoice-Studio)**|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277v1](http://arxiv.org/abs/2501.09277v1)|null|
 |**2025-01-17**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054v2](http://arxiv.org/abs/2501.09054v2)|**[link](https://github.com/zerono000/neurop-diff)**|
@@ -9519,7 +9519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v1](http://arxiv.org/abs/2501.10110v1)|null|
+|**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v2](http://arxiv.org/abs/2501.10110v2)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976v1](http://arxiv.org/abs/2501.02976v1)|null|
 |**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773v1](http://arxiv.org/abs/2501.01773v1)|null|
 |**2024-12-21**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525v3](http://arxiv.org/abs/2412.11525v3)|null|
