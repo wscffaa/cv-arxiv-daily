@@ -26,6 +26,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393v1](http://arxiv.org/abs/2501.12393v1)|null|
+|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390v1](http://arxiv.org/abs/2501.12390v1)|null|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385v1](http://arxiv.org/abs/2501.12385v1)|null|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382v1](http://arxiv.org/abs/2501.12382v1)|null|
+|**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267v1](http://arxiv.org/abs/2501.12267v1)|null|
+|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249v1](http://arxiv.org/abs/2501.12249v1)|null|
+|**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224v1](http://arxiv.org/abs/2501.12224v1)|null|
+|**2025-01-21**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202v1](http://arxiv.org/abs/2501.12202v1)|**[link](https://github.com/tencent/hunyuan3d-2)**|
+|**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173v1](http://arxiv.org/abs/2501.12173v1)|**[link](https://github.com/zhangshy1019/composeanyone)**|
+|**2025-01-20**|**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process**|Mostafa Atef et.al.|[2501.11776v1](http://arxiv.org/abs/2501.11776v1)|null|
+|**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746v1](http://arxiv.org/abs/2501.11746v1)|null|
+|**2025-01-20**|**Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation**|Xiaodong Li et.al.|[2501.11671v1](http://arxiv.org/abs/2501.11671v1)|null|
+|**2025-01-20**|**Recurrent Diffusion for Large-Scale Parameter Generation**|Kai Wang et.al.|[2501.11587v1](http://arxiv.org/abs/2501.11587v1)|**[link](https://github.com/nus-hpc-ai-lab/recurrent-parameter-generation)**|
+|**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568v1](http://arxiv.org/abs/2501.11568v1)|null|
+|**2025-01-20**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430v1](http://arxiv.org/abs/2501.11430v1)|null|
+|**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318v1](http://arxiv.org/abs/2501.11318v1)|null|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299v1](http://arxiv.org/abs/2501.11299v1)|null|
+|**2025-01-20**|**Successive Interference Cancellation-aided Diffusion Models for Joint Channel Estimation and Data Detection in Low Rank Channel Scenarios**|Sagnik Bhattacharya et.al.|[2501.11229v1](http://arxiv.org/abs/2501.11229v1)|null|
+|**2025-01-20**|**Ditto: Accelerating Diffusion Model via Temporal Value Similarity**|Sungbin Kim et.al.|[2501.11211v1](http://arxiv.org/abs/2501.11211v1)|null|
+|**2025-01-19**|**Quantum Latent Diffusion Models**|Francesca De Falco et.al.|[2501.11174v1](http://arxiv.org/abs/2501.11174v1)|null|
+|**2025-01-18**|**Diffusion-Based Imitation Learning for Social Pose Generation**|Antonio Lech Martin-Ozimek et.al.|[2501.10869v1](http://arxiv.org/abs/2501.10869v1)|null|
+|**2025-01-18**|**Addressing Multilabel Imbalance with an Efficiency-Focused Approach Using Diffusion Model-Generated Synthetic Samples**|Francisco Charte et.al.|[2501.10822v1](http://arxiv.org/abs/2501.10822v1)|**[link](https://github.com/simidat/mldm)**|
+|**2025-01-18**|**GAUDA: Generative Adaptive Uncertainty-guided Diffusion-based Augmentation for Surgical Segmentation**|Yannik Frisch et.al.|[2501.10819v1](http://arxiv.org/abs/2501.10819v1)|null|
+|**2025-01-18**|**FlashSR: One-step Versatile Audio Super-resolution via Diffusion Distillation**|Jaekwon Im et.al.|[2501.10807v1](http://arxiv.org/abs/2501.10807v1)|null|
+|**2025-01-18**|**EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**|Linrui Tian et.al.|[2501.10687v1](http://arxiv.org/abs/2501.10687v1)|null|
+|**2025-01-17**|**Diffusion Models in Recommendation Systems: A Survey**|Ting-Ruen Wei et.al.|[2501.10548v1](http://arxiv.org/abs/2501.10548v1)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325v1](http://arxiv.org/abs/2501.10325v1)|null|
 |**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v2](http://arxiv.org/abs/2501.10110v2)|null|
 |**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052v1](http://arxiv.org/abs/2501.10052v1)|null|
@@ -38,7 +64,7 @@
 |**2025-01-16**|**Lossy Compression with Pretrained Diffusion Models**|Jeremy Vonderfecht et.al.|[2501.09815v1](http://arxiv.org/abs/2501.09815v1)|**[link](https://github.com/jeremyiv/diffc)**|
 |**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756v1](http://arxiv.org/abs/2501.09756v1)|null|
 |**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732v1](http://arxiv.org/abs/2501.09732v1)|null|
-|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685v1](http://arxiv.org/abs/2501.09685v1)|null|
+|**2025-01-20**|**Inference-Time Alignment in Diffusion Models with Reward-Guided Generation: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685v2](http://arxiv.org/abs/2501.09685v2)|null|
 |**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
 |**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433v1](http://arxiv.org/abs/2501.09433v1)|**[link](https://github.com/ncsoft/CaPa)**|
 |**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391v1](http://arxiv.org/abs/2501.09391v1)|null|
@@ -7507,6 +7533,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043v1](http://arxiv.org/abs/2501.11043v1)|null|
+|**2025-01-18**|**FlashSR: One-step Versatile Audio Super-resolution via Diffusion Distillation**|Jaekwon Im et.al.|[2501.10807v1](http://arxiv.org/abs/2501.10807v1)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325v1](http://arxiv.org/abs/2501.10325v1)|null|
 |**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v2](http://arxiv.org/abs/2501.10110v2)|null|
 |**2025-01-17**|**HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution**|Shengkui Zhao et.al.|[2501.10045v1](http://arxiv.org/abs/2501.10045v1)|**[link](https://github.com/modelscope/ClearerVoice-Studio)**|
@@ -7552,7 +7580,7 @@
 |**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211v1](http://arxiv.org/abs/2412.17211v1)|null|
 |**2024-12-22**|**Foundation Model for Lossy Compression of Spatiotemporal Scientific Data**|Xiao Li et.al.|[2412.17184v1](http://arxiv.org/abs/2412.17184v1)|null|
 |**2024-12-22**|**Massively Multiplexed Wide-field Photon Correlation Sensing**|Shay Elmalem et.al.|[2412.16914v1](http://arxiv.org/abs/2412.16914v1)|null|
-|**2024-12-22**|**Quantum-inspired super-resolution of fluorescent point-like sources**|Cheyenne S. Mitchell et.al.|[2412.16835v1](http://arxiv.org/abs/2412.16835v1)|null|
+|**2025-01-21**|**Quantum-inspired super-resolution of fluorescent point-like sources**|Cheyenne S. Mitchell et.al.|[2412.16835v2](http://arxiv.org/abs/2412.16835v2)|null|
 |**2024-12-21**|**Solving Inverse Problems via Diffusion Optimal Control**|Henry Li et.al.|[2412.16748v1](http://arxiv.org/abs/2412.16748v1)|**[link](https://github.com/lihenryhfl/diffusion_optimal_control)**|
 |**2024-12-21**|**Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution**|Jiarui Yang et.al.|[2412.16552v1](http://arxiv.org/abs/2412.16552v1)|**[link](https://github.com/jerryyann/dpi)**|
 |**2024-12-19**|**Uncertainty Estimation for Super-Resolution using ESRGAN**|Maniraj Sai Adapa et.al.|[2412.15439v1](http://arxiv.org/abs/2412.15439v1)|null|
@@ -9519,6 +9547,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043v1](http://arxiv.org/abs/2501.11043v1)|null|
 |**2025-01-20**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110v2](http://arxiv.org/abs/2501.10110v2)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976v1](http://arxiv.org/abs/2501.02976v1)|null|
 |**2025-01-03**|**Compressed Domain Prior-Guided Video Super-Resolution for Cloud Gaming Content**|Qizhe Wang et.al.|[2501.01773v1](http://arxiv.org/abs/2501.01773v1)|null|
@@ -9820,6 +9849,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Proxies for Distortion and Consistency with Applications for Real-World Image Restoration**|Sean Man et.al.|[2501.12102v1](http://arxiv.org/abs/2501.12102v1)|null|
+|**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746v1](http://arxiv.org/abs/2501.11746v1)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325v1](http://arxiv.org/abs/2501.10325v1)|null|
 |**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321v1](http://arxiv.org/abs/2501.09321v1)|null|
 |**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268v1](http://arxiv.org/abs/2501.09268v1)|null|
@@ -10424,6 +10455,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Enhanced imaging of M87*: Simulations with the EHT and extended-KVN**|Ilje Cho et.al.|[2501.11822v1](http://arxiv.org/abs/2501.11822v1)|null|
+|**2025-01-20**|**Finding Reproducible and Prognostic Radiomic Features in Variable Slice Thickness Contrast Enhanced CT of Colorectal Liver Metastases**|Jacob J. Peoples et.al.|[2501.11221v1](http://arxiv.org/abs/2501.11221v1)|**[link](https://github.com/jpeoples/melba2024)**|
 |**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268v1](http://arxiv.org/abs/2501.09268v1)|null|
 |**2025-01-16**|**Estimating Task-based Performance Bounds for Accelerated MRI Image Reconstruction Methods by Use of Learned-Ideal Observers**|Kaiyan Li et.al.|[2501.09224v1](http://arxiv.org/abs/2501.09224v1)|null|
 |**2025-01-15**|**Product of Gaussian Mixture Diffusion Model for non-linear MRI Inversion**|Laurenz Nagler et.al.|[2501.08662v1](http://arxiv.org/abs/2501.08662v1)|null|
@@ -11406,6 +11439,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**CNN-based TEM image denoising from first principles**|Jinwoong Chae et.al.|[2501.11225v1](http://arxiv.org/abs/2501.11225v1)|null|
 |**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901v1](http://arxiv.org/abs/2501.07901v1)|null|
 |**2025-01-02**|**InDeed: Interpretable image deep decomposition with guaranteed generalizability**|Sihan Wang et.al.|[2501.01127v1](http://arxiv.org/abs/2501.01127v1)|null|
 |**2025-01-11**|**Diffusion Prism: Enhancing Diversity and Morphology Consistency in Mask-to-Image Diffusion**|Hao Wang et.al.|[2501.00944v2](http://arxiv.org/abs/2501.00944v2)|null|
@@ -11439,7 +11473,7 @@
 |**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v1](http://arxiv.org/abs/2411.09512v1)|null|
 |**2024-11-13**|**Dynamic Thresholding Algorithm with Memory for Linear Inverse Problems**|Zhong-Feng Sun et.al.|[2411.08284v1](http://arxiv.org/abs/2411.08284v1)|null|
 |**2024-11-29**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930v2](http://arxiv.org/abs/2411.07930v2)|**[link](https://github.com/zy2219105/ct-mamba)**|
-|**2024-11-08**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884v1](http://arxiv.org/abs/2411.05884v1)|null|
+|**2025-01-21**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884v2](http://arxiv.org/abs/2411.05884v2)|null|
 |**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302v1](http://arxiv.org/abs/2411.05302v1)|null|
 |**2024-11-06**|**ADMIRE: a locally adaptive single-image, non-uniformity correction and denoising algorithm: application to uncooled IR camera**|Yohann Tendero et.al.|[2411.03615v1](http://arxiv.org/abs/2411.03615v1)|null|
 |**2024-11-03**|**Adaptive Domain Learning for Cross-domain Image Denoising**|Zian Qian et.al.|[2411.01472v1](http://arxiv.org/abs/2411.01472v1)|null|
@@ -11791,11 +11825,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267v1](http://arxiv.org/abs/2501.12267v1)|null|
 |**2025-01-15**|**Stability and convergence of relaxed scalar auxiliary variable schemes for Cahn-Hilliard systems with bounded mass source**|Kei Fong Lam et.al.|[2501.08543v1](http://arxiv.org/abs/2501.08543v1)|null|
 |**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397v1](http://arxiv.org/abs/2501.07397v1)|null|
 |**2025-01-06**|**InpDiffusion: Image Inpainting Localization via Conditional Diffusion Models**|Kai Wang et.al.|[2501.02816v1](http://arxiv.org/abs/2501.02816v1)|null|
 |**2025-01-04**|**CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models**|Kuan-Hung Liu et.al.|[2501.02355v1](http://arxiv.org/abs/2501.02355v1)|null|
-|**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097v1](http://arxiv.org/abs/2501.01097v1)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
+|**2025-01-21**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097v2](http://arxiv.org/abs/2501.01097v2)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
 |**2024-12-31**|**Projected subgradient methods for paraconvex optimization: Application to robust low-rank matrix recovery**|Morteza Rahimi et.al.|[2501.00427v1](http://arxiv.org/abs/2501.00427v1)|null|
 |**2024-12-25**|**MGAN-CRCM: A Novel Multiple Generative Adversarial Network and Coarse-Refinement Based Cognizant Method for Image Inpainting**|Nafiz Al Asad et.al.|[2412.19000v1](http://arxiv.org/abs/2412.19000v1)|null|
 |**2024-12-16**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316v2](http://arxiv.org/abs/2412.10316v2)|null|
@@ -12055,6 +12090,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**StAyaL | Multilingual Style Transfer**|Karishma Thakrar et.al.|[2501.11639v1](http://arxiv.org/abs/2501.11639v1)|null|
+|**2025-01-20**|**StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer**|Ruojun Xu et.al.|[2501.11319v1](http://arxiv.org/abs/2501.11319v1)|null|
 |**2025-01-16**|**Dynamic Neural Style Transfer for Artistic Image Generation using VGG19**|Kapil Kashyap et.al.|[2501.09420v1](http://arxiv.org/abs/2501.09420v1)|null|
 |**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012v1](http://arxiv.org/abs/2501.09012v1)|**[link](https://github.com/songrise/mllm4art)**|
 |**2025-01-07**|**Generative Style Transfer for MRI Image Segmentation: A Case of Glioma Segmentation in Sub-Saharan Africa**|Rancy Chepchirchir et.al.|[2501.04734v1](http://arxiv.org/abs/2501.04734v1)|**[link](https://github.com/CAMERA-MRI/SPARK2023/tree/main/SPARK_BTS_KIFARU)**|
