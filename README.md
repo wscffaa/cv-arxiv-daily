@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107v1](http://arxiv.org/abs/2501.13107v1)|null|
+|**2025-01-23**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107v2](http://arxiv.org/abs/2501.13107v2)|null|
 |**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094v1](http://arxiv.org/abs/2501.13094v1)|**[link](https://github.com/jiachenlei/rrcm)**|
 |**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087v1](http://arxiv.org/abs/2501.13087v1)|null|
 |**2025-01-22**|**Robust Body Composition Analysis by Generating 3D CT Volumes from Limited 2D Slices**|Lianrui Zuo et.al.|[2501.13071v1](http://arxiv.org/abs/2501.13071v1)|null|
@@ -7556,7 +7556,7 @@
 |**2025-01-17**|**HiFi-SR: A Unified Generative Transformer-Convolutional Adversarial Network for High-Fidelity Speech Super-Resolution**|Shengkui Zhao et.al.|[2501.10045v1](http://arxiv.org/abs/2501.10045v1)|**[link](https://github.com/modelscope/ClearerVoice-Studio)**|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277v1](http://arxiv.org/abs/2501.09277v1)|null|
 |**2025-01-17**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054v2](http://arxiv.org/abs/2501.09054v2)|**[link](https://github.com/zerono000/neurop-diff)**|
-|**2025-01-22**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819v2](http://arxiv.org/abs/2501.08819v2)|**[link](https://github.com/ryanlu2240/dadiff)**|
+|**2025-01-23**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819v3](http://arxiv.org/abs/2501.08819v3)|**[link](https://github.com/ryanlu2240/dadiff)**|
 |**2025-01-15**|**Deep learning for temporal super-resolution 4D Flow MRI**|Pia Callmer et.al.|[2501.08780v1](http://arxiv.org/abs/2501.08780v1)|**[link](https://github.com/piaacaa/temporal4dflownet)**|
 |**2025-01-14**|**Bridge-SR: Schrödinger Bridge for Efficient SR**|Chang Li et.al.|[2501.07897v1](http://arxiv.org/abs/2501.07897v1)|null|
 |**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855v1](http://arxiv.org/abs/2501.07855v1)|null|
@@ -9739,7 +9739,7 @@
 |**2023-08-03**|**DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models**|Jianxin Lin et.al.|[2308.01655v1](http://arxiv.org/abs/2308.01655v1)|null|
 |**2023-07-24**|**A Theoretically Guaranteed Quaternion Weighted Schatten p-norm Minimization Method for Color Image Restoration**|Qing-Hua Zhang et.al.|[2307.12656v1](http://arxiv.org/abs/2307.12656v1)|**[link](https://github.com/qiuxuanzhizi/qwsnm)**|
 |**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760v1](http://arxiv.org/abs/2307.05760v1)|null|
-|**2024-09-21**|**Dequantization and Color Transfer with Diffusion Models**|Vaibhav Vavilala et.al.|[2307.02698v4](http://arxiv.org/abs/2307.02698v4)|null|
+|**2025-01-22**|**Dequantization and Color Transfer with Diffusion Models**|Vaibhav Vavilala et.al.|[2307.02698v5](http://arxiv.org/abs/2307.02698v5)|null|
 |**2023-10-30**|**Fast Optimal Transport through Sliced Wasserstein Generalized Geodesics**|Guillaume Mahey et.al.|[2307.01770v2](http://arxiv.org/abs/2307.01770v2)|**[link](https://github.com/maheyg/swgg)**|
 |**2023-09-12**|**Learning to Augment: Hallucinating Data for Domain Generalized Segmentation**|Qiyu Sun et.al.|[2307.01703v2](http://arxiv.org/abs/2307.01703v2)|null|
 |**2023-06-26**|**Video object detection for privacy-preserving patient monitoring in intensive care**|Raphael Emberger et.al.|[2306.14620v1](http://arxiv.org/abs/2306.14620v1)|**[link](https://github.com/raember/yolov5r_autodidact)**|
