@@ -31,7 +31,7 @@
 |**2025-01-23**|**Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction**|Zhi Sheng et.al.|[2501.13794v1](http://arxiv.org/abs/2501.13794v1)|null|
 |**2025-01-23**|**An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem**|Mingzhao Wang et.al.|[2501.13767v1](http://arxiv.org/abs/2501.13767v1)|**[link](https://github.com/deitsp/deitsp)**|
 |**2025-01-23**|**Training-Free Consistency Pipeline for Fashion Repose**|Potito Aghilar et.al.|[2501.13692v1](http://arxiv.org/abs/2501.13692v1)|null|
-|**2025-01-23**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554v1](http://arxiv.org/abs/2501.13554v1)|**[link](https://github.com/byliutao/1prompt1story)**|
+|**2025-01-24**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554v2](http://arxiv.org/abs/2501.13554v2)|**[link](https://github.com/byliutao/1prompt1story)**|
 |**2025-01-23**|**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse**|Wenzhuo Ma et.al.|[2501.13528v1](http://arxiv.org/abs/2501.13528v1)|null|
 |**2025-01-23**|**LDR-Net: A Novel Framework for AI-generated Image Detection via Localized Discrepancy Representation**|JiaXin Chen et.al.|[2501.13475v1](http://arxiv.org/abs/2501.13475v1)|null|
 |**2025-01-23**|**Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks**|Ruijia Liu et.al.|[2501.13457v1](http://arxiv.org/abs/2501.13457v1)|null|
@@ -61,7 +61,7 @@
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385v1](http://arxiv.org/abs/2501.12385v1)|null|
 |**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382v1](http://arxiv.org/abs/2501.12382v1)|null|
 |**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267v1](http://arxiv.org/abs/2501.12267v1)|null|
-|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249v1](http://arxiv.org/abs/2501.12249v1)|null|
+|**2025-01-24**|**Solving Blind Inverse Problems: Adaptive Diffusion Models for Motion-corrected Sparse-view 4DCT**|Antoine De Paepe et.al.|[2501.12249v2](http://arxiv.org/abs/2501.12249v2)|null|
 |**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224v1](http://arxiv.org/abs/2501.12224v1)|null|
 |**2025-01-22**|**Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**|Zibo Zhao et.al.|[2501.12202v2](http://arxiv.org/abs/2501.12202v2)|**[link](https://github.com/tencent/hunyuan3d-2)**|
 |**2025-01-21**|**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**|Shiyue Zhang et.al.|[2501.12173v1](http://arxiv.org/abs/2501.12173v1)|**[link](https://github.com/zhangshy1019/composeanyone)**|
@@ -70,7 +70,7 @@
 |**2025-01-20**|**Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation**|Xiaodong Li et.al.|[2501.11671v1](http://arxiv.org/abs/2501.11671v1)|null|
 |**2025-01-20**|**Recurrent Diffusion for Large-Scale Parameter Generation**|Kai Wang et.al.|[2501.11587v1](http://arxiv.org/abs/2501.11587v1)|**[link](https://github.com/nus-hpc-ai-lab/recurrent-parameter-generation)**|
 |**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568v1](http://arxiv.org/abs/2501.11568v1)|null|
-|**2025-01-22**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430v2](http://arxiv.org/abs/2501.11430v2)|**[link](https://github.com/fdjingliu/dmad)**|
+|**2025-01-24**|**A Survey on Diffusion Models for Anomaly Detection**|Jing Liu et.al.|[2501.11430v3](http://arxiv.org/abs/2501.11430v3)|**[link](https://github.com/fdjingliu/dmad)**|
 |**2025-01-20**|**Nested Annealed Training Scheme for Generative Adversarial Networks**|Chang Wan et.al.|[2501.11318v1](http://arxiv.org/abs/2501.11318v1)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299v1](http://arxiv.org/abs/2501.11299v1)|null|
 |**2025-01-20**|**Successive Interference Cancellation-aided Diffusion Models for Joint Channel Estimation and Data Detection in Low Rank Channel Scenarios**|Sagnik Bhattacharya et.al.|[2501.11229v1](http://arxiv.org/abs/2501.11229v1)|null|
@@ -12185,7 +12185,7 @@
 |**2024-11-15**|**Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning**|Yushen Zuo et.al.|[2411.10130v1](http://arxiv.org/abs/2411.10130v1)|null|
 |**2024-11-12**|**Artistic Neural Style Transfer Algorithms with Activation Smoothing**|Xiangtian Li et.al.|[2411.08014v1](http://arxiv.org/abs/2411.08014v1)|null|
 |**2024-11-12**|**Harmonizing Pixels and Melodies: Maestro-Guided Film Score Generation and Composition Style Transfer**|F. Qi et.al.|[2411.07539v1](http://arxiv.org/abs/2411.07539v1)|null|
-|**2024-11-11**|**An Interpretable X-ray Style Transfer via Trainable Local Laplacian Filter**|Dominik Eckert et.al.|[2411.07072v1](http://arxiv.org/abs/2411.07072v1)|null|
+|**2025-01-24**|**An Interpretable X-ray Style Transfer via Trainable Local Laplacian Filter**|Dominik Eckert et.al.|[2411.07072v2](http://arxiv.org/abs/2411.07072v2)|null|
 |**2024-11-10**|**Diff-MSTC: A Mixing Style Transfer Prototype for Cubase**|Soumya Sai Vanka et.al.|[2411.06576v1](http://arxiv.org/abs/2411.06576v1)|null|
 |**2024-10-17**|**Optimal Transport Maps are Good Voice Converters**|Arip Asadulaev et.al.|[2411.02402v1](http://arxiv.org/abs/2411.02402v1)|null|
 |**2024-11-02**|**AquaFuse: Waterbody Fusion for Physics Guided View Synthesis of Underwater Scenes**|Md Abu Bakr Siddique et.al.|[2411.01119v1](http://arxiv.org/abs/2411.01119v1)|null|
