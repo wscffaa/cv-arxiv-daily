@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680v1](http://arxiv.org/abs/2501.14680v1)|null|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524v1](http://arxiv.org/abs/2501.14524v1)|null|
+|**2025-01-24**|**Advancing data-driven broadband seismic wavefield simulation with multi-conditional diffusion model**|Zhengfa Bi et.al.|[2501.14348v1](http://arxiv.org/abs/2501.14348v1)|null|
+|**2025-01-24**|**Stochastic Method for Delayed Neutron Precursors Transport in Liquid Fuel**|Mathis Caprais et.al.|[2501.14332v1](http://arxiv.org/abs/2501.14332v1)|null|
+|**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264v1](http://arxiv.org/abs/2501.14264v1)|null|
+|**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216v1](http://arxiv.org/abs/2501.14216v1)|null|
+|**2025-01-23**|**INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration**|Di You et.al.|[2501.14014v1](http://arxiv.org/abs/2501.14014v1)|null|
+|**2025-01-22**|**Synthetic CT image generation from CBCT: A Systematic Review**|Alzahra Altalib et.al.|[2501.13972v1](http://arxiv.org/abs/2501.13972v1)|null|
+|**2025-01-22**|**InsTex: Indoor Scenes Stylized Texture Synthesis**|Yunfan Zhang et.al.|[2501.13969v1](http://arxiv.org/abs/2501.13969v1)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920v1](http://arxiv.org/abs/2501.13920v1)|null|
 |**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918v1](http://arxiv.org/abs/2501.13918v1)|null|
 |**2025-01-23**|**Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction**|Zhi Sheng et.al.|[2501.13794v1](http://arxiv.org/abs/2501.13794v1)|null|
@@ -9888,6 +9897,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264v1](http://arxiv.org/abs/2501.14264v1)|null|
+|**2025-01-23**|**INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration**|Di You et.al.|[2501.14014v1](http://arxiv.org/abs/2501.14014v1)|null|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915v1](http://arxiv.org/abs/2501.13915v1)|null|
 |**2025-01-22**|**UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior**|I-Hsiang Chen et.al.|[2501.13134v1](http://arxiv.org/abs/2501.13134v1)|null|
 |**2025-01-22**|**Deep Learning-Based Image Recovery and Pose Estimation for Resident Space Objects**|Louis Aberdeen et.al.|[2501.13009v1](http://arxiv.org/abs/2501.13009v1)|null|
@@ -10499,6 +10510,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities**|Zhibo Tian et.al.|[2501.14309v1](http://arxiv.org/abs/2501.14309v1)|**[link](https://github.com/kunzhan/brainguard)**|
+|**2025-01-24**|**Snapshot multi-spectral imaging through defocusing and a Fourier imager network**|Xilin Yang et.al.|[2501.14287v1](http://arxiv.org/abs/2501.14287v1)|null|
+|**2025-01-24**|**Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration**|Mojtaba Safari et.al.|[2501.14158v1](http://arxiv.org/abs/2501.14158v1)|**[link](https://github.com/mosaf/awesome-dl-based-cs-mri)**|
 |**2025-01-23**|**STM Image Analysis using Autoencoders**|Peter Binev et.al.|[2501.13283v1](http://arxiv.org/abs/2501.13283v1)|null|
 |**2025-01-22**|**Deep Learning-Based Image Recovery and Pose Estimation for Resident Space Objects**|Louis Aberdeen et.al.|[2501.13009v1](http://arxiv.org/abs/2501.13009v1)|null|
 |**2025-01-21**|**Efficient Dynamic Image Reconstruction with motion estimation**|Toluwani Okunola et.al.|[2501.12497v1](http://arxiv.org/abs/2501.12497v1)|null|
@@ -11486,6 +11500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Sparse Mixture-of-Experts for Non-Uniform Noise Reduction in MRI Images**|Zeyun Deng et.al.|[2501.14198v1](http://arxiv.org/abs/2501.14198v1)|null|
 |**2025-01-20**|**CNN-based TEM image denoising from first principles**|Jinwoong Chae et.al.|[2501.11225v1](http://arxiv.org/abs/2501.11225v1)|null|
 |**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901v1](http://arxiv.org/abs/2501.07901v1)|null|
 |**2025-01-02**|**InDeed: Interpretable image deep decomposition with guaranteed generalizability**|Sihan Wang et.al.|[2501.01127v1](http://arxiv.org/abs/2501.01127v1)|null|
@@ -12138,6 +12153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524v1](http://arxiv.org/abs/2501.14524v1)|null|
 |**2025-01-23**|**Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference**|Shuqi Dai et.al.|[2501.13870v1](http://arxiv.org/abs/2501.13870v1)|null|
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831v1](http://arxiv.org/abs/2501.13831v1)|null|
 |**2025-01-22**|**StAyaL | Multilingual Style Transfer**|Karishma Thakrar et.al.|[2501.11639v2](http://arxiv.org/abs/2501.11639v2)|null|
