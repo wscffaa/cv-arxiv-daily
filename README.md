@@ -26,7 +26,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680v1](http://arxiv.org/abs/2501.14680v1)|null|
+|**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330v1](http://arxiv.org/abs/2501.16330v1)|null|
+|**2025-01-27**|**Congested Crossing Pedestrian Traffic Flow : Dispersion vs. Transport in Crowded Areas**|Mariam Al Khatib et.al.|[2501.16275v1](http://arxiv.org/abs/2501.16275v1)|null|
+|**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211v1](http://arxiv.org/abs/2501.16211v1)|**[link](https://github.com/gusanagy/udbe)**|
+|**2025-01-27**|**Multi-front dynamics in spatially inhomogeneous Allen-Cahn equations**|Robbin Bastiaansen et.al.|[2501.16195v1](http://arxiv.org/abs/2501.16195v1)|null|
+|**2025-01-27**|**BAG: Body-Aligned 3D Wearable Asset Generation**|Zhongjin Luo et.al.|[2501.16177v1](http://arxiv.org/abs/2501.16177v1)|null|
+|**2025-01-27**|**Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**|Zhiyuan Lu et.al.|[2501.16147v1](http://arxiv.org/abs/2501.16147v1)|null|
+|**2025-01-27**|**Using Generative Models to Produce Realistic Populations of UK Windstorms**|Yee Chun Tsoi et.al.|[2501.16110v1](http://arxiv.org/abs/2501.16110v1)|null|
+|**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003v1](http://arxiv.org/abs/2501.16003v1)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
+|**2025-01-27**|**MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models**|Michael Birsak et.al.|[2501.15981v1](http://arxiv.org/abs/2501.15981v1)|null|
+|**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928v1](http://arxiv.org/abs/2501.15928v1)|null|
+|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878v1](http://arxiv.org/abs/2501.15878v1)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847v1](http://arxiv.org/abs/2501.15847v1)|null|
+|**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785v1](http://arxiv.org/abs/2501.15785v1)|null|
+|**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631v1](http://arxiv.org/abs/2501.15631v1)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
+|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571v1](http://arxiv.org/abs/2501.15571v1)|null|
+|**2025-01-26**|**CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary**|Jiahang Tu et.al.|[2501.15562v1](http://arxiv.org/abs/2501.15562v1)|null|
+|**2025-01-26**|**Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model**|Chu Zhao et.al.|[2501.15555v1](http://arxiv.org/abs/2501.15555v1)|null|
+|**2025-01-26**|**LoRAGuard: An Effective Black-box Watermarking Approach for LoRAs**|Peizhuo Lv et.al.|[2501.15478v1](http://arxiv.org/abs/2501.15478v1)|null|
+|**2025-01-26**|**SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity**|Zichen Fan et.al.|[2501.15448v1](http://arxiv.org/abs/2501.15448v1)|null|
+|**2025-01-26**|**StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces**|Kyeongmin Yeo et.al.|[2501.15445v1](http://arxiv.org/abs/2501.15445v1)|null|
+|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440v1](http://arxiv.org/abs/2501.15440v1)|null|
+|**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379v1](http://arxiv.org/abs/2501.15379v1)|null|
+|**2025-01-25**|**Efficient Point Clouds Upsampling via Flow Matching**|Zhi-Song Liu et.al.|[2501.15286v1](http://arxiv.org/abs/2501.15286v1)|null|
+|**2025-01-25**|**Generalizable Deepfake Detection via Effective Local-Global Feature Extraction**|Jiazhen Yan et.al.|[2501.15253v1](http://arxiv.org/abs/2501.15253v1)|null|
+|**2025-01-25**|**Enhancing Fetal Plane Classification Accuracy with Data Augmentation Using Diffusion Models**|Yueying Tian et.al.|[2501.15248v1](http://arxiv.org/abs/2501.15248v1)|null|
+|**2025-01-25**|**MAP-based Problem-Agnostic diffusion model for Inverse Problems**|Pingping Tao et.al.|[2501.15128v1](http://arxiv.org/abs/2501.15128v1)|null|
+|**2025-01-25**|**KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment**|Yu Jiang et.al.|[2501.15058v1](http://arxiv.org/abs/2501.15058v1)|null|
+|**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945v1](http://arxiv.org/abs/2501.14945v1)|null|
+|**2025-01-23**|**Resource Allocation Driven by Large Models in Future Semantic-Aware Networks**|Haijun Zhang et.al.|[2501.14832v1](http://arxiv.org/abs/2501.14832v1)|null|
+|**2025-01-27**|**Diffusion based Text-to-Music Generation with Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680v2](http://arxiv.org/abs/2501.14680v2)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524v1](http://arxiv.org/abs/2501.14524v1)|null|
 |**2025-01-24**|**Advancing data-driven broadband seismic wavefield simulation with multi-conditional diffusion model**|Zhengfa Bi et.al.|[2501.14348v1](http://arxiv.org/abs/2501.14348v1)|null|
 |**2025-01-24**|**Stochastic Method for Delayed Neutron Precursors Transport in Liquid Fuel**|Mathis Caprais et.al.|[2501.14332v1](http://arxiv.org/abs/2501.14332v1)|null|
@@ -7572,6 +7601,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209v1](http://arxiv.org/abs/2501.16209v1)|null|
+|**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014v1](http://arxiv.org/abs/2501.16014v1)|null|
+|**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937v1](http://arxiv.org/abs/2501.15937v1)|null|
+|**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852v1](http://arxiv.org/abs/2501.15852v1)|null|
+|**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847v1](http://arxiv.org/abs/2501.15847v1)|null|
+|**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v1](http://arxiv.org/abs/2501.15774v1)|**[link](https://github.com/saturnian77/asid)**|
+|**2025-01-26**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440v1](http://arxiv.org/abs/2501.15440v1)|null|
+|**2025-01-26**|**AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement**|Junan Zhang et.al.|[2501.15417v1](http://arxiv.org/abs/2501.15417v1)|null|
+|**2025-01-25**|**Investigating the Feasibility of Patch-based Inference for Generalized Diffusion Priors in Inverse Problems for Medical Images**|Saikat Roy et.al.|[2501.15309v1](http://arxiv.org/abs/2501.15309v1)|null|
+|**2025-01-25**|**A parametric non-negative coupled canonical polyadic decomposition algorithm for hyperspectral super-resolution**|Xi-Yuan Liu et.al.|[2501.15197v1](http://arxiv.org/abs/2501.15197v1)|null|
+|**2025-01-25**|**MAP-based Problem-Agnostic diffusion model for Inverse Problems**|Pingping Tao et.al.|[2501.15128v1](http://arxiv.org/abs/2501.15128v1)|null|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915v1](http://arxiv.org/abs/2501.13915v1)|null|
 |**2025-01-23**|**Analysis of Resolution as a Function of Microparticle Size in Virtual Super-Resolution Optical Imaging for 2D System**|A. R. Bekirov et.al.|[2501.13591v1](http://arxiv.org/abs/2501.13591v1)|null|
 |**2025-01-23**|**Funnelling super-resolution STED microscopy through multimode fibres**|André Gomes et.al.|[2501.13572v1](http://arxiv.org/abs/2501.13572v1)|null|
@@ -9076,6 +9116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v1](http://arxiv.org/abs/2501.15774v1)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915v1](http://arxiv.org/abs/2501.13915v1)|null|
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353v1](http://arxiv.org/abs/2501.13353v1)|null|
 |**2025-01-17**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054v2](http://arxiv.org/abs/2501.09054v2)|**[link](https://github.com/zerono000/neurop-diff)**|
@@ -9724,6 +9765,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**A Data-Centric Approach: Dimensions of Visual Complexity and How to find Them**|Karahan Sarıtaş et.al.|[2501.15890v1](http://arxiv.org/abs/2501.15890v1)|null|
 |**2025-01-03**|**Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**|Jiajia Liang et.al.|[2501.01864v1](http://arxiv.org/abs/2501.01864v1)|null|
 |**2024-12-19**|**Efficient Neural Network Encoding for 3D Color Lookup Tables**|Vahid Zehtab et.al.|[2412.15438v1](http://arxiv.org/abs/2412.15438v1)|**[link](https://github.com/vahidzee/ennelut)**|
 |**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815v1](http://arxiv.org/abs/2412.11815v1)|null|
@@ -9897,6 +9939,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852v1](http://arxiv.org/abs/2501.15852v1)|null|
+|**2025-01-26**|**Universal Image Restoration Pre-training via Degradation Classification**|JiaKui Hu et.al.|[2501.15510v1](http://arxiv.org/abs/2501.15510v1)|**[link](https://github.com/milab-pku/dcpt)**|
 |**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264v1](http://arxiv.org/abs/2501.14264v1)|null|
 |**2025-01-23**|**INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration**|Di You et.al.|[2501.14014v1](http://arxiv.org/abs/2501.14014v1)|null|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915v1](http://arxiv.org/abs/2501.13915v1)|null|
@@ -10558,7 +10602,7 @@
 |**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803v1](http://arxiv.org/abs/2412.14803v1)|null|
 |**2024-12-18**|**Plug-and-Play Tri-Branch Invertible Block for Image Rescaling**|Jingwei Bao et.al.|[2412.13508v1](http://arxiv.org/abs/2412.13508v1)|null|
 |**2024-12-17**|**Learning of Patch-Based Smooth-Plus-Sparse Models for Image Reconstruction**|Stanislas Ducotterd et.al.|[2412.13070v1](http://arxiv.org/abs/2412.13070v1)|**[link](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)**|
-|**2025-01-17**|**Accelerating lensed quasars discovery and modeling with physics-informed variational autoencoders**|Irham T. Andika et.al.|[2412.12709v2](http://arxiv.org/abs/2412.12709v2)|null|
+|**2025-01-27**|**Accelerating lensed quasar discovery and modeling with physics-informed variational autoencoders**|Irham T. Andika et.al.|[2412.12709v3](http://arxiv.org/abs/2412.12709v3)|null|
 |**2024-12-16**|**Comparison of three reconstruction algorithms for low-dose phase-contrast computed tomography of the breast with synchrotron radiation**|Sandro Donato et.al.|[2412.11641v1](http://arxiv.org/abs/2412.11641v1)|null|
 |**2024-12-31**|**Interface and spectrum multiplexing ptychographic reflection microscopy**|Yun Gao et.al.|[2412.11247v2](http://arxiv.org/abs/2412.11247v2)|null|
 |**2025-01-10**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210v2](http://arxiv.org/abs/2412.11210v2)|**[link](https://github.com/fengyi233/ViPOcc)**|
