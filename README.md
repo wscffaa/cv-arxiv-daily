@@ -11927,7 +11927,7 @@
 |**2024-10-30**|**Causal Deciphering and Inpainting in Spatio-Temporal Dynamics via Diffusion Model**|Yifan Duan et.al.|[2409.19608v2](http://arxiv.org/abs/2409.19608v2)|null|
 |**2024-09-25**|**Small metal artifact detection and inpainting in cardiac CT images**|Trevor McKeown et.al.|[2409.17342v1](http://arxiv.org/abs/2409.17342v1)|null|
 |**2024-09-25**|**Enhanced Wavelet Scattering Network for image inpainting detection**|Barglazan Adrian-Alin et.al.|[2409.17023v1](http://arxiv.org/abs/2409.17023v1)|null|
-|**2024-09-23**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677v1](http://arxiv.org/abs/2409.14677v1)|**[link](https://github.com/val-iisc/Reflecting-Reality)**|
+|**2025-01-26**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677v2](http://arxiv.org/abs/2409.14677v2)|**[link](https://github.com/val-iisc/Reflecting-Reality)**|
 |**2024-09-19**|**Image inpainting for corrupted images by using the semi-super resolution GAN**|Mehrshad Momen-Tayefeh et.al.|[2409.12636v1](http://arxiv.org/abs/2409.12636v1)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
 |**2024-12-12**|**Fire Dynamic Vision: Image Segmentation and Tracking for Multi-Scale Fire and Plume Behavior**|Daryn Sagel et.al.|[2408.08984v2](http://arxiv.org/abs/2408.08984v2)|**[link](https://github.com/quaife/FDV_Data)**|
