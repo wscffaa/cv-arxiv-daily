@@ -26,6 +26,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162v1](http://arxiv.org/abs/2501.17162v1)|null|
+|**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159v1](http://arxiv.org/abs/2501.17159v1)|null|
+|**2025-01-28**|**Generative diffusion models from a PDE perspective**|Fei Cao et.al.|[2501.17054v1](http://arxiv.org/abs/2501.17054v1)|null|
+|**2025-01-28**|**Adversarial Masked Autoencoder Purifier with Defense Transferability**|Yuan-Chih Chen et.al.|[2501.16904v1](http://arxiv.org/abs/2501.16904v1)|null|
+|**2025-01-28**|**DIRIGENt: End-To-End Robotic Imitation of Human Demonstrations Based on a Diffusion Model**|Josua Spisak et.al.|[2501.16800v1](http://arxiv.org/abs/2501.16800v1)|null|
+|**2025-01-28**|**FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation**|Arvin Tashakori et.al.|[2501.16778v1](http://arxiv.org/abs/2501.16778v1)|null|
+|**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764v1](http://arxiv.org/abs/2501.16764v1)|null|
+|**2025-01-28**|**ITVTON:Virtual Try-On Diffusion Transformer Model Based on Integrated Image and Text**|Haifeng Ni et.al.|[2501.16757v1](http://arxiv.org/abs/2501.16757v1)|null|
+|**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737v1](http://arxiv.org/abs/2501.16737v1)|null|
+|**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714v1](http://arxiv.org/abs/2501.16714v1)|null|
+|**2025-01-28**|**CascadeV: An Implementation of Wurstchen Architecture for Video Generation**|Wenfeng Lin et.al.|[2501.16612v1](http://arxiv.org/abs/2501.16612v1)|**[link](https://github.com/bytedance/cascadev)**|
+|**2025-01-27**|**PackDiT: Joint Human Motion and Text Generation via Mutual Prompting**|Zhongyu Jiang et.al.|[2501.16551v1](http://arxiv.org/abs/2501.16551v1)|null|
+|**2025-01-27**|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|Tianyi Xie et.al.|[2501.16550v1](http://arxiv.org/abs/2501.16550v1)|null|
+|**2025-01-27**|**Decrypting the temperature field in flow boiling with latent diffusion models**|UngJin Na et.al.|[2501.16510v1](http://arxiv.org/abs/2501.16510v1)|null|
+|**2025-01-24**|**UDiTQC: U-Net-Style Diffusion Transformer for Quantum Circuit Synthesis**|Zhiwei Chen et.al.|[2501.16380v1](http://arxiv.org/abs/2501.16380v1)|null|
 |**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330v1](http://arxiv.org/abs/2501.16330v1)|null|
 |**2025-01-27**|**Congested Crossing Pedestrian Traffic Flow : Dispersion vs. Transport in Crowded Areas**|Mariam Al Khatib et.al.|[2501.16275v1](http://arxiv.org/abs/2501.16275v1)|null|
 |**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211v1](http://arxiv.org/abs/2501.16211v1)|**[link](https://github.com/gusanagy/udbe)**|
@@ -7601,6 +7616,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**FlowDAS: A Flow-Based Framework for Data Assimilation**|Siyi Chen et.al.|[2501.16642v1](http://arxiv.org/abs/2501.16642v1)|null|
+|**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583v1](http://arxiv.org/abs/2501.16583v1)|null|
 |**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209v1](http://arxiv.org/abs/2501.16209v1)|null|
 |**2025-01-27**|**Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**|Ruoyou Wu et.al.|[2501.16014v1](http://arxiv.org/abs/2501.16014v1)|null|
 |**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937v1](http://arxiv.org/abs/2501.15937v1)|null|
@@ -9116,6 +9133,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583v1](http://arxiv.org/abs/2501.16583v1)|null|
 |**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v1](http://arxiv.org/abs/2501.15774v1)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915v1](http://arxiv.org/abs/2501.13915v1)|null|
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353v1](http://arxiv.org/abs/2501.13353v1)|null|
@@ -9939,6 +9957,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583v1](http://arxiv.org/abs/2501.16583v1)|null|
 |**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852v1](http://arxiv.org/abs/2501.15852v1)|null|
 |**2025-01-26**|**Universal Image Restoration Pre-training via Degradation Classification**|JiaKui Hu et.al.|[2501.15510v1](http://arxiv.org/abs/2501.15510v1)|**[link](https://github.com/milab-pku/dcpt)**|
 |**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264v1](http://arxiv.org/abs/2501.14264v1)|null|
@@ -10554,6 +10573,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Image-Space Gridding for Nonrigid Motion-Corrected MR Image Reconstruction**|Kwang Eun Jang et.al.|[2501.16713v1](http://arxiv.org/abs/2501.16713v1)|null|
 |**2025-01-24**|**BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities**|Zhibo Tian et.al.|[2501.14309v1](http://arxiv.org/abs/2501.14309v1)|**[link](https://github.com/kunzhan/brainguard)**|
 |**2025-01-24**|**Snapshot multi-spectral imaging through defocusing and a Fourier imager network**|Xilin Yang et.al.|[2501.14287v1](http://arxiv.org/abs/2501.14287v1)|null|
 |**2025-01-24**|**Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration**|Mojtaba Safari et.al.|[2501.14158v1](http://arxiv.org/abs/2501.14158v1)|**[link](https://github.com/mosaf/awesome-dl-based-cs-mri)**|
