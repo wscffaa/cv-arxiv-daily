@@ -36,7 +36,7 @@
 |**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003v1](http://arxiv.org/abs/2501.16003v1)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-27**|**MatCLIP: Light- and Shape-Insensitive Assignment of PBR Material Models**|Michael Birsak et.al.|[2501.15981v1](http://arxiv.org/abs/2501.15981v1)|null|
 |**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928v1](http://arxiv.org/abs/2501.15928v1)|null|
-|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878v1](http://arxiv.org/abs/2501.15878v1)|null|
+|**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878v2](http://arxiv.org/abs/2501.15878v2)|null|
 |**2025-01-27**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847v1](http://arxiv.org/abs/2501.15847v1)|null|
 |**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785v1](http://arxiv.org/abs/2501.15785v1)|null|
 |**2025-01-26**|**BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation**|Ali Khodabandeh Yalabadi et.al.|[2501.15631v1](http://arxiv.org/abs/2501.15631v1)|**[link](https://github.com/khodabandeh-ali/bokdiff)**|
