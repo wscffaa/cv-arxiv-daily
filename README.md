@@ -26,6 +26,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726v1](http://arxiv.org/abs/2501.17726v1)|null|
+|**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670v1](http://arxiv.org/abs/2501.17670v1)|null|
+|**2025-01-29**|**Solving Inverse Problems using Diffusion with Fast Iterative Renoising**|Matt C. Bendel et.al.|[2501.17468v1](http://arxiv.org/abs/2501.17468v1)|null|
+|**2025-01-28**|**MDDM: A Molecular Dynamics Diffusion Model to Predict Particle Self-Assembly**|Kevin Ferguson et.al.|[2501.17319v1](http://arxiv.org/abs/2501.17319v1)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162v1](http://arxiv.org/abs/2501.17162v1)|null|
 |**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159v1](http://arxiv.org/abs/2501.17159v1)|null|
 |**2025-01-28**|**Generative diffusion models from a PDE perspective**|Fei Cao et.al.|[2501.17054v1](http://arxiv.org/abs/2501.17054v1)|null|
@@ -67,7 +71,7 @@
 |**2025-01-25**|**Generalizable Deepfake Detection via Effective Local-Global Feature Extraction**|Jiazhen Yan et.al.|[2501.15253v1](http://arxiv.org/abs/2501.15253v1)|null|
 |**2025-01-25**|**Enhancing Fetal Plane Classification Accuracy with Data Augmentation Using Diffusion Models**|Yueying Tian et.al.|[2501.15248v1](http://arxiv.org/abs/2501.15248v1)|null|
 |**2025-01-25**|**MAP-based Problem-Agnostic diffusion model for Inverse Problems**|Pingping Tao et.al.|[2501.15128v1](http://arxiv.org/abs/2501.15128v1)|null|
-|**2025-01-25**|**KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment**|Yu Jiang et.al.|[2501.15058v1](http://arxiv.org/abs/2501.15058v1)|null|
+|**2025-01-25**|**KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment**|Yu Jiang et.al.|[2501.15058v1](http://arxiv.org/abs/2501.15058v1)|**[link](https://github.com/PolarisDane/KETA)**|
 |**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945v1](http://arxiv.org/abs/2501.14945v1)|null|
 |**2025-01-23**|**Resource Allocation Driven by Large Models in Future Semantic-Aware Networks**|Haijun Zhang et.al.|[2501.14832v1](http://arxiv.org/abs/2501.14832v1)|null|
 |**2025-01-27**|**Diffusion based Text-to-Music Generation with Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680v2](http://arxiv.org/abs/2501.14680v2)|null|
@@ -7616,6 +7620,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**MR imaging in the low-field: Leveraging the power of machine learning**|Andreas Kofler et.al.|[2501.17211v1](http://arxiv.org/abs/2501.17211v1)|null|
+|**2025-01-28**|**Depth Separable architecture for Sentinel-5P Super-Resolution**|Hyam Omar Ali et.al.|[2501.17210v1](http://arxiv.org/abs/2501.17210v1)|null|
 |**2025-01-13**|**FlowDAS: A Flow-Based Framework for Data Assimilation**|Siyi Chen et.al.|[2501.16642v1](http://arxiv.org/abs/2501.16642v1)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583v1](http://arxiv.org/abs/2501.16583v1)|null|
 |**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209v1](http://arxiv.org/abs/2501.16209v1)|null|
@@ -10573,6 +10579,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**MR imaging in the low-field: Leveraging the power of machine learning**|Andreas Kofler et.al.|[2501.17211v1](http://arxiv.org/abs/2501.17211v1)|null|
 |**2025-01-28**|**Image-Space Gridding for Nonrigid Motion-Corrected MR Image Reconstruction**|Kwang Eun Jang et.al.|[2501.16713v1](http://arxiv.org/abs/2501.16713v1)|null|
 |**2025-01-24**|**BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities**|Zhibo Tian et.al.|[2501.14309v1](http://arxiv.org/abs/2501.14309v1)|**[link](https://github.com/kunzhan/brainguard)**|
 |**2025-01-24**|**Snapshot multi-spectral imaging through defocusing and a Fourier imager network**|Xilin Yang et.al.|[2501.14287v1](http://arxiv.org/abs/2501.14287v1)|null|
@@ -12217,6 +12224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios**|Ciaran Bench et.al.|[2501.17570v1](http://arxiv.org/abs/2501.17570v1)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524v1](http://arxiv.org/abs/2501.14524v1)|null|
 |**2025-01-23**|**Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference**|Shuqi Dai et.al.|[2501.13870v1](http://arxiv.org/abs/2501.13870v1)|null|
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831v1](http://arxiv.org/abs/2501.13831v1)|null|
