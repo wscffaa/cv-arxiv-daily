@@ -26,6 +26,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373v1](http://arxiv.org/abs/2501.19373v1)|null|
+|**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338v1](http://arxiv.org/abs/2501.19338v1)|null|
+|**2025-01-31**|**Medical Semantic Segmentation with Diffusion Pretrain**|David Li et.al.|[2501.19265v1](http://arxiv.org/abs/2501.19265v1)|null|
+|**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252v1](http://arxiv.org/abs/2501.19252v1)|null|
+|**2025-01-31**|**PSyDUCK: Training-Free Steganography for Latent Diffusion**|Georgia Channing et.al.|[2501.19172v1](http://arxiv.org/abs/2501.19172v1)|null|
+|**2025-01-31**|**RMDM: Radio Map Diffusion Model with Physics Informed**|Haozhe Jia et.al.|[2501.19160v1](http://arxiv.org/abs/2501.19160v1)|null|
+|**2025-01-31**|**Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data**|Xichen Xu et.al.|[2501.19094v1](http://arxiv.org/abs/2501.19094v1)|null|
+|**2025-01-31**|**MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model**|Lei Jiang et.al.|[2501.19083v1](http://arxiv.org/abs/2501.19083v1)|null|
+|**2025-01-31**|**Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations**|Dahye Kim et.al.|[2501.19066v1](http://arxiv.org/abs/2501.19066v1)|**[link](https://github.com/kim-dahye/steerers)**|
+|**2025-01-31**|**Collaborative Diffusion Model for Recommender System**|Gyuseok Lee et.al.|[2501.18997v1](http://arxiv.org/abs/2501.18997v1)|null|
+|**2025-01-31**|**OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation**|Yuchen Lin et.al.|[2501.18982v1](http://arxiv.org/abs/2501.18982v1)|null|
+|**2025-01-31**|**Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them**|Anh Bui et.al.|[2501.18950v1](http://arxiv.org/abs/2501.18950v1)|**[link](https://github.com/tuananhbui89/adaptive-guided-erasure)**|
+|**2025-01-31**|**Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior**|Tongda Xu et.al.|[2501.18913v1](http://arxiv.org/abs/2501.18913v1)|**[link](https://github.com/tongdaxu/rethinking-diffusion-posterior-sampling-from-conditional-score-estimator-to-maximizing-a-posterior)**|
+|**2025-01-31**|**Trustworthy Evaluation of Generative AI Models**|Zijun Gao et.al.|[2501.18897v1](http://arxiv.org/abs/2501.18897v1)|null|
+|**2025-01-31**|**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**|Jaesin Ahn et.al.|[2501.18877v1](http://arxiv.org/abs/2501.18877v1)|**[link](https://github.com/aei13/des)**|
+|**2025-01-31**|**REG: Rectified Gradient Guidance for Conditional Diffusion Models**|Zhengqi Gao et.al.|[2501.18865v1](http://arxiv.org/abs/2501.18865v1)|null|
+|**2025-01-31**|**Equivariant Hypergraph Diffusion for Crystal Structure Prediction**|Yang Liu et.al.|[2501.18850v1](http://arxiv.org/abs/2501.18850v1)|null|
+|**2025-01-31**|**Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential**|Chenyu Gao et.al.|[2501.18834v1](http://arxiv.org/abs/2501.18834v1)|null|
+|**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736v1](http://arxiv.org/abs/2501.18736v1)|null|
+|**2025-01-30**|**Strong and Controllable 3D Motion Generation**|Canxuan Gang et.al.|[2501.18726v1](http://arxiv.org/abs/2501.18726v1)|null|
+|**2025-01-30**|**Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting**|Yansong Qu et.al.|[2501.18672v1](http://arxiv.org/abs/2501.18672v1)|null|
 |**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
 |**2025-01-30**|**Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss**|Wenshuo Chen et.al.|[2501.18232v1](http://arxiv.org/abs/2501.18232v1)|**[link](https://github.com/Hxxxz0/Free-T2m)**|
 |**2025-01-30**|**Inverse source problem of sub-diffusion of variable exponent**|Zhiyuan Li et.al.|[2501.18228v1](http://arxiv.org/abs/2501.18228v1)|null|
@@ -7625,6 +7646,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Visual Autoregressive Modeling for Image Super-Resolution**|Yunpeng Qu et.al.|[2501.18993v1](http://arxiv.org/abs/2501.18993v1)|null|
+|**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736v1](http://arxiv.org/abs/2501.18736v1)|null|
+|**2025-01-30**|**Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution**|Haohan Shi et.al.|[2501.18664v1](http://arxiv.org/abs/2501.18664v1)|null|
 |**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500v1](http://arxiv.org/abs/2501.18500v1)|null|
 |**2025-01-30**|**Waveform-Specific Performance of Deep Learning-Based Super-Resolution for Ultrasound Contrast Imaging**|Rienk Zorgdrager et.al.|[2501.18375v1](http://arxiv.org/abs/2501.18375v1)|**[link](https://github.com/miagrouput/super-resolution-waveforms)**|
 |**2025-01-28**|**MR imaging in the low-field: Leveraging the power of machine learning**|Andreas Kofler et.al.|[2501.17211v1](http://arxiv.org/abs/2501.17211v1)|null|
@@ -9146,6 +9170,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Visual Autoregressive Modeling for Image Super-Resolution**|Yunpeng Qu et.al.|[2501.18993v1](http://arxiv.org/abs/2501.18993v1)|null|
+|**2025-01-30**|**Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution**|Haohan Shi et.al.|[2501.18664v1](http://arxiv.org/abs/2501.18664v1)|null|
 |**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500v1](http://arxiv.org/abs/2501.18500v1)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583v1](http://arxiv.org/abs/2501.16583v1)|null|
 |**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v1](http://arxiv.org/abs/2501.15774v1)|**[link](https://github.com/saturnian77/asid)**|
@@ -9921,6 +9947,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Consistent Video Colorization via Palette Guidance**|Han Wang et.al.|[2501.19331v1](http://arxiv.org/abs/2501.19331v1)|null|
 |**2025-01-16**|**VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization**|Zixun Fang et.al.|[2501.09499v1](http://arxiv.org/abs/2501.09499v1)|null|
 |**2024-11-01**|**NCST: Neural-based Color Style Transfer for Video Retouching**|Xintao Jiang et.al.|[2411.00335v1](http://arxiv.org/abs/2411.00335v1)|null|
 |**2024-11-03**|**L-C4: Language-Based Video Colorization for Creative and Consistent Color**|Zheng Chang et.al.|[2410.04972v2](http://arxiv.org/abs/2410.04972v2)|null|
@@ -9972,7 +9999,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517v1](http://arxiv.org/abs/2501.18517v1)|null|
-|**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401v2](http://arxiv.org/abs/2501.18401v2)|null|
+|**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401v2](http://arxiv.org/abs/2501.18401v2)|**[link](https://github.com/wenjuan7275/matir)**|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583v1](http://arxiv.org/abs/2501.16583v1)|null|
 |**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852v1](http://arxiv.org/abs/2501.15852v1)|**[link](https://github.com/Mnster00/CasualSR)**|
 |**2025-01-26**|**Universal Image Restoration Pre-training via Degradation Classification**|JiaKui Hu et.al.|[2501.15510v1](http://arxiv.org/abs/2501.15510v1)|**[link](https://github.com/milab-pku/dcpt)**|
@@ -11583,6 +11610,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962v1](http://arxiv.org/abs/2501.18962v1)|null|
 |**2025-01-31**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418v2](http://arxiv.org/abs/2501.18418v2)|null|
 |**2025-01-24**|**Sparse Mixture-of-Experts for Non-Uniform Noise Reduction in MRI Images**|Zeyun Deng et.al.|[2501.14198v1](http://arxiv.org/abs/2501.14198v1)|null|
 |**2025-01-20**|**CNN-based TEM image denoising from first principles**|Jinwoong Chae et.al.|[2501.11225v1](http://arxiv.org/abs/2501.11225v1)|null|
@@ -11971,7 +11999,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401v2](http://arxiv.org/abs/2501.18401v2)|null|
+|**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401v2](http://arxiv.org/abs/2501.18401v2)|**[link](https://github.com/wenjuan7275/matir)**|
 |**2025-01-20**|**Ensemble score filter with image inpainting for data assimilation in tracking surface quasi-geostrophic dynamics with partial observations**|Siming Liang et.al.|[2501.12419v1](http://arxiv.org/abs/2501.12419v1)|**[link](https://github.com/siming-liang/ensfinpainting)**|
 |**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267v1](http://arxiv.org/abs/2501.12267v1)|null|
 |**2025-01-15**|**Stability and convergence of relaxed scalar auxiliary variable schemes for Cahn-Hilliard systems with bounded mass source**|Kei Fong Lam et.al.|[2501.08543v1](http://arxiv.org/abs/2501.08543v1)|null|
