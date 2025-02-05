@@ -7660,7 +7660,7 @@
 |**2025-01-27**|**Compensation based Dictionary Transfer for Similar Multispectral Image Spectral Super-resolution**|Xiaolin Han et.al.|[2501.15937v1](http://arxiv.org/abs/2501.15937v1)|null|
 |**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852v1](http://arxiv.org/abs/2501.15852v1)|**[link](https://github.com/Mnster00/CasualSR)**|
 |**2025-01-30**|**Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**|Daniel Panangian et.al.|[2501.15847v2](http://arxiv.org/abs/2501.15847v2)|null|
-|**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v1](http://arxiv.org/abs/2501.15774v1)|**[link](https://github.com/saturnian77/asid)**|
+|**2025-02-04**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v2](http://arxiv.org/abs/2501.15774v2)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-31**|**Dfilled: Repurposing Edge-Enhancing Diffusion for Guided DSM Void Filling**|Daniel Panangian et.al.|[2501.15440v2](http://arxiv.org/abs/2501.15440v2)|null|
 |**2025-01-26**|**AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement**|Junan Zhang et.al.|[2501.15417v1](http://arxiv.org/abs/2501.15417v1)|null|
 |**2025-01-25**|**Investigating the Feasibility of Patch-based Inference for Generalized Diffusion Priors in Inverse Problems for Medical Images**|Saikat Roy et.al.|[2501.15309v1](http://arxiv.org/abs/2501.15309v1)|null|
@@ -9174,7 +9174,7 @@
 |**2025-01-30**|**Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution**|Haohan Shi et.al.|[2501.18664v1](http://arxiv.org/abs/2501.18664v1)|null|
 |**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500v1](http://arxiv.org/abs/2501.18500v1)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583v1](http://arxiv.org/abs/2501.16583v1)|null|
-|**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v1](http://arxiv.org/abs/2501.15774v1)|**[link](https://github.com/saturnian77/asid)**|
+|**2025-02-04**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774v2](http://arxiv.org/abs/2501.15774v2)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915v1](http://arxiv.org/abs/2501.13915v1)|null|
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353v1](http://arxiv.org/abs/2501.13353v1)|null|
 |**2025-01-17**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054v2](http://arxiv.org/abs/2501.09054v2)|**[link](https://github.com/zerono000/neurop-diff)**|
@@ -11644,7 +11644,7 @@
 |**2024-11-28**|**Z-STAR+: A Zero-shot Style Transfer Method via Adjusting Style Distribution**|Yingying Deng et.al.|[2411.19231v1](http://arxiv.org/abs/2411.19231v1)|null|
 |**2024-12-02**|**Neighboring Slice Noise2Noise: Self-Supervised Medical Image Denoising from Single Noisy Image Volume**|Langrui Zhou et.al.|[2411.10831v2](http://arxiv.org/abs/2411.10831v2)|null|
 |**2024-11-11**|**Efficient Denoising Method to Improve The Resolution of Satellite Images**|Jhanavi Hegde et.al.|[2411.10476v1](http://arxiv.org/abs/2411.10476v1)|null|
-|**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v1](http://arxiv.org/abs/2411.09512v1)|null|
+|**2025-02-04**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512v2](http://arxiv.org/abs/2411.09512v2)|null|
 |**2024-11-13**|**Dynamic Thresholding Algorithm with Memory for Linear Inverse Problems**|Zhong-Feng Sun et.al.|[2411.08284v1](http://arxiv.org/abs/2411.08284v1)|null|
 |**2024-11-29**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930v2](http://arxiv.org/abs/2411.07930v2)|**[link](https://github.com/zy2219105/ct-mamba)**|
 |**2025-01-21**|**Untrained Perceptual Loss for image denoising of line-like structures in MR images**|Elisabeth Pfaehler et.al.|[2411.05884v2](http://arxiv.org/abs/2411.05884v2)|null|
