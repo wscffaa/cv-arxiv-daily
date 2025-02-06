@@ -44,13 +44,13 @@
 |**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150v1](http://arxiv.org/abs/2502.02150v1)|null|
 |**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|null|
 |**2025-02-04**|**Rethinking Timesteps Samplers and Prediction Types**|Bin Xie et.al.|[2502.01990v1](http://arxiv.org/abs/2502.01990v1)|null|
-|**2025-02-04**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989v1](http://arxiv.org/abs/2502.01989v1)|null|
+|**2025-02-05**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989v2](http://arxiv.org/abs/2502.01989v2)|null|
 |**2025-02-04**|**Generative Data Mining with Longtail-Guided Diffusion**|David S. Hayden et.al.|[2502.01980v1](http://arxiv.org/abs/2502.01980v1)|null|
 |**2025-02-03**|**UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping**|Aashish Rai et.al.|[2502.01846v1](http://arxiv.org/abs/2502.01846v1)|null|
 |**2025-02-03**|**Diffusion Model for Multiple Antenna Communications**|Jia Guo et.al.|[2502.01841v1](http://arxiv.org/abs/2502.01841v1)|null|
 |**2025-02-03**|**Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning**|Hanyang Zhao et.al.|[2502.01819v1](http://arxiv.org/abs/2502.01819v1)|null|
 |**2025-02-03**|**VILP: Imitation Learning with Latent Video Planning**|Zhengtong Xu et.al.|[2502.01784v1](http://arxiv.org/abs/2502.01784v1)|null|
-|**2025-02-02**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692v1](http://arxiv.org/abs/2502.01692v1)|null|
+|**2025-02-05**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692v2](http://arxiv.org/abs/2502.01692v2)|null|
 |**2025-02-02**|**HuViDPO:Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment**|Lifan Jiang et.al.|[2502.01690v1](http://arxiv.org/abs/2502.01690v1)|null|
 |**2025-02-03**|**SliderSpace: Decomposing the Visual Capabilities of Diffusion Models**|Rohit Gandikota et.al.|[2502.01639v1](http://arxiv.org/abs/2502.01639v1)|null|
 |**2025-02-03**|**Scalable Language Models with Posterior Inference of Latent Thought Vectors**|Deqian Kong et.al.|[2502.01567v1](http://arxiv.org/abs/2502.01567v1)|null|
@@ -9896,7 +9896,7 @@
 |**2024-11-07**|**Automated Image Color Mapping for a Historic Photographic Collection**|Taylor Arnold et.al.|[2411.04659v1](http://arxiv.org/abs/2411.04659v1)|null|
 |**2024-11-03**|**L-C4: Language-Based Video Colorization for Creative and Consistent Color**|Zheng Chang et.al.|[2410.04972v2](http://arxiv.org/abs/2410.04972v2)|null|
 |**2024-10-07**|**Transforming Color: A Novel Image Colorization Method**|Hamza Shafiq et.al.|[2410.04799v1](http://arxiv.org/abs/2410.04799v1)|null|
-|**2024-10-03**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021v1](http://arxiv.org/abs/2410.03021v1)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
+|**2025-02-04**|**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**|Omar Zamzam et.al.|[2410.03021v2](http://arxiv.org/abs/2410.03021v2)|**[link](https://github.com/OmarSZamzam/PixelShuffler)**|
 |**2024-09-08**|**Image color consistency in datasets: the Smooth-TPS3D method**|Ismael Benito-Altamirano et.al.|[2409.05159v1](http://arxiv.org/abs/2409.05159v1)|null|
 |**2025-01-03**|**PolypDB: A Curated Multi-Center Dataset for Development of AI Algorithms in Colonoscopy**|Debesh Jha et.al.|[2409.00045v2](http://arxiv.org/abs/2409.00045v2)|**[link](https://github.com/debeshjha/polypdb)**|
 |**2024-08-08**|**MultiColor: Image Colorization by Learning from Multiple Color Spaces**|Xiangcheng Du et.al.|[2408.04172v1](http://arxiv.org/abs/2408.04172v1)|null|
@@ -10686,7 +10686,7 @@
 |**2025-02-04**|**Incorporating Cyclic Group Equivariance into Deep Learning for Reliable Reconstruction of Rotationally Symmetric Tomography Systems**|Yaogong Zhang et.al.|[2502.02418v1](http://arxiv.org/abs/2502.02418v1)|null|
 |**2025-02-04**|**Test Time Training for 4D Medical Image Interpolation**|Qikang Zhang et.al.|[2502.02341v1](http://arxiv.org/abs/2502.02341v1)|null|
 |**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832v1](http://arxiv.org/abs/2502.01832v1)|null|
-|**2025-02-03**|**Imaging simulation of a dual-panel PET geometry with ultrafast TOF detectors**|Taiyo Ishikawa et.al.|[2502.01006v1](http://arxiv.org/abs/2502.01006v1)|null|
+|**2025-02-05**|**Imaging simulation of a dual-panel PET geometry with ultrafast TOF detectors**|Taiyo Ishikawa et.al.|[2502.01006v2](http://arxiv.org/abs/2502.01006v2)|null|
 |**2025-02-01**|**Exploring Linear Attention Alternative for Single Image Super-Resolution**|Rongchang Lu et.al.|[2502.00404v1](http://arxiv.org/abs/2502.00404v1)|null|
 |**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|null|
 |**2025-01-29**|**Distilling Knowledge for Designing Computational Imaging Systems**|Leon Suarez-Rodriguez et.al.|[2501.17898v1](http://arxiv.org/abs/2501.17898v1)|**[link](https://github.com/leonsuarez24/dkdcis)**|
