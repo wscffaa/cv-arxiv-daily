@@ -75,7 +75,7 @@
 |**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150v1](http://arxiv.org/abs/2502.02150v1)|null|
 |**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|null|
 |**2025-02-04**|**Rethinking Timesteps Samplers and Prediction Types**|Bin Xie et.al.|[2502.01990v1](http://arxiv.org/abs/2502.01990v1)|null|
-|**2025-02-05**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989v2](http://arxiv.org/abs/2502.01989v2)|null|
+|**2025-02-05**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989v2](http://arxiv.org/abs/2502.01989v2)|**[link](https://github.com/ai4science-westlakeu/t_scend)**|
 |**2025-02-04**|**Generative Data Mining with Longtail-Guided Diffusion**|David S. Hayden et.al.|[2502.01980v1](http://arxiv.org/abs/2502.01980v1)|null|
 |**2025-02-03**|**UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping**|Aashish Rai et.al.|[2502.01846v1](http://arxiv.org/abs/2502.01846v1)|null|
 |**2025-02-03**|**Diffusion Model for Multiple Antenna Communications**|Jia Guo et.al.|[2502.01841v1](http://arxiv.org/abs/2502.01841v1)|null|
