@@ -59,21 +59,21 @@
 |**2025-02-04**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771v1](http://arxiv.org/abs/2502.02771v1)|null|
 |**2025-02-04**|**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**|Kyungmin Lee et.al.|[2502.02588v1](http://arxiv.org/abs/2502.02588v1)|null|
 |**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582v1](http://arxiv.org/abs/2502.02582v1)|null|
-|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525v1](http://arxiv.org/abs/2502.02525v1)|null|
-|**2025-02-04**|**Privacy Attacks on Image AutoRegressive Models**|Antoni Kowalczuk et.al.|[2502.02514v1](http://arxiv.org/abs/2502.02514v1)|null|
+|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525v1](http://arxiv.org/abs/2502.02525v1)|**[link](https://github.com/cnjianliu/diff9d)**|
+|**2025-02-04**|**Privacy Attacks on Image AutoRegressive Models**|Antoni Kowalczuk et.al.|[2502.02514v1](http://arxiv.org/abs/2502.02514v1)|**[link](https://github.com/sprintml/privacy_attacks_against_iars)**|
 |**2025-02-04**|**Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?**|Xiyuan Wang et.al.|[2502.02488v1](http://arxiv.org/abs/2502.02488v1)|null|
 |**2025-02-04**|**Distributional Diffusion Models with Scoring Rules**|Valentin De Bortoli et.al.|[2502.02483v1](http://arxiv.org/abs/2502.02483v1)|null|
 |**2025-02-04**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465v1](http://arxiv.org/abs/2502.02465v1)|null|
 |**2025-02-04**|**Sparse Data Generation Using Diffusion Models**|Phil Ostheimer et.al.|[2502.02448v1](http://arxiv.org/abs/2502.02448v1)|null|
-|**2025-02-04**|**Towards Fast Graph Generation via Autoregressive Noisy Filtration Modeling**|Markus Krimmel et.al.|[2502.02415v1](http://arxiv.org/abs/2502.02415v1)|null|
+|**2025-02-04**|**Towards Fast Graph Generation via Autoregressive Noisy Filtration Modeling**|Markus Krimmel et.al.|[2502.02415v1](http://arxiv.org/abs/2502.02415v1)|**[link](https://github.com/borgwardtlab/anfm)**|
 |**2025-02-04**|**DIME:Diffusion-Based Maximum Entropy Reinforcement Learning**|Onur Celik et.al.|[2502.02316v1](http://arxiv.org/abs/2502.02316v1)|null|
 |**2025-02-04**|**Exploring the latent space of diffusion models directly through singular value decomposition**|Li Wang et.al.|[2502.02225v1](http://arxiv.org/abs/2502.02225v1)|null|
 |**2025-02-04**|**Flatten Graphs as Sequences: Transformers are Scalable Graph Generators**|Dexiong Chen et.al.|[2502.02216v1](http://arxiv.org/abs/2502.02216v1)|null|
 |**2025-02-04**|**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration**|Senmao Li et.al.|[2502.02215v1](http://arxiv.org/abs/2502.02215v1)|null|
 |**2025-02-04**|**From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control**|Peiyan Hu et.al.|[2502.02205v1](http://arxiv.org/abs/2502.02205v1)|null|
 |**2025-02-04**|**End-to-End Detector Optimization with Diffusion models: A Case Study in Sampling Calorimeters**|Kylian Schmidt et.al.|[2502.02152v1](http://arxiv.org/abs/2502.02152v1)|null|
-|**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150v1](http://arxiv.org/abs/2502.02150v1)|null|
-|**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|null|
+|**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150v1](http://arxiv.org/abs/2502.02150v1)|**[link](https://github.com/ai4science-westlakeu/flow_guidance)**|
+|**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|**[link](https://github.com/jianzeli-114/fluxsr)**|
 |**2025-02-04**|**Rethinking Timesteps Samplers and Prediction Types**|Bin Xie et.al.|[2502.01990v1](http://arxiv.org/abs/2502.01990v1)|null|
 |**2025-02-05**|**T-SCEND: Test-time Scalable MCTS-enhanced Diffusion Model**|Tao Zhang et.al.|[2502.01989v2](http://arxiv.org/abs/2502.01989v2)|**[link](https://github.com/ai4science-westlakeu/t_scend)**|
 |**2025-02-04**|**Generative Data Mining with Longtail-Guided Diffusion**|David S. Hayden et.al.|[2502.01980v1](http://arxiv.org/abs/2502.01980v1)|null|
@@ -7731,16 +7731,16 @@
 |**2025-02-05**|**Bridging high resolution sub-cellular imaging with physiologically relevant engineered tissues**|Yasaman Kargar Gaz Kooh et.al.|[2502.03661v1](http://arxiv.org/abs/2502.03661v1)|null|
 |**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656v1](http://arxiv.org/abs/2502.03656v1)|null|
 |**2025-02-05**|**DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior**|Janghyeok Han et.al.|[2502.03502v1](http://arxiv.org/abs/2502.03502v1)|null|
-|**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|null|
+|**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|**[link](https://github.com/jianzeli-114/fluxsr)**|
 |**2025-02-03**|**Low Resource Video Super-resolution using Memory and Residual Deformable Convolutions**|Kavitha Viswanathan et.al.|[2502.01816v1](http://arxiv.org/abs/2502.01816v1)|null|
 |**2025-02-03**|**Inverse Bridge Matching Distillation**|Nikita Gushchin et.al.|[2502.01362v1](http://arxiv.org/abs/2502.01362v1)|null|
 |**2025-02-03**|**A Statistical Learning Perspective on Semi-dual Adversarial Neural Optimal Transport Solvers**|Roman Tarasov et.al.|[2502.01310v1](http://arxiv.org/abs/2502.01310v1)|null|
 |**2025-02-03**|**Land Surface Temperature Super-Resolution with a Scale-Invariance-Free Neural Approach: Application to MODIS**|Romuald Ait-Bachir et.al.|[2502.01204v1](http://arxiv.org/abs/2502.01204v1)|null|
 |**2025-02-02**|**Cosmological super-resolution of the 21-cm signal**|Simon Pochinda et.al.|[2502.00852v1](http://arxiv.org/abs/2502.00852v1)|null|
 |**2025-02-01**|**Exploring Linear Attention Alternative for Single Image Super-Resolution**|Rongchang Lu et.al.|[2502.00404v1](http://arxiv.org/abs/2502.00404v1)|null|
-|**2025-02-04**|**BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution**|Kai Liu et.al.|[2502.00333v2](http://arxiv.org/abs/2502.00333v2)|null|
+|**2025-02-04**|**BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution**|Kai Liu et.al.|[2502.00333v2](http://arxiv.org/abs/2502.00333v2)|**[link](https://github.com/kai-liu001/bimacosr)**|
 |**2025-01-31**|**Visual Autoregressive Modeling for Image Super-Resolution**|Yunpeng Qu et.al.|[2501.18993v1](http://arxiv.org/abs/2501.18993v1)|null|
-|**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736v1](http://arxiv.org/abs/2501.18736v1)|null|
+|**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736v1](http://arxiv.org/abs/2501.18736v1)|**[link](https://github.com/zwang78/sr)**|
 |**2025-01-30**|**Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution**|Haohan Shi et.al.|[2501.18664v1](http://arxiv.org/abs/2501.18664v1)|null|
 |**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500v1](http://arxiv.org/abs/2501.18500v1)|null|
 |**2025-01-30**|**Waveform-Specific Performance of Deep Learning-Based Super-Resolution for Ultrasound Contrast Imaging**|Rienk Zorgdrager et.al.|[2501.18375v1](http://arxiv.org/abs/2501.18375v1)|**[link](https://github.com/miagrouput/super-resolution-waveforms)**|
@@ -9264,7 +9264,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656v1](http://arxiv.org/abs/2502.03656v1)|null|
-|**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|null|
+|**2025-02-04**|**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation**|Jianze Li et.al.|[2502.01993v1](http://arxiv.org/abs/2502.01993v1)|**[link](https://github.com/jianzeli-114/fluxsr)**|
 |**2025-02-03**|**A Statistical Learning Perspective on Semi-dual Adversarial Neural Optimal Transport Solvers**|Roman Tarasov et.al.|[2502.01310v1](http://arxiv.org/abs/2502.01310v1)|null|
 |**2025-02-01**|**Exploring Linear Attention Alternative for Single Image Super-Resolution**|Rongchang Lu et.al.|[2502.00404v1](http://arxiv.org/abs/2502.00404v1)|null|
 |**2025-01-31**|**Visual Autoregressive Modeling for Image Super-Resolution**|Yunpeng Qu et.al.|[2501.18993v1](http://arxiv.org/abs/2501.18993v1)|null|
@@ -10730,7 +10730,7 @@
 |**2025-02-04**|**Federated Low-Rank Tensor Estimation for Multimodal Image Reconstruction**|Anh Van Nguyen et.al.|[2502.02761v1](http://arxiv.org/abs/2502.02761v1)|null|
 |**2025-02-04**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465v1](http://arxiv.org/abs/2502.02465v1)|null|
 |**2025-02-04**|**Incorporating Cyclic Group Equivariance into Deep Learning for Reliable Reconstruction of Rotationally Symmetric Tomography Systems**|Yaogong Zhang et.al.|[2502.02418v1](http://arxiv.org/abs/2502.02418v1)|null|
-|**2025-02-04**|**Test Time Training for 4D Medical Image Interpolation**|Qikang Zhang et.al.|[2502.02341v1](http://arxiv.org/abs/2502.02341v1)|null|
+|**2025-02-04**|**Test Time Training for 4D Medical Image Interpolation**|Qikang Zhang et.al.|[2502.02341v1](http://arxiv.org/abs/2502.02341v1)|**[link](https://github.com/chaostheproducer/ttt4d)**|
 |**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832v1](http://arxiv.org/abs/2502.01832v1)|null|
 |**2025-02-05**|**Imaging simulation of a dual-panel PET geometry with ultrafast TOF detectors**|Taiyo Ishikawa et.al.|[2502.01006v2](http://arxiv.org/abs/2502.01006v2)|null|
 |**2025-02-01**|**Exploring Linear Attention Alternative for Single Image Super-Resolution**|Rongchang Lu et.al.|[2502.00404v1](http://arxiv.org/abs/2502.00404v1)|null|
@@ -11730,7 +11730,7 @@
 |---|---|---|---|---|
 |**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832v1](http://arxiv.org/abs/2502.01832v1)|null|
 |**2025-02-01**|**Patch Triplet Similarity Purification for Guided Real-World Low-Dose CT Image Denoising**|Junhao Long et.al.|[2502.00253v1](http://arxiv.org/abs/2502.00253v1)|null|
-|**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962v1](http://arxiv.org/abs/2501.18962v1)|null|
+|**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962v1](http://arxiv.org/abs/2501.18962v1)|**[link](https://github.com/zylipku/IterativeImaging)**|
 |**2025-01-31**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418v2](http://arxiv.org/abs/2501.18418v2)|null|
 |**2025-01-24**|**Sparse Mixture-of-Experts for Non-Uniform Noise Reduction in MRI Images**|Zeyun Deng et.al.|[2501.14198v1](http://arxiv.org/abs/2501.14198v1)|null|
 |**2025-01-20**|**CNN-based TEM image denoising from first principles**|Jinwoong Chae et.al.|[2501.11225v1](http://arxiv.org/abs/2501.11225v1)|null|
