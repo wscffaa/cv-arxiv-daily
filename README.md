@@ -26,6 +26,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179v1](http://arxiv.org/abs/2502.05179v1)|null|
+|**2025-02-07**|**Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment**|Minh-Quan Le et.al.|[2502.05153v1](http://arxiv.org/abs/2502.05153v1)|null|
+|**2025-02-07**|**Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images**|Aditya Kumar et.al.|[2502.05066v1](http://arxiv.org/abs/2502.05066v1)|null|
+|**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000v1](http://arxiv.org/abs/2502.05000v1)|null|
+|**2025-02-07**|**C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**|Chenxing Sun et.al.|[2502.04991v1](http://arxiv.org/abs/2502.04991v1)|null|
+|**2025-02-07**|**Advancing Wasserstein Convergence Analysis of Score-Based Models: Insights from Discretization and Second-Order Acceleration**|Yifeng Yu et.al.|[2502.04849v1](http://arxiv.org/abs/2502.04849v1)|null|
+|**2025-02-07**|**Behavior-Regularized Diffusion Policy Optimization for Offline Reinforcement Learning**|Chen-Xiao Gao et.al.|[2502.04778v1](http://arxiv.org/abs/2502.04778v1)|null|
+|**2025-02-07**|**Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?**|Yujin Han et.al.|[2502.04725v1](http://arxiv.org/abs/2502.04725v1)|null|
+|**2025-02-07**|**G2PDiffusion: Genotype-to-Phenotype Prediction with Diffusion Models**|Mengdi Liu et.al.|[2502.04684v1](http://arxiv.org/abs/2502.04684v1)|null|
+|**2025-02-07**|**CCS: Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation**|Bowen Song et.al.|[2502.04670v1](http://arxiv.org/abs/2502.04670v1)|null|
+|**2025-02-07**|**A Comprehensive Review on Noise Control of Diffusion Model**|Zhehao Guo et.al.|[2502.04669v1](http://arxiv.org/abs/2502.04669v1)|null|
+|**2025-02-06**|**Mechanisms of Projective Composition of Diffusion Models**|Arwen Bradley et.al.|[2502.04549v1](http://arxiv.org/abs/2502.04549v1)|null|
+|**2025-02-06**|**Fast Video Generation with Sliding Tile Attention**|Peiyuan Zhang et.al.|[2502.04507v1](http://arxiv.org/abs/2502.04507v1)|null|
+|**2025-02-06**|**Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning**|Ziheng Cheng et.al.|[2502.04491v1](http://arxiv.org/abs/2502.04491v1)|null|
+|**2025-02-06**|**Augmented Conditioning Is Enough For Effective Training Image Generation**|Jiahui Chen et.al.|[2502.04475v1](http://arxiv.org/abs/2502.04475v1)|null|
+|**2025-02-06**|**Iterative Importance Fine-tuning of Diffusion Models**|Alexander Denker et.al.|[2502.04468v1](http://arxiv.org/abs/2502.04468v1)|null|
+|**2025-02-06**|**Decoder-Only LLMs are Better Controllers for Diffusion Models**|Ziyi Dong et.al.|[2502.04412v1](http://arxiv.org/abs/2502.04412v1)|null|
+|**2025-02-05**|**DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**|Luciano Baresi et.al.|[2502.04378v1](http://arxiv.org/abs/2502.04378v1)|null|
+|**2025-02-05**|**Lost in Edits? A  $λ$ -Compass for AIGC Provenance**|Wenhao You et.al.|[2502.04364v1](http://arxiv.org/abs/2502.04364v1)|null|
 |**2025-02-06**|**HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**|Yiming Huang et.al.|[2502.04308v1](http://arxiv.org/abs/2502.04308v1)|null|
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299v1](http://arxiv.org/abs/2502.04299v1)|null|
 |**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158v1](http://arxiv.org/abs/2502.04158v1)|null|
@@ -10098,6 +10117,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
 |**2025-02-05**|**All-in-One Image Compression and Restoration**|Huimin Zeng et.al.|[2502.03649v1](http://arxiv.org/abs/2502.03649v1)|null|
 |**2025-02-05**|**Efficient Image Restoration via Latent Consistency Flow Matching**|Elad Cohen et.al.|[2502.03500v1](http://arxiv.org/abs/2502.03500v1)|null|
 |**2025-02-04**|**Blind Visible Watermark Removal with Morphological Dilation**|Preston K. Robinette et.al.|[2502.02676v1](http://arxiv.org/abs/2502.02676v1)|null|
@@ -10722,6 +10742,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Quantum Supremacy in Tomographic Imaging: Advances in Quantum Tomography Algorithms**|Hyunju Lee et.al.|[2502.04830v1](http://arxiv.org/abs/2502.04830v1)|null|
 |**2025-02-06**|**DEALing with Image Reconstruction: Deep Attentive Least Squares**|Mehrsa Pourya et.al.|[2502.04079v1](http://arxiv.org/abs/2502.04079v1)|null|
 |**2025-02-06**|**Semantic Feature Division Multiple Access for Digital Semantic Broadcast Channels**|Shuai Ma et.al.|[2502.03949v1](http://arxiv.org/abs/2502.03949v1)|null|
 |**2025-02-05**|**Designing Illumination Patterns for Single-Pixel Imaging Using Lattice Models**|Hamidreza Oliaei-Moghadam et.al.|[2502.03582v1](http://arxiv.org/abs/2502.03582v1)|null|
@@ -11728,6 +11749,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
 |**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832v1](http://arxiv.org/abs/2502.01832v1)|null|
 |**2025-02-01**|**Patch Triplet Similarity Purification for Guided Real-World Low-Dose CT Image Denoising**|Junhao Long et.al.|[2502.00253v1](http://arxiv.org/abs/2502.00253v1)|null|
 |**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962v1](http://arxiv.org/abs/2501.18962v1)|**[link](https://github.com/zylipku/IterativeImaging)**|
@@ -12119,6 +12141,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**ARTInp: CBCT-to-CT Image Inpainting and Image Translation in Radiotherapy**|Ricardo Coimbra Brioso et.al.|[2502.04898v1](http://arxiv.org/abs/2502.04898v1)|null|
 |**2025-02-05**|**Optimal control of the fidelity coefficient in a Cahn-Hilliard image inpainting model**|Elena Beretta et.al.|[2502.03025v1](http://arxiv.org/abs/2502.03025v1)|null|
 |**2025-02-03**|**SatFlow: Generative model based framework for producing High Resolution Gap Free Remote Sensing Imagery**|Bharath Irigireddy et.al.|[2502.01098v1](http://arxiv.org/abs/2502.01098v1)|null|
 |**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401v2](http://arxiv.org/abs/2501.18401v2)|**[link](https://github.com/wenjuan7275/matir)**|
@@ -12388,6 +12411,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?**|Sourabrata Mukherjee et.al.|[2502.04718v1](http://arxiv.org/abs/2502.04718v1)|null|
+|**2025-02-07**|**Multiscale style transfer based on a Laplacian pyramid for traditional Chinese painting**|Kunxiao Liu et.al.|[2502.04597v1](http://arxiv.org/abs/2502.04597v1)|null|
+|**2025-02-06**|**ImprovNet: Generating Controllable Musical Improvisations with Iterative Corruption Refinement**|Keshav Bhandari et.al.|[2502.04522v1](http://arxiv.org/abs/2502.04522v1)|null|
+|**2025-02-05**|**HSI: A Holistic Style Injector for Arbitrary Style Transfer**|Shuhao Zhang et.al.|[2502.04369v1](http://arxiv.org/abs/2502.04369v1)|null|
+|**2025-02-05**|**LLMs can be easily Confused by Instructional Distractions**|Yerin Hwang et.al.|[2502.04362v1](http://arxiv.org/abs/2502.04362v1)|null|
 |**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116v1](http://arxiv.org/abs/2502.04116v1)|null|
 |**2025-02-04**|**Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography**|Emir Ahmed et.al.|[2502.02475v1](http://arxiv.org/abs/2502.02475v1)|null|
 |**2025-02-02**|**Poststack Seismic Data Preconditioning via Dynamic Guided Learning**|Javier Torres-Quintero et.al.|[2502.00887v1](http://arxiv.org/abs/2502.00887v1)|null|
