@@ -41,7 +41,7 @@
 |**2025-02-05**|**Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach**|Yunuo Chen et.al.|[2502.03639v1](http://arxiv.org/abs/2502.03639v1)|null|
 |**2025-02-05**|**SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models**|Daniel Levy et.al.|[2502.03638v1](http://arxiv.org/abs/2502.03638v1)|null|
 |**2025-02-05**|**Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models**|Jinhao Liang et.al.|[2502.03607v1](http://arxiv.org/abs/2502.03607v1)|null|
-|**2025-02-05**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540v1](http://arxiv.org/abs/2502.03540v1)|null|
+|**2025-02-07**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540v2](http://arxiv.org/abs/2502.03540v2)|null|
 |**2025-02-05**|**Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control**|Xianghui Ze et.al.|[2502.03498v1](http://arxiv.org/abs/2502.03498v1)|null|
 |**2025-02-05**|**FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise**|Yunlong Yuan et.al.|[2502.03496v1](http://arxiv.org/abs/2502.03496v1)|null|
 |**2025-02-05**|**MetaFE-DE: Learning Meta Feature Embedding for Depth Estimation from Monocular Endoscopic Images**|Dawei Lu et.al.|[2502.03493v1](http://arxiv.org/abs/2502.03493v1)|null|
@@ -9276,7 +9276,7 @@
 |**2025-01-23**|**Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision**|Aman Urumbekov et.al.|[2501.13353v1](http://arxiv.org/abs/2501.13353v1)|null|
 |**2025-01-17**|**NeurOp-Diff:Continuous Remote Sensing Image Super-Resolution via Neural Operator Diffusion**|Zihao Xu et.al.|[2501.09054v2](http://arxiv.org/abs/2501.09054v2)|**[link](https://github.com/zerono000/neurop-diff)**|
 |**2025-01-14**|**State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications**|Debasish Dutta et.al.|[2501.07855v1](http://arxiv.org/abs/2501.07855v1)|null|
-|**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
+|**2025-02-06**|**Introducing 3D Representation for Medical Image Volume-to-Volume Translation via Score Fusion**|Xiyue Zhu et.al.|[2501.07430v2](http://arxiv.org/abs/2501.07430v2)|null|
 |**2025-01-12**|**Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution**|Ashitha Mudraje et.al.|[2501.06720v1](http://arxiv.org/abs/2501.06720v1)|null|
 |**2025-01-16**|**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution**|Yachao Li et.al.|[2501.05777v2](http://arxiv.org/abs/2501.05777v2)|**[link](https://github.com/lycexe/structsr)**|
 |**2025-01-09**|**Detection of binary companions below the diffraction limit with lucky imaging**|Miguel A. Cagigas et.al.|[2501.05154v1](http://arxiv.org/abs/2501.05154v1)|null|
