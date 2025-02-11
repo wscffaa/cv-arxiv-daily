@@ -29,7 +29,7 @@
 |**2025-02-10**|**Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions**|Jaeyeon Kim et.al.|[2502.06768v1](http://arxiv.org/abs/2502.06768v1)|null|
 |**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764v1](http://arxiv.org/abs/2502.06764v1)|null|
 |**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[2502.06682v1](http://arxiv.org/abs/2502.06682v1)|null|
-|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619v1](http://arxiv.org/abs/2502.06619v1)|null|
+|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619v1](http://arxiv.org/abs/2502.06619v1)|**[link](https://github.com/RikoLi/DCAC)**|
 |**2025-02-10**|**MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**|Kamil Garifullin et.al.|[2502.06606v1](http://arxiv.org/abs/2502.06606v1)|null|
 |**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593v1](http://arxiv.org/abs/2502.06593v1)|null|
 |**2025-02-10**|**Diffusion Models for Computational Neuroimaging: A Survey**|Haokai Zhao et.al.|[2502.06552v1](http://arxiv.org/abs/2502.06552v1)|null|
