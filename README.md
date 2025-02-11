@@ -26,9 +26,45 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions**|Jaeyeon Kim et.al.|[2502.06768v1](http://arxiv.org/abs/2502.06768v1)|null|
+|**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764v1](http://arxiv.org/abs/2502.06764v1)|null|
+|**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[2502.06682v1](http://arxiv.org/abs/2502.06682v1)|null|
+|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619v1](http://arxiv.org/abs/2502.06619v1)|null|
+|**2025-02-10**|**MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**|Kamil Garifullin et.al.|[2502.06606v1](http://arxiv.org/abs/2502.06606v1)|null|
+|**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593v1](http://arxiv.org/abs/2502.06593v1)|null|
+|**2025-02-10**|**Diffusion Models for Computational Neuroimaging: A Survey**|Haokai Zhao et.al.|[2502.06552v1](http://arxiv.org/abs/2502.06552v1)|null|
+|**2025-02-10**|**Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation**|Soobin Um et.al.|[2502.06516v1](http://arxiv.org/abs/2502.06516v1)|null|
+|**2025-02-10**|**WyckoffDiff - A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485v1](http://arxiv.org/abs/2502.06485v1)|null|
+|**2025-02-10**|**Habitizing Diffusion Planning for Efficient and Effective Decision Making**|Haofei Lu et.al.|[2502.06401v1](http://arxiv.org/abs/2502.06401v1)|null|
+|**2025-02-10**|**TANGLED: Generating 3D Hair Strands from Images with Arbitrary Styles and Viewpoints**|Pengyu Long et.al.|[2502.06392v1](http://arxiv.org/abs/2502.06392v1)|null|
+|**2025-02-10**|**Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**|Filip Ekström Kelvinius et.al.|[2502.06379v1](http://arxiv.org/abs/2502.06379v1)|null|
+|**2025-02-10**|**Guidance-base Diffusion Models for Improving Photoacoustic Image Quality**|Tatsuhiro Eguchi et.al.|[2502.06354v1](http://arxiv.org/abs/2502.06354v1)|null|
+|**2025-02-10**|**Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Prior**|Lee Hyoseok et.al.|[2502.06338v1](http://arxiv.org/abs/2502.06338v1)|null|
+|**2025-02-10**|**Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance**|Li Hu et.al.|[2502.06145v1](http://arxiv.org/abs/2502.06145v1)|null|
+|**2025-02-10**|**CDM: Contact Diffusion Model for Multi-Contact Point Localization**|Seo Wook Han et.al.|[2502.06109v1](http://arxiv.org/abs/2502.06109v1)|null|
+|**2025-02-10**|**Debiasing Guidance for Discrete Diffusion with Sequential Monte Carlo**|Cheuk Kit Lee et.al.|[2502.06079v1](http://arxiv.org/abs/2502.06079v1)|null|
+|**2025-02-09**|**Generating 3D Binding Molecules Using Shape-Conditioned Diffusion Models with Guidance**|Ziqi Chen et.al.|[2502.06027v1](http://arxiv.org/abs/2502.06027v1)|null|
+|**2025-02-09**|**Dual Caption Preference Optimization for Diffusion Models**|Amir Saeidi et.al.|[2502.06023v1](http://arxiv.org/abs/2502.06023v1)|null|
+|**2025-02-09**|**Diffusion Models for Inverse Problems in the Exponential Family**|Alessandro Micheli et.al.|[2502.05994v1](http://arxiv.org/abs/2502.05994v1)|null|
+|**2025-02-09**|**Inverse Problem Sampling in Latent Space Using Sequential Monte Carlo**|Idan Achituve et.al.|[2502.05908v1](http://arxiv.org/abs/2502.05908v1)|null|
+|**2025-02-09**|**MMGDreamer: Mixed-Modality Graph for Geometry-Controllable 3D Indoor Scene Generation**|Zhifei Yang et.al.|[2502.05874v1](http://arxiv.org/abs/2502.05874v1)|null|
+|**2025-02-09**|**Devil is in the Details: Density Guidance for Detail-Aware Generation with Flow Models**|Rafał Karczewski et.al.|[2502.05807v1](http://arxiv.org/abs/2502.05807v1)|null|
+|**2025-02-09**|**Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling**|Xiao Li et.al.|[2502.05743v1](http://arxiv.org/abs/2502.05743v1)|null|
+|**2025-02-08**|**SSDD-GAN: Single-Step Denoising Diffusion GAN for Cochlear Implant Surgical Scene Completion**|Yike Zhang et.al.|[2502.05710v1](http://arxiv.org/abs/2502.05710v1)|null|
+|**2025-02-08**|**Semantic-Aware Adaptive Video Streaming Using Latent Diffusion Models for Wireless Networks**|Zijiang Yan et.al.|[2502.05695v1](http://arxiv.org/abs/2502.05695v1)|null|
+|**2025-02-08**|**TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**|Yangguang He et.al.|[2502.05629v1](http://arxiv.org/abs/2502.05629v1)|null|
+|**2025-02-08**|**Training-Free Constrained Generation With Stable Diffusion Models**|Stefano Zampini et.al.|[2502.05625v1](http://arxiv.org/abs/2502.05625v1)|null|
+|**2025-02-08**|**Discrete-Time Approximations of Controlled Diffusions with Infinite Horizon Discounted and Average Cost**|Somnath Pradhan et.al.|[2502.05596v1](http://arxiv.org/abs/2502.05596v1)|null|
+|**2025-02-08**|**Diffusion Model for Interest Refinement in Multi-Interest Recommendation**|Yankun Le et.al.|[2502.05561v1](http://arxiv.org/abs/2502.05561v1)|null|
+|**2025-02-08**|**Physics-Conditioned Diffusion Models for Lattice Gauge Theory**|Qianteng Zhu et.al.|[2502.05504v1](http://arxiv.org/abs/2502.05504v1)|null|
+|**2025-02-08**|**A Physical Coherence Benchmark for Evaluating Video Generation Models via Optical Flow-guided Frame Prediction**|Yongfan Chen et.al.|[2502.05503v1](http://arxiv.org/abs/2502.05503v1)|null|
+|**2025-02-08**|**Stochastic Forward-Backward Deconvolution: Training Diffusion Models with Finite Noisy Datasets**|Haoye Lu et.al.|[2502.05446v1](http://arxiv.org/abs/2502.05446v1)|null|
+|**2025-02-08**|**Diverse Image Generation with Diffusion Models and Cross Class Label Learning for Polyp Classification**|Vanshali Sharma et.al.|[2502.05444v1](http://arxiv.org/abs/2502.05444v1)|null|
+|**2025-02-08**|**Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation**|Chenkai Xu et.al.|[2502.05415v1](http://arxiv.org/abs/2502.05415v1)|null|
+|**2025-02-08**|**Beyond and Free from Diffusion: Invertible Guided Consistency Training**|Chia-Hong Hsu et.al.|[2502.05391v1](http://arxiv.org/abs/2502.05391v1)|null|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179v1](http://arxiv.org/abs/2502.05179v1)|null|
 |**2025-02-07**|**Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment**|Minh-Quan Le et.al.|[2502.05153v1](http://arxiv.org/abs/2502.05153v1)|null|
-|**2025-02-07**|**Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images**|Aditya Kumar et.al.|[2502.05066v1](http://arxiv.org/abs/2502.05066v1)|null|
+|**2025-02-10**|**Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images**|Aditya Kumar et.al.|[2502.05066v2](http://arxiv.org/abs/2502.05066v2)|null|
 |**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000v1](http://arxiv.org/abs/2502.05000v1)|null|
 |**2025-02-07**|**C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**|Chenxing Sun et.al.|[2502.04991v1](http://arxiv.org/abs/2502.04991v1)|null|
 |**2025-02-07**|**Advancing Wasserstein Convergence Analysis of Score-Based Models: Insights from Discretization and Second-Order Acceleration**|Yifeng Yu et.al.|[2502.04849v1](http://arxiv.org/abs/2502.04849v1)|null|
@@ -7746,6 +7782,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Selecting Optimal Sampling Rate for Stable Super-Resolution**|Nuha Diab et.al.|[2502.06673v1](http://arxiv.org/abs/2502.06673v1)|null|
+|**2025-02-10**|**FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution**|Qiang Zhu et.al.|[2502.06431v1](http://arxiv.org/abs/2502.06431v1)|null|
+|**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902v1](http://arxiv.org/abs/2502.05902v1)|null|
+|**2025-02-07**|**Fast Subspace Fluid Simulation with Temporal-Aware Basis**|Siyuan Chen et.al.|[2502.05339v1](http://arxiv.org/abs/2502.05339v1)|null|
 |**2025-02-06**|**High Spatiotemporal Resolution Structured Illumination Microscopy: Principle, Instrumentation, and Applications**|Han Wang et.al.|[2502.04072v1](http://arxiv.org/abs/2502.04072v1)|null|
 |**2025-02-05**|**Bridging high resolution sub-cellular imaging with physiologically relevant engineered tissues**|Yasaman Kargar Gaz Kooh et.al.|[2502.03661v1](http://arxiv.org/abs/2502.03661v1)|null|
 |**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656v1](http://arxiv.org/abs/2502.03656v1)|null|
@@ -9810,6 +9850,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution**|Qiang Zhu et.al.|[2502.06431v1](http://arxiv.org/abs/2502.06431v1)|null|
 |**2025-02-05**|**DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior**|Janghyeok Han et.al.|[2502.03502v1](http://arxiv.org/abs/2502.03502v1)|null|
 |**2025-02-03**|**Low Resource Video Super-resolution using Memory and Residual Deformable Convolutions**|Kavitha Viswanathan et.al.|[2502.01816v1](http://arxiv.org/abs/2502.01816v1)|null|
 |**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043v1](http://arxiv.org/abs/2501.11043v1)|null|
@@ -9941,6 +9982,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-08**|**Convolutional Deep Colorization for Image Compression: A Color Grid Based Approach**|Ian Tassin et.al.|[2502.05402v1](http://arxiv.org/abs/2502.05402v1)|null|
 |**2025-02-01**|**A Diffusion Model Translator for Efficient Image-to-Image Translation**|Mengfei Xia et.al.|[2502.00307v1](http://arxiv.org/abs/2502.00307v1)|null|
 |**2025-02-05**|**Complexity in Complexity: Understanding Visual Complexity Through Structure, Color, and Surprise**|Karahan Sarıtaş et.al.|[2501.15890v2](http://arxiv.org/abs/2501.15890v2)|null|
 |**2025-01-03**|**Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**|Jiajia Liang et.al.|[2501.01864v1](http://arxiv.org/abs/2501.01864v1)|null|
@@ -10117,12 +10159,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis**|Zemin Yang et.al.|[2502.06324v1](http://arxiv.org/abs/2502.06324v1)|null|
+|**2025-02-09**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749v1](http://arxiv.org/abs/2502.05749v1)|null|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
 |**2025-02-05**|**All-in-One Image Compression and Restoration**|Huimin Zeng et.al.|[2502.03649v1](http://arxiv.org/abs/2502.03649v1)|null|
 |**2025-02-05**|**Efficient Image Restoration via Latent Consistency Flow Matching**|Elad Cohen et.al.|[2502.03500v1](http://arxiv.org/abs/2502.03500v1)|null|
 |**2025-02-04**|**Blind Visible Watermark Removal with Morphological Dilation**|Preston K. Robinette et.al.|[2502.02676v1](http://arxiv.org/abs/2502.02676v1)|null|
 |**2025-02-03**|**Human Body Restoration with One-Step Diffusion Model and A New Benchmark**|Jue Gong et.al.|[2502.01411v1](http://arxiv.org/abs/2502.01411v1)|null|
-|**2025-02-04**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189v2](http://arxiv.org/abs/2502.01189v2)|null|
+|**2025-02-10**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189v3](http://arxiv.org/abs/2502.01189v3)|null|
 |**2025-02-01**|**Shape from Semantics: 3D Shape Generation from Multi-View Semantics**|Liangchen Li et.al.|[2502.00360v1](http://arxiv.org/abs/2502.00360v1)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517v1](http://arxiv.org/abs/2501.18517v1)|null|
 |**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401v2](http://arxiv.org/abs/2501.18401v2)|**[link](https://github.com/wenjuan7275/matir)**|
@@ -10742,6 +10786,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v1](http://arxiv.org/abs/2502.06741v1)|null|
+|**2025-02-10**|**Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**|Filip Ekström Kelvinius et.al.|[2502.06379v1](http://arxiv.org/abs/2502.06379v1)|null|
+|**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902v1](http://arxiv.org/abs/2502.05902v1)|null|
 |**2025-02-07**|**Quantum Supremacy in Tomographic Imaging: Advances in Quantum Tomography Algorithms**|Hyunju Lee et.al.|[2502.04830v1](http://arxiv.org/abs/2502.04830v1)|null|
 |**2025-02-06**|**DEALing with Image Reconstruction: Deep Attentive Least Squares**|Mehrsa Pourya et.al.|[2502.04079v1](http://arxiv.org/abs/2502.04079v1)|null|
 |**2025-02-06**|**Semantic Feature Division Multiple Access for Digital Semantic Broadcast Channels**|Shuai Ma et.al.|[2502.03949v1](http://arxiv.org/abs/2502.03949v1)|null|
@@ -11749,6 +11796,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Prompt-SID: Learning Structural Representation Prompt via Latent Diffusion for Single-Image Denoising**|Huaqiu Li et.al.|[2502.06432v1](http://arxiv.org/abs/2502.06432v1)|null|
+|**2025-02-10**|**Comparing Image Segmentation Algorithms**|Milind Cherukuri et.al.|[2502.06201v1](http://arxiv.org/abs/2502.06201v1)|null|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
 |**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832v1](http://arxiv.org/abs/2502.01832v1)|null|
 |**2025-02-01**|**Patch Triplet Similarity Purification for Guided Real-World Low-Dose CT Image Denoising**|Junhao Long et.al.|[2502.00253v1](http://arxiv.org/abs/2502.00253v1)|null|
@@ -12141,6 +12190,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593v1](http://arxiv.org/abs/2502.06593v1)|null|
+|**2025-02-09**|**Make the Fastest Faster: Importance Mask for Interactive Volume Visualization using Reconstruction Neural Networks**|Jianxin Sun et.al.|[2502.06053v1](http://arxiv.org/abs/2502.06053v1)|null|
 |**2025-02-07**|**ARTInp: CBCT-to-CT Image Inpainting and Image Translation in Radiotherapy**|Ricardo Coimbra Brioso et.al.|[2502.04898v1](http://arxiv.org/abs/2502.04898v1)|null|
 |**2025-02-05**|**Optimal control of the fidelity coefficient in a Cahn-Hilliard image inpainting model**|Elena Beretta et.al.|[2502.03025v1](http://arxiv.org/abs/2502.03025v1)|null|
 |**2025-02-03**|**SatFlow: Generative model based framework for producing High Resolution Gap Free Remote Sensing Imagery**|Bharath Irigireddy et.al.|[2502.01098v1](http://arxiv.org/abs/2502.01098v1)|null|
@@ -12411,6 +12462,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-08**|**Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model**|Jialong Zuo et.al.|[2502.05471v1](http://arxiv.org/abs/2502.05471v1)|null|
+|**2025-02-08**|**Coarse-to-Fine Structure-Aware Artistic Style Transfer**|Kunxiao Liu et.al.|[2502.05387v1](http://arxiv.org/abs/2502.05387v1)|null|
 |**2025-02-07**|**Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?**|Sourabrata Mukherjee et.al.|[2502.04718v1](http://arxiv.org/abs/2502.04718v1)|null|
 |**2025-02-07**|**Multiscale style transfer based on a Laplacian pyramid for traditional Chinese painting**|Kunxiao Liu et.al.|[2502.04597v1](http://arxiv.org/abs/2502.04597v1)|null|
 |**2025-02-06**|**ImprovNet: Generating Controllable Musical Improvisations with Iterative Corruption Refinement**|Keshav Bhandari et.al.|[2502.04522v1](http://arxiv.org/abs/2502.04522v1)|null|
