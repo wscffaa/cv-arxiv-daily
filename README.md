@@ -49,7 +49,7 @@
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299v1](http://arxiv.org/abs/2502.04299v1)|null|
 |**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158v1](http://arxiv.org/abs/2502.04158v1)|null|
 |**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128v1](http://arxiv.org/abs/2502.04128v1)|null|
-|**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116v1](http://arxiv.org/abs/2502.04116v1)|null|
+|**2025-02-09**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116v2](http://arxiv.org/abs/2502.04116v2)|null|
 |**2025-02-06**|**TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers**|Younghye Hwang et.al.|[2502.04056v1](http://arxiv.org/abs/2502.04056v1)|null|
 |**2025-02-06**|**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**|Aleksandar Cvejic et.al.|[2502.04050v1](http://arxiv.org/abs/2502.04050v1)|null|
 |**2025-02-06**|**Hierarchical Entropic Diffusion for Ransomware Detection: A Probabilistic Approach to Behavioral Anomaly Isolation**|Vasili Iskorohodov et.al.|[2502.03882v1](http://arxiv.org/abs/2502.03882v1)|null|
@@ -10749,7 +10749,7 @@
 |**2025-02-05**|**MAP Image Recovery with Guarantees using Locally Convex Multi-Scale Energy (LC-MUSE) Model**|Jyothi Rikhab Chand et.al.|[2502.03302v1](http://arxiv.org/abs/2502.03302v1)|null|
 |**2025-02-04**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771v1](http://arxiv.org/abs/2502.02771v1)|null|
 |**2025-02-04**|**Federated Low-Rank Tensor Estimation for Multimodal Image Reconstruction**|Anh Van Nguyen et.al.|[2502.02761v1](http://arxiv.org/abs/2502.02761v1)|null|
-|**2025-02-04**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465v1](http://arxiv.org/abs/2502.02465v1)|null|
+|**2025-02-09**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465v2](http://arxiv.org/abs/2502.02465v2)|null|
 |**2025-02-04**|**Incorporating Cyclic Group Equivariance into Deep Learning for Reliable Reconstruction of Rotationally Symmetric Tomography Systems**|Yaogong Zhang et.al.|[2502.02418v1](http://arxiv.org/abs/2502.02418v1)|null|
 |**2025-02-04**|**Test Time Training for 4D Medical Image Interpolation**|Qikang Zhang et.al.|[2502.02341v1](http://arxiv.org/abs/2502.02341v1)|**[link](https://github.com/chaostheproducer/ttt4d)**|
 |**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832v1](http://arxiv.org/abs/2502.01832v1)|null|
@@ -12416,7 +12416,7 @@
 |**2025-02-06**|**ImprovNet: Generating Controllable Musical Improvisations with Iterative Corruption Refinement**|Keshav Bhandari et.al.|[2502.04522v1](http://arxiv.org/abs/2502.04522v1)|null|
 |**2025-02-05**|**HSI: A Holistic Style Injector for Arbitrary Style Transfer**|Shuhao Zhang et.al.|[2502.04369v1](http://arxiv.org/abs/2502.04369v1)|null|
 |**2025-02-05**|**LLMs can be easily Confused by Instructional Distractions**|Yerin Hwang et.al.|[2502.04362v1](http://arxiv.org/abs/2502.04362v1)|null|
-|**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116v1](http://arxiv.org/abs/2502.04116v1)|null|
+|**2025-02-09**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116v2](http://arxiv.org/abs/2502.04116v2)|null|
 |**2025-02-04**|**Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography**|Emir Ahmed et.al.|[2502.02475v1](http://arxiv.org/abs/2502.02475v1)|null|
 |**2025-02-02**|**Poststack Seismic Data Preconditioning via Dynamic Guided Learning**|Javier Torres-Quintero et.al.|[2502.00887v1](http://arxiv.org/abs/2502.00887v1)|null|
 |**2025-02-02**|**Estimating forest carbon stocks from high-resolution remote sensing imagery by reducing domain shift with style transfer**|Zhenyu Yu et.al.|[2502.00784v1](http://arxiv.org/abs/2502.00784v1)|null|
