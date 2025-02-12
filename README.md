@@ -29,7 +29,7 @@
 |**2025-02-10**|**Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions**|Jaeyeon Kim et.al.|[2502.06768v1](http://arxiv.org/abs/2502.06768v1)|null|
 |**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764v1](http://arxiv.org/abs/2502.06764v1)|null|
 |**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[2502.06682v1](http://arxiv.org/abs/2502.06682v1)|null|
-|**2025-02-10**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619v1](http://arxiv.org/abs/2502.06619v1)|**[link](https://github.com/RikoLi/DCAC)**|
+|**2025-02-11**|**Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**|Jiachen Li et.al.|[2502.06619v2](http://arxiv.org/abs/2502.06619v2)|**[link](https://github.com/RikoLi/DCAC)**|
 |**2025-02-10**|**MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**|Kamil Garifullin et.al.|[2502.06606v1](http://arxiv.org/abs/2502.06606v1)|null|
 |**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593v1](http://arxiv.org/abs/2502.06593v1)|null|
 |**2025-02-10**|**Diffusion Models for Computational Neuroimaging: A Survey**|Haokai Zhao et.al.|[2502.06552v1](http://arxiv.org/abs/2502.06552v1)|null|
@@ -70,7 +70,7 @@
 |**2025-02-07**|**Advancing Wasserstein Convergence Analysis of Score-Based Models: Insights from Discretization and Second-Order Acceleration**|Yifeng Yu et.al.|[2502.04849v1](http://arxiv.org/abs/2502.04849v1)|null|
 |**2025-02-07**|**Behavior-Regularized Diffusion Policy Optimization for Offline Reinforcement Learning**|Chen-Xiao Gao et.al.|[2502.04778v1](http://arxiv.org/abs/2502.04778v1)|null|
 |**2025-02-07**|**Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?**|Yujin Han et.al.|[2502.04725v1](http://arxiv.org/abs/2502.04725v1)|null|
-|**2025-02-07**|**G2PDiffusion: Genotype-to-Phenotype Prediction with Diffusion Models**|Mengdi Liu et.al.|[2502.04684v1](http://arxiv.org/abs/2502.04684v1)|null|
+|**2025-02-11**|**G2PDiffusion: Genotype-to-Phenotype Prediction with Diffusion Models**|Mengdi Liu et.al.|[2502.04684v2](http://arxiv.org/abs/2502.04684v2)|null|
 |**2025-02-07**|**CCS: Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation**|Bowen Song et.al.|[2502.04670v1](http://arxiv.org/abs/2502.04670v1)|null|
 |**2025-02-07**|**A Comprehensive Review on Noise Control of Diffusion Model**|Zhehao Guo et.al.|[2502.04669v1](http://arxiv.org/abs/2502.04669v1)|null|
 |**2025-02-06**|**Mechanisms of Projective Composition of Diffusion Models**|Arwen Bradley et.al.|[2502.04549v1](http://arxiv.org/abs/2502.04549v1)|null|
@@ -10160,7 +10160,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-10**|**UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis**|Zemin Yang et.al.|[2502.06324v1](http://arxiv.org/abs/2502.06324v1)|null|
-|**2025-02-09**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749v1](http://arxiv.org/abs/2502.05749v1)|null|
+|**2025-02-11**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749v2](http://arxiv.org/abs/2502.05749v2)|null|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
 |**2025-02-05**|**All-in-One Image Compression and Restoration**|Huimin Zeng et.al.|[2502.03649v1](http://arxiv.org/abs/2502.03649v1)|null|
 |**2025-02-05**|**Efficient Image Restoration via Latent Consistency Flow Matching**|Elad Cohen et.al.|[2502.03500v1](http://arxiv.org/abs/2502.03500v1)|null|
@@ -10786,7 +10786,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-10**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v1](http://arxiv.org/abs/2502.06741v1)|null|
+|**2025-02-11**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v2](http://arxiv.org/abs/2502.06741v2)|null|
 |**2025-02-10**|**Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**|Filip Ekström Kelvinius et.al.|[2502.06379v1](http://arxiv.org/abs/2502.06379v1)|null|
 |**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902v1](http://arxiv.org/abs/2502.05902v1)|null|
 |**2025-02-07**|**Quantum Supremacy in Tomographic Imaging: Advances in Quantum Tomography Algorithms**|Hyunju Lee et.al.|[2502.04830v1](http://arxiv.org/abs/2502.04830v1)|null|
@@ -12209,7 +12209,7 @@
 |**2024-12-19**|**RAD: Region-Aware Diffusion Models for Image Inpainting**|Sora Kim et.al.|[2412.09191v3](http://arxiv.org/abs/2412.09191v3)|null|
 |**2024-12-11**|**AsyncDSB: Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting**|Zihao Han et.al.|[2412.08149v1](http://arxiv.org/abs/2412.08149v1)|null|
 |**2024-12-10**|**Moderating the Generalization of Score-based Generative Model**|Wan Jiang et.al.|[2412.07229v1](http://arxiv.org/abs/2412.07229v1)|null|
-|**2024-12-11**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041v2](http://arxiv.org/abs/2412.07041v2)|**[link](https://github.com/MengyingLei/GLSKF)**|
+|**2025-02-11**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041v3](http://arxiv.org/abs/2412.07041v3)|**[link](https://github.com/MengyingLei/GLSKF)**|
 |**2024-12-08**|**3D-Consistent Image Inpainting with Diffusion Models**|Leonid Antsfeld et.al.|[2412.05881v1](http://arxiv.org/abs/2412.05881v1)|null|
 |**2024-12-05**|**Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting**|Guangben Lu et.al.|[2412.03812v1](http://arxiv.org/abs/2412.03812v1)|null|
 |**2024-12-14**|**Diffusion Models with Anisotropic Gaussian Splatting for Image Inpainting**|Jacob Fein-Ashley et.al.|[2412.01682v3](http://arxiv.org/abs/2412.01682v3)|**[link](https://github.com/jacobfa/splatting)**|
