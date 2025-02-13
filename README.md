@@ -26,6 +26,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642v1](http://arxiv.org/abs/2502.08642v1)|null|
+|**2025-02-12**|**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**|Qinghe Wang et.al.|[2502.08639v1](http://arxiv.org/abs/2502.08639v1)|null|
+|**2025-02-12**|**Chasing Charge Carriers: Diffusion Dynamics in Mixed-n Quasi-Two-Dimensional Colloidal MAPbBr3 Perovskites**|Ronja Maria Piehler et.al.|[2502.08601v1](http://arxiv.org/abs/2502.08601v1)|null|
+|**2025-02-12**|**Enhancing Diffusion Models Efficiency by Disentangling Total-Variance and Signal-to-Noise Ratio**|Khaled Kahouli et.al.|[2502.08598v1](http://arxiv.org/abs/2502.08598v1)|null|
+|**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590v1](http://arxiv.org/abs/2502.08590v1)|**[link](https://github.com/bcmi/Light-A-Video)**|
+|**2025-02-12**|**Ultrasound Image Generation using Latent Diffusion Models**|Benoit Freiche et.al.|[2502.08580v1](http://arxiv.org/abs/2502.08580v1)|null|
+|**2025-02-12**|**Mapping the Landscape of Generative AI in Network Monitoring and Management**|Giampaolo Bovenzi et.al.|[2502.08576v1](http://arxiv.org/abs/2502.08576v1)|null|
+|**2025-02-12**|**BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation**|Ao liu et.al.|[2502.08528v1](http://arxiv.org/abs/2502.08528v1)|null|
+|**2025-02-12**|**One-Shot Federated Learning with Classifier-Free Diffusion Models**|Obaidullah Zaland et.al.|[2502.08488v1](http://arxiv.org/abs/2502.08488v1)|null|
+|**2025-02-12**|**A Survey on Pre-Trained Diffusion Model Distillations**|Xuhui Fan et.al.|[2502.08364v1](http://arxiv.org/abs/2502.08364v1)|null|
+|**2025-02-12**|**A posteriori error control for a finite volume scheme for a cross-diffusion model of ion transport**|Arne Berrens et.al.|[2502.08306v1](http://arxiv.org/abs/2502.08306v1)|null|
+|**2025-02-12**|**BEAM: Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video**|Yu Hong et.al.|[2502.08297v1](http://arxiv.org/abs/2502.08297v1)|null|
+|**2025-02-12**|**FloVD: Optical Flow Meets Video Diffusion Model for Enhanced Camera-Controlled Video Synthesis**|Wonjoon Jin et.al.|[2502.08244v1](http://arxiv.org/abs/2502.08244v1)|null|
+|**2025-02-12**|**DNNs May Determine Major Properties of Their Outputs Early, with Timing Possibly Driven by Bias**|Song Park et.al.|[2502.08167v1](http://arxiv.org/abs/2502.08167v1)|null|
+|**2025-02-12**|**PoGDiff: Product-of-Gaussians Diffusion Models for Imbalanced Text-to-Image Generation**|Ziyan Wang et.al.|[2502.08106v1](http://arxiv.org/abs/2502.08106v1)|null|
+|**2025-02-12**|**End-to-End Predictive Planner for Autonomous Driving with Consistency Models**|Anjian Li et.al.|[2502.08033v1](http://arxiv.org/abs/2502.08033v1)|null|
+|**2025-02-11**|**Training-Free Safe Denoisers for Safe Use of Diffusion Models**|Mingyu Kim et.al.|[2502.08011v1](http://arxiv.org/abs/2502.08011v1)|null|
+|**2025-02-11**|**Greed is Good: Guided Generation from a Greedy Perspective**|Zander W. Blasingame et.al.|[2502.08006v1](http://arxiv.org/abs/2502.08006v1)|null|
+|**2025-02-11**|**Towards Training One-Step Diffusion Models Without Distillation**|Mingtian Zhang et.al.|[2502.08005v1](http://arxiv.org/abs/2502.08005v1)|null|
+|**2025-02-11**|**SurGrID: Controllable Surgical Simulation via Scene Graph to Image Diffusion**|Yannik Frisch et.al.|[2502.07945v1](http://arxiv.org/abs/2502.07945v1)|null|
+|**2025-02-11**|**Consistent Solutions of the Radiation Diffusion Equation in Spherical and Cylindrical Geometries**|Ethan Smith et.al.|[2502.07930v1](http://arxiv.org/abs/2502.07930v1)|null|
+|**2025-02-11**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856v1](http://arxiv.org/abs/2502.07856v1)|null|
+|**2025-02-11**|**Understanding Classifier-Free Guidance: High-Dimensional Theory and Non-Linear Generalizations**|Krunoslav Lehman Pavasovic et.al.|[2502.07849v1](http://arxiv.org/abs/2502.07849v1)|null|
+|**2025-02-11**|**Spread them Apart: Towards Robust Watermarking of Generated Content**|Mikhail Pautov et.al.|[2502.07845v1](http://arxiv.org/abs/2502.07845v1)|null|
+|**2025-02-11**|**TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation**|Jeongyun Kim et.al.|[2502.07840v1](http://arxiv.org/abs/2502.07840v1)|null|
+|**2025-02-10**|**Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing**|Sihao Wu et.al.|[2502.07829v1](http://arxiv.org/abs/2502.07829v1)|null|
 |**2025-02-11**|**MatSwap: Light-aware material transfers in images**|Ivan Lopes et.al.|[2502.07784v1](http://arxiv.org/abs/2502.07784v1)|null|
 |**2025-02-11**|**Consistency Training with Physical Constraints**|Che-Chia Chang et.al.|[2502.07636v1](http://arxiv.org/abs/2502.07636v1)|null|
 |**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580v1](http://arxiv.org/abs/2502.07580v1)|**[link](https://github.com/martenlienen/bsi)**|
@@ -7805,6 +7831,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634v1](http://arxiv.org/abs/2502.08634v1)|null|
 |**2025-02-12**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381v2](http://arxiv.org/abs/2502.07381v2)|null|
 |**2025-02-11**|**Super-resolution optical trapping of multiple cold atoms**|Kelvin Lim et.al.|[2502.07177v1](http://arxiv.org/abs/2502.07177v1)|null|
 |**2025-02-09**|**AI-Driven HSI: Multimodality, Fusion, Challenges, and the Deep Learning Revolution**|David S. Bhatti et.al.|[2502.06894v1](http://arxiv.org/abs/2502.06894v1)|null|
@@ -10187,6 +10214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856v1](http://arxiv.org/abs/2502.07856v1)|null|
 |**2025-02-10**|**UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis**|Zemin Yang et.al.|[2502.06324v1](http://arxiv.org/abs/2502.06324v1)|null|
 |**2025-02-11**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749v2](http://arxiv.org/abs/2502.05749v2)|null|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
@@ -10814,6 +10842,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634v1](http://arxiv.org/abs/2502.08634v1)|null|
+|**2025-02-12**|**Take What You Need: Flexible Multi-Task Semantic Communications with Channel Adaptation**|Xiang Chen et.al.|[2502.08221v1](http://arxiv.org/abs/2502.08221v1)|null|
 |**2025-02-11**|**Rethinking Timing Residuals: Advancing PET Detectors with Explicit TOF Corrections**|Stephan Naunheim et.al.|[2502.07630v1](http://arxiv.org/abs/2502.07630v1)|null|
 |**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351v1](http://arxiv.org/abs/2502.07351v1)|null|
 |**2025-02-11**|**HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates**|Lei Lu et.al.|[2502.07160v1](http://arxiv.org/abs/2502.07160v1)|null|
