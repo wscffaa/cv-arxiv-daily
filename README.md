@@ -12585,7 +12585,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-05**|**Volumetric Temporal Texture Synthesis for Smoke Stylization using Neural Cellular Automata**|Dongqing Wang et.al.|[2502.09631v1](http://arxiv.org/abs/2502.09631v1)|null|
-|**2025-02-11**|**Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review**|Mehran Safayani et.al.|[2502.08667v1](http://arxiv.org/abs/2502.08667v1)|null|
+|**2025-02-15**|**Unpaired Image-to-Image Translation with Content Preserving Perspective: A Review**|Mehran Safayani et.al.|[2502.08667v2](http://arxiv.org/abs/2502.08667v2)|null|
 |**2025-02-11**|**Direct Ascent Synthesis: Revealing Hidden Generative Capabilities in Discriminative Models**|Stanislav Fort et.al.|[2502.07753v1](http://arxiv.org/abs/2502.07753v1)|null|
 |**2025-02-11**|**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**|Lin Zhu et.al.|[2502.07466v1](http://arxiv.org/abs/2502.07466v1)|**[link](https://github.com/linllll/maskst)**|
 |**2025-02-08**|**Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model**|Jialong Zuo et.al.|[2502.05471v1](http://arxiv.org/abs/2502.05471v1)|null|
