@@ -38,7 +38,7 @@
 |**2025-02-17**|**MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow**|Hanzhuo Huang et.al.|[2502.11697v1](http://arxiv.org/abs/2502.11697v1)|null|
 |**2025-02-17**|**GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text**|Gyumin Shim et.al.|[2502.11642v1](http://arxiv.org/abs/2502.11642v1)|null|
 |**2025-02-17**|**Membership Inference Attacks for Face Images Against Fine-Tuned Latent Diffusion Models**|Lauritz Christian Holme et.al.|[2502.11619v1](http://arxiv.org/abs/2502.11619v1)|null|
-|**2025-02-17**|**Maximum Entropy Reinforcement Learning with Diffusion Policy**|Xiaoyi Dong et.al.|[2502.11612v1](http://arxiv.org/abs/2502.11612v1)|null|
+|**2025-02-18**|**Maximum Entropy Reinforcement Learning with Diffusion Policy**|Xiaoyi Dong et.al.|[2502.11612v2](http://arxiv.org/abs/2502.11612v2)|null|
 |**2025-02-17**|**Continuous Diffusion Model for Language Modeling**|Jaehyeong Jo et.al.|[2502.11564v1](http://arxiv.org/abs/2502.11564v1)|null|
 |**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532v1](http://arxiv.org/abs/2502.11532v1)|null|
 |**2025-02-17**|**SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion**|Junxian Ma et.al.|[2502.11515v1](http://arxiv.org/abs/2502.11515v1)|null|
@@ -65,7 +65,7 @@
 |**2025-02-14**|**Agentic End-to-End De Novo Protein Design for Tailored Dynamics Using a Language Diffusion Model**|Bo Ni et.al.|[2502.10173v1](http://arxiv.org/abs/2502.10173v1)|null|
 |**2025-02-14**|**IRS-assisted Edge Computing for Vehicular Networks: A Generative Diffusion Model-based Stackelberg Game Approach**|Yixian Wang et.al.|[2502.10149v1](http://arxiv.org/abs/2502.10149v1)|null|
 |**2025-02-14**|**Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**|Shichao Fan et.al.|[2502.10040v1](http://arxiv.org/abs/2502.10040v1)|null|
-|**2025-02-14**|**Large Language Diffusion Models**|Shen Nie et.al.|[2502.09992v1](http://arxiv.org/abs/2502.09992v1)|null|
+|**2025-02-18**|**Large Language Diffusion Models**|Shen Nie et.al.|[2502.09992v2](http://arxiv.org/abs/2502.09992v2)|null|
 |**2025-02-14**|**Generating on Generated: An Approach Towards Self-Evolving Diffusion Models**|Xulu Zhang et.al.|[2502.09963v1](http://arxiv.org/abs/2502.09963v1)|null|
 |**2025-02-14**|**Precise Parameter Localization for Textual Generation in Diffusion Models**|Łukasz Staniszewski et.al.|[2502.09935v1](http://arxiv.org/abs/2502.09935v1)|null|
 |**2025-02-14**|**Symmetry-Preserving Diffusion Models via Target Symmetrization**|Vinh Tong et.al.|[2502.09890v1](http://arxiv.org/abs/2502.09890v1)|null|
