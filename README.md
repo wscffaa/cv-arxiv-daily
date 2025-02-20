@@ -49,7 +49,7 @@
 |**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146v1](http://arxiv.org/abs/2502.12146v1)|null|
 |**2025-02-17**|**How compositional generalization and creativity improve as diffusion models are trained**|Alessandro Favero et.al.|[2502.12089v1](http://arxiv.org/abs/2502.12089v1)|null|
 |**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080v1](http://arxiv.org/abs/2502.12080v1)|null|
-|**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048v1](http://arxiv.org/abs/2502.12048v1)|null|
+|**2025-02-18**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048v2](http://arxiv.org/abs/2502.12048v2)|null|
 |**2025-02-17**|**Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images**|Negar Kamali et.al.|[2502.11989v1](http://arxiv.org/abs/2502.11989v1)|null|
 |**2025-02-17**|**Image Inversion: A Survey from GANs to Diffusion and Beyond**|Yinan Chen et.al.|[2502.11974v1](http://arxiv.org/abs/2502.11974v1)|null|
 |**2025-02-17**|**Approximating a spatially-heterogeneously mass-emitting object by multiple point sources in a diffusion model**|Qiyao Peng et.al.|[2502.11908v1](http://arxiv.org/abs/2502.11908v1)|null|
@@ -64,7 +64,7 @@
 |**2025-02-17**|**Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation**|Taeyoung Yun et.al.|[2502.11477v1](http://arxiv.org/abs/2502.11477v1)|null|
 |**2025-02-17**|**Inverse Flow and Consistency Models**|Yuchen Zhang et.al.|[2502.11333v1](http://arxiv.org/abs/2502.11333v1)|null|
 |**2025-02-17**|**Deep Learning of Proteins with Local and Global Regions of Disorder**|Oufan Zhang et.al.|[2502.11326v1](http://arxiv.org/abs/2502.11326v1)|null|
-|**2025-02-16**|**Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction**|Zhi Sheng et.al.|[2502.11013v1](http://arxiv.org/abs/2502.11013v1)|null|
+|**2025-02-19**|**Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction**|Zhi Sheng et.al.|[2502.11013v2](http://arxiv.org/abs/2502.11013v2)|null|
 |**2025-02-16**|**ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations**|Bowen Jiang et.al.|[2502.10999v1](http://arxiv.org/abs/2502.10999v1)|null|
 |**2025-02-16**|**Skillful Nowcasting of Convective Clouds With a Cascade Diffusion Model**|Haoming Chen et.al.|[2502.10957v1](http://arxiv.org/abs/2502.10957v1)|null|
 |**2025-02-15**|**PDA: Generalizable Detection of AI-Generated Images via Post-hoc Distribution Alignment**|Li Wang et.al.|[2502.10803v1](http://arxiv.org/abs/2502.10803v1)|null|
@@ -10157,7 +10157,7 @@
 |**2025-02-08**|**Convolutional Deep Colorization for Image Compression: A Color Grid Based Approach**|Ian Tassin et.al.|[2502.05402v1](http://arxiv.org/abs/2502.05402v1)|null|
 |**2025-02-01**|**A Diffusion Model Translator for Efficient Image-to-Image Translation**|Mengfei Xia et.al.|[2502.00307v1](http://arxiv.org/abs/2502.00307v1)|null|
 |**2025-02-05**|**Complexity in Complexity: Understanding Visual Complexity Through Structure, Color, and Surprise**|Karahan Sarıtaş et.al.|[2501.15890v2](http://arxiv.org/abs/2501.15890v2)|null|
-|**2025-01-03**|**Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**|Jiajia Liang et.al.|[2501.01864v1](http://arxiv.org/abs/2501.01864v1)|null|
+|**2025-02-19**|**Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**|Jiajia Liang et.al.|[2501.01864v2](http://arxiv.org/abs/2501.01864v2)|null|
 |**2024-12-19**|**Efficient Neural Network Encoding for 3D Color Lookup Tables**|Vahid Zehtab et.al.|[2412.15438v1](http://arxiv.org/abs/2412.15438v1)|**[link](https://github.com/vahidzee/ennelut)**|
 |**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815v1](http://arxiv.org/abs/2412.11815v1)|null|
 |**2024-12-12**|**Structurally Consistent MRI Colorization using Cross-modal Fusion Learning**|Mayuri Mathur et.al.|[2412.10452v1](http://arxiv.org/abs/2412.10452v1)|null|
@@ -10333,7 +10333,7 @@
 |---|---|---|---|---|
 |**2025-02-14**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873v1](http://arxiv.org/abs/2502.09873v1)|null|
 |**2025-02-13**|**Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring**|C. K. Tam et.al.|[2502.09478v1](http://arxiv.org/abs/2502.09478v1)|null|
-|**2025-02-13**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856v2](http://arxiv.org/abs/2502.07856v2)|null|
+|**2025-02-19**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856v3](http://arxiv.org/abs/2502.07856v3)|null|
 |**2025-02-10**|**UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis**|Zemin Yang et.al.|[2502.06324v1](http://arxiv.org/abs/2502.06324v1)|null|
 |**2025-02-11**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749v2](http://arxiv.org/abs/2502.05749v2)|**[link](https://github.com/unidb-soc/unidb)**|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
@@ -10971,7 +10971,7 @@
 |**2025-02-12**|**Take What You Need: Flexible Multi-Task Semantic Communications with Channel Adaptation**|Xiang Chen et.al.|[2502.08221v1](http://arxiv.org/abs/2502.08221v1)|null|
 |**2025-02-11**|**Rethinking Timing Residuals: Advancing PET Detectors with Explicit TOF Corrections**|Stephan Naunheim et.al.|[2502.07630v1](http://arxiv.org/abs/2502.07630v1)|null|
 |**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351v1](http://arxiv.org/abs/2502.07351v1)|**[link](https://github.com/ai-chen-lab/mtoie)**|
-|**2025-02-11**|**HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates**|Lei Lu et.al.|[2502.07160v1](http://arxiv.org/abs/2502.07160v1)|null|
+|**2025-02-19**|**HDCompression: Hybrid-Diffusion Image Compression for Ultra-Low Bitrates**|Lei Lu et.al.|[2502.07160v2](http://arxiv.org/abs/2502.07160v2)|null|
 |**2025-02-11**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741v2](http://arxiv.org/abs/2502.06741v2)|null|
 |**2025-02-10**|**Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo**|Filip Ekström Kelvinius et.al.|[2502.06379v1](http://arxiv.org/abs/2502.06379v1)|null|
 |**2025-02-09**|**Fast Omni-Directional Image Super-Resolution: Adapting the Implicit Image Function with Pixel and Semantic-Wise Spherical Geometric Priors**|Xuelin Shen et.al.|[2502.05902v1](http://arxiv.org/abs/2502.05902v1)|null|
