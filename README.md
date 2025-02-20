@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951v1](http://arxiv.org/abs/2502.13951v1)|null|
+|**2025-02-19**|**TESS 2: A Large-Scale Generalist Diffusion Language Model**|Jaesung Tae et.al.|[2502.13917v1](http://arxiv.org/abs/2502.13917v1)|null|
+|**2025-02-19**|**Reverse Markov Learning: Multi-Step Generative Models for Complex Distributions**|Xinwei Shen et.al.|[2502.13747v1](http://arxiv.org/abs/2502.13747v1)|null|
+|**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574v1](http://arxiv.org/abs/2502.13574v1)|null|
+|**2025-02-19**|**Diffusion Model Agnostic Social Influence Maximization in Hyperbolic Space**|Hongliang Qiao et.al.|[2502.13571v1](http://arxiv.org/abs/2502.13571v1)|null|
+|**2025-02-19**|**Interleaved Gibbs Diffusion for Constrained Generation**|Gautham Govind Anil et.al.|[2502.13450v1](http://arxiv.org/abs/2502.13450v1)|null|
+|**2025-02-18**|**Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios**|Liangqi Lei et.al.|[2502.13345v1](http://arxiv.org/abs/2502.13345v1)|null|
+|**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335v1](http://arxiv.org/abs/2502.13335v1)|null|
+|**2025-02-18**|**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching**|Yen-Siang Wu et.al.|[2502.13234v1](http://arxiv.org/abs/2502.13234v1)|null|
+|**2025-02-18**|**Fundus2Globe: Generative AI-Driven 3D Digital Twins for Personalized Myopia Management**|Danli Shi et.al.|[2502.13182v1](http://arxiv.org/abs/2502.13182v1)|null|
 |**2025-02-18**|**Is Noise Conditioning Necessary for Denoising Generative Models?**|Qiao Sun et.al.|[2502.13129v1](http://arxiv.org/abs/2502.13129v1)|null|
 |**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106v1](http://arxiv.org/abs/2502.13106v1)|null|
 |**2025-02-18**|**Personalized Image Generation with Deep Generative Models: A Decade Survey**|Yuxiang Wei et.al.|[2502.13081v1](http://arxiv.org/abs/2502.13081v1)|null|
@@ -7923,6 +7933,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352v1](http://arxiv.org/abs/2502.13352v1)|null|
 |**2025-02-18**|**GVTNet: Graph Vision Transformer For Face Super-Resolution**|Chao Yang et.al.|[2502.12570v1](http://arxiv.org/abs/2502.12570v1)|null|
 |**2025-02-18**|**DeltaDiff: A Residual-Guided Diffusion Model for Enhanced Image Super-Resolution**|Chao Yang et.al.|[2502.12567v1](http://arxiv.org/abs/2502.12567v1)|null|
 |**2025-02-18**|**Multi Image Super Resolution Modeling for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.12427v1](http://arxiv.org/abs/2502.12427v1)|null|
@@ -10331,6 +10342,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574v1](http://arxiv.org/abs/2502.13574v1)|null|
 |**2025-02-14**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873v1](http://arxiv.org/abs/2502.09873v1)|null|
 |**2025-02-13**|**Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring**|C. K. Tam et.al.|[2502.09478v1](http://arxiv.org/abs/2502.09478v1)|null|
 |**2025-02-19**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856v3](http://arxiv.org/abs/2502.07856v3)|null|
@@ -11982,6 +11994,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Denoising Designs-inherited Search Framework for Image Denoising**|Zheyu Zhang et.al.|[2502.13359v1](http://arxiv.org/abs/2502.13359v1)|null|
 |**2025-02-18**|**Is Noise Conditioning Necessary for Denoising Generative Models?**|Qiao Sun et.al.|[2502.13129v1](http://arxiv.org/abs/2502.13129v1)|null|
 |**2025-02-18**|**Revisiting the Generalization Problem of Low-level Vision Models Through the Lens of Image Deraining**|Jinfan Hu et.al.|[2502.12600v1](http://arxiv.org/abs/2502.12600v1)|null|
 |**2025-02-16**|**Exploiting network optimization stability for enhanced PET image denoising using deep image prior**|Fumio Hashimoto et.al.|[2502.11259v1](http://arxiv.org/abs/2502.11259v1)|null|
