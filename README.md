@@ -10059,7 +10059,7 @@
 |**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919v1](http://arxiv.org/abs/2407.09919v1)|**[link](https://github.com/shangwei5/st-avsr)**|
 |**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466v1](http://arxiv.org/abs/2407.08466v1)|null|
 |**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667v1](http://arxiv.org/abs/2407.07667v1)|null|
-|**2024-07-10**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230v2](http://arxiv.org/abs/2407.01230v2)|null|
+|**2025-02-20**|**DaBiT: Depth and Blur informed Transformer for Video Focal Deblurring**|Crispian Morris et.al.|[2407.01230v3](http://arxiv.org/abs/2407.01230v3)|null|
 |**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359v1](http://arxiv.org/abs/2406.16359v1)|null|
 |**2024-06-19**|**EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**|Dachun Kai et.al.|[2406.13457v1](http://arxiv.org/abs/2406.13457v1)|**[link](https://github.com/dachunkai/evtexture)**|
 |**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389v1](http://arxiv.org/abs/2405.13389v1)|null|
@@ -10343,7 +10343,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574v1](http://arxiv.org/abs/2502.13574v1)|null|
-|**2025-02-14**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873v1](http://arxiv.org/abs/2502.09873v1)|null|
+|**2025-02-19**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873v2](http://arxiv.org/abs/2502.09873v2)|null|
 |**2025-02-13**|**Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring**|C. K. Tam et.al.|[2502.09478v1](http://arxiv.org/abs/2502.09478v1)|null|
 |**2025-02-19**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856v3](http://arxiv.org/abs/2502.07856v3)|null|
 |**2025-02-10**|**UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis**|Zemin Yang et.al.|[2502.06324v1](http://arxiv.org/abs/2502.06324v1)|null|
