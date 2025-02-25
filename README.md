@@ -12702,7 +12702,7 @@
 |---|---|---|---|---|
 |**2025-02-21**|**mStyleDistance: Multilingual Style Embeddings and their Evaluation**|Justin Qiu et.al.|[2502.15168v1](http://arxiv.org/abs/2502.15168v1)|null|
 |**2025-02-20**|**A Meta-Evaluation of Style and Attribute Transfer Metrics**|Amalie Brogaard Pauli et.al.|[2502.15022v1](http://arxiv.org/abs/2502.15022v1)|null|
-|**2025-02-20**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397v1](http://arxiv.org/abs/2502.14397v1)|**[link](https://github.com/showlab/PhotoDoodle)**|
+|**2025-02-23**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397v2](http://arxiv.org/abs/2502.14397v2)|**[link](https://github.com/showlab/PhotoDoodle)**|
 |**2025-02-19**|**SigStyle: Signature Style Transfer via Personalized Text-to-Image Models**|Ye Wang et.al.|[2502.13997v1](http://arxiv.org/abs/2502.13997v1)|null|
 |**2025-02-18**|**Beyond Profile: From Surface-Level Facts to Deep Persona Simulation in LLMs**|Zixiao Wang et.al.|[2502.12988v1](http://arxiv.org/abs/2502.12988v1)|null|
 |**2025-02-17**|**Image Inversion: A Survey from GANs to Diffusion and Beyond**|Yinan Chen et.al.|[2502.11974v1](http://arxiv.org/abs/2502.11974v1)|**[link](https://github.com/ryanchenyn/imageinversion)**|
