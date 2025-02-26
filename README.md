@@ -32,10 +32,10 @@
 |**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327v1](http://arxiv.org/abs/2502.17327v1)|null|
 |**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258v1](http://arxiv.org/abs/2502.17258v1)|null|
 |**2025-02-24**|**Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**|Baptiste Chopin et.al.|[2502.17198v1](http://arxiv.org/abs/2502.17198v1)|null|
-|**2025-02-24**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157v1](http://arxiv.org/abs/2502.17157v1)|**[link](https://github.com/aim-uofa/Diception)**|
+|**2025-02-25**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157v2](http://arxiv.org/abs/2502.17157v2)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119v1](http://arxiv.org/abs/2502.17119v1)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
 |**2025-02-24**|**SFLD: Reducing the content bias for AI-generated Image Detection**|Seoyeon Gye et.al.|[2502.17105v1](http://arxiv.org/abs/2502.17105v1)|null|
-|**2025-02-24**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100v1](http://arxiv.org/abs/2502.17100v1)|null|
+|**2025-02-25**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100v2](http://arxiv.org/abs/2502.17100v2)|null|
 |**2025-02-24**|**Conditional Diffusion-Flow models for generating 3D cosmic density fields: applications to f(R) cosmologies**|Julieth Katherine Riveros et.al.|[2502.17087v1](http://arxiv.org/abs/2502.17087v1)|null|
 |**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056v1](http://arxiv.org/abs/2502.17056v1)|null|
 |**2025-02-24**|**TraFlow: Trajectory Distillation on Pre-Trained Rectified Flow**|Zhangkai Wu et.al.|[2502.16972v1](http://arxiv.org/abs/2502.16972v1)|null|
@@ -10256,7 +10256,7 @@
 |**2024-01-21**|**Grayscale Image Colorization with GAN and CycleGAN in Different Image Domain**|Chen Liang et.al.|[2401.11425v1](http://arxiv.org/abs/2401.11425v1)|null|
 |**2024-01-08**|**Color- $S^{4}L$ : Self-supervised Semi-supervised Learning with Image Colorization**|Hanxiao Chen et.al.|[2401.03753v1](http://arxiv.org/abs/2401.03753v1)|null|
 |**2023-12-26**|**Multi-scale Progressive Feature Embedding for Accurate NIR-to-RGB Spectral Domain Translation**|Xingxing Yang et.al.|[2312.16040v1](http://arxiv.org/abs/2312.16040v1)|null|
-|**2023-12-21**|**SPDGAN: A Generative Adversarial Network based on SPD Manifold Learning for Automatic Image Colorization**|Youssef Mourchid et.al.|[2312.13506v1](http://arxiv.org/abs/2312.13506v1)|null|
+|**2025-02-25**|**SPDGAN: A Generative Adversarial Network based on SPD Manifold Learning for Automatic Image Colorization**|Youssef Mourchid et.al.|[2312.13506v2](http://arxiv.org/abs/2312.13506v2)|null|
 |**2023-12-08**|**Fine-Tuning InstructPix2Pix for Advanced Image Colorization**|Zifeng An et.al.|[2312.04780v1](http://arxiv.org/abs/2312.04780v1)|**[link](https://github.com/allenanzifeng/deeplearning282)**|
 |**2023-12-07**|**Diffusing Colors: Image Colorization with Text Guided Diffusion**|Nir Zabari et.al.|[2312.04145v1](http://arxiv.org/abs/2312.04145v1)|null|
 |**2023-11-03**|**Optimal Image Transport on Sparse Dictionaries**|Junqing Huang et.al.|[2311.01984v1](http://arxiv.org/abs/2311.01984v1)|null|
