@@ -26,6 +26,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461v1](http://arxiv.org/abs/2502.18461v1)|null|
+|**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438v1](http://arxiv.org/abs/2502.18438v1)|null|
+|**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302v1](http://arxiv.org/abs/2502.18302v1)|null|
+|**2025-02-25**|**Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training**|Botao Ye et.al.|[2502.18219v1](http://arxiv.org/abs/2502.18219v1)|null|
+|**2025-02-25**|**Training Consistency Models with Variational Noise Coupling**|Gianluigi Silvestri et.al.|[2502.18197v1](http://arxiv.org/abs/2502.18197v1)|null|
+|**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195v1](http://arxiv.org/abs/2502.18195v1)|null|
+|**2025-02-25**|**Joint Reconstruction of Spatially-Coherent and Realistic Clothed Humans and Objects from a Single Image**|Ayushi Dutta et.al.|[2502.18150v1](http://arxiv.org/abs/2502.18150v1)|null|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104v1](http://arxiv.org/abs/2502.18104v1)|null|
+|**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951v1](http://arxiv.org/abs/2502.17951v1)|null|
+|**2025-02-25**|**3D Anatomical Structure-guided Deep Learning for Accurate Diffusion Microstructure Imaging**|Xinrui Ma et.al.|[2502.17933v1](http://arxiv.org/abs/2502.17933v1)|null|
+|**2025-02-25**|**Structure-prior Informed Diffusion Model for Graph Source Localization with Limited Data**|Hongyi Chen et.al.|[2502.17928v1](http://arxiv.org/abs/2502.17928v1)|null|
+|**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880v1](http://arxiv.org/abs/2502.17880v1)|null|
+|**2025-02-25**|**HRR: Hierarchical Retrospection Refinement for Generated Image Detection**|Peipei Yuan et.al.|[2502.17862v1](http://arxiv.org/abs/2502.17862v1)|null|
+|**2025-02-24**|**Aligning Compound AI Systems via System-level DPO**|Xiangwen Wang et.al.|[2502.17721v1](http://arxiv.org/abs/2502.17721v1)|null|
+|**2025-02-24**|**On the Vulnerability of Concept Erasure in Diffusion Models**|Lucas Beerens et.al.|[2502.17537v1](http://arxiv.org/abs/2502.17537v1)|null|
 |**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435v1](http://arxiv.org/abs/2502.17435v1)|null|
 |**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423v1](http://arxiv.org/abs/2502.17423v1)|null|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414v1](http://arxiv.org/abs/2502.17414v1)|null|
@@ -7986,6 +8001,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v1](http://arxiv.org/abs/2502.17904v1)|null|
 |**2025-02-23**|**Super-resolution Live-cell Fluorescence Lifetime Imaging**|Raphaël Marchand et.al.|[2502.16672v1](http://arxiv.org/abs/2502.16672v1)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478v1](http://arxiv.org/abs/2502.15478v1)|**[link](https://github.com/kai-liu001/condiquant)**|
 |**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397v1](http://arxiv.org/abs/2502.15397v1)|null|
@@ -11035,6 +11051,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v1](http://arxiv.org/abs/2502.17904v1)|null|
 |**2025-02-24**|**A Survey of fMRI to Image Reconstruction**|Weiyu Guo et.al.|[2502.16861v1](http://arxiv.org/abs/2502.16861v1)|null|
 |**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529v1](http://arxiv.org/abs/2502.15529v1)|null|
 |**2025-02-20**|**Pseudoinverse Diffusion Models for Generative CT Image Reconstruction from Low Dose Data**|Matthew Tivnan et.al.|[2502.15064v1](http://arxiv.org/abs/2502.15064v1)|null|
@@ -12736,6 +12753,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**IBURD: Image Blending for Underwater Robotic Detection**|Jungseok Hong et.al.|[2502.17706v1](http://arxiv.org/abs/2502.17706v1)|null|
+|**2025-02-12**|**CSSSTN: A Class-sensitive Subject-to-subject Semantic Style Transfer Network for EEG Classification in RSVP Tasks**|Ziyue Yang et.al.|[2502.17468v1](http://arxiv.org/abs/2502.17468v1)|null|
 |**2025-02-24**|**PQDAST: Depth-Aware Arbitrary Style Transfer for Games via Perceptual Quality-Guided Distillation**|Eleftherios Ioannou et.al.|[2502.16996v1](http://arxiv.org/abs/2502.16996v1)|null|
 |**2025-02-21**|**mStyleDistance: Multilingual Style Embeddings and their Evaluation**|Justin Qiu et.al.|[2502.15168v1](http://arxiv.org/abs/2502.15168v1)|null|
 |**2025-02-24**|**A Meta-Evaluation of Style and Attribute Transfer Metrics**|Amalie Brogaard Pauli et.al.|[2502.15022v2](http://arxiv.org/abs/2502.15022v2)|null|
