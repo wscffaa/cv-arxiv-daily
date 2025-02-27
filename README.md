@@ -54,7 +54,7 @@
 |**2025-02-24**|**Conditional Diffusion-Flow models for generating 3D cosmic density fields: applications to f(R) cosmologies**|Julieth Katherine Riveros et.al.|[2502.17087v1](http://arxiv.org/abs/2502.17087v1)|null|
 |**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056v1](http://arxiv.org/abs/2502.17056v1)|null|
 |**2025-02-24**|**TraFlow: Trajectory Distillation on Pre-Trained Rectified Flow**|Zhangkai Wu et.al.|[2502.16972v1](http://arxiv.org/abs/2502.16972v1)|null|
-|**2025-02-24**|**Autoregressive Image Generation Guided by Chains of Thought**|Miaomiao Cai et.al.|[2502.16965v1](http://arxiv.org/abs/2502.16965v1)|null|
+|**2025-02-26**|**Autoregressive Image Generation Guided by Chains of Thought**|Miaomiao Cai et.al.|[2502.16965v2](http://arxiv.org/abs/2502.16965v2)|null|
 |**2025-02-24**|**MAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection**|Farzad Beizaee et.al.|[2502.16943v1](http://arxiv.org/abs/2502.16943v1)|**[link](https://github.com/farzad-bz/mad-ad)**|
 |**2025-02-24**|**Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model**|Kang Fu et.al.|[2502.16915v1](http://arxiv.org/abs/2502.16915v1)|null|
 |**2025-02-24**|**Mitigating Hallucinations in Diffusion Models through Adaptive Attention Modulation**|Trevine Oorloff et.al.|[2502.16872v1](http://arxiv.org/abs/2502.16872v1)|null|
@@ -8001,7 +8001,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v1](http://arxiv.org/abs/2502.17904v1)|null|
+|**2025-02-26**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v2](http://arxiv.org/abs/2502.17904v2)|null|
 |**2025-02-23**|**Super-resolution Live-cell Fluorescence Lifetime Imaging**|Raphaël Marchand et.al.|[2502.16672v1](http://arxiv.org/abs/2502.16672v1)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478v1](http://arxiv.org/abs/2502.15478v1)|**[link](https://github.com/kai-liu001/condiquant)**|
 |**2025-02-21**|**Super-Resolution for Interferometric Imaging: Model Comparisons and Performance Analysis**|Hasan Berkay Abdioglu et.al.|[2502.15397v1](http://arxiv.org/abs/2502.15397v1)|null|
@@ -11051,7 +11051,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v1](http://arxiv.org/abs/2502.17904v1)|null|
+|**2025-02-26**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v2](http://arxiv.org/abs/2502.17904v2)|null|
 |**2025-02-24**|**A Survey of fMRI to Image Reconstruction**|Weiyu Guo et.al.|[2502.16861v1](http://arxiv.org/abs/2502.16861v1)|null|
 |**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529v1](http://arxiv.org/abs/2502.15529v1)|null|
 |**2025-02-20**|**Pseudoinverse Diffusion Models for Generative CT Image Reconstruction from Low Dose Data**|Matthew Tivnan et.al.|[2502.15064v1](http://arxiv.org/abs/2502.15064v1)|null|
