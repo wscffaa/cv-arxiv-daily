@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**|Zekang Weng et.al.|[2502.19200v1](http://arxiv.org/abs/2502.19200v1)|null|
+|**2025-02-26**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153v1](http://arxiv.org/abs/2502.19153v1)|null|
+|**2025-02-26**|**Modulation of the galactic cosmic ray spectrum in an anisotropic diffusion approach**|V. D. Borisov et.al.|[2502.19062v1](http://arxiv.org/abs/2502.19062v1)|null|
+|**2025-02-26**|**A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models**|Vu Tuan Truong Long et.al.|[2502.19047v1](http://arxiv.org/abs/2502.19047v1)|null|
+|**2025-02-26**|**DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model**|Lei Zhao et.al.|[2502.18952v1](http://arxiv.org/abs/2502.18952v1)|null|
+|**2025-02-26**|**Physics-Aware Inverse Design for Nanowire Single-Photon Avalanche Detectors via Deep Learning**|Boyang Zhang et.al.|[2502.18857v1](http://arxiv.org/abs/2502.18857v1)|null|
+|**2025-02-26**|**Optimal Stochastic Trace Estimation in Generative Modeling**|Xinyang Liu et.al.|[2502.18808v1](http://arxiv.org/abs/2502.18808v1)|null|
+|**2025-02-26**|**Ptychographic Image Reconstruction from Limited Data via Score-Based Diffusion Models with Physics-Guidance**|Refik Mert Cam et.al.|[2502.18767v1](http://arxiv.org/abs/2502.18767v1)|null|
+|**2025-02-25**|**Adaptive conditional latent diffusion maps beam loss to 2D phase space projections**|Alexander Scheinker et.al.|[2502.18684v1](http://arxiv.org/abs/2502.18684v1)|null|
+|**2025-02-25**|**Diffusion Models for conditional MRI generation**|Miguel Herencia García del Castillo et.al.|[2502.18620v1](http://arxiv.org/abs/2502.18620v1)|null|
 |**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461v1](http://arxiv.org/abs/2502.18461v1)|null|
 |**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438v1](http://arxiv.org/abs/2502.18438v1)|null|
 |**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302v1](http://arxiv.org/abs/2502.18302v1)|null|
@@ -8001,6 +8011,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**|Dominik Vašinka et.al.|[2502.18637v1](http://arxiv.org/abs/2502.18637v1)|null|
 |**2025-02-26**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v2](http://arxiv.org/abs/2502.17904v2)|null|
 |**2025-02-23**|**Super-resolution Live-cell Fluorescence Lifetime Imaging**|Raphaël Marchand et.al.|[2502.16672v1](http://arxiv.org/abs/2502.16672v1)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478v1](http://arxiv.org/abs/2502.15478v1)|**[link](https://github.com/kai-liu001/condiquant)**|
@@ -10419,6 +10430,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194v1](http://arxiv.org/abs/2502.19194v1)|null|
+|**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181v1](http://arxiv.org/abs/2502.19181v1)|null|
+|**2025-02-26**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153v1](http://arxiv.org/abs/2502.19153v1)|null|
+|**2025-02-26**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068v1](http://arxiv.org/abs/2502.19068v1)|null|
 |**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773v1](http://arxiv.org/abs/2502.16773v1)|null|
 |**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574v1](http://arxiv.org/abs/2502.13574v1)|null|
 |**2025-02-19**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873v2](http://arxiv.org/abs/2502.09873v2)|**[link](https://github.com/jp-guo/codiff)**|
@@ -11051,6 +11066,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Hyperspectral image reconstruction by deep learning with super-Rayleigh speckles**|Ziyan Chen et.al.|[2502.18777v1](http://arxiv.org/abs/2502.18777v1)|null|
+|**2025-02-26**|**Ptychographic Image Reconstruction from Limited Data via Score-Based Diffusion Models with Physics-Guidance**|Refik Mert Cam et.al.|[2502.18767v1](http://arxiv.org/abs/2502.18767v1)|null|
+|**2025-02-25**|**Understanding Untrained Deep Models for Inverse Problems: Algorithms and Theory**|Ismail Alkhouri et.al.|[2502.18612v1](http://arxiv.org/abs/2502.18612v1)|null|
 |**2025-02-26**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v2](http://arxiv.org/abs/2502.17904v2)|null|
 |**2025-02-24**|**A Survey of fMRI to Image Reconstruction**|Weiyu Guo et.al.|[2502.16861v1](http://arxiv.org/abs/2502.16861v1)|null|
 |**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529v1](http://arxiv.org/abs/2502.15529v1)|null|
@@ -12078,6 +12096,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194v1](http://arxiv.org/abs/2502.19194v1)|null|
 |**2025-02-24**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826v1](http://arxiv.org/abs/2502.16826v1)|null|
 |**2025-02-24**|**Astronomical image denoising by self-supervised deep learning and restoration processes**|Tie Liu et.al.|[2502.16807v1](http://arxiv.org/abs/2502.16807v1)|null|
 |**2025-02-23**|**Deep unrolling for learning optimal spatially varying regularisation parameters for Total Generalised Variation**|Thanh Trung Vu et.al.|[2502.16532v1](http://arxiv.org/abs/2502.16532v1)|null|
