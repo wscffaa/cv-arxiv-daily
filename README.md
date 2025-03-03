@@ -47,7 +47,7 @@
 |**2025-02-27**|**Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network**|Xingyu Qiu et.al.|[2502.19754v1](http://arxiv.org/abs/2502.19754v1)|null|
 |**2025-02-27**|**Recent Advances on Generalizable Diffusion-generated Image Detection**|Qijie Xu et.al.|[2502.19716v1](http://arxiv.org/abs/2502.19716v1)|null|
 |**2025-02-27**|**SAP-DIFF: Semantic Adversarial Patch Generation for Black-Box Face Recognition Models via Diffusion Models**|Mingsi Wang et.al.|[2502.19710v1](http://arxiv.org/abs/2502.19710v1)|null|
-|**2025-02-27**|**Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model**|Yimin Zhu et.al.|[2502.19700v1](http://arxiv.org/abs/2502.19700v1)|null|
+|**2025-02-28**|**Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model**|Yimin Zhu et.al.|[2502.19700v2](http://arxiv.org/abs/2502.19700v2)|null|
 |**2025-02-27**|**BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**|Xin Ye et.al.|[2502.19694v1](http://arxiv.org/abs/2502.19694v1)|null|
 |**2025-02-27**|**SubZero: Composing Subject, Style, and Action via Zero-Shot Personalization**|Shubhankar Borse et.al.|[2502.19673v1](http://arxiv.org/abs/2502.19673v1)|null|
 |**2025-02-26**|**3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer**|Hongkun Yu et.al.|[2502.19623v1](http://arxiv.org/abs/2502.19623v1)|null|
