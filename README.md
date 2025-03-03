@@ -26,23 +26,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314v1](http://arxiv.org/abs/2502.21314v1)|null|
+|**2025-02-28**|**Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**|Kulin Shah et.al.|[2502.21278v1](http://arxiv.org/abs/2502.21278v1)|null|
+|**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151v1](http://arxiv.org/abs/2502.21151v1)|null|
+|**2025-02-28**|**Generative Uncertainty in Diffusion Models**|Metod Jazbec et.al.|[2502.20946v1](http://arxiv.org/abs/2502.20946v1)|null|
+|**2025-02-28**|**DiffBrush:Just Painting the Art by Your Hands**|Jiaming Chu et.al.|[2502.20904v1](http://arxiv.org/abs/2502.20904v1)|null|
+|**2025-02-28**|**CADDreamer: CAD object Generation from Single-view Images**|Yuan Li et.al.|[2502.20732v1](http://arxiv.org/abs/2502.20732v1)|null|
+|**2025-02-28**|**Diffusion Restoration Adapter for Real-World Image Restoration**|Hanbang Liang et.al.|[2502.20679v1](http://arxiv.org/abs/2502.20679v1)|null|
+|**2025-02-28**|**Wavelet-based density sketching with functional hierarchical tensor**|Xun Tang et.al.|[2502.20655v1](http://arxiv.org/abs/2502.20655v1)|null|
+|**2025-02-28**|**Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models**|Yu Pan et.al.|[2502.20650v1](http://arxiv.org/abs/2502.20650v1)|null|
+|**2025-02-28**|**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**|Yifei Qian et.al.|[2502.20625v1](http://arxiv.org/abs/2502.20625v1)|null|
+|**2025-02-27**|**Unifying Model Predictive Path Integral Control, Reinforcement Learning, and Diffusion Models for Optimal Control and Planning**|Yankai Li et.al.|[2502.20476v1](http://arxiv.org/abs/2502.20476v1)|null|
 |**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376v1](http://arxiv.org/abs/2502.20376v1)|null|
 |**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371v1](http://arxiv.org/abs/2502.20371v1)|null|
-|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313v1](http://arxiv.org/abs/2502.20313v1)|null|
-|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307v1](http://arxiv.org/abs/2502.20307v1)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313v1](http://arxiv.org/abs/2502.20313v1)|**[link](https://github.com/jiaosiyu1999/FlexVAR)**|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307v1](http://arxiv.org/abs/2502.20307v1)|**[link](https://github.com/yisuitt/mobius)**|
 |**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277v1](http://arxiv.org/abs/2502.20277v1)|null|
 |**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235v1](http://arxiv.org/abs/2502.20235v1)|**[link](https://github.com/xugao97/AttentionDistillation)**|
-|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172v1](http://arxiv.org/abs/2502.20172v1)|null|
+|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172v1](http://arxiv.org/abs/2502.20172v1)|**[link](https://github.com/chenllliang/dreamengine)**|
 |**2025-02-27**|**Scalability of the second-order reliability method for stochastic differential equations with multiplicative noise**|Timo Schorlepp et.al.|[2502.20114v1](http://arxiv.org/abs/2502.20114v1)|null|
-|**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100v1](http://arxiv.org/abs/2502.20100v1)|null|
-|**2025-02-27**|**Image Referenced Sketch Colorization Based on Animation Creation Workflow**|Dingkun Yan et.al.|[2502.19937v1](http://arxiv.org/abs/2502.19937v1)|null|
+|**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100v1](http://arxiv.org/abs/2502.20100v1)|**[link](https://github.com/gillesvandevyver/echogains)**|
+|**2025-02-27**|**Image Referenced Sketch Colorization Based on Animation Creation Workflow**|Dingkun Yan et.al.|[2502.19937v1](http://arxiv.org/abs/2502.19937v1)|**[link](https://github.com/tellurion-kanata/colorizediffusion)**|
 |**2025-02-27**|**DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models**|Weihao wu et.al.|[2502.19924v1](http://arxiv.org/abs/2502.19924v1)|null|
-|**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894v1](http://arxiv.org/abs/2502.19894v1)|null|
-|**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868v1](http://arxiv.org/abs/2502.19868v1)|null|
-|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848v1](http://arxiv.org/abs/2502.19848v1)|null|
+|**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894v1](http://arxiv.org/abs/2502.19894v1)|**[link](https://github.com/MingtaoGuo/relightable-portrait-animation)**|
+|**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868v1](http://arxiv.org/abs/2502.19868v1)|**[link](https://github.com/weslee88524/c-drag-official-repo)**|
+|**2025-02-27**|**One-for-More: Continual Diffusion Model for Anomaly Detection**|Xiaofan Li et.al.|[2502.19848v1](http://arxiv.org/abs/2502.19848v1)|**[link](https://github.com/funz-0/one-for-more)**|
 |**2025-02-27**|**Analyzing CLIP's Performance Limitations in Multi-Object Scenarios: A Controlled High-Resolution Study**|Reza Abbasi et.al.|[2502.19828v1](http://arxiv.org/abs/2502.19828v1)|null|
-|**2025-02-27**|**Implicit Search via Discrete Diffusion: A Study on Chess**|Jiacheng Ye et.al.|[2502.19805v1](http://arxiv.org/abs/2502.19805v1)|null|
-|**2025-02-27**|**UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition**|Xiao Lin et.al.|[2502.19803v1](http://arxiv.org/abs/2502.19803v1)|null|
+|**2025-02-27**|**Implicit Search via Discrete Diffusion: A Study on Chess**|Jiacheng Ye et.al.|[2502.19805v1](http://arxiv.org/abs/2502.19805v1)|**[link](https://github.com/hkunlp/diffusearch)**|
+|**2025-02-27**|**UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition**|Xiao Lin et.al.|[2502.19803v1](http://arxiv.org/abs/2502.19803v1)|**[link](https://github.com/Tencent/TFace)**|
 |**2025-02-27**|**MFSR: Multi-fractal Feature for Super-resolution Reconstruction with Fine Details Recovery**|Lianping Yang et.al.|[2502.19797v1](http://arxiv.org/abs/2502.19797v1)|null|
 |**2025-02-27**|**Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network**|Xingyu Qiu et.al.|[2502.19754v1](http://arxiv.org/abs/2502.19754v1)|null|
 |**2025-02-27**|**Recent Advances on Generalizable Diffusion-generated Image Detection**|Qijie Xu et.al.|[2502.19716v1](http://arxiv.org/abs/2502.19716v1)|null|
@@ -8040,6 +8051,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution**|Xue Yang et.al.|[2502.20943v1](http://arxiv.org/abs/2502.20943v1)|null|
+|**2025-02-28**|**Delta-WKV: A Novel Meta-in-Context Learner for MRI Super-Resolution**|Rongchang Lu et.al.|[2502.20852v1](http://arxiv.org/abs/2502.20852v1)|null|
+|**2025-02-28**|**MFSR-GAN: Multi-Frame Super-Resolution with Handheld Motion Modeling**|Fadeel Sher Khan et.al.|[2502.20824v1](http://arxiv.org/abs/2502.20824v1)|null|
 |**2025-02-27**|**MFSR: Multi-fractal Feature for Super-resolution Reconstruction with Fine Details Recovery**|Lianping Yang et.al.|[2502.19797v1](http://arxiv.org/abs/2502.19797v1)|null|
 |**2025-02-25**|**From Stars to Molecules: AI Guided Device-Agnostic Super-Resolution Imaging**|Dominik Vašinka et.al.|[2502.18637v1](http://arxiv.org/abs/2502.18637v1)|null|
 |**2025-02-26**|**Confocal structured illumination microscopy for super-resolution imaging: theory and numerical simulations**|Junzheng Peng et.al.|[2502.17904v2](http://arxiv.org/abs/2502.17904v2)|null|
@@ -9614,6 +9628,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution**|Xue Yang et.al.|[2502.20943v1](http://arxiv.org/abs/2502.20943v1)|null|
 |**2025-02-27**|**MFSR: Multi-fractal Feature for Super-resolution Reconstruction with Fine Details Recovery**|Lianping Yang et.al.|[2502.19797v1](http://arxiv.org/abs/2502.19797v1)|null|
 |**2025-02-21**|**CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution**|Kai Liu et.al.|[2502.15478v1](http://arxiv.org/abs/2502.15478v1)|**[link](https://github.com/kai-liu001/condiquant)**|
 |**2025-02-19**|**MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation**|Romina Aalishah et.al.|[2502.14090v1](http://arxiv.org/abs/2502.14090v1)|null|
@@ -10461,6 +10476,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Diffusion Restoration Adapter for Real-World Image Restoration**|Hanbang Liang et.al.|[2502.20679v1](http://arxiv.org/abs/2502.20679v1)|null|
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194v1](http://arxiv.org/abs/2502.19194v1)|null|
 |**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181v1](http://arxiv.org/abs/2502.19181v1)|null|
 |**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153v2](http://arxiv.org/abs/2502.19153v2)|null|
@@ -12127,6 +12143,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260v1](http://arxiv.org/abs/2502.21260v1)|null|
+|**2025-02-28**|**A Stochastic Newton-type Method for Non-smooth Optimization**|Pinta Titus et.al.|[2502.21078v1](http://arxiv.org/abs/2502.21078v1)|null|
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194v1](http://arxiv.org/abs/2502.19194v1)|null|
 |**2025-02-24**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826v1](http://arxiv.org/abs/2502.16826v1)|null|
 |**2025-02-24**|**Astronomical image denoising by self-supervised deep learning and restoration processes**|Tie Liu et.al.|[2502.16807v1](http://arxiv.org/abs/2502.16807v1)|null|
