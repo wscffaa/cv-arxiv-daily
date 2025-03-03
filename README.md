@@ -10489,7 +10489,7 @@
 |**2025-02-10**|**UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis**|Zemin Yang et.al.|[2502.06324v1](http://arxiv.org/abs/2502.06324v1)|null|
 |**2025-02-21**|**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control**|Kaizhen Zhu et.al.|[2502.05749v3](http://arxiv.org/abs/2502.05749v3)|**[link](https://github.com/unidb-soc/unidb)**|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127v1](http://arxiv.org/abs/2502.05127v1)|null|
-|**2025-02-05**|**All-in-One Image Compression and Restoration**|Huimin Zeng et.al.|[2502.03649v1](http://arxiv.org/abs/2502.03649v1)|null|
+|**2025-02-05**|**All-in-One Image Compression and Restoration**|Huimin Zeng et.al.|[2502.03649v1](http://arxiv.org/abs/2502.03649v1)|**[link](https://github.com/zeldam1/all-in-one)**|
 |**2025-02-05**|**Efficient Image Restoration via Latent Consistency Flow Matching**|Elad Cohen et.al.|[2502.03500v1](http://arxiv.org/abs/2502.03500v1)|null|
 |**2025-02-04**|**Blind Visible Watermark Removal with Morphological Dilation**|Preston K. Robinette et.al.|[2502.02676v1](http://arxiv.org/abs/2502.02676v1)|null|
 |**2025-02-03**|**Human Body Restoration with One-Step Diffusion Model and A New Benchmark**|Jue Gong et.al.|[2502.01411v1](http://arxiv.org/abs/2502.01411v1)|null|
