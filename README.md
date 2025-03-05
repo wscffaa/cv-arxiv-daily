@@ -36,7 +36,7 @@
 |**2025-02-28**|**Wavelet-based density sketching with functional hierarchical tensor**|Xun Tang et.al.|[2502.20655v1](http://arxiv.org/abs/2502.20655v1)|null|
 |**2025-02-28**|**Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models**|Yu Pan et.al.|[2502.20650v1](http://arxiv.org/abs/2502.20650v1)|null|
 |**2025-02-28**|**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**|Yifei Qian et.al.|[2502.20625v1](http://arxiv.org/abs/2502.20625v1)|null|
-|**2025-02-27**|**Unifying Model Predictive Path Integral Control, Reinforcement Learning, and Diffusion Models for Optimal Control and Planning**|Yankai Li et.al.|[2502.20476v1](http://arxiv.org/abs/2502.20476v1)|null|
+|**2025-03-04**|**Unifying Model Predictive Path Integral Control, Reinforcement Learning, and Diffusion Models for Optimal Control and Planning**|Yankai Li et.al.|[2502.20476v2](http://arxiv.org/abs/2502.20476v2)|null|
 |**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376v1](http://arxiv.org/abs/2502.20376v1)|null|
 |**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371v1](http://arxiv.org/abs/2502.20371v1)|null|
 |**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313v1](http://arxiv.org/abs/2502.20313v1)|**[link](https://github.com/jiaosiyu1999/FlexVAR)**|
@@ -55,10 +55,10 @@
 |**2025-02-27**|**Implicit Search via Discrete Diffusion: A Study on Chess**|Jiacheng Ye et.al.|[2502.19805v1](http://arxiv.org/abs/2502.19805v1)|**[link](https://github.com/hkunlp/diffusearch)**|
 |**2025-02-27**|**UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition**|Xiao Lin et.al.|[2502.19803v1](http://arxiv.org/abs/2502.19803v1)|**[link](https://github.com/Tencent/TFace)**|
 |**2025-02-27**|**MFSR: Multi-fractal Feature for Super-resolution Reconstruction with Fine Details Recovery**|Lianping Yang et.al.|[2502.19797v1](http://arxiv.org/abs/2502.19797v1)|null|
-|**2025-02-27**|**Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network**|Xingyu Qiu et.al.|[2502.19754v1](http://arxiv.org/abs/2502.19754v1)|null|
+|**2025-03-04**|**Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network**|Xingyu Qiu et.al.|[2502.19754v2](http://arxiv.org/abs/2502.19754v2)|null|
 |**2025-02-27**|**Recent Advances on Generalizable Diffusion-generated Image Detection**|Qijie Xu et.al.|[2502.19716v1](http://arxiv.org/abs/2502.19716v1)|null|
 |**2025-02-27**|**SAP-DIFF: Semantic Adversarial Patch Generation for Black-Box Face Recognition Models via Diffusion Models**|Mingsi Wang et.al.|[2502.19710v1](http://arxiv.org/abs/2502.19710v1)|null|
-|**2025-02-28**|**Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model**|Yimin Zhu et.al.|[2502.19700v2](http://arxiv.org/abs/2502.19700v2)|null|
+|**2025-03-04**|**Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model**|Yimin Zhu et.al.|[2502.19700v3](http://arxiv.org/abs/2502.19700v3)|null|
 |**2025-02-27**|**BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**|Xin Ye et.al.|[2502.19694v1](http://arxiv.org/abs/2502.19694v1)|null|
 |**2025-02-27**|**SubZero: Composing Subject, Style, and Action via Zero-Shot Personalization**|Shubhankar Borse et.al.|[2502.19673v1](http://arxiv.org/abs/2502.19673v1)|null|
 |**2025-02-26**|**3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer**|Hongkun Yu et.al.|[2502.19623v1](http://arxiv.org/abs/2502.19623v1)|null|
@@ -12144,7 +12144,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260v1](http://arxiv.org/abs/2502.21260v1)|null|
-|**2025-02-28**|**A Stochastic Newton-type Method for Non-smooth Optimization**|Pinta Titus et.al.|[2502.21078v1](http://arxiv.org/abs/2502.21078v1)|null|
+|**2025-03-04**|**A Stochastic Newton-type Method for Non-smooth Optimization**|Titus Pinta et.al.|[2502.21078v2](http://arxiv.org/abs/2502.21078v2)|null|
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194v1](http://arxiv.org/abs/2502.19194v1)|null|
 |**2025-03-03**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826v2](http://arxiv.org/abs/2502.16826v2)|null|
 |**2025-02-24**|**Astronomical image denoising by self-supervised deep learning and restoration processes**|Tie Liu et.al.|[2502.16807v1](http://arxiv.org/abs/2502.16807v1)|null|
