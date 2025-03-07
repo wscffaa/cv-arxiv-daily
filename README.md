@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687v1](http://arxiv.org/abs/2503.04687v1)|null|
+|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606v1](http://arxiv.org/abs/2503.04606v1)|null|
+|**2025-03-06**|**How to Move Your Dragon: Text-to-Motion Synthesis for Large-Vocabulary Objects**|Wonkwang Lee et.al.|[2503.04257v1](http://arxiv.org/abs/2503.04257v1)|null|
+|**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229v1](http://arxiv.org/abs/2503.04229v1)|null|
+|**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215v1](http://arxiv.org/abs/2503.04215v1)|null|
+|**2025-03-06**|**CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation**|Yuki Tanaka et.al.|[2503.04164v1](http://arxiv.org/abs/2503.04164v1)|null|
+|**2025-03-06**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127v1](http://arxiv.org/abs/2503.04127v1)|null|
+|**2025-03-06**|**FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**|Ziqi Ni et.al.|[2503.04067v1](http://arxiv.org/abs/2503.04067v1)|null|
+|**2025-03-06**|**RA-DP: Rapid Adaptive Diffusion Policy for Training-Free High-frequency Robotics Replanning**|Xi Ye et.al.|[2503.04051v1](http://arxiv.org/abs/2503.04051v1)|null|
+|**2025-03-06**|**Underlying Semantic Diffusion for Effective and Efficient In-Context Learning**|Zhong Ji et.al.|[2503.04050v1](http://arxiv.org/abs/2503.04050v1)|null|
+|**2025-03-06**|**Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details**|Yifei Gao et.al.|[2503.04037v1](http://arxiv.org/abs/2503.04037v1)|null|
+|**2025-03-06**|**TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models**|Wanglong Lu et.al.|[2503.04021v1](http://arxiv.org/abs/2503.04021v1)|null|
+|**2025-03-05**|**All-atom Diffusion Transformers: Unified generative modelling of molecules and materials**|Chaitanya K. Joshi et.al.|[2503.03965v1](http://arxiv.org/abs/2503.03965v1)|null|
+|**2025-03-05**|**Generative Learning of Densities on Manifolds**|Dimitris G. Giovanis et.al.|[2503.03963v1](http://arxiv.org/abs/2503.03963v1)|null|
+|**2025-03-05**|**GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors**|Yaopei Zeng et.al.|[2503.03944v1](http://arxiv.org/abs/2503.03944v1)|null|
+|**2025-03-05**|**A non-homogeneous, non-stationary and path-dependent Markov anomalous diffusion model**|Nestor Barraza et.al.|[2503.03896v1](http://arxiv.org/abs/2503.03896v1)|null|
+|**2025-03-05**|**Metallicity Gradients in Modern Cosmological Simulations I: Tension Between Smooth Stellar Feedback Models and Observations**|Alex M. Garcia et.al.|[2503.03804v1](http://arxiv.org/abs/2503.03804v1)|null|
+|**2025-03-05**|**Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation**|Hiroshi Takahashi et.al.|[2503.03789v1](http://arxiv.org/abs/2503.03789v1)|null|
+|**2025-03-05**|**Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model**|Steve Andreas Immanuel et.al.|[2503.03785v1](http://arxiv.org/abs/2503.03785v1)|null|
+|**2025-03-04**|**Generating Novel Brain Morphology by Deforming Learned Templates**|Alan Q. Wang et.al.|[2503.03778v1](http://arxiv.org/abs/2503.03778v1)|null|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708v1](http://arxiv.org/abs/2503.03708v1)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
 |**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595v1](http://arxiv.org/abs/2503.03595v1)|null|
@@ -8117,6 +8137,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665v1](http://arxiv.org/abs/2503.04665v1)|null|
+|**2025-03-06**|**Meshless Super-Resolution of Scattered Data via constrained RBFs and KNN-Driven Densification**|Iacopo Tirelli et.al.|[2503.04630v1](http://arxiv.org/abs/2503.04630v1)|null|
+|**2025-03-06**|**Scale-Invariant Adversarial Attack against Arbitrary-scale Super-resolution**|Yihao Huang et.al.|[2503.04385v1](http://arxiv.org/abs/2503.04385v1)|null|
+|**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314v1](http://arxiv.org/abs/2503.04314v1)|null|
+|**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223v1](http://arxiv.org/abs/2503.04223v1)|null|
+|**2025-03-06**|**DuCos: Duality Constrained Depth Super-Resolution via Foundation Model**|Zhiqiang Yan et.al.|[2503.04171v1](http://arxiv.org/abs/2503.04171v1)|null|
+|**2025-03-05**|**Improving the Temporal Resolution of SOHO/MDI Magnetograms of Solar Active Regions Using a Deep Generative Model**|Jialiang Li et.al.|[2503.03959v1](http://arxiv.org/abs/2503.03959v1)|null|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355v1](http://arxiv.org/abs/2503.03355v1)|null|
 |**2025-03-03**|**Hyperspectral Image Restoration and Super-resolution with Physics-Aware Deep Learning for Biomedical Applications**|Yuchen Xiang et.al.|[2503.02908v1](http://arxiv.org/abs/2503.02908v1)|null|
 |**2025-03-04**|**Undertrained Image Reconstruction for Realistic Degradation in Blind Image Super-Resolution**|Ru Ito et.al.|[2503.02767v1](http://arxiv.org/abs/2503.02767v1)|null|
@@ -9707,6 +9734,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665v1](http://arxiv.org/abs/2503.04665v1)|null|
+|**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223v1](http://arxiv.org/abs/2503.04223v1)|null|
 |**2025-03-04**|**Undertrained Image Reconstruction for Realistic Degradation in Blind Image Super-Resolution**|Ru Ito et.al.|[2503.02767v1](http://arxiv.org/abs/2503.02767v1)|null|
 |**2025-03-03**|**AutoLUT: LUT-Based Image Super-Resolution with Automatic Sampling and Adaptive Residual Learning**|Yuheng Xu et.al.|[2503.01565v1](http://arxiv.org/abs/2503.01565v1)|**[link](https://github.com/superkenvery/autolut)**|
 |**2025-03-03**|**DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution**|Xingyuan Li et.al.|[2503.01187v1](http://arxiv.org/abs/2503.01187v1)|**[link](https://github.com/zirui0625/difiisr)**|
@@ -10250,6 +10279,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665v1](http://arxiv.org/abs/2503.04665v1)|null|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355v1](http://arxiv.org/abs/2503.03355v1)|null|
 |**2025-02-12**|**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**|Hongyu An et.al.|[2502.07381v2](http://arxiv.org/abs/2502.07381v2)|null|
 |**2025-02-10**|**FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution**|Qiang Zhu et.al.|[2502.06431v1](http://arxiv.org/abs/2502.06431v1)|null|
@@ -11204,6 +11234,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge**|Fanwen Wang et.al.|[2503.03971v1](http://arxiv.org/abs/2503.03971v1)|null|
+|**2025-03-04**|**ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge**|Radu Berdan et.al.|[2503.03782v1](http://arxiv.org/abs/2503.03782v1)|null|
 |**2025-03-05**|**A self-supervised cyclic neural-analytic approach for novel view synthesis and 3D reconstruction**|Dragos Costea et.al.|[2503.03543v1](http://arxiv.org/abs/2503.03543v1)|null|
 |**2025-03-04**|**Reconstruction of proton relative stopping power with a granular calorimeter detector model**|M. Aehle et.al.|[2503.02788v1](http://arxiv.org/abs/2503.02788v1)|null|
 |**2025-03-04**|**Undertrained Image Reconstruction for Realistic Degradation in Blind Image Super-Resolution**|Ru Ito et.al.|[2503.02767v1](http://arxiv.org/abs/2503.02767v1)|null|
@@ -12650,6 +12682,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement**|Zhihao Shi et.al.|[2503.04501v1](http://arxiv.org/abs/2503.04501v1)|null|
+|**2025-03-06**|**ControlFill: Spatially Adjustable Image Inpainting from Prompt Learning**|Boseong Jeon et.al.|[2503.04268v1](http://arxiv.org/abs/2503.04268v1)|null|
+|**2025-03-06**|**TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models**|Wanglong Lu et.al.|[2503.04021v1](http://arxiv.org/abs/2503.04021v1)|null|
+|**2025-03-05**|**Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model**|Steve Andreas Immanuel et.al.|[2503.03785v1](http://arxiv.org/abs/2503.03785v1)|null|
 |**2025-03-04**|**Can Diffusion Models Provide Rigorous Uncertainty Quantification for Bayesian Inverse Problems?**|Evan Scope Crafts et.al.|[2503.03007v1](http://arxiv.org/abs/2503.03007v1)|**[link](https://github.com/Evan1578/BIPSDA)**|
 |**2025-03-04**|**Exploring Model Quantization in GenAI-based Image Inpainting and Detection of Arable Plants**|Sourav Modak et.al.|[2503.02420v1](http://arxiv.org/abs/2503.02420v1)|null|
 |**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593v1](http://arxiv.org/abs/2502.06593v1)|null|
@@ -12924,6 +12960,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Iris Style Transfer: Enhancing Iris Recognition with Style Features and Privacy Preservation through Neural Style Transfer**|Mengdi Wang et.al.|[2503.04707v1](http://arxiv.org/abs/2503.04707v1)|null|
+|**2025-03-06**|**ObjMST: An Object-Focused Multimodal Style Transfer Framework**|Chanda Grover Kamra et.al.|[2503.04353v1](http://arxiv.org/abs/2503.04353v1)|null|
+|**2025-03-06**|**SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer**|Chunnan Shang et.al.|[2503.04119v1](http://arxiv.org/abs/2503.04119v1)|null|
 |**2025-03-03**|**Modality-Agnostic Style Transfer for Holistic Feature Imputation**|Seunghun Baek et.al.|[2503.02898v1](http://arxiv.org/abs/2503.02898v1)|null|
 |**2025-02-28**|**Seeing Eye to AI? Applying Deep-Feature-Based Similarity Metrics to Information Visualization**|Sheng Long et.al.|[2503.00228v1](http://arxiv.org/abs/2503.00228v1)|null|
 |**2025-02-24**|**IBURD: Image Blending for Underwater Robotic Detection**|Jungseok Hong et.al.|[2502.17706v1](http://arxiv.org/abs/2502.17706v1)|null|
